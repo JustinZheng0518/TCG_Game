@@ -4,13 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
-  <title>宝可梦卡牌档案 · 简体中文</title>
+  <title>宝可梦卡藏 · 抽卡与收藏</title>
   <link rel="stylesheet" href="web/catalog.css">
+  <script src="web/game-core.js" defer></script>
   <script src="web/catalog.js" defer></script>
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="./"><span class="ball" aria-hidden="true"></span>卡牌档案 <span class="edition">简体中文</span></a>
+    <a class="brand" href="./"><span class="ball" aria-hidden="true"></span>宝可梦卡藏 <span class="edition">简体中文</span></a>
+    <nav class="mode-tabs" aria-label="游戏功能">
+      <button type="button" data-mode="draw" aria-pressed="true">开包抽卡</button>
+      <button type="button" data-mode="collection" aria-pressed="false">我的收藏</button>
+      <button type="button" data-mode="album" aria-pressed="false">完整卡表</button>
+    </nav>
     <span class="header-note">从横空出世，到下一次心动</span>
   </header>
   <div class="workspace">
@@ -29,6 +35,16 @@
         <div><p id="set-code" class="code">SIMPLIFIED CHINESE</p><h1 id="set-title">正在打开卡牌档案</h1><p id="set-description" class="description">真实简体中文卡面，按发行商品与卡号整理。</p></div>
         <div id="set-date" class="date"></div>
       </section>
+      <section class="game-panel" aria-label="开包与收藏">
+        <div class="collection-stats"><span id="owned-stats">已收藏 0 款 · 共 0 张</span><span id="set-progress">本套 0 / — 款</span></div>
+        <div id="pack-actions" class="pack-actions">
+          <button id="draw-one" type="button" disabled>打开一包 <small>5 张卡牌</small></button>
+          <button id="draw-ten" type="button" disabled>十包连开 <small>50 张卡牌</small></button>
+          <p>自由开包，无需付费。新卡自动加入收藏。</p>
+        </div>
+        <div class="save-tools"><button id="export-save" type="button">导出收藏</button><button id="import-save" type="button">导入收藏</button><input id="import-file" type="file" accept="application/json,.json" hidden><span>收藏保存在当前浏览器，可导出备份或转移到其他设备。</span></div>
+        <details id="draw-rules"><summary>开包规则</summary><p>娱乐模拟，每包 5 张，允许重复。前 4 张按普通、稀有、高稀有、珍稀四档 80:15:4:1 抽取；第 5 张优先从非普通档抽取。不存在的档位不参与，其余权重重新归一。这不是实体卡包的官方出货概率。</p></details>
+      </section>
       <div class="toolbar">
         <label class="sr-only" for="card-search">搜索本套卡牌</label>
         <input id="card-search" type="search" placeholder="查找宝可梦、训练家或卡号…" autocomplete="off">
@@ -39,7 +55,7 @@
       <p id="message" class="message" role="status"></p>
       <div id="cards" class="card-grid"></div>
       <button id="load-more" class="load-more" hidden>加载更多卡牌</button>
-      <footer class="main-footer">保留同一卡号的不同卡面与闪卡版本。点击卡牌查看原图。</footer>
+      <footer class="main-footer">按 set 收集真实简体中文卡面，同一卡号的不同闪卡分别收藏。点击卡牌查看原图。</footer>
     </main>
   </div>
   <dialog id="card-dialog" aria-labelledby="dialog-title">
