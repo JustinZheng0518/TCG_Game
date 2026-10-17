@@ -18,6 +18,8 @@
 
 ## 从 GitHub 运行
 
+GitHub Pages 地址：<https://justinzheng0518.github.io/TCG_Game/>。网站需要保留路径末尾的 `/TCG_Game/`；首次启用或推送后，请以仓库 Actions 中的部署结果确认发布是否完成。
+
 本仓库包含游戏代码、完整卡表、图片地址和数据工具。联网游玩不需要先下载几 GB 图片，也不需要 API 密钥或第三方运行依赖。
 
 ```bash
@@ -28,7 +30,7 @@ python3 -m http.server 8765 --bind 0.0.0.0
 
 打开服务根页面即可游玩。使用 HTTP 服务打开，直接双击本地 HTML 会限制 JSON 读取。
 
-也可在 GitHub 仓库 **Settings → Pages → Deploy from a branch** 中选择 **main / (root)** 并保存，作为静态网站发布。本仓库带有 `.nojekyll`，无需构建。推送代码与启用 Pages 是两件事；Pages 是否已启用以仓库设置为准。
+也可在 GitHub 仓库 **Settings → Pages → Deploy from a branch** 中选择 **main / (root)** 并保存，作为静态网站发布。本仓库带有 `.nojekyll`，无需构建。首次开启后若没有构建记录，可在来源设置正确后向 main 推送一次提交来触发发布。推送代码与部署完成是两件事；发布结果以 Actions / Pages 状态为准。
 
 收藏保存在当前浏览器，不会自动在电脑和手机之间同步；可通过“导出收藏 / 导入收藏”转移。导入按卡牌保留两份存档中的较大数量，不叠加重复备份。
 
