@@ -10,6 +10,7 @@ state.lastDraw = [];
 state.save = {version: 1, counts: {}};
 state.saveError = "";
 state.rawSave = null;
+const opening = new PackOpening($("opening-dialog"), (card) => state.localImages ? card.thumbnail : card.source_url);
 
 function loadSave() {
   try {
@@ -61,6 +62,7 @@ function openPacks(count) {
     state.lastDraw = result;
     setMode("draw");
     $("message").textContent = `已打开 ${count} 包，获得 ${drawn.length} 张卡，其中 ${result.filter((card) => card.isNew).length} 款新卡。已保存到收藏。`;
+    opening.open(result, state.selected.name);
   } catch (error) { $("message").textContent = error.message; }
 }
 
@@ -209,6 +211,7 @@ async function selectSet() {
   $("set-date").textContent = set.release_date ? `发行于 ${set.release_date}` : "";
   $("set-description").textContent = `${set.series} · ${set.distinct_card_numbers} 个卡号 · ${set.card_faces} 张卡面，含不同闪卡版本`;
   $("message").textContent = "正在读取本套卡牌…";
+  $("set-odds").textContent = "正在读取本套概率…";
   $("cards").replaceChildren();
   $("load-more").hidden = true;
   $("draw-one").disabled = true;
@@ -228,6 +231,9 @@ async function selectSet() {
     }
     if (request !== state.request) return;
     state.cards = cards;
+    const model = Game.packModel(cards);
+    const odds = model.groups.map((entry) => `${entry.label}${entry === model.chase ? "（本套最高档）" : ""}：${Number((entry.probability * 100).toFixed(3))}%`).join("；");
+    $("set-odds").textContent = `${model.guaranteeLabel}。${model.fixed ? "本套仅收录高稀有卡，按本套卡面等概率模拟，不适用千包稀有档。" : odds ? `机会卡每包概率：${odds}；其余 ${Number((model.baseProbability * 100).toFixed(3))}% 为基础卡。` : "本套无高稀有档，机会卡从基础卡池抽取，不适用千包稀有档。"}`;
     $("draw-one").disabled = !cards.length;
     $("draw-ten").disabled = !cards.length;
     updateStats();

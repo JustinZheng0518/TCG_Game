@@ -7,6 +7,7 @@
   <title>宝可梦卡藏 · 抽卡与收藏</title>
   <link rel="stylesheet" href="web/catalog.css">
   <script src="web/game-core.js" defer></script>
+  <script src="web/pack-opening.js" defer></script>
   <script src="web/catalog.js" defer></script>
 </head>
 <body>
@@ -43,7 +44,12 @@
           <p>自由开包，无需付费。新卡自动加入收藏。</p>
         </div>
         <div class="save-tools"><button id="export-save" type="button">导出收藏</button><button id="import-save" type="button">导入收藏</button><input id="import-file" type="file" accept="application/json,.json" hidden><span>收藏保存在当前浏览器，可导出备份或转移到其他设备。</span></div>
-        <details id="draw-rules"><summary>开包规则</summary><p>娱乐模拟，每包 5 张，允许重复。前 4 张按普通、稀有、高稀有、珍稀四档 80:15:4:1 抽取；第 5 张优先从非普通档抽取。不存在的档位不参与，其余权重重新归一。这不是实体卡包的官方出货概率。</p></details>
+        <details id="draw-rules"><summary>开包概率与规则</summary>
+          <p>每包 5 张：3 张基础卡 + 1 张 RR 保底 + 1 张机会卡。高稀有卡额外出现，不替换 RR。允许重复，免费娱乐模拟。</p>
+          <p id="set-odds"></p>
+          <p>当前套装最高稀有档每包 0.1%，平均约 1,000 包出现一次；各包独立，不是千包必出。档内卡面等概率，指定一张的平均等待包数为档内卡面数 × 1,000。缺少的档位概率回到基础卡，不提高其余稀有档概率。</p>
+          <p>这是游戏设定，并非实体商品官方出货率。<a href="docs/开包概率说明.md" target="_blank" rel="noopener">查看调研依据和完整规则 ↗</a></p>
+        </details>
       </section>
       <div class="toolbar">
         <label class="sr-only" for="card-search">搜索本套卡牌</label>
@@ -58,6 +64,12 @@
       <footer class="main-footer">按 set 收集真实简体中文卡面，同一卡号的不同闪卡分别收藏。点击卡牌查看原图。</footer>
     </main>
   </div>
+  <dialog id="opening-dialog" aria-labelledby="opening-title">
+    <div class="opening-heading"><span class="eyebrow">PACK OPENING</span><h2 id="opening-title"></h2><p id="opening-status" role="status" aria-live="polite"></p></div>
+    <div id="opening-stage"></div>
+    <div class="opening-actions"><button id="opening-skip" type="button">跳过动画，查看全部</button><button id="opening-next" type="button" hidden>打开下一包</button></div>
+    <p class="opening-save-note">卡牌已自动保存 · 关闭或跳过不会丢失本次收获</p>
+  </dialog>
   <dialog id="card-dialog" aria-labelledby="dialog-title">
     <button id="close-dialog" class="close-dialog" aria-label="关闭卡牌详情">×</button>
     <img id="dialog-image" alt="">
