@@ -11,10 +11,11 @@ permissions:
   contents: write
 concurrency:
   group: market-feed-refresh
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 4
     steps:
       - uses: actions/checkout@v4
         with:
@@ -22,7 +23,9 @@ jobs:
       - name: Refresh official MSRP and news snapshots
         run: python3 tools/refresh_market.py
       - name: Check game and market data
-        run: node --test tests/*.test.cjs
+        run: |
+          node --test tests/*.test.cjs
+          python3 -m unittest discover -s tests -p 'test_*.py'
       - name: Save references when updated
         run: |
           if git diff --quiet -- data/shop/market-feed.json; then

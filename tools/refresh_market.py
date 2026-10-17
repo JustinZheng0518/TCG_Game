@@ -2,7 +2,7 @@
 """Refresh official Simplified-Chinese MSRP/news. Preserve dated values on failure.
 Never treats official MSRP as card resale price or translates English card quotes.
 """
-import argparse,html,json,re,urllib.request
+import argparse,html,json,re,subprocess,sys
 from datetime import datetime,timezone
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
@@ -24,8 +24,18 @@ def parse_news(body):
     return items[:16]
 
 def fetch(url):
-    with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':UA}),timeout=30) as response:
-        return response.read(4*1024*1024).decode('utf-8')
+    # urllib's socket timeout is not a wall-clock limit (DNS, redirects, slow
+    # chunked bodies can exceed it). Bound each public-source request end to end.
+    code="import sys,urllib.request; req=urllib.request.Request(sys.argv[1],headers={'User-Agent':sys.argv[2]}); response=urllib.request.urlopen(req,timeout=12); sys.stdout.buffer.write(response.read(4194305))"
+    try:
+        result=subprocess.run([sys.executable,'-c',code,url,UA],capture_output=True,timeout=25,check=False)
+    except subprocess.TimeoutExpired as exc:
+        raise TimeoutError('source exceeded 25-second wall-clock limit') from exc
+    if result.returncode:
+        detail=result.stderr.decode('utf-8',errors='replace').strip().splitlines()
+        raise RuntimeError(detail[-1][:240] if detail else 'source request failed')
+    if len(result.stdout)>4*1024*1024:raise ValueError('source response exceeds 4 MiB')
+    return result.stdout.decode('utf-8')
 
 def main():
     parser=argparse.ArgumentParser();parser.add_argument('--offline-news',type=Path);args=parser.parse_args()

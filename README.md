@@ -38,6 +38,7 @@ python3 -m http.server 8765 --bind 0.0.0.0
 
 ```bash
 node --test tests/*.test.cjs
+python3 -m unittest discover -s tests -p 'test_*.py'
 ```
 
 ## 可选：下载全部图片到本地
