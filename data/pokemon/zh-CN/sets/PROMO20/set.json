@@ -1,0 +1,14 @@
+{
+  "id": "PROMO20",
+  "name": "对战周边礼盒 洗翠日常",
+  "language": "zh-CN",
+  "release_date": "2024-08-02",
+  "series": "剑&盾",
+  "source_collection_id": 204,
+  "source_goods_type": "3",
+  "card_faces": 5,
+  "distinct_card_numbers": 5,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/PROMO20/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

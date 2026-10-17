@@ -1,0 +1,191 @@
+[
+  {
+    "id": "CSV9.5C_Coin:21267",
+    "source_card_id": 21267,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "叶伊布",
+    "number": "005/208",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "H",
+    "illustrators": [
+      "Iori Suzuki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/0.webp",
+    "source_image": "img/502/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21268",
+    "source_card_id": 21268,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "火伊布",
+    "number": "022/208",
+    "rarity": "R",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "SIE NANAHARA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/1.webp",
+    "source_image": "img/502/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21269",
+    "source_card_id": 21269,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "水伊布",
+    "number": "035/208",
+    "rarity": "R",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Taira Akitsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/2.webp",
+    "source_image": "img/502/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21270",
+    "source_card_id": 21270,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "冰伊布",
+    "number": "046/208",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "H",
+    "illustrators": [
+      "Keisin"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/3.webp",
+    "source_image": "img/502/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21271",
+    "source_card_id": 21271,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "雷伊布",
+    "number": "057/208",
+    "rarity": "R",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Nisota Niso"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/4.webp",
+    "source_image": "img/502/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21272",
+    "source_card_id": 21272,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "太阳伊布",
+    "number": "067/208",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Kariya"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/5.webp",
+    "source_image": "img/502/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21273",
+    "source_card_id": 21273,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "仙子伊布",
+    "number": "075/208",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "H",
+    "illustrators": [
+      "Susumu Maeya"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/6.webp",
+    "source_image": "img/502/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21274",
+    "source_card_id": 21274,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "月亮伊布",
+    "number": "103/208",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "G",
+    "illustrators": [
+      "matazo"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/7.webp",
+    "source_image": "img/502/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSV9.5C_Coin:21275",
+    "source_card_id": 21275,
+    "set_id": "CSV9.5C_Coin",
+    "language": "zh-CN",
+    "name": "伊布",
+    "number": "139/208",
+    "rarity": "C",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "H",
+    "illustrators": [
+      "Naoyo Kimura"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSV9.5C_Coin/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSV9.5C_Coin/8.webp",
+    "source_image": "img/502/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

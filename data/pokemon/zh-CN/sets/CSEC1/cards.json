@@ -1,0 +1,86 @@
+[
+  {
+    "id": "CSEC1:7566",
+    "source_card_id": 7566,
+    "set_id": "CSEC1",
+    "language": "zh-CN",
+    "name": "甲贺忍蛙V-UNION",
+    "number": "001/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Shin Nagasawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC1/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC1/0.webp",
+    "source_image": "img/121/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/121/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC1:7567",
+    "source_card_id": 7567,
+    "set_id": "CSEC1",
+    "language": "zh-CN",
+    "name": "甲贺忍蛙V-UNION",
+    "number": "002/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Shin Nagasawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC1/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC1/1.webp",
+    "source_image": "img/121/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/121/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC1:7568",
+    "source_card_id": 7568,
+    "set_id": "CSEC1",
+    "language": "zh-CN",
+    "name": "甲贺忍蛙V-UNION",
+    "number": "003/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Shin Nagasawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC1/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC1/2.webp",
+    "source_image": "img/121/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/121/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC1:7569",
+    "source_card_id": 7569,
+    "set_id": "CSEC1",
+    "language": "zh-CN",
+    "name": "甲贺忍蛙V-UNION",
+    "number": "004/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Shin Nagasawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC1/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC1/3.webp",
+    "source_image": "img/121/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/121/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

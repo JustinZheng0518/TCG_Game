@@ -1,0 +1,14 @@
+{
+  "id": "30th-P-02",
+  "name": "30周年庆典 最初的伙伴特别插画闪卡套装 Vol.2",
+  "language": "zh-CN",
+  "release_date": "2026-06-19",
+  "series": "其他",
+  "source_collection_id": 483,
+  "source_goods_type": "3",
+  "card_faces": 9,
+  "distinct_card_numbers": 9,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/30th-P-02/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

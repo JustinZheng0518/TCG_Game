@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMOSV151m2:15463",
+    "source_card_id": 15463,
+    "set_id": "PROMOSV151m2",
+    "language": "zh-CN",
+    "name": "小火龙",
+    "number": "098/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "MINAMINAMI Take"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV151m2/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV151m2/0.webp",
+    "source_image": "img/305/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/305/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

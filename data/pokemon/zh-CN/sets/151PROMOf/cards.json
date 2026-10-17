@@ -1,0 +1,233 @@
+[
+  {
+    "id": "151PROMOf:11550",
+    "source_card_id": 11550,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "妙蛙草",
+    "number": "002/151",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Yuu Nishida"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/0.webp",
+    "source_image": "img/316/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11601",
+    "source_card_id": 11601,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "风速狗",
+    "number": "059/151",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 150,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Atsushi Furusawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/1.webp",
+    "source_image": "img/316/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11608",
+    "source_card_id": 11608,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "豪力",
+    "number": "067/151",
+    "rarity": "U",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Ryuta Fuse"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/2.webp",
+    "source_image": "img/316/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:16134",
+    "source_card_id": 16134,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "豪力",
+    "number": "072/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Tetsu Kayama"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/3.webp",
+    "source_image": "img/316/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11626",
+    "source_card_id": 11626,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "小海狮",
+    "number": "086/151",
+    "rarity": "C",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 80,
+    "regulation_mark": "G",
+    "illustrators": [
+      "aoki"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/4.webp",
+    "source_image": "img/316/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11628",
+    "source_card_id": 11628,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "臭泥",
+    "number": "088/151",
+    "rarity": "C",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 80,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Nisota Niso"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/5.webp",
+    "source_image": "img/316/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11634",
+    "source_card_id": 11634,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "耿鬼",
+    "number": "094/151",
+    "rarity": "R",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Tomokazu Komiya"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/6.webp",
+    "source_image": "img/316/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11641",
+    "source_card_id": 11641,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "顽皮雷弹",
+    "number": "101/151",
+    "rarity": "R",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "G",
+    "illustrators": [
+      "nagimiso"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/7.webp",
+    "source_image": "img/316/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11642",
+    "source_card_id": 11642,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "蛋蛋",
+    "number": "102/151",
+    "rarity": "C",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Shigenori Negishi"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/8.webp",
+    "source_image": "img/316/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11644",
+    "source_card_id": 11644,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "卡拉卡拉",
+    "number": "104/151",
+    "rarity": "C",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Shinya Komatsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/9.webp",
+    "source_image": "img/316/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "151PROMOf:11684",
+    "source_card_id": 11684,
+    "set_id": "151PROMOf",
+    "language": "zh-CN",
+    "name": "迷你龙",
+    "number": "147/151",
+    "rarity": "C",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Sanosuke Sakuma"
+    ],
+    "image": "data/images/pokemon/zh-CN/151PROMOf/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/151PROMOf/10.webp",
+    "source_image": "img/316/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

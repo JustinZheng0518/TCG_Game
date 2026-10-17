@@ -1,0 +1,296 @@
+[
+  {
+    "id": "PROMOSV04:14061",
+    "source_card_id": 14061,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "赫拉克罗斯",
+    "number": "019/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Kurata So"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/0.webp",
+    "source_image": "img/277/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14062",
+    "source_card_id": 14062,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "狠辣椒",
+    "number": "020/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "G",
+    "illustrators": [
+      "KIYOTAKA OSHIYAMA"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/1.webp",
+    "source_image": "img/277/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14063",
+    "source_card_id": 14063,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "九尾",
+    "number": "021/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "G",
+    "illustrators": [
+      "SIE NANAHARA"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/2.webp",
+    "source_image": "img/277/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14064",
+    "source_card_id": 14064,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "火箭雀",
+    "number": "022/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 80,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Atsushi Furusawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/3.webp",
+    "source_image": "img/277/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14065",
+    "source_card_id": 14065,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "红莲铠骑",
+    "number": "023/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "nagimiso"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/4.webp",
+    "source_image": "img/277/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14066",
+    "source_card_id": 14066,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "鲤鱼王",
+    "number": "024/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 30,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Shinji Kanda"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/5.webp",
+    "source_image": "img/277/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14067",
+    "source_card_id": 14067,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "冰砌鹅",
+    "number": "025/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Nelnal"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/6.webp",
+    "source_image": "img/277/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14068",
+    "source_card_id": 14068,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "皮宝宝",
+    "number": "026/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 30,
+    "regulation_mark": "G",
+    "illustrators": [
+      "HYOGONOSUKE"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/7.webp",
+    "source_image": "img/277/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14069",
+    "source_card_id": 14069,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "班基拉斯",
+    "number": "027/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 180,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Nurikabe"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/8.webp",
+    "source_image": "img/277/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14070",
+    "source_card_id": 14070,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "仆刀将军",
+    "number": "028/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 170,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Shin Nagasawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/9.webp",
+    "source_image": "img/277/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14071",
+    "source_card_id": 14071,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "巨钳螳螂",
+    "number": "029/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 140,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Oku"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/10.webp",
+    "source_image": "img/277/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14072",
+    "source_card_id": 14072,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "一家鼠",
+    "number": "030/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Mizue"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/11.webp",
+    "source_image": "img/277/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14073",
+    "source_card_id": 14073,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "密勒顿",
+    "number": "031/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Akira Komayama"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/12.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/12.webp",
+    "source_image": "img/277/12.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/12.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV04:14074",
+    "source_card_id": 14074,
+    "set_id": "PROMOSV04",
+    "language": "zh-CN",
+    "name": "故勒顿",
+    "number": "032/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Mina Nakai"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV04/13.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV04/13.webp",
+    "source_image": "img/277/13.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/13.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

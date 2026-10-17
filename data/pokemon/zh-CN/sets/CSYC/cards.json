@@ -1,0 +1,338 @@
+[
+  {
+    "id": "CSYC:11163",
+    "source_card_id": 11163,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "利欧路",
+    "number": "001/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/0.webp",
+    "source_image": "img/228/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11164",
+    "source_card_id": 11164,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "青绵鸟",
+    "number": "002/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/1.webp",
+    "source_image": "img/228/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11165",
+    "source_card_id": 11165,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "夜巡灵",
+    "number": "003/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/2.webp",
+    "source_image": "img/228/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11166",
+    "source_card_id": 11166,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "大牙狸",
+    "number": "004/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/3.webp",
+    "source_image": "img/228/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11167",
+    "source_card_id": 11167,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "皮卡丘",
+    "number": "005/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/4.webp",
+    "source_image": "img/228/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11168",
+    "source_card_id": 11168,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "草苗龟",
+    "number": "006/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 80,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/5.webp",
+    "source_image": "img/228/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11169",
+    "source_card_id": 11169,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "派拉斯",
+    "number": "007/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/6.webp",
+    "source_image": "img/228/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11170",
+    "source_card_id": 11170,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "土狼犬",
+    "number": "008/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/7.webp",
+    "source_image": "img/228/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11171",
+    "source_card_id": 11171,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "咩利羊",
+    "number": "009/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/8.webp",
+    "source_image": "img/228/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11172",
+    "source_card_id": 11172,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "精灵球",
+    "number": "010/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/9.webp",
+    "source_image": "img/228/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11173",
+    "source_card_id": 11173,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "等级球",
+    "number": "011/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/10.webp",
+    "source_image": "img/228/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11174",
+    "source_card_id": 11174,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "欧尼奥",
+    "number": "012/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Jiro Sasumo"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/11.webp",
+    "source_image": "img/228/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11175",
+    "source_card_id": 11175,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "奇巴纳",
+    "number": "013/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "take"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/12.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/12.webp",
+    "source_image": "img/228/12.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/12.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11176",
+    "source_card_id": 11176,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "聂梓",
+    "number": "014/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "GOSSAN"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/13.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/13.webp",
+    "source_image": "img/228/13.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/13.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11177",
+    "source_card_id": 11177,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "波普菈",
+    "number": "015/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Taira Akitsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/14.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/14.webp",
+    "source_image": "img/228/14.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/14.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSYC:11178",
+    "source_card_id": 11178,
+    "set_id": "CSYC",
+    "language": "zh-CN",
+    "name": "美蓉",
+    "number": "016/011",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "nagimiso"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSYC/15.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSYC/15.webp",
+    "source_image": "img/228/15.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/15.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

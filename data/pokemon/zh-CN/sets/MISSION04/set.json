@@ -1,0 +1,14 @@
+{
+  "id": "MISSION04",
+  "name": "任务奖赏包 第四弹",
+  "language": "zh-CN",
+  "release_date": "2025-09-12",
+  "series": "朱&紫",
+  "source_collection_id": 292,
+  "source_goods_type": "3",
+  "card_faces": 13,
+  "distinct_card_numbers": 13,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/MISSION04/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

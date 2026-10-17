@@ -1,0 +1,86 @@
+[
+  {
+    "id": "PROMO25:11156",
+    "source_card_id": 11156,
+    "set_id": "PROMO25",
+    "language": "zh-CN",
+    "name": "神奥的伙伴",
+    "number": "213/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Ryuta Fuse"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO25/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO25/0.webp",
+    "source_image": "img/226/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/226/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO25:11157",
+    "source_card_id": 11157,
+    "set_id": "PROMO25",
+    "language": "zh-CN",
+    "name": "洗翠的伙伴",
+    "number": "214/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "kirisAki"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO25/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO25/1.webp",
+    "source_image": "img/226/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/226/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO25:11158",
+    "source_card_id": 11158,
+    "set_id": "PROMO25",
+    "language": "zh-CN",
+    "name": "神奥的伙伴",
+    "number": "215/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Hideki Ishikawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO25/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO25/2.webp",
+    "source_image": "img/226/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/226/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO25:11159",
+    "source_card_id": 11159,
+    "set_id": "PROMO25",
+    "language": "zh-CN",
+    "name": "洗翠的伙伴",
+    "number": "216/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Kinu Nishimura"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO25/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO25/3.webp",
+    "source_image": "img/226/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/226/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "PROMO13:7557",
+    "source_card_id": 7557,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "胜利之证",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/0.webp",
+    "source_image": "img/118/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7558",
+    "source_card_id": 7558,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "胜利之证",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/1.webp",
+    "source_image": "img/118/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7559",
+    "source_card_id": 7559,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "胜利之证",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/2.webp",
+    "source_image": "img/118/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7560",
+    "source_card_id": 7560,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/3.webp",
+    "source_image": "img/118/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7561",
+    "source_card_id": 7561,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/4.webp",
+    "source_image": "img/118/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7562",
+    "source_card_id": 7562,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/5.webp",
+    "source_image": "img/118/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7563",
+    "source_card_id": 7563,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/6.webp",
+    "source_image": "img/118/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7564",
+    "source_card_id": 7564,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/7.webp",
+    "source_image": "img/118/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO13:7565",
+    "source_card_id": 7565,
+    "set_id": "PROMO13",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO13/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO13/8.webp",
+    "source_image": "img/118/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

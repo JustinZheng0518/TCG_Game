@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMOR:21276",
+    "source_card_id": 21276,
+    "set_id": "PROMOR",
+    "language": "zh-CN",
+    "name": "火箭队的超梦ex",
+    "number": "354/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 280,
+    "regulation_mark": "I",
+    "illustrators": [
+      "aky CG Works"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOR/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOR/0.webp",
+    "source_image": "img/504/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/504/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

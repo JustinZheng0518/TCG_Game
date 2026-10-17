@@ -1,0 +1,1677 @@
+{
+  "language": "zh-CN",
+  "source_commit": "c3b6ac6ef803aad9d60e44d058359addf3a20883",
+  "sets": 236,
+  "card_faces": 23250,
+  "local_card_faces": 23250,
+  "missing_card_faces": 0,
+  "source_image_git_tree_verified": true,
+  "complete_against_pinned_source": true,
+  "all_historical_releases_guaranteed": false,
+  "original_bytes": 5860794039,
+  "thumbnail_bytes": 834098306,
+  "source_dimensions": {
+    "300x417": 2029,
+    "300x419": 21164,
+    "300x420": 4,
+    "400x556": 1,
+    "400x559": 7,
+    "868x1212": 9,
+    "300x418": 36
+  },
+  "image_resolution": "Native source resolution; no AI upscaling or translated substitute faces",
+  "per_set": [
+    {
+      "id": "CSVH6C",
+      "name": "嗨皮卡组 训练家的宝可梦",
+      "card_faces": 180,
+      "local_card_faces": 180,
+      "missing": 0
+    },
+    {
+      "id": "CSVH6eC",
+      "name": "嗨皮卡组 训练家的宝可梦 嗨皮包",
+      "card_faces": 147,
+      "local_card_faces": 147,
+      "missing": 0
+    },
+    {
+      "id": "CSVH6pC",
+      "name": "嗨皮卡组 训练家的宝可梦 奖赏包",
+      "card_faces": 14,
+      "local_card_faces": 14,
+      "missing": 0
+    },
+    {
+      "id": "CSVH6aC",
+      "name": "嗨皮卡组 训练家的宝可梦 改造包",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "30thSCZSLH",
+      "name": "收藏展示礼盒 太阳伊布ex&月亮伊布ex",
+      "card_faces": 2,
+      "local_card_faces": 2,
+      "missing": 0
+    },
+    {
+      "id": "30thKPZSTTZ2",
+      "name": "30周年庆典 卡牌展示套套装 仙子伊布 ex",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "30thKPZSTTZ1",
+      "name": "30周年庆典 卡牌展示套套装 甲贺忍蛙 ex",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMOGIFT05",
+      "name": "活动奖赏包 第五弹",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVEVENT05",
+      "name": "活动特别包 第五弹",
+      "card_faces": 80,
+      "local_card_faces": 80,
+      "missing": 0
+    },
+    {
+      "id": "MISSION10",
+      "name": "任务奖赏包 第十弹",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "30thDC",
+      "name": "30 周年庆典 豪华卡组套装",
+      "card_faces": 45,
+      "local_card_faces": 45,
+      "missing": 0
+    },
+    {
+      "id": "30thC",
+      "name": "补充包 30周年庆典",
+      "card_faces": 176,
+      "local_card_faces": 176,
+      "missing": 0
+    },
+    {
+      "id": "PROMO_Lisia",
+      "name": "琉琪亚的闪耀专属礼盒",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "CBB6C",
+      "name": "宝石包 VOL.6",
+      "card_faces": 196,
+      "local_card_faces": 196,
+      "missing": 0
+    },
+    {
+      "id": "151PROMOf3",
+      "name": "绘梦点睛 伊布‘们’的手办套装",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "30th-P-03",
+      "name": "30周年庆典 最初的伙伴特别插画闪卡套装 Vol.3",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMO_26HL",
+      "name": "2026年高级赛夏季场",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMOR",
+      "name": "火箭队的宏图专属礼盒",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "CSV9.5C_Coin",
+      "name": "伊布“们”的硬币套装",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMOEEVEE",
+      "name": "伊布“们”的专属礼盒",
+      "card_faces": 2,
+      "local_card_faces": 2,
+      "missing": 0
+    },
+    {
+      "id": "PROMOGIFT04",
+      "name": "活动奖赏包 第四弹",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVEVENT04",
+      "name": "活动特别包 第四弹",
+      "card_faces": 80,
+      "local_card_faces": 80,
+      "missing": 0
+    },
+    {
+      "id": "MISSION9",
+      "name": "任务奖赏包 第九弹",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "CSVM2cC",
+      "name": "大师战略卡组构筑套装 赛富豪ex",
+      "card_faces": 32,
+      "local_card_faces": 32,
+      "missing": 0
+    },
+    {
+      "id": "CSVM2bC",
+      "name": "大师战略卡组构筑套装 多龙巴鲁托ex",
+      "card_faces": 34,
+      "local_card_faces": 34,
+      "missing": 0
+    },
+    {
+      "id": "CSVM2aC",
+      "name": "大师战略卡组构筑套装 猛雷鼓ex",
+      "card_faces": 31,
+      "local_card_faces": 31,
+      "missing": 0
+    },
+    {
+      "id": "CSVH5eC",
+      "name": "嗨皮组合 快龙&超梦&喷火驼&来悲粗茶 嗨皮包",
+      "card_faces": 147,
+      "local_card_faces": 147,
+      "missing": 0
+    },
+    {
+      "id": "CSVH5pC",
+      "name": "嗨皮组合 快龙&超梦&喷火驼&来悲粗茶 奖赏包",
+      "card_faces": 6,
+      "local_card_faces": 6,
+      "missing": 0
+    },
+    {
+      "id": "CSVH5aC",
+      "name": "嗨皮组合 快龙&超梦&喷火驼&来悲粗茶 改造包",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSVH5C",
+      "name": "嗨皮组合 快龙&超梦&喷火驼&来悲粗茶",
+      "card_faces": 242,
+      "local_card_faces": 242,
+      "missing": 0
+    },
+    {
+      "id": "CSV10C",
+      "name": "补充包 共逐荣光",
+      "card_faces": 683,
+      "local_card_faces": 683,
+      "missing": 0
+    },
+    {
+      "id": "30th-P-02",
+      "name": "30周年庆典 最初的伙伴特别插画闪卡套装 Vol.2",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CSV9.5C",
+      "name": "补充包 太晶盛聚",
+      "card_faces": 601,
+      "local_card_faces": 601,
+      "missing": 0
+    },
+    {
+      "id": "MISSION8",
+      "name": "任务奖赏包 第八弹",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVEVENT03",
+      "name": "活动特别包 第三弹",
+      "card_faces": 80,
+      "local_card_faces": 80,
+      "missing": 0
+    },
+    {
+      "id": "PROMOGIFT03",
+      "name": "活动奖赏包 第三弹",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CSVNC",
+      "name": "北上乡专题包（5张装）",
+      "card_faces": 44,
+      "local_card_faces": 44,
+      "missing": 0
+    },
+    {
+      "id": "CSV9C",
+      "name": "补充包 星彩晶璃",
+      "card_faces": 620,
+      "local_card_faces": 620,
+      "missing": 0
+    },
+    {
+      "id": "151PROMOf2",
+      "name": "绘梦点睛 水生态手办套装",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "CBB5C",
+      "name": "宝石包 VOL.5",
+      "card_faces": 196,
+      "local_card_faces": 196,
+      "missing": 0
+    },
+    {
+      "id": "CSVH4C",
+      "name": "嗨皮卡组 狙射树枭&美录梅塔&故勒顿&密勒顿",
+      "card_faces": 180,
+      "local_card_faces": 180,
+      "missing": 0
+    },
+    {
+      "id": "CSVH4aC",
+      "name": "嗨皮组合 狙射树枭&美录梅塔&故勒顿&密勒顿 改造包",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSVH4eC",
+      "name": "嗨皮组合 狙射树枭&美录梅塔&故勒顿&密勒顿 嗨皮包",
+      "card_faces": 147,
+      "local_card_faces": 147,
+      "missing": 0
+    },
+    {
+      "id": "CSVH4pC",
+      "name": "嗨皮组合 狙射树枭&美录梅塔&故勒顿&密勒顿 奖赏包",
+      "card_faces": 14,
+      "local_card_faces": 14,
+      "missing": 0
+    },
+    {
+      "id": "30th-P-01",
+      "name": "30周年庆典 最初的伙伴特别插画闪卡套装 Vol.1",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CSV8C",
+      "name": "补充包 璀璨诡幻",
+      "card_faces": 616,
+      "local_card_faces": 616,
+      "missing": 0
+    },
+    {
+      "id": "promosvPaldea",
+      "name": "帕底亚训练家合影卡挂件套装&对战礼盒",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "PROMOGIFT02",
+      "name": "活动奖赏包 第二弹",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVEVENT02",
+      "name": "活动特别包 第二弹",
+      "card_faces": 80,
+      "local_card_faces": 80,
+      "missing": 0
+    },
+    {
+      "id": "MISSION07",
+      "name": "任务奖赏包 第七弹",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "CBB4C",
+      "name": "宝石包 VOL.4",
+      "card_faces": 196,
+      "local_card_faces": 196,
+      "missing": 0
+    },
+    {
+      "id": "PROMOCBB01",
+      "name": "宝石包徽章套装",
+      "card_faces": 3,
+      "local_card_faces": 3,
+      "missing": 0
+    },
+    {
+      "id": "MISSION06",
+      "name": "任务奖赏包 第六弹",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "PROMOGIFT01",
+      "name": "活动奖赏包 第一弹",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVEVENT01",
+      "name": "活动特别包 第一弹",
+      "card_faces": 80,
+      "local_card_faces": 80,
+      "missing": 0
+    },
+    {
+      "id": "CSVM1aC",
+      "name": "大师战略卡组构筑套装 喷火龙ex",
+      "card_faces": 33,
+      "local_card_faces": 33,
+      "missing": 0
+    },
+    {
+      "id": "CSVM1bC",
+      "name": "大师战略卡组构筑套装 沙奈朵ex",
+      "card_faces": 33,
+      "local_card_faces": 33,
+      "missing": 0
+    },
+    {
+      "id": "CSVM1cC",
+      "name": "大师战略卡组构筑套装 密勒顿ex",
+      "card_faces": 28,
+      "local_card_faces": 28,
+      "missing": 0
+    },
+    {
+      "id": "CSVSC",
+      "name": "对战学院",
+      "card_faces": 98,
+      "local_card_faces": 98,
+      "missing": 0
+    },
+    {
+      "id": "CSV7C",
+      "name": "补充包 利刃猛醒",
+      "card_faces": 605,
+      "local_card_faces": 605,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV08",
+      "name": "蹭蹭脸颊毛绒玩具卡牌展示礼盒",
+      "card_faces": 7,
+      "local_card_faces": 7,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV07",
+      "name": "古代未来道馆特别包",
+      "card_faces": 2,
+      "local_card_faces": 2,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVML04",
+      "name": "2025宝可梦深圳大师赛 特典",
+      "card_faces": 18,
+      "local_card_faces": 18,
+      "missing": 0
+    },
+    {
+      "id": "151PROMOf",
+      "name": "绘梦点睛 收集啦151手办套装",
+      "card_faces": 11,
+      "local_card_faces": 11,
+      "missing": 0
+    },
+    {
+      "id": "CSVL2C",
+      "name": "游历专题包",
+      "card_faces": 139,
+      "local_card_faces": 139,
+      "missing": 0
+    },
+    {
+      "id": "MISSION05",
+      "name": "任务奖赏包 第五弹",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "CSV6C",
+      "name": "补充包 真实玄虚",
+      "card_faces": 393,
+      "local_card_faces": 393,
+      "missing": 0
+    },
+    {
+      "id": "CSVE2C2",
+      "name": "对战派对 耀梦 下",
+      "card_faces": 217,
+      "local_card_faces": 217,
+      "missing": 0
+    },
+    {
+      "id": "CSVE2pC2",
+      "name": "对战派对 耀梦 下 奖赏包",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV151m1",
+      "name": "收集啦151 最初的伙伴精品礼盒 妙蛙种子",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV151m2",
+      "name": "收集啦151 最初的伙伴精品礼盒 小火龙",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV151m3",
+      "name": "收集啦151 最初的伙伴精品礼盒 杰尼龟",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "CBB3C",
+      "name": "宝石包 VOL.3",
+      "card_faces": 136,
+      "local_card_faces": 136,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVML03",
+      "name": "2025宝可梦北京大师赛 特典",
+      "card_faces": 18,
+      "local_card_faces": 18,
+      "missing": 0
+    },
+    {
+      "id": "CSV5C",
+      "name": "补充包 黑晶炽诚",
+      "card_faces": 394,
+      "local_card_faces": 394,
+      "missing": 0
+    },
+    {
+      "id": "CSVH3C",
+      "name": "嗨皮卡组 七夕青鸟&拉帝欧斯&烈焰猴&一家鼠",
+      "card_faces": 188,
+      "local_card_faces": 188,
+      "missing": 0
+    },
+    {
+      "id": "CSVH3aC",
+      "name": "嗨皮组合 七夕青鸟&拉帝欧斯&烈焰猴&一家鼠 改造包",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSVH3pC",
+      "name": "嗨皮组合 七夕青鸟&拉帝欧斯&烈焰猴&一家鼠 奖赏包",
+      "card_faces": 6,
+      "local_card_faces": 6,
+      "missing": 0
+    },
+    {
+      "id": "MISSION04",
+      "name": "任务奖赏包 第四弹",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV05",
+      "name": "收集啦151 最初的伙伴展示套装",
+      "card_faces": 6,
+      "local_card_faces": 6,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV06",
+      "name": "2025宝可梦世界锦标赛 特典",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSVML02",
+      "name": "2025宝可梦杭州大师赛 特典",
+      "card_faces": 17,
+      "local_card_faces": 17,
+      "missing": 0
+    },
+    {
+      "id": "CSV4C",
+      "name": "补充包 嘉奖回合",
+      "card_faces": 395,
+      "local_card_faces": 395,
+      "missing": 0
+    },
+    {
+      "id": "CSVE2C1",
+      "name": "对战派对 耀梦 上",
+      "card_faces": 130,
+      "local_card_faces": 130,
+      "missing": 0
+    },
+    {
+      "id": "CSVE2pC",
+      "name": "对战派对 耀梦 上 奖赏包",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "151C4",
+      "name": "收集啦151 聚",
+      "card_faces": 465,
+      "local_card_faces": 465,
+      "missing": 0
+    },
+    {
+      "id": "151C3",
+      "name": "收集啦151 惊",
+      "card_faces": 466,
+      "local_card_faces": 466,
+      "missing": 0
+    },
+    {
+      "id": "MISSION03",
+      "name": "任务奖赏包 第三弹",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV04",
+      "name": "宝可梦金属卡组收纳盒套装",
+      "card_faces": 14,
+      "local_card_faces": 14,
+      "missing": 0
+    },
+    {
+      "id": "CSVL1C",
+      "name": "启程专题包",
+      "card_faces": 141,
+      "local_card_faces": 141,
+      "missing": 0
+    },
+    {
+      "id": "MISSION02",
+      "name": "任务奖赏包 第二弹",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV03",
+      "name": "宝可梦卡牌城市赛·朱&紫 特典",
+      "card_faces": 6,
+      "local_card_faces": 6,
+      "missing": 0
+    },
+    {
+      "id": "CSV3C",
+      "name": "补充包 无畏太晶",
+      "card_faces": 397,
+      "local_card_faces": 397,
+      "missing": 0
+    },
+    {
+      "id": "CSVH2C",
+      "name": "嗨皮卡组 路卡利欧&甲贺忍蛙&藏玛然特&獒教父",
+      "card_faces": 186,
+      "local_card_faces": 186,
+      "missing": 0
+    },
+    {
+      "id": "CSVH2aC",
+      "name": "嗨皮组合 路卡利欧&甲贺忍蛙&藏玛然特&獒教父 改造包",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSVH2pC",
+      "name": "嗨皮组合 路卡利欧&甲贺忍蛙&藏玛然特&獒教父 奖赏包",
+      "card_faces": 14,
+      "local_card_faces": 14,
+      "missing": 0
+    },
+    {
+      "id": "CBB2C",
+      "name": "宝石包 VOL.2",
+      "card_faces": 140,
+      "local_card_faces": 140,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV02",
+      "name": "2025宝可梦广州大师赛 特典",
+      "card_faces": 17,
+      "local_card_faces": 17,
+      "missing": 0
+    },
+    {
+      "id": "PROMOSV01",
+      "name": "宝可梦卡牌超级赛·朱&紫 特典",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CSVE1C2",
+      "name": "对战派对 共梦 下",
+      "card_faces": 202,
+      "local_card_faces": 202,
+      "missing": 0
+    },
+    {
+      "id": "CSVE1pC2",
+      "name": "对战派对 共梦 下 奖赏包",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "151C2",
+      "name": "收集啦151 望",
+      "card_faces": 464,
+      "local_card_faces": 464,
+      "missing": 0
+    },
+    {
+      "id": "MISSION01",
+      "name": "任务奖赏包 第一弹",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "CSV2C",
+      "name": "补充包 奇迹启程",
+      "card_faces": 393,
+      "local_card_faces": 393,
+      "missing": 0
+    },
+    {
+      "id": "CSVE1C1",
+      "name": "对战派对 共梦 上",
+      "card_faces": 151,
+      "local_card_faces": 151,
+      "missing": 0
+    },
+    {
+      "id": "CSVE1pC",
+      "name": "对战派对 共梦 上 奖赏包",
+      "card_faces": 12,
+      "local_card_faces": 12,
+      "missing": 0
+    },
+    {
+      "id": "151C1",
+      "name": "收集啦151 旅",
+      "card_faces": 464,
+      "local_card_faces": 464,
+      "missing": 0
+    },
+    {
+      "id": "151C",
+      "name": "收集啦151 活动包",
+      "card_faces": 463,
+      "local_card_faces": 463,
+      "missing": 0
+    },
+    {
+      "id": "CSV1C",
+      "name": "补充包 亘古开来",
+      "card_faces": 393,
+      "local_card_faces": 393,
+      "missing": 0
+    },
+    {
+      "id": "CSVH1C",
+      "name": "嗨皮组合 皮卡丘&皮皮&草苗龟&索财灵",
+      "card_faces": 186,
+      "local_card_faces": 186,
+      "missing": 0
+    },
+    {
+      "id": "CSVH1aC",
+      "name": "嗨皮组合 皮卡丘&皮皮&草苗龟&索财灵 改造包",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSVH1pC",
+      "name": "嗨皮组合 皮卡丘&皮皮&草苗龟&索财灵 奖赏包",
+      "card_faces": 14,
+      "local_card_faces": 14,
+      "missing": 0
+    },
+    {
+      "id": "CBB1C",
+      "name": "宝石包 VOL.1",
+      "card_faces": 115,
+      "local_card_faces": 115,
+      "missing": 0
+    },
+    {
+      "id": "PROMO27",
+      "name": "2024宝可梦深圳大师赛 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMO26",
+      "name": "2024宝可梦苏州大师赛 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CSXC",
+      "name": "骑拉帝纳VSTAR卡组构筑进阶礼盒",
+      "card_faces": 20,
+      "local_card_faces": 20,
+      "missing": 0
+    },
+    {
+      "id": "CS0LC",
+      "name": "皮在伊起 流沙卡牌展示挂件礼盒",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CSYC",
+      "name": "精灵球/等级球礼盒：宝可梦艺术插画庆典 聚",
+      "card_faces": 16,
+      "local_card_faces": 16,
+      "missing": 0
+    },
+    {
+      "id": "PROMO25",
+      "name": "伙伴们的欢聚 专属礼盒",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CSZC",
+      "name": "收藏周边礼盒 百变宝盒",
+      "card_faces": 68,
+      "local_card_faces": 68,
+      "missing": 0
+    },
+    {
+      "id": "CS6.5C",
+      "name": "强化包 胜象星引",
+      "card_faces": 153,
+      "local_card_faces": 153,
+      "missing": 0
+    },
+    {
+      "id": "PROMO24",
+      "name": "喷火龙VSTAR收藏套装礼盒",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMO23",
+      "name": "超梦VSTAR对战套装礼盒",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "CSUC",
+      "name": "宝可梦展示套礼盒",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "PROMO22",
+      "name": "2024宝可梦世界锦标赛 特典",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMO21",
+      "name": "特典卡 朱&紫",
+      "card_faces": 48,
+      "local_card_faces": 48,
+      "missing": 0
+    },
+    {
+      "id": "CS6.1C",
+      "name": "专题包 辉耀能量 第三弹",
+      "card_faces": 24,
+      "local_card_faces": 24,
+      "missing": 0
+    },
+    {
+      "id": "CS6aC",
+      "name": "补充包 碧海暗影 啸",
+      "card_faces": 277,
+      "local_card_faces": 277,
+      "missing": 0
+    },
+    {
+      "id": "CS6bC",
+      "name": "补充包 碧海暗影 逐",
+      "card_faces": 282,
+      "local_card_faces": 282,
+      "missing": 0
+    },
+    {
+      "id": "PROMO20",
+      "name": "对战周边礼盒 洗翠日常",
+      "card_faces": 5,
+      "local_card_faces": 5,
+      "missing": 0
+    },
+    {
+      "id": "CS5.5C",
+      "name": "强化包 暗影夺辉",
+      "card_faces": 143,
+      "local_card_faces": 143,
+      "missing": 0
+    },
+    {
+      "id": "PROMO19",
+      "name": "2024宝可梦北京大师赛 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CS5.1C",
+      "name": "专题包 辉耀能量 第二弹",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSOC",
+      "name": "汇流卡组构筑进阶礼盒",
+      "card_faces": 19,
+      "local_card_faces": 19,
+      "missing": 0
+    },
+    {
+      "id": "PROMO18",
+      "name": "宝可梦收藏卡册/艺术卡套礼盒-刚石款",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMO17",
+      "name": "宝可梦收藏卡册/艺术卡套礼盒-珠贝款",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMO16",
+      "name": "珠贝&刚石套装礼盒",
+      "card_faces": 2,
+      "local_card_faces": 2,
+      "missing": 0
+    },
+    {
+      "id": "CSMC",
+      "name": "宝可梦卡牌展示套礼盒",
+      "card_faces": 13,
+      "local_card_faces": 13,
+      "missing": 0
+    },
+    {
+      "id": "CS5aC",
+      "name": "补充包 勇魅群星 魅",
+      "card_faces": 275,
+      "local_card_faces": 275,
+      "missing": 0
+    },
+    {
+      "id": "CS5bC",
+      "name": "补充包 勇魅群星 勇",
+      "card_faces": 280,
+      "local_card_faces": 280,
+      "missing": 0
+    },
+    {
+      "id": "CS5DC",
+      "name": "勇魅群星 V起始卡组",
+      "card_faces": 171,
+      "local_card_faces": 171,
+      "missing": 0
+    },
+    {
+      "id": "CSNC",
+      "name": "勇魅群星 卡组构筑礼盒",
+      "card_faces": 24,
+      "local_card_faces": 24,
+      "missing": 0
+    },
+    {
+      "id": "CSFC10",
+      "name": "龙之再临宝可梦艺术卡套礼盒 黏美龙",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CSFC9",
+      "name": "龙之再临宝可梦艺术卡套礼盒 焰白酋雷姆",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CS4.1C2",
+      "name": "辉耀能量收藏卡册礼盒",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSJC",
+      "name": "精灵球/高级球礼盒：宝可梦艺术插画庆典 景",
+      "card_faces": 16,
+      "local_card_faces": 16,
+      "missing": 0
+    },
+    {
+      "id": "CS4DaC",
+      "name": "起始卡组100",
+      "card_faces": 574,
+      "local_card_faces": 574,
+      "missing": 0
+    },
+    {
+      "id": "CSFC8",
+      "name": "龙之再临宝可梦艺术卡套礼盒 拉帝亚斯&拉帝欧斯",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CSFC7",
+      "name": "龙之再临宝可梦艺术卡套礼盒 快龙",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CSIC",
+      "name": "训练家收藏礼盒",
+      "card_faces": 8,
+      "local_card_faces": 8,
+      "missing": 0
+    },
+    {
+      "id": "CSFC6",
+      "name": "龙之再临宝可梦艺术卡套礼盒 铝钢龙",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CSFC5",
+      "name": "龙之再临宝可梦艺术卡套礼盒 阿罗拉椰蛋树",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "PROMO15",
+      "name": "宝可梦卡牌城市赛·剑&盾 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMO14",
+      "name": "2024宝可梦卡牌广州大师赛 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CSHC1",
+      "name": "伊布进阶礼盒 火伊布",
+      "card_faces": 3,
+      "local_card_faces": 3,
+      "missing": 0
+    },
+    {
+      "id": "CSHC2",
+      "name": "伊布进阶礼盒 水伊布",
+      "card_faces": 3,
+      "local_card_faces": 3,
+      "missing": 0
+    },
+    {
+      "id": "CSHC",
+      "name": "伊布进阶礼盒 雷伊布",
+      "card_faces": 3,
+      "local_card_faces": 3,
+      "missing": 0
+    },
+    {
+      "id": "CS4.5C",
+      "name": "强化包 终末炎舞",
+      "card_faces": 136,
+      "local_card_faces": 136,
+      "missing": 0
+    },
+    {
+      "id": "CS4.1C-3",
+      "name": "辉耀能量 宝可梦艺术卡套礼盒 皮卡丘",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CS4.1C-2",
+      "name": "辉耀能量 宝可梦艺术卡套礼盒 苍响",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CS4.1C-1",
+      "name": "辉耀能量 宝可梦艺术卡套礼盒 藏玛然特",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CS4.1C",
+      "name": "辉耀能量 宝可梦艺术卡套礼盒 无极汰那",
+      "card_faces": 23,
+      "local_card_faces": 23,
+      "missing": 0
+    },
+    {
+      "id": "CSGC",
+      "name": "宝可梦卡牌展示套礼盒",
+      "card_faces": 8,
+      "local_card_faces": 8,
+      "missing": 0
+    },
+    {
+      "id": "CSFC4",
+      "name": "龙之再临进阶礼盒 辉光",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CSFC3",
+      "name": "龙之再临进阶礼盒 凛烈",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CSFC2",
+      "name": "龙之再临宝可梦艺术卡套礼盒 究极奈克洛兹玛",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CSFC1",
+      "name": "龙之再临宝可梦艺术卡套礼盒 烈空坐",
+      "card_faces": 26,
+      "local_card_faces": 26,
+      "missing": 0
+    },
+    {
+      "id": "CS4aC",
+      "name": "补充包 九彩汇聚 朋",
+      "card_faces": 295,
+      "local_card_faces": 295,
+      "missing": 0
+    },
+    {
+      "id": "CS4bC",
+      "name": "补充包 九彩汇聚 源",
+      "card_faces": 288,
+      "local_card_faces": 288,
+      "missing": 0
+    },
+    {
+      "id": "CSEC",
+      "name": "四方联结礼盒：超梦V-UNION",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CSEC1",
+      "name": "四方联结礼盒：甲贺忍蛙V-UNION",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CSEC2",
+      "name": "四方联结礼盒：苍响 V-UNION",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CSEC4",
+      "name": "四方联结套装礼盒：莫鲁贝可",
+      "card_faces": 8,
+      "local_card_faces": 8,
+      "missing": 0
+    },
+    {
+      "id": "PROMO13",
+      "name": "2023宝可梦卡牌大师赛·上海 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "PROMO12",
+      "name": "四方联结礼盒：皮卡丘大集合",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CS3.5C",
+      "name": "强化包 怒炎灼天",
+      "card_faces": 147,
+      "local_card_faces": 147,
+      "missing": 0
+    },
+    {
+      "id": "CSDC",
+      "name": "精灵球礼盒/超级球礼盒：皮卡丘传奇庆典",
+      "card_faces": 25,
+      "local_card_faces": 25,
+      "missing": 0
+    },
+    {
+      "id": "CSMPjC",
+      "name": "改造包 对战派对组合 草",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CSMPkC",
+      "name": "改造包 对战派对组合 火",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CSMPlC",
+      "name": "改造包 对战派对组合 水",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CSMPmC",
+      "name": "改造包 对战派对组合 雷",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CSMPnC",
+      "name": "改造包 对战派对组合 超",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CSMPoC",
+      "name": "改造包 对战派对组合 斗",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CSMPpC",
+      "name": "改造包 对战派对组合 恶",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CSMPqC",
+      "name": "改造包 对战派对组合 钢",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CS2.1C",
+      "name": "专题包 喵喵小妙招",
+      "card_faces": 10,
+      "local_card_faces": 10,
+      "missing": 0
+    },
+    {
+      "id": "CS2DaC",
+      "name": "宝可梦卡牌 家庭组合",
+      "card_faces": 78,
+      "local_card_faces": 78,
+      "missing": 0
+    },
+    {
+      "id": "CSBC",
+      "name": "卡组构筑礼盒 洪荒演武 茂",
+      "card_faces": 19,
+      "local_card_faces": 19,
+      "missing": 0
+    },
+    {
+      "id": "CSCC",
+      "name": "卡组构筑礼盒 洪荒演武 激",
+      "card_faces": 19,
+      "local_card_faces": 19,
+      "missing": 0
+    },
+    {
+      "id": "CS3aC",
+      "name": "补充包 洪荒演武 茂",
+      "card_faces": 290,
+      "local_card_faces": 290,
+      "missing": 0
+    },
+    {
+      "id": "CS3bC",
+      "name": "补充包 洪荒演武 激",
+      "card_faces": 283,
+      "local_card_faces": 283,
+      "missing": 0
+    },
+    {
+      "id": "CS3DC",
+      "name": "起始卡组 洪荒演武V",
+      "card_faces": 191,
+      "local_card_faces": 191,
+      "missing": 0
+    },
+    {
+      "id": "PROMO11",
+      "name": "一周年纪念专属礼盒",
+      "card_faces": 2,
+      "local_card_faces": 2,
+      "missing": 0
+    },
+    {
+      "id": "PROMO10",
+      "name": "一周年纪念礼盒",
+      "card_faces": 8,
+      "local_card_faces": 8,
+      "missing": 0
+    },
+    {
+      "id": "PROMO9",
+      "name": "2023宝可梦卡牌大师赛·深圳 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CS2.5C",
+      "name": "强化包 璀璨反击",
+      "card_faces": 126,
+      "local_card_faces": 126,
+      "missing": 0
+    },
+    {
+      "id": "CSM2.1C",
+      "name": "辉金能量礼盒&辉金能量进阶礼盒",
+      "card_faces": 54,
+      "local_card_faces": 54,
+      "missing": 0
+    },
+    {
+      "id": "PROMO7",
+      "name": "喷火龙VMAX收藏套装礼盒",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "PROMO8",
+      "name": "喷火龙VMAX对战套装礼盒",
+      "card_faces": 1,
+      "local_card_faces": 1,
+      "missing": 0
+    },
+    {
+      "id": "CS2aC",
+      "name": "补充包 浓墨重彩 黎",
+      "card_faces": 241,
+      "local_card_faces": 241,
+      "missing": 0
+    },
+    {
+      "id": "CS2bC",
+      "name": "补充包 浓墨重彩 靛",
+      "card_faces": 241,
+      "local_card_faces": 241,
+      "missing": 0
+    },
+    {
+      "id": "PROMO6",
+      "name": "2023宝可梦卡牌大师赛·北京 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CS1.5C",
+      "name": "强化包 极巨攻防",
+      "card_faces": 141,
+      "local_card_faces": 141,
+      "missing": 0
+    },
+    {
+      "id": "PROMO5",
+      "name": "玛俐的决心专属礼盒",
+      "card_faces": 2,
+      "local_card_faces": 2,
+      "missing": 0
+    },
+    {
+      "id": "PROMO4",
+      "name": "宝可梦卡牌超级赛·剑&盾 特典",
+      "card_faces": 8,
+      "local_card_faces": 8,
+      "missing": 0
+    },
+    {
+      "id": "PROMO3",
+      "name": "特典卡·剑&盾",
+      "card_faces": 211,
+      "local_card_faces": 211,
+      "missing": 0
+    },
+    {
+      "id": "CS1aC",
+      "name": "补充包 极巨争锋 雷",
+      "card_faces": 329,
+      "local_card_faces": 329,
+      "missing": 0
+    },
+    {
+      "id": "CS1bC",
+      "name": "补充包 极巨争锋 焰",
+      "card_faces": 315,
+      "local_card_faces": 315,
+      "missing": 0
+    },
+    {
+      "id": "CS1DC",
+      "name": "起始卡组 极巨争锋V",
+      "card_faces": 230,
+      "local_card_faces": 230,
+      "missing": 0
+    },
+    {
+      "id": "CSAC",
+      "name": "极巨争锋 卡组构筑礼盒",
+      "card_faces": 32,
+      "local_card_faces": 32,
+      "missing": 0
+    },
+    {
+      "id": "PROMO2",
+      "name": "宝可梦卡牌超级赛·太阳&月亮 特典",
+      "card_faces": 4,
+      "local_card_faces": 4,
+      "missing": 0
+    },
+    {
+      "id": "CSMPaC",
+      "name": "对战派对组合 草",
+      "card_faces": 48,
+      "local_card_faces": 48,
+      "missing": 0
+    },
+    {
+      "id": "CSMPbC",
+      "name": "对战派对组合 火",
+      "card_faces": 52,
+      "local_card_faces": 52,
+      "missing": 0
+    },
+    {
+      "id": "CSMPcC",
+      "name": "对战派对组合 水",
+      "card_faces": 52,
+      "local_card_faces": 52,
+      "missing": 0
+    },
+    {
+      "id": "CSMPdC",
+      "name": "对战派对组合 雷",
+      "card_faces": 44,
+      "local_card_faces": 44,
+      "missing": 0
+    },
+    {
+      "id": "CSMPeC",
+      "name": "对战派对组合 超",
+      "card_faces": 44,
+      "local_card_faces": 44,
+      "missing": 0
+    },
+    {
+      "id": "CSMPfC",
+      "name": "对战派对组合 斗",
+      "card_faces": 50,
+      "local_card_faces": 50,
+      "missing": 0
+    },
+    {
+      "id": "CSMPgC",
+      "name": "对战派对组合 恶",
+      "card_faces": 50,
+      "local_card_faces": 50,
+      "missing": 0
+    },
+    {
+      "id": "CSMPhC",
+      "name": "对战派对组合 钢",
+      "card_faces": 50,
+      "local_card_faces": 50,
+      "missing": 0
+    },
+    {
+      "id": "CSMPiC",
+      "name": "对战派对组合 奖赏包",
+      "card_faces": 48,
+      "local_card_faces": 48,
+      "missing": 0
+    },
+    {
+      "id": "PROMO1",
+      "name": "2023宝可梦卡牌大师赛·广州 特典",
+      "card_faces": 9,
+      "local_card_faces": 9,
+      "missing": 0
+    },
+    {
+      "id": "CSMAC",
+      "name": "阿尔宙斯&帝牙卢卡&帕路奇亚GX 卡组构筑进阶礼盒",
+      "card_faces": 28,
+      "local_card_faces": 28,
+      "missing": 0
+    },
+    {
+      "id": "CSM2.5C",
+      "name": "强化包 炫奇争胜",
+      "card_faces": 148,
+      "local_card_faces": 148,
+      "missing": 0
+    },
+    {
+      "id": "CSMJC",
+      "name": "精灵球礼盒：闪耀宝可梦",
+      "card_faces": 15,
+      "local_card_faces": 15,
+      "missing": 0
+    },
+    {
+      "id": "CSM2cC",
+      "name": "补充包 交相辉映 唤",
+      "card_faces": 326,
+      "local_card_faces": 326,
+      "missing": 0
+    },
+    {
+      "id": "CSM2bC",
+      "name": "补充包 交相辉映 魁",
+      "card_faces": 327,
+      "local_card_faces": 327,
+      "missing": 0
+    },
+    {
+      "id": "CSM2aC",
+      "name": "补充包 交相辉映 沐",
+      "card_faces": 328,
+      "local_card_faces": 328,
+      "missing": 0
+    },
+    {
+      "id": "CSM2DC",
+      "name": "起始卡组 交相辉映GX",
+      "card_faces": 366,
+      "local_card_faces": 366,
+      "missing": 0
+    },
+    {
+      "id": "CSMYC",
+      "name": "伊布GX套装礼盒",
+      "card_faces": 8,
+      "local_card_faces": 8,
+      "missing": 0
+    },
+    {
+      "id": "CSM1.5C",
+      "name": "强化包 对战精英",
+      "card_faces": 131,
+      "local_card_faces": 131,
+      "missing": 0
+    },
+    {
+      "id": "CSMLC",
+      "name": "莉莉艾的声援专属礼盒",
+      "card_faces": 5,
+      "local_card_faces": 5,
+      "missing": 0
+    },
+    {
+      "id": "PROMO",
+      "name": "特典卡·太阳&月亮",
+      "card_faces": 61,
+      "local_card_faces": 61,
+      "missing": 0
+    },
+    {
+      "id": "CSM1DC",
+      "name": "起始卡组 横空出世GX",
+      "card_faces": 345,
+      "local_card_faces": 345,
+      "missing": 0
+    },
+    {
+      "id": "CSM1cC",
+      "name": "补充包 横空出世 泽",
+      "card_faces": 332,
+      "local_card_faces": 332,
+      "missing": 0
+    },
+    {
+      "id": "CSM1bC",
+      "name": "补充包 横空出世 苍",
+      "card_faces": 324,
+      "local_card_faces": 324,
+      "missing": 0
+    },
+    {
+      "id": "CSM1aC",
+      "name": "补充包 横空出世 赫",
+      "card_faces": 331,
+      "local_card_faces": 331,
+      "missing": 0
+    }
+  ]
+}

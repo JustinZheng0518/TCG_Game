@@ -1,0 +1,14 @@
+{
+  "id": "CSVH3pC",
+  "name": "嗨皮组合 七夕青鸟&拉帝欧斯&烈焰猴&一家鼠 奖赏包",
+  "language": "zh-CN",
+  "release_date": "2025-09-12",
+  "series": "朱&紫",
+  "source_collection_id": 294,
+  "source_goods_type": "3",
+  "card_faces": 6,
+  "distinct_card_numbers": 6,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/CSVH3pC/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

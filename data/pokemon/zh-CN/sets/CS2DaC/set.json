@@ -1,0 +1,14 @@
+{
+  "id": "CS2DaC",
+  "name": "宝可梦卡牌 家庭组合",
+  "language": "zh-CN",
+  "release_date": "2023-11-17",
+  "series": "剑&盾",
+  "source_collection_id": 100,
+  "source_goods_type": "3",
+  "card_faces": 78,
+  "distinct_card_numbers": 59,
+  "variant_faces": 19,
+  "cards_path": "data/pokemon/zh-CN/sets/CS2DaC/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

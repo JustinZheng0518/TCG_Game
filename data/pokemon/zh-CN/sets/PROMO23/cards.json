@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMO23:10932",
+    "source_card_id": 10932,
+    "set_id": "PROMO23",
+    "language": "zh-CN",
+    "name": "超梦VSTAR",
+    "number": "144/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 280,
+    "regulation_mark": "F",
+    "illustrators": [
+      "GOSSAN"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO23/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO23/0.webp",
+    "source_image": "img/219/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/219/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

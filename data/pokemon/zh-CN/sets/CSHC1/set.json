@@ -1,0 +1,14 @@
+{
+  "id": "CSHC1",
+  "name": "伊布进阶礼盒 火伊布",
+  "language": "zh-CN",
+  "release_date": "2024-04-26",
+  "series": "剑&盾",
+  "source_collection_id": 144,
+  "source_goods_type": "3",
+  "card_faces": 3,
+  "distinct_card_numbers": 3,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/CSHC1/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

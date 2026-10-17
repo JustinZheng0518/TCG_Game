@@ -1,0 +1,275 @@
+[
+  {
+    "id": "CSMC:10082",
+    "source_card_id": 10082,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "喷火龙",
+    "number": "001/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 170,
+    "regulation_mark": "D",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/0.webp",
+    "source_image": "img/184/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10083",
+    "source_card_id": 10083,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "茸茸羊",
+    "number": "002/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "E",
+    "illustrators": [
+      "saino misaki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/1.webp",
+    "source_image": "img/184/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10084",
+    "source_card_id": 10084,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "捷克罗姆",
+    "number": "003/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "D",
+    "illustrators": [
+      "AKIRA EGAWA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/2.webp",
+    "source_image": "img/184/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10085",
+    "source_card_id": 10085,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "咚咚鼠",
+    "number": "004/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "E",
+    "illustrators": [
+      "kurumitsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/3.webp",
+    "source_image": "img/184/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10086",
+    "source_card_id": 10086,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "霜奶仙",
+    "number": "005/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "E",
+    "illustrators": [
+      "OKACHEKE"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/4.webp",
+    "source_image": "img/184/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10087",
+    "source_card_id": 10087,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "诡角鹿",
+    "number": "006/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 140,
+    "regulation_mark": "F",
+    "illustrators": [
+      "kirisAki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/5.webp",
+    "source_image": "img/184/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10088",
+    "source_card_id": 10088,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "劈斧螳螂",
+    "number": "007/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 140,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Souichirou Gunjima"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/6.webp",
+    "source_image": "img/184/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10089",
+    "source_card_id": 10089,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "阿利多斯",
+    "number": "008/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Shiburingaru"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/7.webp",
+    "source_image": "img/184/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10090",
+    "source_card_id": 10090,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "花岩怪",
+    "number": "009/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Hitoshi Ariga"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/8.webp",
+    "source_image": "img/184/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10091",
+    "source_card_id": 10091,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "伽勒尔 堵拦熊",
+    "number": "010/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 160,
+    "regulation_mark": "D",
+    "illustrators": [
+      "GOSSAN"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/9.webp",
+    "source_image": "img/184/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10092",
+    "source_card_id": 10092,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "赤面龙",
+    "number": "011/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Teeziro"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/10.webp",
+    "source_image": "img/184/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10093",
+    "source_card_id": 10093,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "咕咕",
+    "number": "012/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "F",
+    "illustrators": [
+      "HYOGONOSUKE"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/11.webp",
+    "source_image": "img/184/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMC:10094",
+    "source_card_id": 10094,
+    "set_id": "CSMC",
+    "language": "zh-CN",
+    "name": "皮卡丘",
+    "number": "013/012",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Atsushi Furusawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMC/12.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMC/12.webp",
+    "source_image": "img/184/12.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/12.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

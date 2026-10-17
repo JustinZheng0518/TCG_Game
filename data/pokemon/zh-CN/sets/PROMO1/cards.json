@@ -1,0 +1,191 @@
+[
+  {
+    "id": "PROMO1:3592",
+    "source_card_id": 3592,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "胜利勋章",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/0.webp",
+    "source_image": "img/16/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3593",
+    "source_card_id": 3593,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "胜利勋章",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/1.webp",
+    "source_image": "img/16/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3594",
+    "source_card_id": 3594,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "胜利勋章",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/2.webp",
+    "source_image": "img/16/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3595",
+    "source_card_id": 3595,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/3.webp",
+    "source_image": "img/16/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3596",
+    "source_card_id": 3596,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/4.webp",
+    "source_image": "img/16/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3597",
+    "source_card_id": 3597,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/5.webp",
+    "source_image": "img/16/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3598",
+    "source_card_id": 3598,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/6.webp",
+    "source_image": "img/16/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3599",
+    "source_card_id": 3599,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/7.webp",
+    "source_image": "img/16/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO1:3600",
+    "source_card_id": 3600,
+    "set_id": "PROMO1",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "SM-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO1/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO1/8.webp",
+    "source_image": "img/16/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

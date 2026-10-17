@@ -1,0 +1,14 @@
+{
+  "id": "151C",
+  "name": "收集啦151 活动包",
+  "language": "zh-CN",
+  "release_date": "2025-01-17",
+  "series": "朱&紫",
+  "source_collection_id": 246,
+  "source_goods_type": "1",
+  "card_faces": 463,
+  "distinct_card_numbers": 185,
+  "variant_faces": 278,
+  "cards_path": "data/pokemon/zh-CN/sets/151C/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

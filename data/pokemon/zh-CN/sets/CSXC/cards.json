@@ -1,0 +1,422 @@
+[
+  {
+    "id": "CSXC:11183",
+    "source_card_id": 11183,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "古月鸟",
+    "number": "001/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Midori Harada"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/0.webp",
+    "source_image": "img/232/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11184",
+    "source_card_id": 11184,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "勾魂眼",
+    "number": "002/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 80,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Shibuzoh."
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/1.webp",
+    "source_image": "img/232/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11185",
+    "source_card_id": 11185,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "花疗环环",
+    "number": "003/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Teeziro"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/2.webp",
+    "source_image": "img/232/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11186",
+    "source_card_id": 11186,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "骑拉帝纳V",
+    "number": "004/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 220,
+    "regulation_mark": "F",
+    "illustrators": [
+      "PLANETA Mochizuki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/3.webp",
+    "source_image": "img/232/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11187",
+    "source_card_id": 11187,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "离洞绳",
+    "number": "005/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "sadaji"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/4.webp",
+    "source_image": "img/232/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11188",
+    "source_card_id": 11188,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "交替推车",
+    "number": "006/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/5.webp",
+    "source_image": "img/232/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11189",
+    "source_card_id": 11189,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "能量再利用",
+    "number": "007/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/6.webp",
+    "source_image": "img/232/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11190",
+    "source_card_id": 11190,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "高级球",
+    "number": "008/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "sadaji"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/7.webp",
+    "source_image": "img/232/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11191",
+    "source_card_id": 11191,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "对战会员通行证",
+    "number": "009/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/8.webp",
+    "source_image": "img/232/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11192",
+    "source_card_id": 11192,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "洗翠的沉重球",
+    "number": "010/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/9.webp",
+    "source_image": "img/232/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11193",
+    "source_card_id": 11193,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "幻象之门",
+    "number": "011/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "sadaji"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/10.webp",
+    "source_image": "img/232/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11194",
+    "source_card_id": 11194,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "等级球",
+    "number": "012/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/11.webp",
+    "source_image": "img/232/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11195",
+    "source_card_id": 11195,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "放逐吸尘器",
+    "number": "013/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/12.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/12.webp",
+    "source_image": "img/232/12.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/12.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11196",
+    "source_card_id": 11196,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "讲究腰带",
+    "number": "014/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/13.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/13.webp",
+    "source_image": "img/232/13.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/13.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11197",
+    "source_card_id": 11197,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "阿克罗玛的实验",
+    "number": "015/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Naoki Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/14.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/14.webp",
+    "source_image": "img/232/14.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/14.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11198",
+    "source_card_id": 11198,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "奇巴纳",
+    "number": "016/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "take"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/15.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/15.webp",
+    "source_image": "img/232/15.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/15.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11199",
+    "source_card_id": 11199,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "裁判",
+    "number": "017/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Ryuta Fuse"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/16.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/16.webp",
+    "source_image": "img/232/16.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/16.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11200",
+    "source_card_id": 11200,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "博士的研究",
+    "number": "018/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Sanosuke Sakuma"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/17.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/17.webp",
+    "source_image": "img/232/17.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/17.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11201",
+    "source_card_id": 11201,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "老大的指令",
+    "number": "019/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/18.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/18.webp",
+    "source_image": "img/232/18.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/18.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSXC:11202",
+    "source_card_id": 11202,
+    "set_id": "CSXC",
+    "language": "zh-CN",
+    "name": "放逐市",
+    "number": "020/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "AYUMI ODASHIMA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSXC/19.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSXC/19.webp",
+    "source_image": "img/232/19.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/19.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

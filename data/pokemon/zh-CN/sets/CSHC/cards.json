@@ -1,0 +1,65 @@
+[
+  {
+    "id": "CSHC:8392",
+    "source_card_id": 8392,
+    "set_id": "CSHC",
+    "language": "zh-CN",
+    "name": "雷伊布V",
+    "number": "007/009",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 190,
+    "regulation_mark": "E",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSHC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSHC/0.webp",
+    "source_image": "img/142/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/142/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSHC:8393",
+    "source_card_id": 8393,
+    "set_id": "CSHC",
+    "language": "zh-CN",
+    "name": "雷伊布VMAX",
+    "number": "008/009",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "E",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSHC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSHC/1.webp",
+    "source_image": "img/142/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/142/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSHC:8394",
+    "source_card_id": 8394,
+    "set_id": "CSHC",
+    "language": "zh-CN",
+    "name": "雷伊布VMAX",
+    "number": "009/009",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Hasuno"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSHC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSHC/2.webp",
+    "source_image": "img/142/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/142/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

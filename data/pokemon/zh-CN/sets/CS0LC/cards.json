@@ -1,0 +1,86 @@
+[
+  {
+    "id": "CS0LC:11179",
+    "source_card_id": 11179,
+    "set_id": "CS0LC",
+    "language": "zh-CN",
+    "name": "皮卡丘V",
+    "number": "001/004",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "F",
+    "illustrators": [
+      "You Iribi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS0LC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS0LC/0.webp",
+    "source_image": "img/230/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/230/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS0LC:11180",
+    "source_card_id": 11180,
+    "set_id": "CS0LC",
+    "language": "zh-CN",
+    "name": "皮卡丘VMAX",
+    "number": "002/004",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "D",
+    "illustrators": [
+      "PLANETA Mochizuki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS0LC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS0LC/1.webp",
+    "source_image": "img/230/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/230/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS0LC:11181",
+    "source_card_id": 11181,
+    "set_id": "CS0LC",
+    "language": "zh-CN",
+    "name": "伊布V",
+    "number": "003/004",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "F",
+    "illustrators": [
+      "You Iribi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS0LC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS0LC/2.webp",
+    "source_image": "img/230/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/230/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS0LC:11182",
+    "source_card_id": 11182,
+    "set_id": "CS0LC",
+    "language": "zh-CN",
+    "name": "伊布VMAX",
+    "number": "004/004",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "D",
+    "illustrators": [
+      "PLANETA Mochizuki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS0LC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS0LC/3.webp",
+    "source_image": "img/230/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/230/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

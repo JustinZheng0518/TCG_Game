@@ -1,0 +1,254 @@
+[
+  {
+    "id": "MISSION10:21858",
+    "source_card_id": 21858,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "啃果虫",
+    "number": "369/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 40,
+    "regulation_mark": "I",
+    "illustrators": [
+      "Tetsu Kayama"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/0.webp",
+    "source_image": "img/518/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21859",
+    "source_card_id": 21859,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "裹蜜虫",
+    "number": "370/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "I",
+    "illustrators": [
+      "Shigenori Negishi"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/1.webp",
+    "source_image": "img/518/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21860",
+    "source_card_id": 21860,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "蜜集大蛇",
+    "number": "371/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 170,
+    "regulation_mark": "I",
+    "illustrators": [
+      "Anesaki Dynamic"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/2.webp",
+    "source_image": "img/518/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21861",
+    "source_card_id": 21861,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "火伊布ex",
+    "number": "372/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 270,
+    "regulation_mark": "H",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/3.webp",
+    "source_image": "img/518/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21862",
+    "source_card_id": 21862,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "捷拉奥拉",
+    "number": "373/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "I",
+    "illustrators": [
+      "Ryuta Fuse"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/4.webp",
+    "source_image": "img/518/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21863",
+    "source_card_id": 21863,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "小山猪",
+    "number": "374/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "I",
+    "illustrators": [
+      "REND"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/5.webp",
+    "source_image": "img/518/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21864",
+    "source_card_id": 21864,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "长毛猪",
+    "number": "375/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "I",
+    "illustrators": [
+      "Aliya Chen"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/6.webp",
+    "source_image": "img/518/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21865",
+    "source_card_id": 21865,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "象牙猪ex",
+    "number": "376/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 340,
+    "regulation_mark": "I",
+    "illustrators": [
+      "Nisota Niso"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/7.webp",
+    "source_image": "img/518/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21866",
+    "source_card_id": 21866,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "破破袋",
+    "number": "377/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Miki Tanaka"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/8.webp",
+    "source_image": "img/518/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21867",
+    "source_card_id": 21867,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "灰尘山",
+    "number": "378/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Aya Kusube"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/9.webp",
+    "source_image": "img/518/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21868",
+    "source_card_id": 21868,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "岩石胸甲",
+    "number": "379/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/10.webp",
+    "source_image": "img/518/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION10:21869",
+    "source_card_id": 21869,
+    "set_id": "MISSION10",
+    "language": "zh-CN",
+    "name": "宝可梦联盟总部",
+    "number": "380/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Oswaldo KATO"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION10/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION10/11.webp",
+    "source_image": "img/518/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

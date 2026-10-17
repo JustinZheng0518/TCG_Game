@@ -1,0 +1,275 @@
+[
+  {
+    "id": "MISSION03:14085",
+    "source_card_id": 14085,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "迷你芙",
+    "number": "051/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Misa Tsutsui"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/0.webp",
+    "source_image": "img/278/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14086",
+    "source_card_id": 14086,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "卡蒂狗",
+    "number": "052/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "kawayoo"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/1.webp",
+    "source_image": "img/278/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14087",
+    "source_card_id": 14087,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "海地鼠",
+    "number": "053/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Shin Nagasawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/2.webp",
+    "source_image": "img/278/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14088",
+    "source_card_id": 14088,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "三海地鼠",
+    "number": "054/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "G",
+    "illustrators": [
+      "KIYOTAKA OSHIYAMA"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/3.webp",
+    "source_image": "img/278/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14089",
+    "source_card_id": 14089,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "凉脊龙",
+    "number": "055/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "rika"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/4.webp",
+    "source_image": "img/278/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14090",
+    "source_card_id": 14090,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "冻脊龙",
+    "number": "056/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Teeziro"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/5.webp",
+    "source_image": "img/278/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14091",
+    "source_card_id": 14091,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "布拨",
+    "number": "057/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Tika Matsuno"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/6.webp",
+    "source_image": "img/278/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14092",
+    "source_card_id": 14092,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "巴布土拨",
+    "number": "058/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/7.webp",
+    "source_image": "img/278/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14093",
+    "source_card_id": 14093,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "飘飘雏",
+    "number": "059/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 30,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Hitoshi Ariga"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/8.webp",
+    "source_image": "img/278/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14094",
+    "source_card_id": 14094,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "袋兽ex",
+    "number": "060/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 230,
+    "regulation_mark": "G",
+    "illustrators": [
+      "N-DESIGN Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/9.webp",
+    "source_image": "img/278/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14095",
+    "source_card_id": 14095,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "伊布",
+    "number": "061/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "saino misaki"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/10.webp",
+    "source_image": "img/278/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14096",
+    "source_card_id": 14096,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "海地鼠",
+    "number": "062/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Misa Tsutsui"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/11.webp",
+    "source_image": "img/278/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION03:14097",
+    "source_card_id": 14097,
+    "set_id": "MISSION03",
+    "language": "zh-CN",
+    "name": "三海地鼠",
+    "number": "063/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Kyoko Umemoto"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION03/12.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION03/12.webp",
+    "source_image": "img/278/12.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/12.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

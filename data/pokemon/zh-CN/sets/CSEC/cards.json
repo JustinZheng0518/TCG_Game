@@ -1,0 +1,86 @@
+[
+  {
+    "id": "CSEC:7574",
+    "source_card_id": 7574,
+    "set_id": "CSEC",
+    "language": "zh-CN",
+    "name": "超梦V-UNION",
+    "number": "009/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "AKIRA EGAWA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC/0.webp",
+    "source_image": "img/122/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/122/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC:7575",
+    "source_card_id": 7575,
+    "set_id": "CSEC",
+    "language": "zh-CN",
+    "name": "超梦V-UNION",
+    "number": "010/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "AKIRA EGAWA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC/1.webp",
+    "source_image": "img/122/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/122/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC:7576",
+    "source_card_id": 7576,
+    "set_id": "CSEC",
+    "language": "zh-CN",
+    "name": "超梦V-UNION",
+    "number": "011/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "AKIRA EGAWA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC/2.webp",
+    "source_image": "img/122/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/122/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC:7577",
+    "source_card_id": 7577,
+    "set_id": "CSEC",
+    "language": "zh-CN",
+    "name": "超梦V-UNION",
+    "number": "012/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "AKIRA EGAWA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC/3.webp",
+    "source_image": "img/122/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/122/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

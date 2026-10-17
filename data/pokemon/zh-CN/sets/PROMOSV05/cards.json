@@ -1,0 +1,128 @@
+[
+  {
+    "id": "PROMOSV05:14645",
+    "source_card_id": 14645,
+    "set_id": "PROMOSV05",
+    "language": "zh-CN",
+    "name": "妙蛙种子",
+    "number": "066/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "OKACHEKE"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV05/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV05/0.webp",
+    "source_image": "img/291/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/291/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV05:14646",
+    "source_card_id": 14646,
+    "set_id": "PROMOSV05",
+    "language": "zh-CN",
+    "name": "小火龙",
+    "number": "067/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "NC Empire"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV05/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV05/1.webp",
+    "source_image": "img/291/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/291/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV05:14647",
+    "source_card_id": 14647,
+    "set_id": "PROMOSV05",
+    "language": "zh-CN",
+    "name": "杰尼龟",
+    "number": "068/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Gemi"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV05/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV05/2.webp",
+    "source_image": "img/291/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/291/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV05:14648",
+    "source_card_id": 14648,
+    "set_id": "PROMOSV05",
+    "language": "zh-CN",
+    "name": "妙蛙种子",
+    "number": "069/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "OKACHEKE"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV05/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV05/3.webp",
+    "source_image": "img/291/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/291/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV05:14649",
+    "source_card_id": 14649,
+    "set_id": "PROMOSV05",
+    "language": "zh-CN",
+    "name": "小火龙",
+    "number": "070/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "NC Empire"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV05/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV05/4.webp",
+    "source_image": "img/291/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/291/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV05:14650",
+    "source_card_id": 14650,
+    "set_id": "PROMOSV05",
+    "language": "zh-CN",
+    "name": "杰尼龟",
+    "number": "071/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Gemi"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV05/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV05/5.webp",
+    "source_image": "img/291/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/291/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

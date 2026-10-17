@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMOSV151m3:15464",
+    "source_card_id": 15464,
+    "set_id": "PROMOSV151m3",
+    "language": "zh-CN",
+    "name": "杰尼龟",
+    "number": "099/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Saboteri"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV151m3/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV151m3/0.webp",
+    "source_image": "img/304/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/304/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

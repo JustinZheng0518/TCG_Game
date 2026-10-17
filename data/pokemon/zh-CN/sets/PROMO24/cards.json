@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMO24:10933",
+    "source_card_id": 10933,
+    "set_id": "PROMO24",
+    "language": "zh-CN",
+    "name": "喷火龙VSTAR",
+    "number": "143/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 280,
+    "regulation_mark": "F",
+    "illustrators": [
+      "KIYOTAKA OSHIYAMA"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO24/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO24/0.webp",
+    "source_image": "img/220/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/220/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

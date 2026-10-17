@@ -1,0 +1,128 @@
+[
+  {
+    "id": "CSVH5pC:21245",
+    "source_card_id": 21245,
+    "set_id": "CSVH5pC",
+    "language": "zh-CN",
+    "name": "风速狗ex",
+    "number": "001/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 280,
+    "regulation_mark": "G",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH5pC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH5pC/0.webp",
+    "source_image": "img/490/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/490/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH5pC:21246",
+    "source_card_id": 21246,
+    "set_id": "CSVH5pC",
+    "language": "zh-CN",
+    "name": "呆呆王ex",
+    "number": "002/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 270,
+    "regulation_mark": "G",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH5pC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH5pC/1.webp",
+    "source_image": "img/490/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/490/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH5pC:21247",
+    "source_card_id": 21247,
+    "set_id": "CSVH5pC",
+    "language": "zh-CN",
+    "name": "咚咚鼠ex",
+    "number": "003/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 170,
+    "regulation_mark": "G",
+    "illustrators": [
+      "aky CG Works"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH5pC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH5pC/2.webp",
+    "source_image": "img/490/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/490/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH5pC:21248",
+    "source_card_id": 21248,
+    "set_id": "CSVH5pC",
+    "language": "zh-CN",
+    "name": "谜拟丘ex",
+    "number": "004/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 190,
+    "regulation_mark": "H",
+    "illustrators": [
+      "PLANETA Igarashi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH5pC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH5pC/3.webp",
+    "source_image": "img/490/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/490/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH5pC:21249",
+    "source_card_id": 21249,
+    "set_id": "CSVH5pC",
+    "language": "zh-CN",
+    "name": "路卡利欧ex",
+    "number": "005/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 260,
+    "regulation_mark": "H",
+    "illustrators": [
+      "PLANETA Tsuji"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH5pC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH5pC/4.webp",
+    "source_image": "img/490/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/490/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH5pC:21250",
+    "source_card_id": 21250,
+    "set_id": "CSVH5pC",
+    "language": "zh-CN",
+    "name": "故勒顿ex",
+    "number": "006/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 230,
+    "regulation_mark": "H",
+    "illustrators": [
+      "PLANETA Igarashi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH5pC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH5pC/5.webp",
+    "source_image": "img/490/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/490/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

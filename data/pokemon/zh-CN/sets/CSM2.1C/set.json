@@ -1,0 +1,14 @@
+{
+  "id": "CSM2.1C",
+  "name": "辉金能量礼盒&辉金能量进阶礼盒",
+  "language": "zh-CN",
+  "release_date": "2023-09-09",
+  "series": "太阳&月亮",
+  "source_collection_id": 81,
+  "source_goods_type": "3",
+  "card_faces": 54,
+  "distinct_card_numbers": 54,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/CSM2.1C/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

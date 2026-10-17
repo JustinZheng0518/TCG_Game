@@ -1,0 +1,212 @@
+[
+  {
+    "id": "promosvPaldea:17267",
+    "source_card_id": 17267,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "青木",
+    "number": "201/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Akira Komayama"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/0.webp",
+    "source_image": "img/456/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17268",
+    "source_card_id": 17268,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "古鲁夏",
+    "number": "202/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/1.webp",
+    "source_image": "img/456/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17269",
+    "source_card_id": 17269,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "寇沙",
+    "number": "203/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/2.webp",
+    "source_image": "img/456/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17270",
+    "source_card_id": 17270,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "辛俐",
+    "number": "204/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/3.webp",
+    "source_image": "img/456/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17271",
+    "source_card_id": 17271,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "奇树",
+    "number": "205/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Sanosuke Sakuma"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/4.webp",
+    "source_image": "img/456/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17272",
+    "source_card_id": 17272,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "妮莫",
+    "number": "206/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Sanosuke Sakuma"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/5.webp",
+    "source_image": "img/456/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17273",
+    "source_card_id": 17273,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "派帕",
+    "number": "207/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/6.webp",
+    "source_image": "img/456/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17274",
+    "source_card_id": 17274,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "牡丹",
+    "number": "208/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "yuu"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/7.webp",
+    "source_image": "img/456/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17275",
+    "source_card_id": 17275,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "帕底亚的学生",
+    "number": "209/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Cona Nitanda"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/8.webp",
+    "source_image": "img/456/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "promosvPaldea:17276",
+    "source_card_id": 17276,
+    "set_id": "promosvPaldea",
+    "language": "zh-CN",
+    "name": "帕底亚的学生",
+    "number": "210/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Naoki Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/promosvPaldea/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/promosvPaldea/9.webp",
+    "source_image": "img/456/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "CSV8C",
+  "name": "补充包 璀璨诡幻",
+  "language": "zh-CN",
+  "release_date": "2026-03-13",
+  "series": "朱&紫",
+  "source_collection_id": 458,
+  "source_goods_type": "1",
+  "card_faces": 616,
+  "distinct_card_numbers": 264,
+  "variant_faces": 352,
+  "cards_path": "data/pokemon/zh-CN/sets/CSV8C/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

@@ -1,0 +1,51 @@
+{
+  "sources": {
+    "pokemon": {
+      "repository": "PokemonTCG/pokemon-tcg-data",
+      "commit": "39a26a144c8b6ef6c2fb17b2c29d0bb7121e3a11",
+      "sha256": "ea53e5dff983df11c002b25c58c595586c5744ba4bc04e480bbbb7ab41ddd681"
+    },
+    "tcgdex": {
+      "repository": "tcgdex/cards-database",
+      "commit": "af57972e8f784c2507ab9e573c99bf02ae2e5e42",
+      "sha256": "96669c788ed908b97b43726dc8aaf8635412e03fcba2bcd9b91d3bd4595a7da8"
+    }
+  },
+  "english": {
+    "sets": 176,
+    "cards": 20635,
+    "first_set_release": "1999-01-09",
+    "latest_set_release": "2026-09-16",
+    "image_files_downloaded": 0
+  },
+  "tcgdex": {
+    "card_records": 42316,
+    "set_records": 569,
+    "physical_card_records": 39836,
+    "pocket_card_records": 2480,
+    "name_records_by_language": {
+      "de": 21070,
+      "en": 23771,
+      "es": 15657,
+      "es-mx": 2034,
+      "fr": 22242,
+      "id": 2788,
+      "it": 15788,
+      "ja": 13449,
+      "ko": 1363,
+      "pt": 14535,
+      "pt-br": 1124,
+      "th": 2994,
+      "zh-cn": 877,
+      "zh-tw": 7587
+    },
+    "unresolved_files": [],
+    "note": "Candidate URLs are NOT evidence that images exist. Languages reflect metadata, not verified scans. Overlaps with the English catalog; do not add totals."
+  },
+  "basketball": {
+    "cards": 0,
+    "image_files_downloaded": 0,
+    "status": "pending_source_access_and_validation"
+  },
+  "complete_historical_coverage": false
+}

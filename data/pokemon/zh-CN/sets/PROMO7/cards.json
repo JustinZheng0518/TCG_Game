@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMO7:5914",
+    "source_card_id": 5914,
+    "set_id": "PROMO7",
+    "language": "zh-CN",
+    "name": "喷火龙VMAX",
+    "number": "080/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 330,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Shiburingaru"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO7/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO7/0.webp",
+    "source_image": "img/79/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/79/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "CSEC4:7570",
+    "source_card_id": 7570,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "005/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Mitsuhiro Arita"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/0.webp",
+    "source_image": "img/119/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC4:7571",
+    "source_card_id": 7571,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "006/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Mitsuhiro Arita"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/1.webp",
+    "source_image": "img/119/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC4:7572",
+    "source_card_id": 7572,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "007/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Mitsuhiro Arita"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/2.webp",
+    "source_image": "img/119/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC4:7573",
+    "source_card_id": 7573,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "008/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Mitsuhiro Arita"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/3.webp",
+    "source_image": "img/119/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC4:7582",
+    "source_card_id": 7582,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "017/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Yuu Nishida"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/4.webp",
+    "source_image": "img/119/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC4:7583",
+    "source_card_id": 7583,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "018/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Yuu Nishida"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/5.webp",
+    "source_image": "img/119/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC4:7584",
+    "source_card_id": 7584,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "019/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Yuu Nishida"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/6.webp",
+    "source_image": "img/119/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSEC4:7585",
+    "source_card_id": 7585,
+    "set_id": "CSEC4",
+    "language": "zh-CN",
+    "name": "莫鲁贝可V-UNION",
+    "number": "020/020",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 310,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Yuu Nishida"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSEC4/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSEC4/7.webp",
+    "source_image": "img/119/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

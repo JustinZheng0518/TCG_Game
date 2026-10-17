@@ -1,0 +1,14 @@
+{
+  "id": "CSVE1C1",
+  "name": "对战派对 共梦 上",
+  "language": "zh-CN",
+  "release_date": "2025-02-28",
+  "series": "朱&紫",
+  "source_collection_id": 251,
+  "source_goods_type": "3",
+  "card_faces": 151,
+  "distinct_card_numbers": 135,
+  "variant_faces": 16,
+  "cards_path": "data/pokemon/zh-CN/sets/CSVE1C1/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

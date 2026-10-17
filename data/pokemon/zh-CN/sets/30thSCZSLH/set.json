@@ -1,0 +1,14 @@
+{
+  "id": "30thSCZSLH",
+  "name": "收藏展示礼盒 太阳伊布ex&月亮伊布ex",
+  "language": "zh-CN",
+  "release_date": "2026-09-16",
+  "series": "其他",
+  "source_collection_id": 525,
+  "source_goods_type": "3",
+  "card_faces": 2,
+  "distinct_card_numbers": 2,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/30thSCZSLH/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

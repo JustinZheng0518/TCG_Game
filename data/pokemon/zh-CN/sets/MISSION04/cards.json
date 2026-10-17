@@ -1,0 +1,275 @@
+[
+  {
+    "id": "MISSION04:15269",
+    "source_card_id": 15269,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "团珠蛛",
+    "number": "073/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 40,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Tika Matsuno"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/0.webp",
+    "source_image": "img/292/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15270",
+    "source_card_id": 15270,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "小猫怪",
+    "number": "074/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 40,
+    "regulation_mark": "G",
+    "illustrators": [
+      "kurumitsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/1.webp",
+    "source_image": "img/292/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15271",
+    "source_card_id": 15271,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "电音婴",
+    "number": "075/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Natsumi Yoshida"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/2.webp",
+    "source_image": "img/292/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15272",
+    "source_card_id": 15272,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "光蚪仔",
+    "number": "076/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Tika Matsuno"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/3.webp",
+    "source_image": "img/292/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15273",
+    "source_card_id": 15273,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "天然雀",
+    "number": "077/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Teeziro"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/4.webp",
+    "source_image": "img/292/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15274",
+    "source_card_id": 15274,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "天然鸟",
+    "number": "078/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GOSSAN"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/5.webp",
+    "source_image": "img/292/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15275",
+    "source_card_id": 15275,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "摔角鹰人",
+    "number": "079/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Yuya Oka"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/6.webp",
+    "source_image": "img/292/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15276",
+    "source_card_id": 15276,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "盐石宝",
+    "number": "080/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Pani Kobayashi"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/7.webp",
+    "source_image": "img/292/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15277",
+    "source_card_id": 15277,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "黑鲁加ex",
+    "number": "081/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 270,
+    "regulation_mark": "G",
+    "illustrators": [
+      "PLANETA Tsuji"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/8.webp",
+    "source_image": "img/292/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15278",
+    "source_card_id": 15278,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "爱吃豚",
+    "number": "082/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Mina Nakai"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/9.webp",
+    "source_image": "img/292/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15279",
+    "source_card_id": 15279,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "一对鼠",
+    "number": "083/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 40,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Sekio"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/10.webp",
+    "source_image": "img/292/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15280",
+    "source_card_id": 15280,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "天然雀",
+    "number": "084/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "G",
+    "illustrators": [
+      "sowsow"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/11.webp",
+    "source_image": "img/292/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "MISSION04:15281",
+    "source_card_id": 15281,
+    "set_id": "MISSION04",
+    "language": "zh-CN",
+    "name": "天然鸟",
+    "number": "085/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "G",
+    "illustrators": [
+      "nagimiso"
+    ],
+    "image": "data/images/pokemon/zh-CN/MISSION04/12.png",
+    "thumbnail": "data/images/pokemon/zh-CN/MISSION04/12.webp",
+    "source_image": "img/292/12.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/12.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

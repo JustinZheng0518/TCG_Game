@@ -1,0 +1,65 @@
+[
+  {
+    "id": "PROMOCBB01:17066",
+    "source_card_id": 17066,
+    "set_id": "PROMOCBB01",
+    "language": "zh-CN",
+    "name": "新叶喵",
+    "number": "118/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Yuu Nishida"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOCBB01/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOCBB01/0.webp",
+    "source_image": "img/337/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/337/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOCBB01:17067",
+    "source_card_id": 17067,
+    "set_id": "PROMOCBB01",
+    "language": "zh-CN",
+    "name": "呆火鳄",
+    "number": "119/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 80,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Ryuta Fuse"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOCBB01/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOCBB01/1.webp",
+    "source_image": "img/337/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/337/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOCBB01:17068",
+    "source_card_id": 17068,
+    "set_id": "PROMOCBB01",
+    "language": "zh-CN",
+    "name": "润水鸭",
+    "number": "120/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Narumi Sato"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOCBB01/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOCBB01/2.webp",
+    "source_image": "img/337/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/337/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

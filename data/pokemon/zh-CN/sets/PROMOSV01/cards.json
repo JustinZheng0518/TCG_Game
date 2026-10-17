@@ -1,0 +1,86 @@
+[
+  {
+    "id": "PROMOSV01:13142",
+    "source_card_id": 13142,
+    "set_id": "PROMOSV01",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV01/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV01/0.webp",
+    "source_image": "img/260/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/260/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV01:13143",
+    "source_card_id": 13143,
+    "set_id": "PROMOSV01",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV01/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV01/1.webp",
+    "source_image": "img/260/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/260/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV01:13144",
+    "source_card_id": 13144,
+    "set_id": "PROMOSV01",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV01/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV01/2.webp",
+    "source_image": "img/260/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/260/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV01:13145",
+    "source_card_id": 13145,
+    "set_id": "PROMOSV01",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV01/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV01/3.webp",
+    "source_image": "img/260/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/260/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

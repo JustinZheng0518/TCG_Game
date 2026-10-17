@@ -1,0 +1,14 @@
+{
+  "id": "CSVE1pC2",
+  "name": "对战派对 共梦 下 奖赏包",
+  "language": "zh-CN",
+  "release_date": "2025-04-18",
+  "series": "朱&紫",
+  "source_collection_id": 257,
+  "source_goods_type": "3",
+  "card_faces": 12,
+  "distinct_card_numbers": 12,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/CSVE1pC2/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

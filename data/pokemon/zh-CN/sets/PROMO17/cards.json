@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMO17:10095",
+    "source_card_id": 10095,
+    "set_id": "PROMO17",
+    "language": "zh-CN",
+    "name": "珠贝",
+    "number": "139/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "kirisAki"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO17/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO17/0.webp",
+    "source_image": "img/186/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/186/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

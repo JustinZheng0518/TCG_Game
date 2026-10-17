@@ -1,0 +1,14 @@
+{
+  "id": "CBB2C",
+  "name": "宝石包 VOL.2",
+  "language": "zh-CN",
+  "release_date": "2025-05-16",
+  "series": "朱&紫",
+  "source_collection_id": 264,
+  "source_goods_type": "1",
+  "card_faces": 140,
+  "distinct_card_numbers": 140,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/CBB2C/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

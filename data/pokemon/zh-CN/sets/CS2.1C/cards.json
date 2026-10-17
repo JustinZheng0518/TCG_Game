@@ -1,0 +1,212 @@
+[
+  {
+    "id": "CS2.1C:7241",
+    "source_card_id": 7241,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "喵喵V",
+    "number": "001/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 180,
+    "regulation_mark": "D",
+    "illustrators": [
+      "aky CG Works"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/0.webp",
+    "source_image": "img/102/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7242",
+    "source_card_id": 7242,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "喵喵VMAX",
+    "number": "002/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 300,
+    "regulation_mark": "D",
+    "illustrators": [
+      "aky CG Works"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/1.webp",
+    "source_image": "img/102/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7243",
+    "source_card_id": 7243,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "朋友手册",
+    "number": "003/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/2.webp",
+    "source_image": "img/102/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7244",
+    "source_card_id": 7244,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "哞哞乳酪",
+    "number": "004/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/3.webp",
+    "source_image": "img/102/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7245",
+    "source_card_id": 7245,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "大阳伞",
+    "number": "005/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/4.webp",
+    "source_image": "img/102/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7246",
+    "source_card_id": 7246,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "望远镜",
+    "number": "006/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/5.webp",
+    "source_image": "img/102/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7247",
+    "source_card_id": 7247,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "呐喊队手下",
+    "number": "007/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "nagimiso"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/6.webp",
+    "source_image": "img/102/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7248",
+    "source_card_id": 7248,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "伽勒尔矿山",
+    "number": "008/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/7.webp",
+    "source_image": "img/102/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7249",
+    "source_card_id": 7249,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "等级球",
+    "number": "009/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/8.webp",
+    "source_image": "img/102/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CS2.1C:7250",
+    "source_card_id": 7250,
+    "set_id": "CS2.1C",
+    "language": "zh-CN",
+    "name": "西餐厨师",
+    "number": "010/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Sanosuke Sakuma"
+    ],
+    "image": "data/images/pokemon/zh-CN/CS2.1C/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CS2.1C/9.webp",
+    "source_image": "img/102/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

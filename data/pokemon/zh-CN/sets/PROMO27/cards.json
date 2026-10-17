@@ -1,0 +1,191 @@
+[
+  {
+    "id": "PROMO27:11355",
+    "source_card_id": 11355,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "胜利之证",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/0.webp",
+    "source_image": "img/236/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11356",
+    "source_card_id": 11356,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "胜利之证",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/1.webp",
+    "source_image": "img/236/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11357",
+    "source_card_id": 11357,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "胜利之证",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/2.webp",
+    "source_image": "img/236/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11358",
+    "source_card_id": 11358,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/3.webp",
+    "source_image": "img/236/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11359",
+    "source_card_id": 11359,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/4.webp",
+    "source_image": "img/236/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11360",
+    "source_card_id": 11360,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/5.webp",
+    "source_image": "img/236/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11361",
+    "source_card_id": 11361,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/6.webp",
+    "source_image": "img/236/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11362",
+    "source_card_id": 11362,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/7.webp",
+    "source_image": "img/236/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO27:11363",
+    "source_card_id": 11363,
+    "set_id": "PROMO27",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO27/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO27/8.webp",
+    "source_image": "img/236/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

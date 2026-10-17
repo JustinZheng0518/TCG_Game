@@ -1,0 +1,212 @@
+[
+  {
+    "id": "CSMPkC:7380",
+    "source_card_id": 7380,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "炎帝GX",
+    "number": "001/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 180,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/0.webp",
+    "source_image": "img/109/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7381",
+    "source_card_id": 7381,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "凤王GX",
+    "number": "002/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 190,
+    "regulation_mark": "A",
+    "illustrators": [
+      "PLANETA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/1.webp",
+    "source_image": "img/109/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7382",
+    "source_card_id": 7382,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "煤炭龟",
+    "number": "003/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "B",
+    "illustrators": [
+      "Ken Sugimori"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/2.webp",
+    "source_image": "img/109/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7383",
+    "source_card_id": 7383,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "比克提尼",
+    "number": "004/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "B",
+    "illustrators": [
+      "sowsow"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/3.webp",
+    "source_image": "img/109/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7384",
+    "source_card_id": 7384,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "爆焰龟兽",
+    "number": "005/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "B",
+    "illustrators": [
+      "Sumiyoshi Kizuki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/4.webp",
+    "source_image": "img/109/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7385",
+    "source_card_id": 7385,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "老翁龙GX",
+    "number": "006/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 180,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/5.webp",
+    "source_image": "img/109/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7386",
+    "source_card_id": 7386,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "能量转移",
+    "number": "007/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/6.webp",
+    "source_image": "img/109/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7387",
+    "source_card_id": 7387,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "能量再利用",
+    "number": "008/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/7.webp",
+    "source_image": "img/109/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7388",
+    "source_card_id": 7388,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "超强药水",
+    "number": "009/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "C",
+    "illustrators": [
+      "Yoshinobu Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/8.webp",
+    "source_image": "img/109/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPkC:7389",
+    "source_card_id": 7389,
+    "set_id": "CSMPkC",
+    "language": "zh-CN",
+    "name": "朋友手册",
+    "number": "010/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "B",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPkC/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPkC/9.webp",
+    "source_image": "img/109/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

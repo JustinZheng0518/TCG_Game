@@ -1,0 +1,212 @@
+[
+  {
+    "id": "CSMPoC:7350",
+    "source_card_id": 7350,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "大岩蛇GX",
+    "number": "001/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "C",
+    "illustrators": [
+      "PLANETA Igarashi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/0.webp",
+    "source_image": "img/105/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7351",
+    "source_card_id": 7351,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "打击鬼",
+    "number": "002/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Shigenori Negishi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/1.webp",
+    "source_image": "img/105/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7352",
+    "source_card_id": 7352,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "土地云",
+    "number": "003/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "C",
+    "illustrators": [
+      "Hasuno"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/2.webp",
+    "source_image": "img/105/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7353",
+    "source_card_id": 7353,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "基格尔德",
+    "number": "004/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "B",
+    "illustrators": [
+      "Mitsuhiro Arita"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/3.webp",
+    "source_image": "img/105/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7354",
+    "source_card_id": 7354,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "基格尔德GX",
+    "number": "005/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "B",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/4.webp",
+    "source_image": "img/105/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7355",
+    "source_card_id": 7355,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "肯泰罗GX",
+    "number": "006/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 180,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/5.webp",
+    "source_image": "img/105/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7356",
+    "source_card_id": 7356,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "朋友手册",
+    "number": "007/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "B",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/6.webp",
+    "source_image": "img/105/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7357",
+    "source_card_id": 7357,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "讲究头带",
+    "number": "008/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Eske Yoshinob"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/7.webp",
+    "source_image": "img/105/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7358",
+    "source_card_id": 7358,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "阿塞萝拉",
+    "number": "009/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "Ken Sugimori"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/8.webp",
+    "source_image": "img/105/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMPoC:7359",
+    "source_card_id": 7359,
+    "set_id": "CSMPoC",
+    "language": "zh-CN",
+    "name": "潺潺之丘",
+    "number": "010/010",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMPoC/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMPoC/9.webp",
+    "source_image": "img/105/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

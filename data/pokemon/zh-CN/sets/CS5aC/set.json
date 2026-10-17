@@ -1,0 +1,14 @@
+{
+  "id": "CS5aC",
+  "name": "补充包 勇魅群星 魅",
+  "language": "zh-CN",
+  "release_date": "2024-06-18",
+  "series": "剑&盾",
+  "source_collection_id": 183,
+  "source_goods_type": "1",
+  "card_faces": 275,
+  "distinct_card_numbers": 176,
+  "variant_faces": 99,
+  "cards_path": "data/pokemon/zh-CN/sets/CS5aC/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

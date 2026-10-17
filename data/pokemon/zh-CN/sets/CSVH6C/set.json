@@ -1,0 +1,14 @@
+{
+  "id": "CSVH6C",
+  "name": "嗨皮卡组 训练家的宝可梦",
+  "language": "zh-CN",
+  "release_date": "2026-10-16",
+  "series": "朱&紫",
+  "source_collection_id": 530,
+  "source_goods_type": "2",
+  "card_faces": 180,
+  "distinct_card_numbers": 59,
+  "variant_faces": 121,
+  "cards_path": "data/pokemon/zh-CN/sets/CSVH6C/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

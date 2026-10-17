@@ -1,0 +1,252 @@
+[
+  {
+    "id": "CSVE1pC:12488",
+    "source_card_id": 12488,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "妙蛙花ex",
+    "number": "001/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 340,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Saki Hayashiro"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/0.webp",
+    "source_image": "img/250/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12489",
+    "source_card_id": 12489,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "喷火龙ex",
+    "number": "002/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 330,
+    "regulation_mark": "G",
+    "illustrators": [
+      "PLANETA Mochizuki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/1.webp",
+    "source_image": "img/250/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12490",
+    "source_card_id": 12490,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "水箭龟ex",
+    "number": "003/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 330,
+    "regulation_mark": "G",
+    "illustrators": [
+      "PLANETA Igarashi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/2.webp",
+    "source_image": "img/250/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12491",
+    "source_card_id": 12491,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "章鱼桶",
+    "number": "004/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "E",
+    "illustrators": [
+      "KIYOTAKA OSHIYAMA"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/3.webp",
+    "source_image": "img/250/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12492",
+    "source_card_id": 12492,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "茸茸羊",
+    "number": "005/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Pani Kobayashi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/4.webp",
+    "source_image": "img/250/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12493",
+    "source_card_id": 12493,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "光辉沙奈朵",
+    "number": "006/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Ryuta Fuse"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/5.webp",
+    "source_image": "img/250/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12494",
+    "source_card_id": 12494,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "黑鲁加",
+    "number": "007/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Uta"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/6.webp",
+    "source_image": "img/250/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12495",
+    "source_card_id": 12495,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "神奇糖果",
+    "number": "008/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/7.webp",
+    "source_image": "img/250/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12496",
+    "source_card_id": 12496,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "救援行李箱",
+    "number": "009/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/8.webp",
+    "source_image": "img/250/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12497",
+    "source_card_id": 12497,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "等级球",
+    "number": "010/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Ryo Ueda"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/9.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/9.webp",
+    "source_image": "img/250/9.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/9.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12498",
+    "source_card_id": 12498,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "博士的研究",
+    "number": "011/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "kirisAki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/10.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/10.webp",
+    "source_image": "img/250/10.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/10.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVE1pC:12499",
+    "source_card_id": 12499,
+    "set_id": "CSVE1pC",
+    "language": "zh-CN",
+    "name": "基本雷能量",
+    "number": "012/024",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "能量",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [],
+    "image": "data/images/pokemon/zh-CN/CSVE1pC/11.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVE1pC/11.webp",
+    "source_image": "img/250/11.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/11.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "CSGC:8219",
+    "source_card_id": 8219,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "苹裹龙",
+    "number": "001/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 80,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Misaki Hashimoto"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/0.webp",
+    "source_image": "img/133/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSGC:8220",
+    "source_card_id": 8220,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "火伊布",
+    "number": "002/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "D",
+    "illustrators": [
+      "You Iribi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/1.webp",
+    "source_image": "img/133/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSGC:8221",
+    "source_card_id": 8221,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "水伊布",
+    "number": "003/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 110,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Jiro Sasumo"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/2.webp",
+    "source_image": "img/133/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSGC:8222",
+    "source_card_id": 8222,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "雪绒蛾",
+    "number": "004/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "D",
+    "illustrators": [
+      "aoki"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/3.webp",
+    "source_image": "img/133/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSGC:8223",
+    "source_card_id": 8223,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "雷伊布",
+    "number": "005/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "D",
+    "illustrators": [
+      "DOM"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/4.webp",
+    "source_image": "img/133/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSGC:8224",
+    "source_card_id": 8224,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "黑夜魔灵",
+    "number": "006/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 150,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Megumi Higuchi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/5.webp",
+    "source_image": "img/133/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSGC:8225",
+    "source_card_id": 8225,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "伊布",
+    "number": "007/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Souichirou Gunjima"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/6.webp",
+    "source_image": "img/133/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSGC:8226",
+    "source_card_id": 8226,
+    "set_id": "CSGC",
+    "language": "zh-CN",
+    "name": "智挥猩",
+    "number": "008/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 120,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Akira Komayama"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSGC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSGC/7.webp",
+    "source_image": "img/133/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

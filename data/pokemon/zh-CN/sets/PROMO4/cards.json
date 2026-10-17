@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PROMO4:5089",
+    "source_card_id": 5089,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/0.webp",
+    "source_image": "img/33/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO4:5090",
+    "source_card_id": 5090,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/1.webp",
+    "source_image": "img/33/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO4:5091",
+    "source_card_id": 5091,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/2.webp",
+    "source_image": "img/33/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO4:5092",
+    "source_card_id": 5092,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/3.webp",
+    "source_image": "img/33/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO4:13071",
+    "source_card_id": 13071,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/4.webp",
+    "source_image": "img/33/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO4:13072",
+    "source_card_id": 13072,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/5.webp",
+    "source_image": "img/33/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO4:13073",
+    "source_card_id": 13073,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/6.webp",
+    "source_image": "img/33/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO4:13074",
+    "source_card_id": 13074,
+    "set_id": "PROMO4",
+    "language": "zh-CN",
+    "name": "超级球",
+    "number": "S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO4/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO4/7.webp",
+    "source_image": "img/33/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

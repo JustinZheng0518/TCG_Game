@@ -1,0 +1,44 @@
+[
+  {
+    "id": "PROMO11:6175",
+    "source_card_id": 6175,
+    "set_id": "PROMO11",
+    "language": "zh-CN",
+    "name": "阿罗拉的伙伴",
+    "number": "081/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "C",
+    "illustrators": [
+      "Naoki Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO11/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO11/0.webp",
+    "source_image": "img/88/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/88/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO11:6176",
+    "source_card_id": 6176,
+    "set_id": "PROMO11",
+    "language": "zh-CN",
+    "name": "伽勒尔的伙伴",
+    "number": "082/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Sanosuke Sakuma"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO11/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO11/1.webp",
+    "source_image": "img/88/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/88/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

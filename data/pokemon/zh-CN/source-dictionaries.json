@@ -1,0 +1,1032 @@
+{
+  "regulation_mark": [
+    {
+      "id": 88,
+      "typeCode": "regulation_mark",
+      "dictCode": "1",
+      "dictValue": "A",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 89,
+      "typeCode": "regulation_mark",
+      "dictCode": "2",
+      "dictValue": "B",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 90,
+      "typeCode": "regulation_mark",
+      "dictCode": "3",
+      "dictValue": "C",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 91,
+      "typeCode": "regulation_mark",
+      "dictCode": "4",
+      "dictValue": "D",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 92,
+      "typeCode": "regulation_mark",
+      "dictCode": "5",
+      "dictValue": "E",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 93,
+      "typeCode": "regulation_mark",
+      "dictCode": "6",
+      "dictValue": "F",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 405,
+      "typeCode": "regulation_mark",
+      "dictCode": "7",
+      "dictValue": "G",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 406,
+      "typeCode": "regulation_mark",
+      "dictCode": "8",
+      "dictValue": "H",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 724,
+      "typeCode": "regulation_mark",
+      "dictCode": "9",
+      "dictValue": "I",
+      "dictSort": 9,
+      "status": 1
+    },
+    {
+      "id": 817,
+      "typeCode": "regulation_mark",
+      "dictCode": "10",
+      "dictValue": "J",
+      "dictSort": 10,
+      "status": 1
+    },
+    {
+      "id": 949,
+      "typeCode": "regulation_mark",
+      "dictCode": "99",
+      "dictValue": "无标记",
+      "dictSort": 99,
+      "status": 1
+    }
+  ],
+  "pokemon_type": [
+    {
+      "id": 420,
+      "typeCode": "pokemon_type",
+      "dictCode": "11",
+      "dictValue": "宝可梦ex",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 12,
+      "typeCode": "pokemon_type",
+      "dictCode": "1",
+      "dictValue": "宝可梦V",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 13,
+      "typeCode": "pokemon_type",
+      "dictCode": "2",
+      "dictValue": "宝可梦VMAX",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 14,
+      "typeCode": "pokemon_type",
+      "dictCode": "3",
+      "dictValue": "宝可梦VSTAR",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 15,
+      "typeCode": "pokemon_type",
+      "dictCode": "4",
+      "dictValue": "宝可梦GX",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 16,
+      "typeCode": "pokemon_type",
+      "dictCode": "5",
+      "dictValue": "究极异兽",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 17,
+      "typeCode": "pokemon_type",
+      "dictCode": "6",
+      "dictValue": "阿罗拉宝可梦",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 18,
+      "typeCode": "pokemon_type",
+      "dictCode": "7",
+      "dictValue": "光辉宝可梦",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 19,
+      "typeCode": "pokemon_type",
+      "dictCode": "8",
+      "dictValue": "V-UNION",
+      "dictSort": 9,
+      "status": 1
+    },
+    {
+      "id": 264,
+      "typeCode": "pokemon_type",
+      "dictCode": "9",
+      "dictValue": "伽勒尔宝可梦",
+      "dictSort": 10,
+      "status": 1
+    },
+    {
+      "id": 397,
+      "typeCode": "pokemon_type",
+      "dictCode": "10",
+      "dictValue": "洗翠宝可梦",
+      "dictSort": 11,
+      "status": 1
+    }
+  ],
+  "trainer_type": [
+    {
+      "id": 82,
+      "typeCode": "trainer_type",
+      "dictCode": "1",
+      "dictValue": "物品",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 83,
+      "typeCode": "trainer_type",
+      "dictCode": "2",
+      "dictValue": "支援者",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 84,
+      "typeCode": "trainer_type",
+      "dictCode": "3",
+      "dictValue": "竞技场",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 498,
+      "typeCode": "trainer_type",
+      "dictCode": "4",
+      "dictValue": "宝可梦道具",
+      "dictSort": 4,
+      "status": 1
+    }
+  ],
+  "card_type": [
+    {
+      "id": 1,
+      "typeCode": "card_type",
+      "dictCode": "1",
+      "dictValue": "宝可梦",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "typeCode": "card_type",
+      "dictCode": "2",
+      "dictValue": "训练家",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "typeCode": "card_type",
+      "dictCode": "3",
+      "dictValue": "能量",
+      "dictSort": 3,
+      "status": 1
+    }
+  ],
+  "energy_type": [
+    {
+      "id": 86,
+      "typeCode": "energy_type",
+      "dictCode": "1",
+      "dictValue": "基本能量",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 87,
+      "typeCode": "energy_type",
+      "dictCode": "2",
+      "dictValue": "特殊能量",
+      "dictSort": 2,
+      "status": 1
+    }
+  ],
+  "special_card": [
+    {
+      "id": 66,
+      "typeCode": "special_card",
+      "dictCode": "1",
+      "dictValue": "一击",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 67,
+      "typeCode": "special_card",
+      "dictCode": "2",
+      "dictValue": "连击",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 68,
+      "typeCode": "special_card",
+      "dictCode": "3",
+      "dictValue": "汇流",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 69,
+      "typeCode": "special_card",
+      "dictCode": "4",
+      "dictValue": "棱镜之星",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 211,
+      "typeCode": "special_card",
+      "dictCode": "5",
+      "dictValue": "TAG TEAM",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 544,
+      "typeCode": "special_card",
+      "dictCode": "6",
+      "dictValue": "太晶",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 762,
+      "typeCode": "special_card",
+      "dictCode": "7",
+      "dictValue": "古代",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 763,
+      "typeCode": "special_card",
+      "dictCode": "8",
+      "dictValue": "未来",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 784,
+      "typeCode": "special_card",
+      "dictCode": "9",
+      "dictValue": "ACE SPEC",
+      "dictSort": 9,
+      "status": 1
+    }
+  ],
+  "ability_cost": [
+    {
+      "id": 55,
+      "typeCode": "ability_cost",
+      "dictCode": "1",
+      "dictValue": "草",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 56,
+      "typeCode": "ability_cost",
+      "dictCode": "2",
+      "dictValue": "火",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 57,
+      "typeCode": "ability_cost",
+      "dictCode": "3",
+      "dictValue": "水",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 58,
+      "typeCode": "ability_cost",
+      "dictCode": "4",
+      "dictValue": "雷",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 59,
+      "typeCode": "ability_cost",
+      "dictCode": "5",
+      "dictValue": "超",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 60,
+      "typeCode": "ability_cost",
+      "dictCode": "6",
+      "dictValue": "斗",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 61,
+      "typeCode": "ability_cost",
+      "dictCode": "7",
+      "dictValue": "恶",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 62,
+      "typeCode": "ability_cost",
+      "dictCode": "8",
+      "dictValue": "钢",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 63,
+      "typeCode": "ability_cost",
+      "dictCode": "9",
+      "dictValue": "妖",
+      "dictSort": 9,
+      "status": 1
+    },
+    {
+      "id": 65,
+      "typeCode": "ability_cost",
+      "dictCode": "11",
+      "dictValue": "无色",
+      "dictSort": 11,
+      "status": 1
+    },
+    {
+      "id": 210,
+      "typeCode": "ability_cost",
+      "dictCode": "12",
+      "dictValue": "+",
+      "dictSort": 12,
+      "status": 1
+    }
+  ],
+  "evolve": [
+    {
+      "id": 8,
+      "typeCode": "evolve",
+      "dictCode": "1",
+      "dictValue": "基础",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 9,
+      "typeCode": "evolve",
+      "dictCode": "2",
+      "dictValue": "1阶进化",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 10,
+      "typeCode": "evolve",
+      "dictCode": "3",
+      "dictValue": "2阶进化",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 11,
+      "typeCode": "evolve",
+      "dictCode": "4",
+      "dictValue": "V进化",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 945,
+      "typeCode": "evolve",
+      "dictCode": "6",
+      "dictValue": "LV.X",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 946,
+      "typeCode": "evolve",
+      "dictCode": "7",
+      "dictValue": "传说",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 947,
+      "typeCode": "evolve",
+      "dictCode": "8",
+      "dictValue": "M进化",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 948,
+      "typeCode": "evolve",
+      "dictCode": "9",
+      "dictValue": "BREAK进化",
+      "dictSort": 9,
+      "status": 1
+    }
+  ],
+  "regulation": [
+    {
+      "id": 5,
+      "typeCode": "regulation",
+      "dictCode": "2",
+      "dictValue": "标准",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 322,
+      "typeCode": "regulation",
+      "dictCode": "4",
+      "dictValue": "开放",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 4,
+      "typeCode": "regulation",
+      "dictCode": "1",
+      "dictValue": "太阳&月亮",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 312,
+      "typeCode": "regulation",
+      "dictCode": "3",
+      "dictValue": "其他",
+      "dictSort": 4,
+      "status": 1
+    }
+  ],
+  "resistance_type": [
+    {
+      "id": 44,
+      "typeCode": "resistance_type",
+      "dictCode": "1",
+      "dictValue": "草",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 45,
+      "typeCode": "resistance_type",
+      "dictCode": "2",
+      "dictValue": "火",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 46,
+      "typeCode": "resistance_type",
+      "dictCode": "3",
+      "dictValue": "水",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 47,
+      "typeCode": "resistance_type",
+      "dictCode": "4",
+      "dictValue": "雷",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 48,
+      "typeCode": "resistance_type",
+      "dictCode": "5",
+      "dictValue": "超",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 49,
+      "typeCode": "resistance_type",
+      "dictCode": "6",
+      "dictValue": "斗",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 50,
+      "typeCode": "resistance_type",
+      "dictCode": "7",
+      "dictValue": "恶",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 51,
+      "typeCode": "resistance_type",
+      "dictCode": "8",
+      "dictValue": "钢",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 52,
+      "typeCode": "resistance_type",
+      "dictCode": "9",
+      "dictValue": "妖",
+      "dictSort": 9,
+      "status": 1
+    },
+    {
+      "id": 53,
+      "typeCode": "resistance_type",
+      "dictCode": "10",
+      "dictValue": "龙",
+      "dictSort": 10,
+      "status": 1
+    },
+    {
+      "id": 54,
+      "typeCode": "resistance_type",
+      "dictCode": "11",
+      "dictValue": "无色",
+      "dictSort": 11,
+      "status": 1
+    }
+  ],
+  "series": [
+    {
+      "id": 6,
+      "typeCode": "series",
+      "dictCode": "1",
+      "dictValue": "太阳&月亮",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 7,
+      "typeCode": "series",
+      "dictCode": "2",
+      "dictValue": "剑&盾",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 409,
+      "typeCode": "series",
+      "dictCode": "3",
+      "dictValue": "朱&紫",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 834,
+      "typeCode": "series",
+      "dictCode": "99",
+      "dictValue": "其他",
+      "dictSort": 99,
+      "status": 1
+    }
+  ],
+  "attribute": [
+    {
+      "id": 22,
+      "typeCode": "attribute",
+      "dictCode": "1",
+      "dictValue": "草",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 23,
+      "typeCode": "attribute",
+      "dictCode": "2",
+      "dictValue": "火",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 24,
+      "typeCode": "attribute",
+      "dictCode": "3",
+      "dictValue": "水",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 25,
+      "typeCode": "attribute",
+      "dictCode": "4",
+      "dictValue": "雷",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 26,
+      "typeCode": "attribute",
+      "dictCode": "5",
+      "dictValue": "超",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 27,
+      "typeCode": "attribute",
+      "dictCode": "6",
+      "dictValue": "斗",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 28,
+      "typeCode": "attribute",
+      "dictCode": "7",
+      "dictValue": "恶",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 29,
+      "typeCode": "attribute",
+      "dictCode": "8",
+      "dictValue": "钢",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 30,
+      "typeCode": "attribute",
+      "dictCode": "9",
+      "dictValue": "妖",
+      "dictSort": 9,
+      "status": 1
+    },
+    {
+      "id": 31,
+      "typeCode": "attribute",
+      "dictCode": "10",
+      "dictValue": "龙",
+      "dictSort": 10,
+      "status": 1
+    },
+    {
+      "id": 32,
+      "typeCode": "attribute",
+      "dictCode": "11",
+      "dictValue": "无色",
+      "dictSort": 11,
+      "status": 1
+    }
+  ],
+  "weakness_type": [
+    {
+      "id": 33,
+      "typeCode": "weakness_type",
+      "dictCode": "1",
+      "dictValue": "草",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 34,
+      "typeCode": "weakness_type",
+      "dictCode": "2",
+      "dictValue": "火",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 35,
+      "typeCode": "weakness_type",
+      "dictCode": "3",
+      "dictValue": "水",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 36,
+      "typeCode": "weakness_type",
+      "dictCode": "4",
+      "dictValue": "雷",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 37,
+      "typeCode": "weakness_type",
+      "dictCode": "5",
+      "dictValue": "超",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 38,
+      "typeCode": "weakness_type",
+      "dictCode": "6",
+      "dictValue": "斗",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 39,
+      "typeCode": "weakness_type",
+      "dictCode": "7",
+      "dictValue": "恶",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 40,
+      "typeCode": "weakness_type",
+      "dictCode": "8",
+      "dictValue": "钢",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 41,
+      "typeCode": "weakness_type",
+      "dictCode": "9",
+      "dictValue": "妖",
+      "dictSort": 9,
+      "status": 1
+    },
+    {
+      "id": 42,
+      "typeCode": "weakness_type",
+      "dictCode": "10",
+      "dictValue": "龙",
+      "dictSort": 10,
+      "status": 1
+    },
+    {
+      "id": 43,
+      "typeCode": "weakness_type",
+      "dictCode": "11",
+      "dictValue": "无色",
+      "dictSort": 11,
+      "status": 1
+    }
+  ],
+  "rarity": [
+    {
+      "id": 70,
+      "typeCode": "rarity",
+      "dictCode": "1",
+      "dictValue": "C",
+      "dictSort": 1,
+      "status": 1
+    },
+    {
+      "id": 71,
+      "typeCode": "rarity",
+      "dictCode": "2",
+      "dictValue": "U",
+      "dictSort": 2,
+      "status": 1
+    },
+    {
+      "id": 72,
+      "typeCode": "rarity",
+      "dictCode": "3",
+      "dictValue": "R",
+      "dictSort": 3,
+      "status": 1
+    },
+    {
+      "id": 73,
+      "typeCode": "rarity",
+      "dictCode": "4",
+      "dictValue": "PR",
+      "dictSort": 4,
+      "status": 1
+    },
+    {
+      "id": 74,
+      "typeCode": "rarity",
+      "dictCode": "5",
+      "dictValue": "RR",
+      "dictSort": 5,
+      "status": 1
+    },
+    {
+      "id": 75,
+      "typeCode": "rarity",
+      "dictCode": "6",
+      "dictValue": "RRR",
+      "dictSort": 6,
+      "status": 1
+    },
+    {
+      "id": 76,
+      "typeCode": "rarity",
+      "dictCode": "7",
+      "dictValue": "S",
+      "dictSort": 7,
+      "status": 1
+    },
+    {
+      "id": 77,
+      "typeCode": "rarity",
+      "dictCode": "8",
+      "dictValue": "SR",
+      "dictSort": 8,
+      "status": 1
+    },
+    {
+      "id": 78,
+      "typeCode": "rarity",
+      "dictCode": "9",
+      "dictValue": "SSR",
+      "dictSort": 9,
+      "status": 1
+    },
+    {
+      "id": 79,
+      "typeCode": "rarity",
+      "dictCode": "10",
+      "dictValue": "无标记",
+      "dictSort": 10,
+      "status": 1
+    },
+    {
+      "id": 213,
+      "typeCode": "rarity",
+      "dictCode": "11",
+      "dictValue": "CHR",
+      "dictSort": 11,
+      "status": 1
+    },
+    {
+      "id": 279,
+      "typeCode": "rarity",
+      "dictCode": "12",
+      "dictValue": "A",
+      "dictSort": 12,
+      "status": 1
+    },
+    {
+      "id": 318,
+      "typeCode": "rarity",
+      "dictCode": "13",
+      "dictValue": "CSR",
+      "dictSort": 13,
+      "status": 1
+    },
+    {
+      "id": 394,
+      "typeCode": "rarity",
+      "dictCode": "14",
+      "dictValue": "AR",
+      "dictSort": 14,
+      "status": 1
+    },
+    {
+      "id": 395,
+      "typeCode": "rarity",
+      "dictCode": "15",
+      "dictValue": "SAR",
+      "dictSort": 15,
+      "status": 1
+    },
+    {
+      "id": 396,
+      "typeCode": "rarity",
+      "dictCode": "16",
+      "dictValue": "K",
+      "dictSort": 16,
+      "status": 1
+    },
+    {
+      "id": 422,
+      "typeCode": "rarity",
+      "dictCode": "17",
+      "dictValue": "●",
+      "dictSort": 17,
+      "status": 1
+    },
+    {
+      "id": 423,
+      "typeCode": "rarity",
+      "dictCode": "18",
+      "dictValue": "◆",
+      "dictSort": 18,
+      "status": 1
+    },
+    {
+      "id": 424,
+      "typeCode": "rarity",
+      "dictCode": "19",
+      "dictValue": "★",
+      "dictSort": 19,
+      "status": 1
+    },
+    {
+      "id": 425,
+      "typeCode": "rarity",
+      "dictCode": "20",
+      "dictValue": "★★",
+      "dictSort": 20,
+      "status": 1
+    },
+    {
+      "id": 426,
+      "typeCode": "rarity",
+      "dictCode": "21",
+      "dictValue": "★★★",
+      "dictSort": 21,
+      "status": 1
+    },
+    {
+      "id": 943,
+      "typeCode": "rarity",
+      "dictCode": "97",
+      "dictValue": "FUR",
+      "dictSort": 97,
+      "status": 1
+    },
+    {
+      "id": 80,
+      "typeCode": "rarity",
+      "dictCode": "98",
+      "dictValue": "HR",
+      "dictSort": 98,
+      "status": 1
+    },
+    {
+      "id": 81,
+      "typeCode": "rarity",
+      "dictCode": "99",
+      "dictValue": "UR",
+      "dictSort": 99,
+      "status": 1
+    }
+  ],
+  "special_trainer": [
+    {
+      "id": 85,
+      "typeCode": "special_trainer",
+      "dictCode": "1",
+      "dictValue": "宝可梦道具",
+      "dictSort": 1,
+      "status": 1
+    }
+  ]
+}

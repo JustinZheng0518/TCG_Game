@@ -1,0 +1,14 @@
+{
+  "id": "CSV1C",
+  "name": "补充包 亘古开来",
+  "language": "zh-CN",
+  "release_date": "2025-01-17",
+  "series": "朱&紫",
+  "source_collection_id": 244,
+  "source_goods_type": "1",
+  "card_faces": 393,
+  "distinct_card_numbers": 167,
+  "variant_faces": 226,
+  "cards_path": "data/pokemon/zh-CN/sets/CSV1C/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

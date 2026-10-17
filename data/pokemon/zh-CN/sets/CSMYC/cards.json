@@ -1,0 +1,170 @@
+[
+  {
+    "id": "CSMYC:1578",
+    "source_card_id": 1578,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "叶伊布GX",
+    "number": "001/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "B",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/0.webp",
+    "source_image": "img/8/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMYC:1579",
+    "source_card_id": 1579,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "冰伊布GX",
+    "number": "002/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "B",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/1.webp",
+    "source_image": "img/8/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMYC:1580",
+    "source_card_id": 1580,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "太阳伊布GX",
+    "number": "003/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/2.webp",
+    "source_image": "img/8/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMYC:1581",
+    "source_card_id": 1581,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "月亮伊布GX",
+    "number": "004/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/3.webp",
+    "source_image": "img/8/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMYC:1582",
+    "source_card_id": 1582,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "仙子伊布GX",
+    "number": "005/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 200,
+    "regulation_mark": "A",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/4.webp",
+    "source_image": "img/8/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMYC:1583",
+    "source_card_id": 1583,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "伊布GX",
+    "number": "006/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 160,
+    "regulation_mark": "C",
+    "illustrators": [
+      "PLANETA Otani"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/5.webp",
+    "source_image": "img/8/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMYC:1584",
+    "source_card_id": 1584,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "伊布GX",
+    "number": "007/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 160,
+    "regulation_mark": "C",
+    "illustrators": [
+      "PLANETA Otani"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/6.webp",
+    "source_image": "img/8/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSMYC:1585",
+    "source_card_id": 1585,
+    "set_id": "CSMYC",
+    "language": "zh-CN",
+    "name": "伊布GX",
+    "number": "008/008",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 160,
+    "regulation_mark": "C",
+    "illustrators": [
+      "Q-rais"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSMYC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSMYC/7.webp",
+    "source_image": "img/8/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

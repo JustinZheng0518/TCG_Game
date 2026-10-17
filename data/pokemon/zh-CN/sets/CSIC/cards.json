@@ -1,0 +1,170 @@
+[
+  {
+    "id": "CSIC:8404",
+    "source_card_id": 8404,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "奇巴纳",
+    "number": "001/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Hideki Ishikawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/0.webp",
+    "source_image": "img/152/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSIC:8405",
+    "source_card_id": 8405,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "彩豆",
+    "number": "002/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Atsushi Furusawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/1.webp",
+    "source_image": "img/152/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSIC:8406",
+    "source_card_id": 8406,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "丹帝",
+    "number": "003/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Naoki Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/2.webp",
+    "source_image": "img/152/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSIC:8407",
+    "source_card_id": 8407,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "彼特",
+    "number": "004/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "You Iribi"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/3.webp",
+    "source_image": "img/152/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSIC:8408",
+    "source_card_id": 8408,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "赫普",
+    "number": "005/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Taira Akitsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/4.webp",
+    "source_image": "img/152/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSIC:8409",
+    "source_card_id": 8409,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "玛俐",
+    "number": "006/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Sanosuke Sakuma"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/5.webp",
+    "source_image": "img/152/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSIC:8410",
+    "source_card_id": 8410,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "露璃娜",
+    "number": "007/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "D",
+    "illustrators": [
+      "Souichirou Gunjima"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/6.webp",
+    "source_image": "img/152/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSIC:8411",
+    "source_card_id": 8411,
+    "set_id": "CSIC",
+    "language": "zh-CN",
+    "name": "克拉拉",
+    "number": "008/007",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "E",
+    "illustrators": [
+      "Yuu Nishida"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSIC/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSIC/7.webp",
+    "source_image": "img/152/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

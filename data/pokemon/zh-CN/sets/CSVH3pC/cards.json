@@ -1,0 +1,128 @@
+[
+  {
+    "id": "CSVH3pC:15263",
+    "source_card_id": 15263,
+    "set_id": "CSVH3pC",
+    "language": "zh-CN",
+    "name": "凉脊龙",
+    "number": "001/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Taira Akitsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH3pC/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH3pC/0.webp",
+    "source_image": "img/294/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/294/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH3pC:15264",
+    "source_card_id": 15264,
+    "set_id": "CSVH3pC",
+    "language": "zh-CN",
+    "name": "冻脊龙",
+    "number": "002/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Kouki Saitou"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH3pC/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH3pC/1.webp",
+    "source_image": "img/294/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/294/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH3pC:15265",
+    "source_card_id": 15265,
+    "set_id": "CSVH3pC",
+    "language": "zh-CN",
+    "name": "戟脊龙",
+    "number": "003/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 160,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GOSSAN"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH3pC/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH3pC/2.webp",
+    "source_image": "img/294/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/294/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH3pC:15266",
+    "source_card_id": 15266,
+    "set_id": "CSVH3pC",
+    "language": "zh-CN",
+    "name": "布拨",
+    "number": "004/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 60,
+    "regulation_mark": "G",
+    "illustrators": [
+      "kurumitsu"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH3pC/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH3pC/3.webp",
+    "source_image": "img/294/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/294/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH3pC:15267",
+    "source_card_id": 15267,
+    "set_id": "CSVH3pC",
+    "language": "zh-CN",
+    "name": "布土拨",
+    "number": "005/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 90,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Mizue"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH3pC/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH3pC/4.webp",
+    "source_image": "img/294/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/294/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "CSVH3pC:15268",
+    "source_card_id": 15268,
+    "set_id": "CSVH3pC",
+    "language": "zh-CN",
+    "name": "巴布土拨",
+    "number": "006/006",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Atsushi Furusawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/CSVH3pC/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/CSVH3pC/5.webp",
+    "source_image": "img/294/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/294/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

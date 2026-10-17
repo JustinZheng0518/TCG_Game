@@ -1,0 +1,14 @@
+{
+  "id": "PROMOSVML04",
+  "name": "2025宝可梦深圳大师赛 特典",
+  "language": "zh-CN",
+  "release_date": "2025-12-06",
+  "series": "特典与活动",
+  "source_collection_id": 318,
+  "source_goods_type": null,
+  "card_faces": 18,
+  "distinct_card_numbers": 6,
+  "variant_faces": 12,
+  "cards_path": "data/pokemon/zh-CN/sets/PROMOSVML04/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

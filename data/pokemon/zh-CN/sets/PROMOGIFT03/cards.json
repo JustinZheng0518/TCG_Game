@@ -1,0 +1,191 @@
+[
+  {
+    "id": "PROMOGIFT03:19327",
+    "source_card_id": 19327,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "轻身鳕ex",
+    "number": "288/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 210,
+    "regulation_mark": "H",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/0.webp",
+    "source_image": "img/478/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19328",
+    "source_card_id": 19328,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "摔角鹰人",
+    "number": "289/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GOSSAN"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/1.webp",
+    "source_image": "img/478/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19329",
+    "source_card_id": 19329,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "酋雷姆",
+    "number": "290/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 130,
+    "regulation_mark": "H",
+    "illustrators": [
+      "Shiburingaru"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/2.webp",
+    "source_image": "img/478/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19330",
+    "source_card_id": 19330,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "猫头夜鹰",
+    "number": "291/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 100,
+    "regulation_mark": "H",
+    "illustrators": [
+      "matazo"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/3.webp",
+    "source_image": "img/478/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19331",
+    "source_card_id": 19331,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "旋转洛托姆",
+    "number": "292/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "H",
+    "illustrators": [
+      "Toshinao Aoki"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/4.webp",
+    "source_image": "img/478/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19332",
+    "source_card_id": 19332,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "能量转移",
+    "number": "293/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/5.webp",
+    "source_image": "img/478/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19333",
+    "source_card_id": 19333,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "宝可梦交替",
+    "number": "294/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/6.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/6.webp",
+    "source_image": "img/478/6.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/6.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19334",
+    "source_card_id": 19334,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "勇气护符",
+    "number": "295/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Toyste Beach"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/7.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/7.webp",
+    "source_image": "img/478/7.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/7.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOGIFT03:19335",
+    "source_card_id": 19335,
+    "set_id": "PROMOGIFT03",
+    "language": "zh-CN",
+    "name": "吉尼亚",
+    "number": "296/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "GIDORA"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOGIFT03/8.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOGIFT03/8.webp",
+    "source_image": "img/478/8.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/8.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "PROMO20:10296",
+    "source_card_id": 10296,
+    "set_id": "PROMO20",
+    "language": "zh-CN",
+    "name": "洗翠 霹雳电球",
+    "number": "194/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 50,
+    "regulation_mark": "F",
+    "illustrators": [
+      "nagimiso"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO20/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO20/0.webp",
+    "source_image": "img/204/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/204/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO20:10297",
+    "source_card_id": 10297,
+    "set_id": "PROMO20",
+    "language": "zh-CN",
+    "name": "洗翠的沉重球",
+    "number": "195/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO20/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO20/1.webp",
+    "source_image": "img/204/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/204/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO20:10298",
+    "source_card_id": 10298,
+    "set_id": "PROMO20",
+    "language": "zh-CN",
+    "name": "飞羽球",
+    "number": "196/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO20/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO20/2.webp",
+    "source_image": "img/204/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/204/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO20:10299",
+    "source_card_id": 10299,
+    "set_id": "PROMO20",
+    "language": "zh-CN",
+    "name": "阿尔宙斯V",
+    "number": "197/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 220,
+    "regulation_mark": "F",
+    "illustrators": [
+      "5ban Graphics"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO20/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO20/3.webp",
+    "source_image": "img/204/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/204/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO20:10300",
+    "source_card_id": 10300,
+    "set_id": "PROMO20",
+    "language": "zh-CN",
+    "name": "阿尔宙斯V",
+    "number": "198/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 220,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Atsushi Furusawa"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO20/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO20/4.webp",
+    "source_image": "img/204/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/204/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

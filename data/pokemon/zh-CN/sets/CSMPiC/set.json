@@ -1,0 +1,14 @@
+{
+  "id": "CSMPiC",
+  "name": "对战派对组合 奖赏包",
+  "language": "zh-CN",
+  "release_date": "2023-04-15",
+  "series": "太阳&月亮",
+  "source_collection_id": 17,
+  "source_goods_type": "3",
+  "card_faces": 48,
+  "distinct_card_numbers": 48,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/CSMPiC/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

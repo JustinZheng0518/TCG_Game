@@ -1,0 +1,44 @@
+[
+  {
+    "id": "PROMO16:10097",
+    "source_card_id": 10097,
+    "set_id": "PROMO16",
+    "language": "zh-CN",
+    "name": "珠贝",
+    "number": "141/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Naoki Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO16/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO16/0.webp",
+    "source_image": "img/185/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/185/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMO16:10098",
+    "source_card_id": 10098,
+    "set_id": "PROMO16",
+    "language": "zh-CN",
+    "name": "刚石",
+    "number": "142/S-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "F",
+    "illustrators": [
+      "Naoki Saito"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMO16/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMO16/1.webp",
+    "source_image": "img/185/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/185/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

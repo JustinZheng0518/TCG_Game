@@ -1,0 +1,14 @@
+{
+  "id": "PROMO9",
+  "name": "2023宝可梦卡牌大师赛·深圳 特典",
+  "language": "zh-CN",
+  "release_date": "2023-09-16",
+  "series": "特典与活动",
+  "source_collection_id": 85,
+  "source_goods_type": null,
+  "card_faces": 9,
+  "distinct_card_numbers": 1,
+  "variant_faces": 8,
+  "cards_path": "data/pokemon/zh-CN/sets/PROMO9/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "PROMO18",
+  "name": "宝可梦收藏卡册/艺术卡套礼盒-刚石款",
+  "language": "zh-CN",
+  "release_date": "2024-06-18",
+  "series": "剑&盾",
+  "source_collection_id": 187,
+  "source_goods_type": "3",
+  "card_faces": 1,
+  "distinct_card_numbers": 1,
+  "variant_faces": 0,
+  "cards_path": "data/pokemon/zh-CN/sets/PROMO18/cards.json",
+  "source": "https://github.com/duanxr/PTCG-CHS-Datasets/tree/c3b6ac6ef803aad9d60e44d058359addf3a20883"
+}

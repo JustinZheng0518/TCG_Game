@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROMOSV151m1:15462",
+    "source_card_id": 15462,
+    "set_id": "PROMOSV151m1",
+    "language": "zh-CN",
+    "name": "妙蛙种子",
+    "number": "097/SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "宝可梦",
+    "hp": 70,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Orca"
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV151m1/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV151m1/0.webp",
+    "source_image": "img/306/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/306/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

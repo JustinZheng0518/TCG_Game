@@ -1,0 +1,128 @@
+[
+  {
+    "id": "PROMOSV03:13921",
+    "source_card_id": 13921,
+    "set_id": "PROMOSV03",
+    "language": "zh-CN",
+    "name": "精灵球",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV03/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV03/0.webp",
+    "source_image": "img/272/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/272/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV03:13922",
+    "source_card_id": 13922,
+    "set_id": "PROMOSV03",
+    "language": "zh-CN",
+    "name": "精灵球",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV03/1.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV03/1.webp",
+    "source_image": "img/272/1.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/272/1.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV03:13923",
+    "source_card_id": 13923,
+    "set_id": "PROMOSV03",
+    "language": "zh-CN",
+    "name": "精灵球",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV03/2.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV03/2.webp",
+    "source_image": "img/272/2.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/272/2.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV03:13924",
+    "source_card_id": 13924,
+    "set_id": "PROMOSV03",
+    "language": "zh-CN",
+    "name": "朋友手册",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV03/3.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV03/3.webp",
+    "source_image": "img/272/3.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/272/3.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV03:13925",
+    "source_card_id": 13925,
+    "set_id": "PROMOSV03",
+    "language": "zh-CN",
+    "name": "朋友手册",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV03/4.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV03/4.webp",
+    "source_image": "img/272/4.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/272/4.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  },
+  {
+    "id": "PROMOSV03:13926",
+    "source_card_id": 13926,
+    "set_id": "PROMOSV03",
+    "language": "zh-CN",
+    "name": "朋友手册",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "G",
+    "illustrators": [
+      "Studio Bora Inc."
+    ],
+    "image": "data/images/pokemon/zh-CN/PROMOSV03/5.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV03/5.webp",
+    "source_image": "img/272/5.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/272/5.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>宝可梦卡牌档案 · 简体中文</title>
+  <link rel="stylesheet" href="web/catalog.css">
+  <script src="web/catalog.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./"><span class="ball" aria-hidden="true"></span>卡牌档案 <span class="edition">简体中文</span></a>
+    <span class="header-note">从横空出世，到下一次心动</span>
+  </header>
+  <div class="workspace">
+    <aside class="sidebar" aria-label="系列列表">
+      <div class="sidebar-heading"><span>按 SET 浏览</span><span id="set-count">—</span></div>
+      <label class="sr-only" for="set-search">搜索系列名称或代码</label>
+      <input id="set-search" type="search" placeholder="搜索系列、商品代码…" autocomplete="off">
+      <label class="sr-only" for="series-filter">选择系列</label>
+      <select id="series-filter"><option value="">所有时代</option></select>
+      <div id="set-list" class="set-list" aria-live="polite"></div>
+      <div class="sidebar-footer"><span class="status-dot"></span><span id="library-status">正在读取本地卡牌档案</span></div>
+    </aside>
+    <main>
+      <div class="intro"><span class="eyebrow">POKÉMON CARD ARCHIVE</span><span id="library-stats"></span></div>
+      <section class="set-heading" aria-labelledby="set-title">
+        <div><p id="set-code" class="code">SIMPLIFIED CHINESE</p><h1 id="set-title">正在打开卡牌档案</h1><p id="set-description" class="description">真实简体中文卡面，按发行商品与卡号整理。</p></div>
+        <div id="set-date" class="date"></div>
+      </section>
+      <div class="toolbar">
+        <label class="sr-only" for="card-search">搜索本套卡牌</label>
+        <input id="card-search" type="search" placeholder="查找宝可梦、训练家或卡号…" autocomplete="off">
+        <label class="sr-only" for="rarity-filter">选择稀有度</label>
+        <select id="rarity-filter"><option value="">全部稀有度</option></select>
+        <span id="result-count" class="result-count" aria-live="polite"></span>
+      </div>
+      <p id="message" class="message" role="status"></p>
+      <div id="cards" class="card-grid"></div>
+      <button id="load-more" class="load-more" hidden>加载更多卡牌</button>
+      <footer class="main-footer">保留同一卡号的不同卡面与闪卡版本。点击卡牌查看原图。</footer>
+    </main>
+  </div>
+  <dialog id="card-dialog" aria-labelledby="dialog-title">
+    <button id="close-dialog" class="close-dialog" aria-label="关闭卡牌详情">×</button>
+    <img id="dialog-image" alt="">
+    <div class="dialog-details"><p id="dialog-number" class="code"></p><h2 id="dialog-title"></h2><p id="dialog-meta"></p></div>
+  </dialog>
+</body>
+</html>

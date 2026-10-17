@@ -1,0 +1,21 @@
+[
+  {
+    "id": "PROMOSV06:14644",
+    "source_card_id": 14644,
+    "set_id": "PROMOSV06",
+    "language": "zh-CN",
+    "name": "乐园度假地",
+    "number": "SV-P",
+    "rarity": "无标记",
+    "variant_code": 0,
+    "type": "训练家",
+    "hp": null,
+    "regulation_mark": "I",
+    "illustrators": [],
+    "image": "data/images/pokemon/zh-CN/PROMOSV06/0.png",
+    "thumbnail": "data/images/pokemon/zh-CN/PROMOSV06/0.webp",
+    "source_image": "img/289/0.png",
+    "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/289/0.png",
+    "language_basis": "simplified_chinese_source_dataset"
+  }
+]
