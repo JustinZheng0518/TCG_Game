@@ -5,9 +5,9 @@ const state = {index: null, cards: [], selected: null, filtered: [], shown: 0, r
 const PAGE_SIZE = 72;
 const Game = globalThis.TCGGame;
 const SAVE_KEY = "TCG_Game:collection:v1";
-state.mode = "draw";
+state.mode = "shop";
 state.lastDraw = [];
-state.save = {version: 1, counts: {}};
+state.save = Shop.validate({version: 1, counts: {}});
 state.saveError = "";
 state.rawSave = null;
 const opening = new PackOpening($("opening-dialog"), (card) => state.localImages ? card.thumbnail : card.source_url);
@@ -15,20 +15,22 @@ const opening = new PackOpening($("opening-dialog"), (card) => state.localImages
 function loadSave() {
   try {
     state.rawSave = localStorage.getItem(SAVE_KEY);
-    if (state.rawSave) state.save = Game.validateSave(JSON.parse(state.rawSave));
+    if (state.rawSave) state.save = Shop.validate(JSON.parse(state.rawSave));
   } catch {
     state.saveError = "无法读取浏览器收藏。请先导出备份或导入有效存档；原有数据已保留。";
   }
 }
 
 function persistSave(next) {
-  const clean = Game.validateSave(next);
+  const clean = Shop.validate(next);
   try { localStorage.setItem(SAVE_KEY, JSON.stringify(clean)); }
   catch { throw new Error("浏览器无法保存收藏，请允许本地存储后再试。"); }
   state.save = clean;
   state.saveError = "";
   updateStats();
   renderSets();
+  renderShop();
+  renderAcquisition();
 }
 
 function updateStats() {
@@ -41,8 +43,9 @@ function updateStats() {
 function setMode(mode) {
   state.mode = mode;
   for (const button of document.querySelectorAll("[data-mode]")) button.setAttribute("aria-pressed", String(button.dataset.mode === mode));
-  $("pack-actions").hidden = mode !== "draw";
-  $("draw-rules").hidden = mode !== "draw";
+  $("shop-dashboard").hidden = mode !== "shop";
+  $("catalog-area").hidden = mode === "shop";
+  renderAcquisition();
   $("card-search").value = "";
   $("rarity-filter").value = "";
   filterCards();
@@ -50,19 +53,9 @@ function setMode(mode) {
 
 function openPacks(count) {
   try {
-    if (state.saveError) throw new Error(state.saveError);
-    const drawn = Game.drawPacks(state.cards, count);
-    const seen = new Set(Object.keys(state.save.counts));
-    const result = drawn.map((card) => {
-      const isNew = !seen.has(card.id);
-      seen.add(card.id);
-      return {...card, isNew};
-    });
-    persistSave(Game.collect(state.save, drawn));
-    state.lastDraw = result;
-    setMode("draw");
-    $("message").textContent = `已打开 ${count} 包，获得 ${drawn.length} 张卡，其中 ${result.filter((card) => card.isNew).length} 款新卡。已保存到收藏。`;
-    opening.open(result, state.selected.name);
+    ensureShopReady();
+    const result = Shop.openStock(state.save, state.products[state.selected.id], state.cards, count);
+    showAcquired(result);
   } catch (error) { $("message").textContent = error.message; }
 }
 
@@ -72,7 +65,7 @@ function exportSave() {
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
   link.href = url;
-  link.download = "宝可梦收藏备份.json";
+  link.download = "小小卡店经营备份.json";
   document.body.append(link);
   link.click();
   link.remove();
@@ -84,11 +77,21 @@ async function importSave(event) {
   if (!file) return;
   try {
     if (file.size > 8 * 1024 * 1024) throw new Error("存档文件过大，最大支持 8 MB。");
-    const imported = Game.validateSave(JSON.parse(await file.text()));
-    const next = Game.mergeSaves(state.save, imported);
-    persistSave(next);
+    const raw = JSON.parse(await file.text());
+    const imported = Shop.validate(raw);
+    if (raw.version === 2) {
+      if (!confirm(`恢复经营存档将替换当前现金、库存和收藏。备份：第 ${imported.shop.day} 天，${money(imported.shop.cash)}。是否继续？`)) return;
+      persistSave(imported);
+    } else {
+      const next = Shop.validate(state.save);
+      const signature = `LEGACY-${Shop.hash(JSON.stringify(Object.entries(imported.counts).sort()))}`;
+      if (next.shop.redeemed.includes(signature)) throw new Error("这份旧版收藏已导入过，不能重复增加已卖出的卡牌。");
+      next.counts = Game.mergeSaves({version: 1, counts: next.counts}, {version: 1, counts: imported.counts}).counts;
+      next.shop.redeemed.push(signature);
+      persistSave(next);
+    }
     setMode("collection");
-    $("message").textContent = "收藏已合并并保存；重复导入同一备份不会重复增加卡牌数量。";
+    $("message").textContent = raw.version === 2 ? "现金、库存、寄售和收藏已恢复。" : "旧版收藏已合并，经营资金与进度保持不变。";
   } catch (error) { $("message").textContent = `导入失败：${error.message} 当前收藏未改变。`; }
   finally { event.target.value = ""; }
 }
@@ -109,8 +112,9 @@ async function readJSON(path) {
 function renderSets() {
   const query = $("set-search").value.trim().toLocaleLowerCase();
   const series = $("series-filter").value;
+  const channel = $("channel-filter").value;
   const matching = state.index.sets.filter((set) =>
-    (!series || set.series === series) && `${set.id} ${set.name}`.toLocaleLowerCase().includes(query));
+    (!series || set.series === series) && (!channel || state.products?.[set.id]?.channel === channel) && `${set.id} ${set.name}`.toLocaleLowerCase().includes(query));
   $("set-list").replaceChildren();
   $("set-count").textContent = `${matching.length} 套`;
   const ownedBySet = new Map();
@@ -118,16 +122,25 @@ function renderSets() {
     const setId = id.split(":")[0];
     ownedBySet.set(setId, (ownedBySet.get(setId) || 0) + 1);
   }
-  for (const set of matching) {
+  const channelOrder = ["booster", "special", "deck", "gift", "event", "mission", "exchange", "bundle"];
+  const grouped = [...matching].sort((a, b) => channelOrder.indexOf(state.products[a.id].channel) - channelOrder.indexOf(state.products[b.id].channel));
+  let previousChannel = "";
+  for (const set of grouped) {
+    const product = state.products[set.id];
+    if (!channel && previousChannel !== product.channel) {
+      $("set-list").append(text("h3", product.channel_label, "set-group-label"));
+      previousChannel = product.channel;
+    }
     const button = text("button", "", `set-button${state.selected?.id === set.id ? " active" : ""}`);
     button.type = "button";
     button.setAttribute("aria-pressed", String(state.selected?.id === set.id));
     button.append(text("strong", set.name));
+    button.append(text("span", state.products?.[set.id]?.channel_label || "", "set-channel"));
     const sub = text("small", "");
     const owned = ownedBySet.get(set.id) || 0;
     sub.append(text("span", set.id), text("span", `${owned} / ${set.card_faces}`));
     button.append(sub);
-    button.addEventListener("click", () => { location.hash = encodeURIComponent(set.id); });
+    button.addEventListener("click", () => jumpToSet(set.id, state.mode === "shop" ? "draw" : state.mode));
     $("set-list").append(button);
   }
   if (!matching.length) $("set-list").append(text("p", "未找到对应系列", "message"));
@@ -136,13 +149,15 @@ function renderSets() {
 function showCard(card) {
   $("dialog-title").textContent = card.name;
   $("dialog-number").textContent = `${card.set_id} · ${card.number}`;
-  $("dialog-meta").textContent = `${card.rarity} · ${card.type || "卡牌"}\n简体中文版${card.illustrators.length ? `\n插画：${card.illustrators.join("、")}` : ""}`;
+  const quote = Shop.cardQuote(state.save, card, state.feed);
+  $("dialog-meta").textContent = `${card.rarity} · ${card.type || "卡牌"}\n简体中文版${card.illustrators.length ? `\n插画：${card.illustrators.join("、")}` : ""}\n${quote.estimated ? "模拟估值" : "店内行情（外部参考）"} ${money(quote.market)} · 回收 ${money(quote.bid)}\n${quote.source ? `来源参考价：${money(quote.source.cents)}\n来源：${quote.source.source_url}\n抓取时间：${quote.source.observed_at}` : "按稀有度、加工与人气推算，并非真实成交价"}`;
   $("dialog-image").src = state.localOriginals ? card.image : card.source_url;
   $("dialog-image").onerror = () => {
     $("dialog-image").onerror = null;
     if (state.localImages) $("dialog-image").src = card.thumbnail;
   };
   $("dialog-image").alt = `${card.name} 简体中文卡面`;
+  prepareLivePrice(card);
   if (!$("card-dialog").open) $("card-dialog").showModal();
 }
 
@@ -174,7 +189,7 @@ function appendCards() {
     const name = text("h2", "", "card-name");
     name.append(text("span", card.name));
     if (state.save.counts[card.id]) name.append(text("span", `×${state.save.counts[card.id]}`, "owned-count"));
-    tile.append(button, label, name);
+    tile.append(button, label, name, cardTradeControls(card));
     if (state.mode === "draw" && card.isNew) tile.append(text("span", "新卡", "new-badge"));
     $("cards").append(tile);
   }
@@ -183,6 +198,7 @@ function appendCards() {
 }
 
 function filterCards() {
+  if (state.mode === "shop") { $("cards").replaceChildren(); return; }
   const query = $("card-search").value.trim().toLocaleLowerCase();
   const rarity = $("rarity-filter").value;
   const base = state.mode === "draw" ? state.lastDraw : state.mode === "collection" ? state.cards.filter((card) => state.save.counts[card.id]) : state.cards;
@@ -191,7 +207,7 @@ function filterCards() {
   state.shown = 0;
   $("cards").replaceChildren();
   $("result-count").textContent = `${state.filtered.length.toLocaleString("zh-CN")} 张卡面`;
-  $("message").textContent = state.saveError || (state.filtered.length ? "" : !base.length && state.mode === "draw" ? "选好了就打开一包，开始收集这套卡牌。" : !base.length && state.mode === "collection" ? "这套收藏还是空的，去开包发现第一张卡吧。" : "没有找到符合条件的卡牌，试试其他卡名或稀有度。");
+  $("message").textContent = state.saveError || (state.filtered.length ? "" : !base.length && state.mode === "draw" ? "选择本套对应的获取渠道，开始经营与收集。" : !base.length && state.mode === "collection" ? "这套收藏还是空的，去开包发现第一张卡吧。" : "没有找到符合条件的卡牌，试试其他卡名或稀有度。");
   appendCards();
 }
 
@@ -216,6 +232,9 @@ async function selectSet() {
   $("load-more").hidden = true;
   $("draw-one").disabled = true;
   $("draw-ten").disabled = true;
+  $("buy-stock-one").disabled = true;
+  $("buy-stock-ten").disabled = true;
+  $("acquire-special").disabled = true;
   $("card-search").value = "";
   $("rarity-filter").replaceChildren(new Option("全部稀有度", ""));
   renderSets();
@@ -234,8 +253,8 @@ async function selectSet() {
     const model = Game.packModel(cards);
     const odds = model.groups.map((entry) => `${entry.label}${entry === model.chase ? "（本套最高档）" : ""}：${Number((entry.probability * 100).toFixed(3))}%`).join("；");
     $("set-odds").textContent = `${model.guaranteeLabel}。${model.fixed ? "本套仅收录高稀有卡，按本套卡面等概率模拟，不适用千包稀有档。" : odds ? `机会卡每包概率：${odds}；其余 ${Number((model.baseProbability * 100).toFixed(3))}% 为基础卡。` : "本套无高稀有档，机会卡从基础卡池抽取，不适用千包稀有档。"}`;
-    $("draw-one").disabled = !cards.length;
-    $("draw-ten").disabled = !cards.length;
+    $("reward-card").replaceChildren(...cards.map(card => new Option(`${card.number} · ${card.name} · ${card.rarity}`, card.id)));
+    renderAcquisition();
     updateStats();
     const counts = new Map();
     for (const card of cards) counts.set(card.rarity, (counts.get(card.rarity) || 0) + 1);
@@ -249,7 +268,13 @@ async function selectSet() {
 async function start() {
   loadSave();
   try {
-    state.index = await readJSON("data/pokemon/zh-CN/index.json");
+    const [index, products, feed] = await Promise.all([readJSON("data/pokemon/zh-CN/index.json"), readJSON("data/shop/products.json"), readJSON("data/shop/market-feed.json")]);
+    state.index = index;
+    state.productCatalog = products;
+    state.products = products.products;
+    state.feed = Shop.feedValid(feed);
+    state.feed.cards = state.save.shop.quotes;
+    initShopUI();
     state.index.sets.sort((a, b) => (b.release_date || "").localeCompare(a.release_date || "") || b.source_collection_id - a.source_collection_id);
     $("library-stats").textContent = `${state.index.set_count} 套 · ${state.index.card_faces.toLocaleString("zh-CN")} 张卡面`;
     for (const series of new Set(state.index.sets.map((set) => set.series))) $("series-filter").append(new Option(series, series));
@@ -272,8 +297,11 @@ async function start() {
     $("card-dialog").addEventListener("click", (event) => { if (event.target === $("card-dialog")) $("card-dialog").close(); });
     window.addEventListener("hashchange", selectSet);
     await selectSet();
+    setMode(location.hash ? "draw" : "shop");
+    refreshMarket();
   } catch (error) {
     $("set-title").textContent = "卡牌档案暂时无法打开";
+    $("shop-message").textContent = `经营资料暂时无法读取：${error.message}，请刷新后重试。`;
     $("message").textContent = error.message;
   }
 }

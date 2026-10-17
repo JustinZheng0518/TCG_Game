@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "currency": "CNY",
+  "language": "zh-CN",
+  "updated_at": "2026-10-17T21:35:43+00:00",
+  "products": {
+    "CS1aC": {
+      "cents": 1000,
+      "kind": "official_msrp",
+      "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
+      "observed_at": "2026-10-17T21:35:43+00:00",
+      "reference_date": "2023-04-30"
+    },
+    "CS1bC": {
+      "cents": 1000,
+      "kind": "official_msrp",
+      "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
+      "observed_at": "2026-10-17T21:35:43+00:00",
+      "reference_date": "2023-04-30"
+    },
+    "CS1DC": {
+      "cents": 3000,
+      "kind": "official_msrp",
+      "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
+      "observed_at": "2026-10-17T21:35:43+00:00",
+      "reference_date": "2023-04-30"
+    },
+    "CSVH6C": {
+      "cents": 2000,
+      "kind": "official_msrp",
+      "source_url": "https://www.pokemon.cn/tcg/product/23939.html",
+      "observed_at": "2026-10-17T21:35:43+00:00",
+      "reference_date": "2026-09-21"
+    }
+  },
+  "cards": {},
+  "news": [
+    {
+      "title": "乘风破浪，寻梦逐宝！ 宝石包徽章套装第二弹即将发售",
+      "date": "2026-10-16",
+      "source_url": "https://www.pokemon.cn/tcg/product/22759.html"
+    },
+    {
+      "title": "神游奇想，歪头见宝！ Pokémon宝石包第七弹即将发售",
+      "date": "2026-10-16",
+      "source_url": "https://www.pokemon.cn/tcg/product/24281.html"
+    },
+    {
+      "title": "黑白交汇，合众共乐！ 内含全新补充包“黑雷奔流”“白焰迸涌”的硬币套装及更多商品即将发售！",
+      "date": "2026-10-16",
+      "source_url": "https://www.pokemon.cn/tcg/product/21905.html"
+    },
+    {
+      "title": "能量奔涌，经典来临！ 内含黑白专题能量包的全新套装商品即将发售！",
+      "date": "2026-10-16",
+      "source_url": "https://www.pokemon.cn/tcg/product/22850.html"
+    },
+    {
+      "title": "黑白交汇，合众共乐！ 黑白专题 拼图冰箱贴套装即将发售",
+      "date": "2026-10-16",
+      "source_url": "https://www.pokemon.cn/tcg/product/23021.html"
+    },
+    {
+      "title": "黑白交汇，合众共乐！ 宝可梦卡牌全新补充包商品“黑雷奔流”“白焰迸涌”即将发售！",
+      "date": "2026-10-16",
+      "source_url": "https://www.pokemon.cn/tcg/product/24290.html"
+    },
+    {
+      "title": "“2026宝可梦卡牌高级赛秋季场”道馆特别活动",
+      "date": "2026-10-15",
+      "source_url": "https://www.pokemon.cn/tcg/event/24186.html"
+    },
+    {
+      "title": "“2026宝可梦卡牌高级赛秋季场”购物小站相关说明",
+      "date": "2026-10-14",
+      "source_url": "https://www.pokemon.cn/tcg/event/24180.html"
+    },
+    {
+      "title": "一起嗨皮起来吧！全新嗨皮组合登场！ 和训练家伙伴们，一起嗨皮起来吧！",
+      "date": "2026-10-13",
+      "source_url": "https://www.pokemon.cn/tcg/event/24146.html"
+    },
+    {
+      "title": "“RED LAND2026冒险启程杯”冠军诞生！",
+      "date": "2026-10-12",
+      "source_url": "https://www.pokemon.cn/tcg/event/24132.html"
+    },
+    {
+      "title": "宝可梦卡牌城市赛2026年第四赛季第六批报名信息",
+      "date": "2026-10-12",
+      "source_url": "https://www.pokemon.cn/tcg/event/24121.html"
+    },
+    {
+      "title": "“宝可梦官方卡牌道馆-武汉 江汉（大嘴娃）”即将与大家见面",
+      "date": "2026-10-02",
+      "source_url": "https://www.pokemon.cn/tcg/campaign/24025.html"
+    },
+    {
+      "title": "宝可梦明耀之星“玩乐站冲榜赛”欢乐开启！",
+      "date": "2026-09-29",
+      "source_url": "https://www.pokemon.cn/tcg/campaign/24088.html"
+    },
+    {
+      "title": "“2026宝可梦卡牌高级赛秋季场”赛事详情及报名开启",
+      "date": "2026-09-29",
+      "source_url": "https://www.pokemon.cn/tcg/event/24035.html"
+    },
+    {
+      "title": "宝可梦卡牌城市赛2026年第四赛季第五批报名信息",
+      "date": "2026-09-28",
+      "source_url": "https://www.pokemon.cn/tcg/event/24020.html"
+    },
+    {
+      "title": "椰林相聚，快乐同行， 阿罗拉欢庆赛即将开启！",
+      "date": "2026-09-24",
+      "source_url": "https://www.pokemon.cn/tcg/24007.html"
+    }
+  ],
+  "news_observed_at": "2026-10-17T21:35:43+00:00",
+  "refresh_errors": []
+}

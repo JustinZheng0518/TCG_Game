@@ -1,0 +1,35 @@
+name: Refresh official market references
+on:
+  push:
+    paths:
+      - tools/refresh_market.py
+      - .github/workflows/market-refresh.yml
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: market-feed-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Refresh official MSRP and news snapshots
+        run: python3 tools/refresh_market.py
+      - name: Check game and market data
+        run: node --test tests/*.test.cjs
+      - name: Save references when updated
+        run: |
+          if git diff --quiet -- data/shop/market-feed.json; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/shop/market-feed.json
+          git commit -m 'Refresh official product prices and news'
+          git push origin HEAD:main

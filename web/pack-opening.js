@@ -10,12 +10,14 @@ class PackOpening {
     this.next = document.getElementById("opening-next");
     document.getElementById("opening-skip").addEventListener("click", () => dialog.close());
     this.next.addEventListener("click", () => {
-      if (this.pack + 1 === this.cards.length / 5) dialog.close();
+      if (this.pack + 1 === this.total) dialog.close();
       else { this.pack++; this.showCards(); }
     });
     dialog.addEventListener("close", () => { this.session++; this.stage.replaceChildren(); });
   }
-  open(cards, setName) {
+  open(cards, setName, packSize = 5) {
+    this.packSize = packSize;
+    this.total = Math.ceil(cards.length / packSize);
     this.cards = cards;
     this.setName = setName;
     this.pack = 0;
@@ -23,7 +25,7 @@ class PackOpening {
     this.next.hidden = true;
     this.stage.replaceChildren();
     document.getElementById("opening-title").textContent = setName;
-    document.getElementById("opening-status").textContent = `${cards.length / 5} 包已加入收藏 · 点击卡包拆封`;
+    document.getElementById("opening-status").textContent = `${cards.length} 张卡已加入收藏 · 点击卡包拆封`;
     const pack = document.createElement("button");
     pack.type = "button";
     pack.className = "sealed-pack";
@@ -36,7 +38,7 @@ class PackOpening {
     const title = document.createElement("strong");
     title.textContent = setName;
     const caption = document.createElement("span");
-    caption.textContent = "5 张卡牌 · 点击拆封";
+    caption.textContent = `${packSize} 张卡牌 · 点击拆封`;
     pack.append(top, mark, title, caption);
     pack.addEventListener("click", () => {
       pack.disabled = true;
@@ -52,12 +54,12 @@ class PackOpening {
   showCards() {
     this.next.hidden = true;
     this.stage.replaceChildren();
-    const pack = this.cards.slice(this.pack * 5, this.pack * 5 + 5);
+    const pack = this.cards.slice(this.pack * this.packSize, (this.pack + 1) * this.packSize);
     const grid = document.createElement("div");
     grid.className = "reveal-grid";
     let revealed = 0;
     const status = document.getElementById("opening-status");
-    status.textContent = `第 ${this.pack + 1} / ${this.cards.length / 5} 包 · 点击卡背逐张翻开`;
+    status.textContent = `第 ${this.pack + 1} / ${this.total} 包 · 点击卡背逐张翻开`;
     for (const [index, card] of pack.entries()) {
       const button = document.createElement("button");
       button.type = "button";
@@ -88,10 +90,10 @@ class PackOpening {
         button.setAttribute("aria-disabled", "true");
         front.removeAttribute("aria-hidden");
         revealed++;
-        status.textContent = `第 ${this.pack + 1} / ${this.cards.length / 5} 包 · 已翻开 ${revealed} / 5 张`;
-        if (revealed === 5) {
+        status.textContent = `第 ${this.pack + 1} / ${this.total} 包 · 已翻开 ${revealed} / ${pack.length} 张`;
+        if (revealed === pack.length) {
           this.next.hidden = false;
-          this.next.textContent = this.pack + 1 === this.cards.length / 5 ? "查看本次收获" : "打开下一包";
+          this.next.textContent = this.pack + 1 === this.total ? "查看本次收获" : "打开下一包";
         }
       }, {once: true});
       grid.append(button);
