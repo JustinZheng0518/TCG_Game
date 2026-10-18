@@ -67,7 +67,7 @@ function renderShop() {
     row.append(text("strong", product.name), text("span", `${count} 件 · 预计顾客价 ${money(q.sale)} / 件`), lineButton("查看 / 拆封", () => jumpToSet(id)));
     $("stock-list").append(row);
   }
-  if (!Object.keys(s.stock).length) $("stock-list").append(text("p", "货架还是空的。先去进货，结算营业日时顾客会来购买。", "muted-note"));
+  if (!Object.keys(s.stock).length) $("stock-list").append(text("p", "货架还是空的。先去进货，开门营业后顾客会来购买。", "muted-note"));
   $("listing-list").replaceChildren();
   for (const entry of Object.values(s.listings)) {
     const q = Shop.cardQuote(state.save, entry.card, state.feed);
@@ -75,7 +75,7 @@ function renderShop() {
     row.append(text("strong", `${entry.card.name} · ${entry.card.rarity}`), text("span", `×${entry.count} · 预计到账 ${money(q.consignment)} / 张`), lineButton("下架 1 张", () => shopAction(() => Shop.trade(state.save, entry.card, "cancel", state.feed), "卡牌已回到收藏。")));
     $("listing-list").append(row);
   }
-  if (!listedCount) $("listing-list").append(text("p", "在收藏中把单卡上架。寄售有更高回款，但需要等顾客成交；没卖出的卡会保留。", "muted-note"));
+  if (!listedCount) $("listing-list").append(text("p", "在收藏中把单卡上架。寄售有更高回款，但需要等顾客到收银台付款；没卖出的卡会保留。", "muted-note"));
   $("shop-ledger").replaceChildren();
   for (const entry of s.ledger.slice(0, 12)) {
     const row = text("div", "", "ledger-row");
@@ -114,7 +114,8 @@ function renderAcquisition() {
     bundle: "组合附属包：不作为普通补充包售卖。用 1 张活动券领取一张随机体验卡；实体商品可能有 1 / 2 / 10 张等不同规格，本游戏统一为单张体验。"
   };
   $("channel-description").textContent = descriptions[product.channel] + (product.variant_distribution ? " 本套按官方第五弹工艺配比：平卡 / ex 89%、精灵球纹 10%、大师球纹 1%。" : "");
-  $("product-price").textContent = retail || product.channel === "gift" ? `参考锚点 ${money(q.base)}（${q.source ? "官方建议零售价" : "模拟定价"}） ${q.source?.reference_date ? ` · 售价资料日期 ${q.source.reference_date}` : ""}${q.source?.observed_at ? ` · 抓取于 ${new Date(q.source.observed_at).toLocaleDateString("zh-CN")}` : ""} · 今日模拟行情 ${money(q.market)}${retail ? ` · 供货价 ${money(q.wholesale)} / 件` : ""}` : "非零售获取渠道 · 不消耗未拆封卡包库存";
+  const anchor = q.source?.kind === "historical_us_msrp" ? `美版常规包历史参考 US$${(q.source.usd_cents / 100).toFixed(2)} · 游戏固定换算 $1 = ¥${q.source.cny_per_usd} · 不是实时美元报价` : `参考锚点 ${money(q.base)}（${q.source ? "官方建议零售价" : "模拟定价"}）${q.source?.reference_date ? ` · 售价资料日期 ${q.source.reference_date}` : ""}`;
+  $("product-price").textContent = retail || product.channel === "gift" ? `${anchor} · 今日模拟行情 ${money(q.market)}${retail ? ` · 供货价 ${money(q.wholesale)} / 件` : ""}` : "非零售获取渠道 · 不消耗未拆封卡包库存";
   $("channel-source").href = q.source?.source_url || product.source_url;
   $("buy-stock-actions").hidden = !show || !retail;
   $("pack-actions").hidden = !show || !retail;
@@ -129,7 +130,7 @@ function renderAcquisition() {
   $("bulk-stock").hidden = !show || !retail;
   $("quick-channel").textContent = product.channel_label;
   $("quick-title").textContent = retail ? "这一包，会遇见谁？" : "特别的卡，特别的相遇。";
-  $("quick-price").textContent = retail ? `${product.cards_per_unit} 张 / 件 · 供货价 ${money(q.wholesale)}` : "通过本系列专属渠道领取";
+  $("quick-price").textContent = retail ? `${product.cards_per_unit} 张 / 件 · 供货价 ${money(q.wholesale)}${q.source?.kind === "historical_us_msrp" ? " · 参考美版历史 US$4.49" : ""}` : "通过本系列专属渠道领取";
   $("quick-stock").textContent = retail ? `店内库存 ${stock} 件 · 开包优先使用库存，缺少时自动补货` : `我的活动券 ${s.tickets} 张`;
   renderProductArt();
   $("buy-stock-one").textContent = `进货 1 件 · ${money(q.wholesale)}`;
@@ -152,7 +153,7 @@ function cardTradeControls(card) {
   if (state.mode === "album") actions.append(lineButton(`买入 ${money(q.ask)}`, () => shopAction(() => Shop.trade(state.save, card, "buy", state.feed), "单卡已买入并加入收藏。", "message")));
   if (state.save.counts[card.id]) {
     actions.append(lineButton(`卖 1 张 ${money(q.bid)}`, () => shopAction(() => Shop.trade(state.save, card, "sell", state.feed), "卡牌已卖出，回款已入账。", "message")));
-    actions.append(lineButton("寄售 1 张", () => shopAction(() => Shop.trade(state.save, card, "list", state.feed), "已放入寄售柜，营业结算时等待顾客购买。", "message")));
+    actions.append(lineButton("寄售 1 张", () => shopAction(() => Shop.trade(state.save, card, "list", state.feed), "已放入寄售柜，开门后等待顾客到柜台付款。", "message")));
   }
   controls.append(actions);
   return controls;
@@ -229,15 +230,7 @@ function initShopUI() {
   $("acquire-special").addEventListener("click", acquireSpecial);
   $("work-day").addEventListener("click", () => shopAction(() => Shop.work(state.save), "今日店务完成：收入 ¥50，口碑 +1。"));
   $("upgrade-shop").addEventListener("click", () => shopAction(() => Shop.upgrade(state.save), "店铺升级成功！供货额度、接客量和每日运营费用已提高。"));
-  $("end-day").addEventListener("click", () => {
-    try {
-      ensureShopReady();
-      const {save, report: r} = Shop.endDay(state.save, state.products, state.feed);
-      persistSave(save); filterCards();
-      showSettlement(r);
-      $("shop-message").textContent = `第 ${r.day} 天结算：出售 ${r.soldPacks} 件未拆封商品、${r.soldCards} 张寄售卡；销售回款 ${money(r.packRevenue + r.cardRevenue)}，运营支出 ${money(r.rent)}。${r.rewards.length ? `已自动领取任务奖励：${r.rewards.join("、")}。` : ""}今天的行情、任务和活动次数已刷新。`;
-    } catch (error) { $("shop-message").textContent = error.message; }
-  });
+  $("end-day").addEventListener("click", () => businessScene?.toggle());
   $("redeem-form").addEventListener("submit", event => {
     event.preventDefault();
     shopAction(() => Shop.redeem(state.save, $("redeem-code").value), "兑换成功，奖励已入账。");

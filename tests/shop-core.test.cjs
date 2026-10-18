@@ -168,7 +168,7 @@ test('news and day change both prices, which remain integer cents with a spread'
   const save = first(), next = Shop.endDay(save, catalog.products, feed).save;
   assert.notEqual(Shop.productQuote(save, product, feed).market, Shop.productQuote(next, product, feed).market);
   assert.notEqual(Shop.cardQuote(save, cards[0], feed).market, Shop.cardQuote(next, cards[0], feed).market);
-  assert.equal(Shop.productQuote(save, product, feed).base, 1000);
+  assert.equal(Shop.productQuote(save, product, feed).base, 3143);
   assert.ok(Shop.news(save, feed).some(n => n.kind.includes('官方')));
   for (let day = 1; day < 100; day++) {
     save.shop.day = day;
@@ -251,4 +251,81 @@ test('failed one-click purchase or random draw never changes the original wallet
   assert.throws(() => Shop.buyAndOpen(save, product, cards, 1, feed), /现金不足/);
   assert.equal(save.shop.cash, 0);
   assert.deepEqual(save.shop.stock, {});
+});
+
+test('live customers reserve stock without charging; checkout pays exactly once and survives reload', () => {
+  let save = Shop.setBusinessOpen(Shop.buyStock(first(), product, 1, feed), true);
+  const cash = save.shop.cash, admitted = Shop.admitCustomer(save, catalog.products, feed);
+  assert.equal(save.shop.business.pending.length, 0);
+  save = Shop.validate(JSON.parse(JSON.stringify(admitted.save)));
+  assert.equal(save.shop.cash, cash);
+  assert.equal(save.shop.stock.CS1aC, 1);
+  assert.equal(Shop.admitCustomer(save, catalog.products, feed), null);
+  assert.throws(() => Shop.endDay(save, catalog.products, feed), /没有结账/);
+  const sold = Shop.checkoutCustomer(save, admitted.order.id);
+  assert.equal(sold.save.shop.cash, cash + admitted.order.unitPrice);
+  assert.equal(sold.save.shop.stock.CS1aC, undefined);
+  assert.equal(sold.save.shop.progress.soldPacks, 1);
+  assert.deepEqual(Shop.checkoutCustomer(sold.save, admitted.order.id).save, sold.save);
+  const ended = Shop.endDay(sold.save, catalog.products, feed);
+  assert.equal(ended.report.soldPacks, 1);
+  assert.equal(ended.report.packRevenue, admitted.order.unitPrice);
+  assert.equal(ended.save.shop.cash, sold.save.shop.cash - ended.report.rent);
+  assert.deepEqual(ended.report.rewards, []); // one sale must not be counted twice at settlement
+  assert.equal(ended.save.shop.business.open, false);
+  assert.throws(() => Shop.checkoutCustomer(ended.save, admitted.order.id), /失效/);
+});
+
+test('listed cards have real waiting orders; cancelled or opened goods cannot be sold again', () => {
+  const card = cards.find(c => c.rarity === 'RR');
+  let save = first(); save.counts[card.id] = 1;
+  save = Shop.setBusinessOpen(Shop.trade(save, card, 'list', feed), true);
+  let admitted = Shop.admitCustomer(save, catalog.products, feed);
+  assert.equal(admitted.order.kind, 'card');
+  let sold = Shop.checkoutCustomer(admitted.save, admitted.order.id);
+  assert.equal(sold.save.shop.business.soldCards, 1);
+  assert.equal(sold.save.shop.cash, save.shop.cash + admitted.order.unitPrice);
+  assert.deepEqual(sold.save.shop.listings, {});
+  const cancelled = Shop.trade(admitted.save, card, 'cancel', feed);
+  sold = Shop.checkoutCustomer(cancelled, admitted.order.id);
+  assert.equal(sold.receipt.revenue, 0);
+  assert.equal(sold.save.shop.cash, cancelled.shop.cash);
+  assert.equal(sold.save.counts[card.id], 1);
+  save = Shop.setBusinessOpen(Shop.buyStock(first(), product, 1, feed), true);
+  admitted = Shop.admitCustomer(save, catalog.products, feed);
+  const opened = Shop.openStock(admitted.save, product, cards, 1, () => .5);
+  sold = Shop.checkoutCustomer(opened.save, admitted.order.id);
+  assert.equal(sold.receipt.count, 0);
+  assert.equal(total(sold.save), 5);
+  assert.equal(sold.save.shop.cash, opened.save.shop.cash);
+});
+
+test('customer queues and daily admission are bounded, empty shelves do not consume quota', () => {
+  let save = Shop.setBusinessOpen(first(), true);
+  assert.equal(Shop.admitCustomer(save, catalog.products, feed), null);
+  save = Shop.buyStock(save, product, 10, feed);
+  for (let n = 0; n < 3; n++) save = Shop.admitCustomer(save, catalog.products, feed).save;
+  assert.equal(Shop.admitCustomer(save, catalog.products, feed), null);
+  assert.throws(() => Shop.setBusinessOpen(save, false), /没有结账/);
+  for (let n = 0; n < 24; n++) {
+    if (save.shop.business.pending.length) save = Shop.checkoutCustomer(save, save.shop.business.pending[0].id).save;
+    const next = Shop.admitCustomer(save, catalog.products, feed);
+    if (next) save = next.save;
+  }
+  assert.ok(save.shop.business.nextId <= Shop.customerLimit(save));
+  assert.ok(save.shop.business.nextId <= 24);
+  assert.equal(save.shop.business.pending.length, 0);
+  const old = first(); delete old.shop.business;
+  assert.equal(Shop.validate(old).shop.business.open, false);
+  const bad = first(); bad.shop.business.receipts = ['1-2'];
+  assert.throws(() => Shop.validate(bad), /收银记录/);
+});
+
+test('US historical anchor applies only to booster packs and remains explicit and distinct from CN MSRP', () => {
+  const q = Shop.productQuote(first(), product, feed);
+  assert.equal(q.source.kind, 'historical_us_msrp');
+  assert.equal(q.source.usd_cents, 449);
+  assert.equal(q.base, 3143);
+  assert.equal(product.retail_cents, 1000);
+  assert.equal(Shop.productQuote(first(), catalog.products.CS1DC, feed).source.kind, 'official_msrp');
 });

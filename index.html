@@ -5,16 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
   <title>小小卡店 · 宝可梦卡牌经营</title>
-  <link rel="stylesheet" href="web/catalog.css?v=scene1">
-  <link rel="stylesheet" href="web/shop.css?v=scene1">
-  <link rel="stylesheet" href="web/game-scene.css?v=scene1">
-  <script src="web/game-core.js?v=scene1" defer></script>
-  <script src="web/shop-core.js?v=scene1" defer></script>
-  <script src="web/pack-opening.js?v=scene1" defer></script>
-  <script src="web/market-client.js?v=scene1" defer></script>
-  <script src="web/shop-ui.js?v=scene1" defer></script>
-  <script src="web/game-scene.js?v=scene1" defer></script>
-  <script src="web/catalog.js?v=scene1" defer></script>
+  <link rel="stylesheet" href="web/catalog.css?v=live3d1">
+  <link rel="stylesheet" href="web/shop.css?v=live3d1">
+  <link rel="stylesheet" href="web/game-scene.css?v=live3d1">
+  <link rel="stylesheet" href="web/live-shop.css?v=live3d1">
+  <script src="web/game-core.js?v=live3d1" defer></script>
+  <script src="web/shop-core.js?v=live3d1" defer></script>
+  <script src="web/pack-opening.js?v=live3d1" defer></script>
+  <script src="web/market-client.js?v=live3d1" defer></script>
+  <script src="web/shop-ui.js?v=live3d1" defer></script>
+  <script src="web/vendor/three-r160.min.js?v=live3d1" defer></script>
+  <script src="web/shop-world.js?v=live3d1" defer></script>
+  <script src="web/shop-business.js?v=live3d1" defer></script>
+  <script src="web/game-scene.js?v=live3d1" defer></script>
+  <script src="web/catalog.js?v=live3d1" defer></script>
 </head>
 <body data-mode="shop">
   <svg class="icon-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
@@ -43,23 +47,23 @@
       <div class="room-heading"><div><p id="room-eyebrow">LITTLE CARD SHOP</p><h1 id="room-title">欢迎回到你的小小卡店</h1></div><button id="choose-set" type="button" class="secondary-button" hidden>切换卡牌系列 <span>⌄</span></button></div>
       <section id="shop-dashboard" aria-label="店长工作台">
         <div class="store-scene" aria-label="可互动的卡店场景">
-          <img class="scene-image" src="web/assets/card-shop-scene.png" alt="阳光照进木质货架与卡牌展示柜的温馨卡店" fetchpriority="high" width="1672" height="940">
-          <div class="scene-shade"></div><div class="scene-open"><i></i> 今日营业中 <span id="scene-level">Lv.1 的小小卡店</span></div>
-          <div class="scene-caption"><span>YOUR LITTLE CARD SHOP</span><h2>好卡，好朋友，<br>还有一点点好运气。</h2></div>
+          <div id="customer-labels" aria-hidden="true"></div>
+          <div class="scene-shade"></div><div class="scene-open"><i></i> <b id="scene-business-label">还未开门</b> <span id="scene-level">Lv.1 的小小卡店</span></div>
+          <div class="scene-caption"><span>YOUR LITTLE CARD SHOP · LIVE</span><h2>货架摆好了，<br>等第一位客人进门。</h2></div>
           <button class="scene-hotspot supply-spot" type="button" data-scene-action="supply"><svg><use href="#i-pack"/></svg><span>补货仓库<small>进货 · 拆包</small></span><b>↗</b></button>
           <button class="scene-hotspot counter-spot" type="button" data-desk="stock"><svg><use href="#i-coins"/></svg><span>收银柜台<small>货架 · 寄售</small></span><b>↗</b></button>
           <button class="scene-hotspot collection-spot" type="button" data-mode="collection"><svg><use href="#i-cards"/></svg><span>收藏展示柜<small>查看我的卡</small></span><b>↗</b></button>
           <button class="scene-hotspot event-spot" type="button" data-mode="events"><svg><use href="#i-ticket"/></svg><span>活动公告板<small>领奖 · 特典</small></span><b>↗</b></button>
-          <span class="scene-spark spark-one">✦</span><span class="scene-spark spark-two">✧</span>
+          <div class="world-controls"><button id="world-reset" type="button">回正视角</button><span>拖动旋转 · 双指 / 滚轮缩放</span></div><div class="live-business-strip"><span id="live-turnover">今日回款 ¥0.00</span><span id="sale-receipt" role="status">等待第一笔成交</span></div>
         </div>
-        <div class="day-controls"><div class="day-guide"><span class="guide-avatar">店</span><div><strong id="daily-guide-title">店长，今天先做点什么？</strong><p id="daily-guide">进几包新货，摆满货架，再迎接今天的客人吧。</p></div></div><div class="business-actions"><button id="work-day" type="button">打理店铺 · 赚 ¥50</button><button id="end-day" type="button">开门营业 →</button></div></div>
-        <div class="scene-shortcuts"><button type="button" data-desk="news"><span>今日风向</span><strong id="scene-news-title">正在读取市场快报</strong><svg><use href="#i-arrow"/></svg></button><button type="button" data-desk="tasks"><span>店长任务</span><strong id="scene-quest-count">完成目标，领取活动券</strong><svg><use href="#i-ticket"/></svg></button><button type="button" data-desk="ledger"><span>店铺成长</span><strong id="scene-growth">查看账本与升级柜台</strong><svg><use href="#i-star"/></svg></button></div>
+        <div class="day-controls"><div class="day-guide"><span class="guide-avatar">店</span><div><strong id="daily-guide-title">店长，今天先做点什么？</strong><p id="daily-guide">进几包新货，摆满货架，再迎接今天的客人吧。</p></div></div><div class="business-actions"><button id="work-day" type="button">打理店铺 · 赚 ¥50</button><button id="end-day" type="button">开门营业 →</button><button id="checkout-next" type="button" disabled>收银 · 暂无顾客</button></div></div>
+        <div class="customer-controls"><p id="customer-status" role="status">补好货，开门迎客。</p><label><input id="auto-checkout" type="checkbox"> 自动收银</label><button id="retry-checkout" type="button" hidden>重试收银</button></div><div class="scene-shortcuts"><button type="button" data-desk="news"><span>今日风向</span><strong id="scene-news-title">正在读取市场快报</strong><svg><use href="#i-arrow"/></svg></button><button type="button" data-desk="tasks"><span>店长任务</span><strong id="scene-quest-count">完成目标，领取活动券</strong><svg><use href="#i-ticket"/></svg></button><button type="button" data-desk="ledger"><span>店铺成长</span><strong id="scene-growth">查看账本与升级柜台</strong><svg><use href="#i-star"/></svg></button></div>
       </section>
       <section id="activity-room" hidden aria-label="活动广场"><div class="activity-intro"><span class="big-ticket"><svg><use href="#i-ticket"/></svg></span><div><p class="code">GOOD THINGS HAPPEN HERE</p><h2>不只开包，也去遇见特别的卡。</h2><p>参加活动、完成任务、兑换礼物，每种特典都有自己的获得方式。</p></div></div><div id="activity-options" class="activity-options"></div><button type="button" data-desk="tasks" class="secondary-button">查看任务与兑换码 →</button></section>
       <dialog id="desk-dialog" aria-labelledby="desk-title"><div class="window-heading"><div><p class="code">SHOP MANAGER</p><h2 id="desk-title">收银柜台</h2></div><button type="button" data-close-dialog aria-label="关闭经营窗口">×</button></div><nav id="desk-tabs" class="desk-tabs" aria-label="经营窗口"><button type="button" data-desk="stock">货架</button><button type="button" data-desk="listings">寄售</button><button type="button" data-desk="tasks">任务</button><button type="button" data-desk="news">新闻</button><button type="button" data-desk="ledger">账本</button><button type="button" data-desk="settings">设置</button></nav><p id="desk-notice" role="status"></p>
         <div class="shop-columns"><section class="desk-panel" data-desk-pane="news" hidden><div class="desk-heading"><h2>市场快报</h2><span>真实资讯 × 模拟行情</span></div><div id="news-feed"></div></section>
         <section class="desk-panel" data-desk-pane="tasks" hidden><div class="desk-heading"><h2>今日经营目标</h2><span>完成后领取活动券</span></div><div id="daily-quests"></div><form id="redeem-form" class="redeem-form"><label for="redeem-code">游戏兑换码</label><div><input id="redeem-code" placeholder="先试试 START-STORE" autocomplete="off" maxlength="80"><button type="submit">兑换</button></div><small>仅限本游戏，现实中的官方兑换码不能在这里核销。</small></form></section></div>
-        <section class="desk-panel" data-desk-pane="stock"><div class="desk-heading"><h2>未拆封货架</h2><span>营业结算时顾客会购买库存</span></div><div id="stock-list"></div></section>
+        <section class="desk-panel" data-desk-pane="stock"><div class="desk-heading"><h2>未拆封货架</h2><span>开门后顾客会选购，收银后到账</span></div><div id="stock-list"></div></section>
         <section class="desk-panel" data-desk-pane="listings" hidden><div class="desk-heading"><h2>单卡寄售柜</h2><span>寄售成交价为行情的 92%，即时回收为 70%</span></div><div id="listing-list"></div></section>
         <section class="desk-panel" data-desk-pane="ledger" hidden><div class="desk-heading"><h2>收支账本与扩建</h2></div><button id="upgrade-shop" type="button">扩建柜台</button><div id="shop-ledger"></div></section>
         <section class="desk-panel market-settings" data-desk-pane="settings" hidden><h2>设置与存档</h2><div class="save-tools"><button id="export-save" type="button">导出经营存档</button><button id="import-save" type="button">恢复经营存档</button><input id="import-file" type="file" accept="application/json,.json" hidden><span>现金、库存和收藏一并保存在当前浏览器，可导出备份。</span></div><p id="market-status"></p><button id="refresh-market" type="button">联网刷新官方价格 / 新闻</button><p>官方建议零售价作为部分商品的参考锚点；经营买卖价与新闻影响为游戏模拟。单卡可在卡牌详情联网查价并核对版本；未取得报价时使用“模拟估值”，不将挂牌 / 市场参考价声称为实际成交价。</p><label for="market-url">可选：简中单卡行情 JSON 地址（HTTPS，需支持跨域）</label><div class="market-url-row"><input id="market-url" type="url" placeholder="https://你的行情服务/quotes.json"><button id="load-market-url" type="button">接入报价</button></div><p><a href="docs/卡店经营与数据来源.md" target="_blank" rel="noopener">商品渠道调研、价格来源与数据接入格式 ↗</a></p></section>
@@ -77,7 +81,7 @@
         <div id="pack-actions" class="pack-actions">
           <button id="draw-one" type="button" disabled>打开一包 <small>5 张卡牌</small></button>
           <button id="draw-ten" type="button" disabled>十包连开 <small>50 张卡牌</small></button>
-          <p>拆封消耗未拆封库存。先从供货商进货，也可以留在货架上出售。</p>
+          <p>拆封消耗未拆封库存。先从供货商进货，也可以留在货架上等顾客购买。</p>
         </div>
         <details class="product-details"><summary>商品说明、概率与价格来源</summary>        <div class="acquisition-heading"><span id="channel-badge" class="channel-badge"></span><h2 id="channel-title" class="sr-only">选择获得渠道</h2><p id="channel-description"></p><p id="product-price"></p><a id="channel-source" target="_blank" rel="noopener">查看商品 / 渠道依据 ↗</a></div>
 
@@ -120,7 +124,7 @@
   <dialog id="opening-dialog" aria-labelledby="opening-title">
     <div class="opening-heading"><span class="eyebrow">PACK OPENING</span><h2 id="opening-title"></h2><p id="opening-status" role="status" aria-live="polite"></p></div>
     <div id="opening-stage"></div>
-    <div class="opening-actions"><button id="opening-skip" type="button">跳过动画，查看全部</button><button id="opening-next" type="button" hidden>打开下一包</button></div>
+    <div class="opening-actions"><button id="opening-sound" type="button" aria-pressed="true">撕包音效：开</button><button id="opening-skip" type="button">跳过动画，查看全部</button><button id="opening-next" type="button" hidden>打开下一包</button></div>
     <p class="opening-save-note">卡牌已自动保存 · 关闭或跳过不会丢失本次收获</p>
   </dialog>
   <dialog id="card-dialog" aria-labelledby="dialog-title">

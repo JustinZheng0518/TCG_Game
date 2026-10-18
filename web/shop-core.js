@@ -38,8 +38,24 @@
     if (!Array.isArray(value) || value.length > max || value.some(v => typeof v !== "string" || v.length > 120)) throw new Error("经营记录无效。");
     return [...new Set(value)];
   }
+  function newBusiness() {
+    return {open: false, nextId: 0, pending: [], receipts: [], packRevenue: 0, cardRevenue: 0, soldPacks: 0, soldCards: 0};
+  }
+  function validateBusiness(value, day) {
+    if (value === undefined) return newBusiness();
+    if (!value || typeof value.open !== "boolean" || !Array.isArray(value.pending) || value.pending.length > 3) throw new Error("营业状态无效。");
+    const result = {open: value.open, nextId: integer(value.nextId, 0, 24), pending: [], receipts: strings(value.receipts, 24)};
+    for (const key of ["packRevenue", "cardRevenue", "soldPacks", "soldCards"]) result[key] = integer(value[key]);
+    for (const order of value.pending) {
+      if (!order || order.id !== `${day}-${order.serial}` || !Number.isInteger(order.serial) || order.serial < 1 || order.serial > result.nextId || order.day !== day || !["pack", "card"].includes(order.kind) || typeof order.name !== "string" || order.name.length > 200 || !(order.kind === "pack" ? ID : CARD_ID).test(order.itemId) || result.receipts.includes(order.id)) throw new Error("顾客订单无效。");
+      result.pending.push({id: order.id, serial: order.serial, day, kind: order.kind, name: order.name, itemId: order.itemId, count: integer(order.count, 1, 2), unitPrice: integer(order.unitPrice, 1, 100000000)});
+    }
+    if (new Set(result.pending.map(order => order.id)).size !== result.pending.length || result.receipts.some(id => !new RegExp(`^${day}-[1-9]\\d?$`).test(id) || Number(id.split("-")[1]) > result.nextId)) throw new Error("顾客收银记录无效。");
+    if (!result.open && result.pending.length) throw new Error("未营业时不能保留待付款订单。");
+    return result;
+  }
   function newShop() {
-    return {quotes: {}, cash: 300000, day: 1, reputation: 0, tickets: 0, level: 1, stock: {}, listings: {},
+    return {business: newBusiness(), quotes: {}, cash: 300000, day: 1, reputation: 0, tickets: 0, level: 1, stock: {}, listings: {},
       progress: {opened: 0, soldPacks: 0, soldCards: 0, bought: 0}, claimed: [], redeemed: [], visits: [], worked: false, ledger: []};
   }
   function validate(value) {
@@ -52,6 +68,7 @@
     const shop = {quotes, cash: integer(s.cash), day: integer(s.day, 1, 1000000), reputation: integer(s.reputation), tickets: integer(s.tickets), level: integer(s.level, 1, 10),
       stock: dictionary(s.stock, ID, 300), listings: {}, progress: {}, claimed: strings(s.claimed, 3), redeemed: strings(s.redeemed, 100000), visits: strings(s.visits, 10),
       worked: Boolean(s.worked), ledger: []};
+    shop.business = validateBusiness(s.business, shop.day);
     if (!s.progress || typeof s.progress !== "object") throw new Error("经营进度无效。");
     for (const key of ["opened", "soldPacks", "soldCards", "bought"]) shop.progress[key] = integer(s.progress[key]);
     if (!s.listings || typeof s.listings !== "object" || Array.isArray(s.listings) || Object.keys(s.listings).length > 50000) throw new Error("寄售记录无效。");
@@ -121,10 +138,11 @@
   }
   function productQuote(save, product, feed) {
     const external = feed?.products?.[product.id];
-    const base = external?.cents || product.retail_cents;
+    const us = product.channel === "booster" ? product.us_reference : null;
+    const base = us ? Math.round(us.usd_cents * us.cny_per_usd) : external?.cents || product.retail_cents;
     const market = Math.max(100, Math.round(base * multiplier(save, feed, "pack", product.id)));
     return {market, wholesale: Math.max(1, Math.round(market * .72)), sale: Math.max(1, Math.round(market * .95)),
-      base, source: external || (product.price_kind === "official_msrp" ? {source_url: product.source_url, kind: "official_msrp", reference_date: product.reference_date || null} : null)};
+      base, source: us || external || (product.price_kind === "official_msrp" ? {source_url: product.source_url, kind: "official_msrp", reference_date: product.reference_date || null} : null)};
   }
   function cardQuote(save, card, feed) {
     const external = feed?.cards?.[card.id];
@@ -303,37 +321,64 @@
     next.shop.reputation += 5;
     return validate(next);
   }
+  function customerLimit(value) { return Math.min(24, 6 + value.shop.level * 2 + Math.floor(value.shop.reputation / 5)); }
+  function setBusinessOpen(value, open) {
+    const next = validate(value);
+    if (typeof open !== "boolean") throw new Error("营业开关无效。");
+    if (!open && next.shop.business.pending.length) throw new Error("还有顾客没有结账，请等他们付款后打烊。");
+    next.shop.business.open = open;
+    return validate(next);
+  }
+  function admitCustomer(value, products, feed) {
+    const next = validate(value), s = next.shop, business = s.business;
+    if (!business.open) throw new Error("请先开门营业。");
+    if (business.pending.length >= 3 || business.nextId >= customerLimit(next)) return null;
+    const reserved = new Map();
+    for (const order of business.pending) reserved.set(`${order.kind}:${order.itemId}`, (reserved.get(`${order.kind}:${order.itemId}`) || 0) + order.count);
+    const packs = Object.keys(s.stock).filter(id => products[id] && RETAIL.includes(products[id].channel) && s.stock[id] > (reserved.get(`pack:${id}`) || 0));
+    const cards = Object.keys(s.listings).filter(id => s.listings[id].count > (reserved.get(`card:${id}`) || 0));
+    if (!packs.length && !cards.length) return null;
+    const serial = business.nextId + 1;
+    const kind = cards.length && (!packs.length || serial % 3 === 1) ? "card" : "pack";
+    const pool = kind === "pack" ? packs : cards;
+    const itemId = pool[hash(`${s.day}:${serial}`) % pool.length];
+    const quote = kind === "pack" ? productQuote(next, products[itemId], feed).sale : cardQuote(next, s.listings[itemId].card, feed).consignment;
+    const order = {id: `${s.day}-${serial}`, serial, day: s.day, kind, itemId, count: 1, unitPrice: quote,
+      name: kind === "pack" ? products[itemId].name : s.listings[itemId].card.name};
+    business.nextId = serial;
+    business.pending.push(order);
+    return {save: validate(next), order};
+  }
+  function checkoutCustomer(value, id) {
+    const next = validate(value), s = next.shop, business = s.business;
+    if (business.receipts.includes(id)) return {save: next, receipt: {id, duplicate: true, revenue: 0, count: 0}};
+    const order = business.pending.find(item => item.id === id);
+    if (!order || !business.open) throw new Error("顾客订单已失效。");
+    const available = order.kind === "pack" ? s.stock[order.itemId] || 0 : s.listings[order.itemId]?.count || 0;
+    const count = Math.min(available, order.count);
+    const revenue = count * order.unitPrice;
+    if (count) {
+      if (order.kind === "pack") {
+        s.stock[order.itemId] -= count;
+        if (!s.stock[order.itemId]) delete s.stock[order.itemId];
+        business.soldPacks += count; business.packRevenue += revenue; s.progress.soldPacks += count;
+      } else {
+        s.listings[order.itemId].count -= count;
+        if (!s.listings[order.itemId].count) delete s.listings[order.itemId];
+        business.soldCards += count; business.cardRevenue += revenue; s.progress.soldCards += count;
+      }
+      log(next, revenue, `顾客 ${order.id} 付款：${order.name} ×${count}`);
+      s.reputation++;
+    } else log(next, 0, `顾客 ${order.id} 因缺货离店`);
+    business.pending = business.pending.filter(item => item.id !== id);
+    business.receipts.push(id);
+    return {save: validate(next), receipt: {id, kind: order.kind, name: order.name, revenue, count, duplicate: false}};
+  }
   function endDay(value, products, feed) {
     const next = validate(value), s = next.shop;
-    let visitors = 6 + s.level * 2 + Math.floor(s.reputation / 5);
-    let packRevenue = 0, cardRevenue = 0, soldPacks = 0, soldCards = 0;
-    const ids = Object.keys(s.stock).sort((a, b) => hash(a + s.day) - hash(b + s.day));
-    for (const id of ids) {
-      if (!products[id] || visitors <= 0) continue;
-      const amount = Math.min(s.stock[id], 1 + hash(id + s.day) % 4, visitors);
-      const revenue = productQuote(next, products[id], feed).sale * amount;
-      log(next, revenue, `顾客购买 ${products[id].name} ×${amount}`);
-      s.stock[id] -= amount;
-      if (!s.stock[id]) delete s.stock[id];
-      visitors -= amount;
-      soldPacks += amount;
-      packRevenue += revenue;
-    }
-    let buyers = 2 + s.level + Math.floor(s.reputation / 10);
-    for (const [id, listing] of Object.entries(s.listings)) {
-      if (buyers <= 0 || hash(id + ':' + s.day) % 4 === 0) continue;
-      const amount = Math.min(listing.count, buyers, 1 + hash(id + s.day) % 2);
-      const revenue = cardQuote(next, listing.card, feed).consignment * amount;
-      log(next, revenue, `顾客购买单卡 ${listing.card.name} ×${amount}`);
-      listing.count -= amount;
-      if (!listing.count) delete s.listings[id];
-      buyers -= amount;
-      soldCards += amount;
-      cardRevenue += revenue;
-    }
+    if (s.business.pending.length) throw new Error("还有顾客没有结账，请等他们付款后打烊。");
+    const {packRevenue, cardRevenue, soldPacks, soldCards} = s.business;
     // Settle completed sales quests before resetting the daily counters.
-    s.progress.soldPacks += soldPacks;
-    s.progress.soldCards += soldCards;
     const rewards = [];
     for (const quest of QUESTS) {
       if (s.progress[quest.field] >= quest.target && !s.claimed.includes(quest.id)) {
@@ -352,7 +397,8 @@
     s.claimed = [];
     s.visits = [];
     s.worked = false;
+    s.business = newBusiness();
     return {save: validate(next), report: {day, soldPacks, soldCards, packRevenue, cardRevenue, rent, rewards}};
   }
-  return {RETAIL, QUESTS, validate, news, hash, feedValid, productQuote, cardQuote, buyStock, buyAndOpen, openStock, trade, sellDuplicates, acquire, work, claim, redeem, upgrade, endDay};
+  return {RETAIL, QUESTS, validate, news, hash, feedValid, productQuote, cardQuote, buyStock, buyAndOpen, openStock, trade, sellDuplicates, acquire, work, claim, redeem, upgrade, customerLimit, setBusinessOpen, admitCustomer, checkoutCustomer, endDay};
 });

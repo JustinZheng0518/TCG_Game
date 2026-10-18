@@ -32,6 +32,13 @@ products['PROMOGIFT05']['source_url']='https://www.pokemon.cn/tcg/other/23657.ht
 products['MISSION10']['source_url']='https://www.pokemon.cn/tcg/other/23657.html'
 for code in ['CS1aC','CS1bC','CS1DC']:products[code]['reference_date']='2023-04-30'
 products['CSVH6C']['reference_date']='2026-09-21'
+# Historical US Scarlet & Violet MSRP anchor, not a live listing or a Chinese SKU price.
+# CNY conversion is a fixed game rule, not a foreign-exchange quotation.
+for product in products.values():
+    if product['channel']=='booster':
+        product['us_reference']={'usd_cents':449,'cny_per_usd':7,'reference_date':'2023-03-31',
+          'source_url':'https://www.pokemon.com/us/pokemon-news/pokemon-tcg-scarlet-violet-brings-changes-to-the-pokemon-trading-card-game',
+          'kind':'historical_us_msrp','note':'美版朱紫时期常规补充包历史建议价；不是当前实时售价，也不是该简中商品的美版对应售价。'}
 output={'schema_version':1,'currency':'CNY','labels':labels,'products':products}
 (ROOT/'data/shop/products.json').write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n')
 from collections import Counter

@@ -44,6 +44,7 @@ function renderGameScene() {
   $("daily-guide-title").textContent = !stock ? "店长，货架还等着你的第一批新货。" : s.worked ? "准备好啦，让好卡遇见今天的客人。" : "新一天，先把小店打理得漂漂亮亮。";
   $("daily-guide").textContent = !stock ? "去补货仓库挑个系列；也可以直接买一包拆开。" : `货架上有 ${stock} 件商品，卡册已收藏 ${stats.unique} 款。开门营业，看看今天的收获吧。`;
   updateRoomHeading();
+  if (businessScene) businessScene.sync();
 }
 function renderProductArt() {
   const key = `${state.selected?.id}:${state.localImages}`;
@@ -116,5 +117,9 @@ function initGameScene() {
     toastTimer = setTimeout(() => { $("game-toast").hidden = true; }, 7000);
   });
   for (const id of ["message", "shop-message"]) observer.observe($(id), {childList: true, characterData: true, subtree: true});
+  businessScene = new ShopBusiness(document.querySelector(".store-scene"));
+  $("world-reset").addEventListener("click", () => businessScene.world.resetCamera());
+  $("checkout-next").addEventListener("click", () => businessScene.checkoutNext());
+  $("retry-checkout").addEventListener("click", () => { businessScene.paymentBlocked = false; businessScene.updateUI(); });
   renderActivities(); renderGameScene();
 }

@@ -306,7 +306,7 @@ async function start() {
     $("card-dialog").addEventListener("click", (event) => { if (event.target === $("card-dialog")) $("card-dialog").close(); });
     window.addEventListener("hashchange", selectSet);
     await selectSet();
-    setMode(location.hash ? "draw" : "shop");
+    setMode(state.save.shop.business.open ? "shop" : location.hash ? "draw" : "shop");
     refreshMarket();
   } catch (error) {
     $("set-title").textContent = "卡牌档案暂时无法打开";
