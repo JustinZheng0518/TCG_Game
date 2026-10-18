@@ -23,7 +23,10 @@ function lineButton(label, callback, className = "") {
 }
 function jumpToSet(id, mode = "draw") {
   setMode(mode);
+  $("set-picker").close();
+  $("desk-dialog").close();
   location.hash = encodeURIComponent(id);
+  window.scrollTo(0, 0);
 }
 function renderShop() {
   if (!state.products || !state.save.shop) return;
@@ -81,6 +84,7 @@ function renderShop() {
   }
   if (!s.ledger.length) $("shop-ledger").append(text("p", "开店资金 ¥3,000 已准备好。先打理店铺，再采购第一批货吧。", "muted-note"));
   renderMarketStatus();
+  renderGameScene();
 }
 function renderMarketStatus() {
   if (!state.feed) return;
@@ -116,10 +120,18 @@ function renderAcquisition() {
   $("pack-actions").hidden = !show || !retail;
   $("special-actions").hidden = !show || retail;
   $("draw-rules").hidden = !show || product.channel !== "booster";
-  $("draw-one").disabled = !retail || !(s.stock[product.id] > 0);
-  $("draw-ten").disabled = !retail || (s.stock[product.id] || 0) < 10 || product.channel === "deck";
-  $("draw-one").textContent = `拆封 1 件 · ${product.cards_per_unit} 张`;
-  $("draw-ten").textContent = `拆封 10 件 · ${product.cards_per_unit * 10} 张`;
+  $("draw-one").disabled = !retail;
+  $("draw-ten").disabled = !retail || product.channel === "deck";
+  const stock = s.stock[product.id] || 0;
+  const missingTen = Math.max(0, 10 - stock);
+  $("draw-one").textContent = stock ? `拆开 1 件 · ${product.cards_per_unit} 张` : `买 1 件并拆开 · ${money(q.wholesale)}`;
+  $("draw-ten").textContent = missingTen ? `连开 10 件 · 补货 ${money(q.wholesale * missingTen)}` : "连开库存 10 件";
+  $("bulk-stock").hidden = !show || !retail;
+  $("quick-channel").textContent = product.channel_label;
+  $("quick-title").textContent = retail ? "这一包，会遇见谁？" : "特别的卡，特别的相遇。";
+  $("quick-price").textContent = retail ? `${product.cards_per_unit} 张 / 件 · 供货价 ${money(q.wholesale)}` : "通过本系列专属渠道领取";
+  $("quick-stock").textContent = retail ? `店内库存 ${stock} 件 · 开包优先使用库存，缺少时自动补货` : `我的活动券 ${s.tickets} 张`;
+  renderProductArt();
   $("buy-stock-one").textContent = `进货 1 件 · ${money(q.wholesale)}`;
   $("buy-stock-ten").textContent = `进货 10 件 · ${money(q.wholesale * 10)}`;
   $("stock-available").textContent = `本套未拆封库存 ${s.stock[product.id] || 0} 件 · 今日供货额度余 ${Math.max(0, 30 + s.level * 10 - s.progress.bought)} 件`;
@@ -222,6 +234,7 @@ function initShopUI() {
       ensureShopReady();
       const {save, report: r} = Shop.endDay(state.save, state.products, state.feed);
       persistSave(save); filterCards();
+      showSettlement(r);
       $("shop-message").textContent = `第 ${r.day} 天结算：出售 ${r.soldPacks} 件未拆封商品、${r.soldCards} 张寄售卡；销售回款 ${money(r.packRevenue + r.cardRevenue)}，运营支出 ${money(r.rent)}。${r.rewards.length ? `已自动领取任务奖励：${r.rewards.join("、")}。` : ""}今天的行情、任务和活动次数已刷新。`;
     } catch (error) { $("shop-message").textContent = error.message; }
   });

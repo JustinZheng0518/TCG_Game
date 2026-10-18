@@ -41,20 +41,27 @@ function updateStats() {
 }
 
 function setMode(mode) {
+  if (!["shop", "draw", "collection", "album", "events"].includes(mode)) return;
+  const changed = state.mode !== mode;
   state.mode = mode;
-  for (const button of document.querySelectorAll("[data-mode]")) button.setAttribute("aria-pressed", String(button.dataset.mode === mode));
+  document.body.dataset.mode = mode;
+  for (const button of document.querySelectorAll("button[data-mode]")) button.setAttribute("aria-pressed", String(button.dataset.mode === mode || mode === "album" && button.matches(".mode-tabs [data-mode=collection]")));
   $("shop-dashboard").hidden = mode !== "shop";
-  $("catalog-area").hidden = mode === "shop";
+  $("catalog-area").hidden = !["draw", "collection", "album"].includes(mode);
+  $("activity-room").hidden = mode !== "events";
+  $("acquisition-area").hidden = mode !== "draw";
+  updateRoomHeading();
   renderAcquisition();
   $("card-search").value = "";
   $("rarity-filter").value = "";
   filterCards();
+  if (changed) window.scrollTo(0, 0);
 }
 
 function openPacks(count) {
   try {
     ensureShopReady();
-    const result = Shop.openStock(state.save, state.products[state.selected.id], state.cards, count);
+    const result = Shop.buyAndOpen(state.save, state.products[state.selected.id], state.cards, count, state.feed);
     showAcquired(result);
   } catch (error) { $("message").textContent = error.message; }
 }
@@ -90,6 +97,7 @@ async function importSave(event) {
       next.shop.redeemed.push(signature);
       persistSave(next);
     }
+    $("desk-dialog").close();
     setMode("collection");
     $("message").textContent = raw.version === 2 ? "现金、库存、寄售和收藏已恢复。" : "旧版收藏已合并，经营资金与进度保持不变。";
   } catch (error) { $("message").textContent = `导入失败：${error.message} 当前收藏未改变。`; }
@@ -198,7 +206,7 @@ function appendCards() {
 }
 
 function filterCards() {
-  if (state.mode === "shop") { $("cards").replaceChildren(); return; }
+  if (["shop", "events"].includes(state.mode)) { $("cards").replaceChildren(); return; }
   const query = $("card-search").value.trim().toLocaleLowerCase();
   const rarity = $("rarity-filter").value;
   const base = state.mode === "draw" ? state.lastDraw : state.mode === "collection" ? state.cards.filter((card) => state.save.counts[card.id]) : state.cards;
@@ -275,6 +283,7 @@ async function start() {
     state.feed = Shop.feedValid(feed);
     state.feed.cards = state.save.shop.quotes;
     initShopUI();
+    initGameScene();
     state.index.sets.sort((a, b) => (b.release_date || "").localeCompare(a.release_date || "") || b.source_collection_id - a.source_collection_id);
     $("library-stats").textContent = `${state.index.set_count} 套 · ${state.index.card_faces.toLocaleString("zh-CN")} 张卡面`;
     for (const series of new Set(state.index.sets.map((set) => set.series))) $("series-filter").append(new Option(series, series));
@@ -283,7 +292,7 @@ async function start() {
       $("library-status").textContent = `${state.index.set_count} 套简体中文卡牌`;
     }).catch(() => {});
     $("set-search").addEventListener("input", renderSets);
-    for (const button of document.querySelectorAll("[data-mode]")) button.addEventListener("click", () => setMode(button.dataset.mode));
+    for (const button of document.querySelectorAll("button[data-mode]")) button.addEventListener("click", () => button.dataset.mode === "draw" && button.closest(".mode-tabs") ? enterProcurement() : setMode(button.dataset.mode));
     $("draw-one").addEventListener("click", () => openPacks(1));
     $("draw-ten").addEventListener("click", () => openPacks(10));
     $("export-save").addEventListener("click", exportSave);
@@ -302,6 +311,8 @@ async function start() {
   } catch (error) {
     $("set-title").textContent = "卡牌档案暂时无法打开";
     $("shop-message").textContent = `经营资料暂时无法读取：${error.message}，请刷新后重试。`;
+    $("toast-message").textContent = $("shop-message").textContent;
+    $("game-toast").hidden = false;
     $("message").textContent = error.message;
   }
 }

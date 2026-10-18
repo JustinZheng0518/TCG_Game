@@ -147,6 +147,15 @@
     next.shop.progress.bought += count;
     return validate(next);
   }
+  function buyAndOpen(value, product, cards, count, feed, random = Math.random) {
+    integer(count, 1, 10);
+    // Consume existing inventory first; purchase only the shortage. The caller
+    // persists this final state once, so a failed draw never leaves a charge.
+    const current = validate(value);
+    const missing = Math.max(0, count - (current.shop.stock[product.id] || 0));
+    const supplied = missing ? buyStock(current, product, missing, feed) : current;
+    return openStock(supplied, product, cards, count, random);
+  }
   function pick(cards, random) {
     const value = random();
     if (!Number.isFinite(value) || value < 0 || value >= 1) throw new Error("随机数无效。");
@@ -345,5 +354,5 @@
     s.worked = false;
     return {save: validate(next), report: {day, soldPacks, soldCards, packRevenue, cardRevenue, rent, rewards}};
   }
-  return {RETAIL, QUESTS, validate, news, hash, feedValid, productQuote, cardQuote, buyStock, openStock, trade, sellDuplicates, acquire, work, claim, redeem, upgrade, endDay};
+  return {RETAIL, QUESTS, validate, news, hash, feedValid, productQuote, cardQuote, buyStock, buyAndOpen, openStock, trade, sellDuplicates, acquire, work, claim, redeem, upgrade, endDay};
 });

@@ -218,3 +218,37 @@ test('external quotes persist in version two backups and malformed quote stores 
   save.shop.quotes[cards[0].id].cents = -1;
   assert.throws(() => Shop.validate(save));
 });
+
+test('one-click opening buys only the missing units and charges once', () => {
+  const old = first(), unit = Shop.productQuote(old, product, feed).wholesale;
+  const firstPack = Shop.buyAndOpen(old, product, cards, 1, feed, () => .3);
+  assert.equal(firstPack.drawn.length, 5);
+  assert.equal(firstPack.save.shop.cash, old.shop.cash - unit);
+  assert.equal(firstPack.save.shop.stock.CS1aC, undefined);
+  const partial = Shop.buyStock(old, product, 3, feed);
+  const ten = Shop.buyAndOpen(partial, product, cards, 10, feed, () => .3);
+  assert.equal(ten.drawn.length, 50);
+  assert.equal(ten.save.shop.cash, partial.shop.cash - 7 * unit);
+  assert.equal(ten.save.shop.stock.CS1aC, undefined);
+  assert.equal(ten.save.shop.progress.bought, 10);
+  assert.equal(old.shop.cash, 300000);
+});
+
+test('one-click opening prioritizes owned inventory even with no cash or wholesale quota', () => {
+  const save = first(); save.shop.stock.CS1aC = 2; save.shop.cash = 0; save.shop.progress.bought = 40;
+  const result = Shop.buyAndOpen(save, product, cards, 1, feed, () => .3);
+  assert.equal(result.save.shop.cash, 0);
+  assert.equal(result.save.shop.stock.CS1aC, 1);
+  assert.equal(result.save.shop.progress.bought, 40);
+  assert.equal(result.drawn.length, 5);
+});
+
+test('failed one-click purchase or random draw never changes the original wallet or inventory', () => {
+  const save = first(), before = JSON.stringify(save);
+  assert.throws(() => Shop.buyAndOpen(save, product, cards, 1, feed, () => NaN), /随机数无效/);
+  assert.equal(JSON.stringify(save), before);
+  save.shop.cash = 0;
+  assert.throws(() => Shop.buyAndOpen(save, product, cards, 1, feed), /现金不足/);
+  assert.equal(save.shop.cash, 0);
+  assert.deepEqual(save.shop.stock, {});
+});
