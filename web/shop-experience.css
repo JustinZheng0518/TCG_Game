@@ -1,0 +1,73 @@
+/* Keep the view clear; separate movement from looking. */
+.store-scene.is-first-person{background:#f5e9dd}
+.store-scene.is-first-person .walk-pad{display:none}
+.store-scene.is-first-person.use-direction-pad .walk-pad{display:grid}
+.world-controls{max-width:calc(100% - 155px);flex-wrap:wrap;gap:7px}
+.world-controls button,.world-help summary{box-shadow:0 2px 7px #67543e18;background:#fffaf2ec}
+.world-controls button{font-size:16px;white-space:nowrap}
+.world-help-content{position:absolute;left:0;top:48px;width:min(300px,calc(100vw - 40px));background:#fffbf3;border:2px solid #e2d3bd;border-radius:18px;padding:16px;display:flex;flex-direction:column;gap:13px;color:#536c5b;box-shadow:0 8px 24px #56473433;z-index:20}
+.world-help:not([open]) .world-help-content{display:none}
+.world-help .world-help-content p{position:static;margin:0;padding:0;width:auto;border:0;border-radius:0;background:transparent;box-shadow:none;color:#536c5b;font-size:16px;line-height:1.65}
+.world-help-content label{font-size:16px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+#world-sensitivity{accent-color:#71967f;max-width:150px;min-height:30px}
+#world-pad-mode{width:20px;height:20px;accent-color:#71967f}
+#world-control-status:empty{display:none}
+#world-control-status{font-size:16px;color:#946b57}
+.store-scene .scene-open{pointer-events:none}
+.store-scene.is-first-person .live-business-strip{top:64px;bottom:auto;right:16px;max-width:280px;background:#fffaf1d9;border:1px solid #eee0ce;box-shadow:none;pointer-events:none}
+.store-scene.is-first-person .scene-hotspot{bottom:12px!important;min-height:46px;background:#fffaf1ec;border-color:#e8d9c4;box-shadow:0 2px 5px #66513b20}
+.world-reticle{transition:box-shadow .15s}
+.has-aim .world-reticle{box-shadow:0 0 0 4px #fff3c15c;border-color:#ffedab}
+#world-interact{position:absolute;left:50%;top:calc(50% + 24px);transform:translateX(-50%);z-index:6;min-height:44px;max-width:180px;border:1px solid #ead8b5;border-radius:28px;padding:8px 17px;color:#556f56;background:#fff8e4e8;font-family:inherit;font-size:16px;line-height:1.6;font-weight:600;box-shadow:0 3px 10px #64523a22;cursor:pointer}
+#world-interact[hidden]{display:none}
+.store-scene:not(.is-first-person) #world-interact{display:none}
+.move-joystick{display:none;position:absolute;bottom:83px;left:18px;z-index:7;width:114px;height:114px;touch-action:none}
+.joystick-base{display:block;position:relative;width:114px;height:114px;border:2px solid #fff8e3ba;border-radius:50%;background:#fffcf035;box-shadow:inset 0 1px 12px #52422d16,0 2px 9px #57473218;touch-action:none;-webkit-user-select:none;user-select:none;cursor:move;padding:0}
+.joystick-ring{position:absolute;inset:16px;border:1px dashed #fdf8e0a6;border-radius:50%;pointer-events:none}
+.joystick-thumb{position:absolute;left:calc(50% - 23px);top:calc(50% - 23px);width:46px;height:46px;border-radius:50%;border:2px solid #fff9e4;background:#e4ecdef0;box-shadow:0 3px 12px #4c4a3730;transform:translate(var(--stick-x,0px),var(--stick-y,0px));pointer-events:none}
+.joystick-base.is-held{background:#fff7df54;border-color:#fff7e6}
+.joystick-base.is-held .joystick-thumb{background:#bcd5c2}
+.world-input-hint{position:absolute;bottom:84px;left:18px;z-index:5;pointer-events:none;font-size:16px;line-height:1.6;padding:7px 12px;border-radius:12px;color:#53694f;background:#fffaf0c9;transition:opacity .3s}
+.has-explored .world-input-hint{opacity:0}
+.touch-input-hint{display:none}
+.use-direction-pad .world-input-hint{display:none}
+.mouse-is-locked .world-input-hint{opacity:1;background:#fff8e5dc}
+.mouse-is-locked .desktop-input-hint{font-size:0}
+.mouse-is-locked .desktop-input-hint:after{content:"WASD 移动 · Esc 松开鼠标";font-size:16px}
+body.world-is-expanded{overflow:hidden}
+.store-scene.world-expanded{position:fixed!important;inset:0!important;width:100vw!important;height:100dvh!important;min-height:0!important;max-height:none!important;border:0!important;border-radius:0!important;margin:0!important;z-index:100;box-shadow:none}
+.world-expanded .scene-hotspot{margin-bottom:env(safe-area-inset-bottom,0px)}
+.world-expanded .move-joystick,.world-expanded .walk-pad{bottom:calc(83px + env(safe-area-inset-bottom,0px))}
+@media(hover:none),(pointer:coarse){
+ .is-first-person:not(.use-direction-pad) .move-joystick{display:block}
+ #world-look{display:none}
+ .world-input-hint{bottom:200px;left:18px;background:#fff8e3a9;font-size:16px;padding:4px 10px}
+ .desktop-input-hint{display:none}.touch-input-hint{display:inline}
+ .world-help-content>p:first-child{display:none}
+}
+@media(max-width:680px){
+ .world-controls{left:10px;right:10px;top:10px;max-width:none;gap:6px}
+ .world-controls button,.world-help summary{font-size:16px!important;padding:7px 9px;min-height:43px}
+ .world-help-content{left:auto;right:-2px;top:47px;width:min(290px,calc(100vw - 42px))}
+ .store-scene.is-first-person .scene-open{top:65px;right:12px;border-width:1px;background:#fffaf0d9;padding:5px 10px}
+ .store-scene.is-first-person .live-business-strip{top:109px;right:12px;max-width:210px;padding:6px 10px;background:#fffaf0ce;border-radius:12px}
+ .store-scene.is-first-person .scene-hotspot{min-height:46px;bottom:11px!important;padding:5px 0}
+ .scene-hotspot>svg{opacity:.8}
+ .move-joystick{bottom:78px;left:12px;width:110px;height:110px}
+ .joystick-base{width:110px;height:110px}
+ .world-input-hint{left:12px}
+ .world-expanded .scene-open{top:calc(65px + env(safe-area-inset-top,0px))!important}
+ .world-expanded .world-controls{top:calc(10px + env(safe-area-inset-top,0px))}
+ .world-expanded .live-business-strip{top:calc(109px + env(safe-area-inset-top,0px))!important}
+}
+@media(prefers-reduced-motion:reduce){.world-input-hint,.world-reticle{transition:none}}
+
+.store-scene:not(.is-first-person) .world-input-hint{display:none}
+@media(max-width:680px){#world-look{display:none}}
+.world-business-actions,#world-wallet{display:none}
+.world-expanded #world-wallet{display:block;color:#536e59}
+.world-expanded .world-business-actions{display:flex;gap:8px;position:absolute;right:16px;bottom:83px;z-index:7}
+.world-business-actions button{border:2px solid #e6d4b9;border-radius:14px;background:#fff8e7ed;color:#5a7257;font-family:inherit;font-size:16px;min-height:46px;padding:8px 13px;cursor:pointer}
+.world-business-actions button:first-child{background:#809e86eb;color:#fffbee;border-color:#6c8a73}
+.world-business-actions button:disabled{opacity:.65;cursor:default}
+@media(max-width:680px){.world-expanded .world-business-actions{right:12px;bottom:calc(83px + env(safe-area-inset-bottom,0px))}.world-business-actions button{padding:7px 10px}}

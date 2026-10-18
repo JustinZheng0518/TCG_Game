@@ -39,6 +39,8 @@ with sync_playwright() as pw:
   p.locator('#world-reset').click();assert p.evaluate('businessScene.world.player.z')==3.2
   p.keyboard.down('w');p.wait_for_timeout(350);p.keyboard.up('w');assert p.evaluate('businessScene.world.player.z')<3.15
   p.locator('#world-reset').click()
+  # Optional direction buttons remain available alongside the analog joystick.
+  p.locator(".world-help summary").click();p.locator("#world-pad-mode").check();p.locator(".world-help summary").click()
   # On-screen pad also works for touch and releases keys when lifted.
   pad=p.locator('[data-walk="w"]');pad.scroll_into_view_if_needed();box=pad.bounding_box();x=box['x']+box['width']/2;y=box['y']+box['height']/2
   if mobile:

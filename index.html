@@ -5,21 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
   <title>小小卡店 · 宝可梦卡牌经营</title>
-  <link rel="stylesheet" href="web/catalog.css?v=cozy2">
-  <link rel="stylesheet" href="web/shop.css?v=cozy2">
-  <link rel="stylesheet" href="web/game-scene.css?v=cozy2">
-  <link rel="stylesheet" href="web/live-shop.css?v=cozy2">
-  <link rel="stylesheet" href="web/cozy-shop.css?v=cozy2">
-  <script src="web/game-core.js?v=cozy2" defer></script>
-  <script src="web/shop-core.js?v=cozy2" defer></script>
-  <script src="web/pack-opening.js?v=cozy2" defer></script>
-  <script src="web/market-client.js?v=cozy2" defer></script>
-  <script src="web/shop-ui.js?v=cozy2" defer></script>
-  <script src="web/vendor/three-r160.min.js?v=cozy2" defer></script>
-  <script src="web/shop-world.js?v=cozy2" defer></script>
-  <script src="web/shop-business.js?v=cozy2" defer></script>
-  <script src="web/game-scene.js?v=cozy2" defer></script>
-  <script src="web/catalog.js?v=cozy2" defer></script>
+  <link rel="stylesheet" href="web/catalog.css?v=walk3">
+  <link rel="stylesheet" href="web/shop.css?v=walk3">
+  <link rel="stylesheet" href="web/game-scene.css?v=walk3">
+  <link rel="stylesheet" href="web/live-shop.css?v=walk3">
+  <link rel="stylesheet" href="web/cozy-shop.css?v=walk3">
+  <link rel="stylesheet" href="web/shop-experience.css?v=walk3">
+  <script src="web/game-core.js?v=walk3" defer></script>
+  <script src="web/shop-core.js?v=walk3" defer></script>
+  <script src="web/pack-opening.js?v=walk3" defer></script>
+  <script src="web/market-client.js?v=walk3" defer></script>
+  <script src="web/shop-ui.js?v=walk3" defer></script>
+  <script src="web/vendor/three-r160.min.js?v=walk3" defer></script>
+  <script src="web/shop-motion.js?v=walk3" defer></script>
+  <script src="web/shop-world.js?v=walk3" defer></script>
+  <script src="web/shop-business.js?v=walk3" defer></script>
+  <script src="web/game-scene.js?v=walk3" defer></script>
+  <script src="web/catalog.js?v=walk3" defer></script>
 </head>
 <body data-mode="shop">
   <svg class="icon-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
@@ -55,9 +57,9 @@
           <button class="scene-hotspot counter-spot" type="button" data-desk="stock"><svg><use href="#i-coins"/></svg><span>柜台</span><b>↗</b></button>
           <button class="scene-hotspot collection-spot" type="button" data-mode="collection"><svg><use href="#i-cards"/></svg><span>卡册</span><b>↗</b></button>
           <button class="scene-hotspot event-spot" type="button" data-mode="events"><svg><use href="#i-ticket"/></svg><span>活动</span><b>↗</b></button>
-          <div class="world-controls"><button id="world-reset" type="button">回到门口</button><button id="world-view" type="button">俯瞰</button><details class="world-help"><summary>操作</summary><p>拖动看四周，WASD 行走，E 互动。手机按住方向键走动。</p></details></div>
-          <span class="world-reticle" aria-hidden="true"></span>
-          <div class="walk-pad" role="group" aria-label="在店内行走"><button type="button" data-walk="w" aria-label="前进">↑</button><button type="button" data-walk="a" aria-label="向左走">←</button><button type="button" data-walk="s" aria-label="后退">↓</button><button type="button" data-walk="d" aria-label="向右走">→</button></div><div class="live-business-strip"><span id="live-turnover">今日回款 ¥0.00</span><span id="sale-receipt" role="status"></span></div>
+          <div class="world-controls"><button id="world-reset" type="button">回到门口</button><button id="world-view" type="button">俯瞰</button><button id="world-look" type="button" aria-pressed="false">鼠标控制</button><button id="world-expand" type="button" aria-pressed="false">大画面</button><details class="world-help"><summary>操作</summary><div class="world-help-content"><p>电脑：WASD 行走，拖动环顾，E 互动。鼠标模式按 Esc 退出。</p><p>手机：左摇杆移动，右侧滑动环顾。</p><label for="world-sensitivity">转向速度 <input id="world-sensitivity" type="range" min="0.5" max="1.5" step="0.1" value="1"></label><label><input id="world-pad-mode" type="checkbox"> 使用方向键行走</label><span id="world-control-status" role="status"></span></div></details></div>
+          <span class="world-reticle" aria-hidden="true"></span><button id="world-interact" type="button" hidden>互动</button><div class="move-joystick" id="move-joystick"><button type="button" class="joystick-base" aria-label="移动摇杆：拖动行走，也可用方向键"><span class="joystick-ring"></span><span class="joystick-thumb"></span></button></div><span class="world-input-hint" aria-hidden="true"><span class="desktop-input-hint">WASD 移动 · 拖动环顾</span><span class="touch-input-hint">左侧走 · 右侧看</span></span>
+          <div class="walk-pad" role="group" aria-label="在店内行走"><button type="button" data-walk="w" aria-label="前进">↑</button><button type="button" data-walk="a" aria-label="向左走">←</button><button type="button" data-walk="s" aria-label="后退">↓</button><button type="button" data-walk="d" aria-label="向右走">→</button></div><div class="world-business-actions"><button id="world-business-toggle" type="button">开门营业</button><button id="world-cashier" type="button" disabled>收银</button></div><div class="live-business-strip"><span id="world-wallet"></span><span id="live-turnover">今日回款 ¥0.00</span><span id="sale-receipt" role="status"></span></div>
         </div>
         <div class="day-controls"><div class="day-guide"><span class="guide-avatar">店</span><div><strong id="daily-guide-title">店长，今天先做点什么？</strong><p id="daily-guide">进几包新货，摆满货架，再迎接今天的客人吧。</p></div></div><div class="business-actions"><button id="work-day" type="button">打理店铺 · 赚 ¥50</button><button id="end-day" type="button">开门营业 →</button><button id="checkout-next" type="button" disabled>收银 · 暂无顾客</button></div></div>
         <div class="customer-controls"><p id="customer-status" role="status">补好货，开门迎客。</p><label><input id="auto-checkout" type="checkbox"> 自动收银</label><button id="retry-checkout" type="button" hidden>重试收银</button></div><div class="scene-shortcuts"><button type="button" data-desk="news"><span>今日风向</span><strong id="scene-news-title">正在读取市场快报</strong><svg><use href="#i-arrow"/></svg></button><button type="button" data-desk="tasks"><span>店长任务</span><strong id="scene-quest-count">完成目标，领取活动券</strong><svg><use href="#i-ticket"/></svg></button><button type="button" data-desk="ledger"><span>店铺成长</span><strong id="scene-growth">查看账本与升级柜台</strong><svg><use href="#i-star"/></svg></button></div>

@@ -4,6 +4,7 @@ let productArtKey = "";
 const activityArtCache = new Map();
 
 function openDesk(pane = "stock") {
+  if (businessScene) businessScene.world.releaseInput();
   const titles = {stock: "收银柜台 · 未拆封货架", listings: "单卡寄售柜", tasks: "店长任务与兑换", news: "今日市场快报", ledger: "店铺成长与账本", settings: "设置与存档"};
   if (!titles[pane]) return;
   for (const section of document.querySelectorAll("[data-desk-pane]")) section.hidden = section.dataset.deskPane !== pane;
@@ -52,6 +53,7 @@ function renderProductArt() {
   productArtKey = key;
   const candidates = [...state.cards].sort((a, b) => Game.tier(b) - Game.tier(a));
   const chosen = [candidates[0], candidates[Math.floor(candidates.length / 3)], candidates[Math.floor(candidates.length * 2 / 3)]].filter(Boolean);
+  if (businessScene) businessScene.world.setPosters(chosen.map(card => ({url: state.localImages ? card.thumbnail : card.source_url})));
   $("product-art").replaceChildren();
   for (const [index, card] of chosen.entries()) {
     const image = document.createElement("img");
@@ -90,6 +92,7 @@ async function renderActivities() {
   }
 }
 function showSettlement(report) {
+  if (businessScene) businessScene.world.releaseInput();
   $("settlement-results").replaceChildren();
   $("settlement-title").textContent = `第 ${report.day} 天，营业结束！`;
   const entries = [["售出商品", `${report.soldPacks} 件`], ["单卡成交", `${report.soldCards} 张`], ["销售回款", money(report.packRevenue + report.cardRevenue)], ["运营支出", money(report.rent)]];
@@ -120,6 +123,8 @@ function initGameScene() {
   businessScene = new ShopBusiness(document.querySelector(".store-scene"));
   $("world-view").addEventListener("click", () => { businessScene.world.setView(businessScene.world.view === "first" ? "overview" : "first"); businessScene.world.canvas.focus({preventScroll:true}); });
   $("world-reset").addEventListener("click", () => businessScene.world.resetCamera());
+  $("world-business-toggle").addEventListener("click", () => businessScene.toggle());
+  $("world-cashier").addEventListener("click", () => businessScene.checkoutNext());
   $("checkout-next").addEventListener("click", () => businessScene.checkoutNext());
   $("retry-checkout").addEventListener("click", () => { businessScene.paymentBlocked = false; businessScene.updateUI(); });
   renderActivities(); renderGameScene();

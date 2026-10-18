@@ -51,7 +51,7 @@ function setMode(mode) {
   if (!["shop", "draw", "collection", "album", "events"].includes(mode)) return;
   const changed = state.mode !== mode;
   if (changed && mode === "collection") state.collectionSet = "";
-  if (changed && businessScene) businessScene.world.keys.clear();
+  if (changed && businessScene) { businessScene.world.releaseInput(); if (mode !== "shop" && businessScene.world.expanded) businessScene.world.setExpanded(false); }
   state.mode = mode;
   document.body.dataset.mode = mode;
   for (const button of document.querySelectorAll("button[data-mode]")) button.setAttribute("aria-pressed", String(button.dataset.mode === mode || mode === "album" && button.matches(".mode-tabs [data-mode=collection]")));

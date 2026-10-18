@@ -24,6 +24,11 @@ class ShopBusiness {
     $("checkout-next").textContent = ready ? `收银 (${ready})` : "等待客人";
     $("end-day").disabled = this.closing;
     $("end-day").textContent = this.closing ? "送客中…" : b.open ? "打烊" : "开门营业";
+    $("world-business-toggle").textContent = $("end-day").textContent;
+    $("world-business-toggle").disabled = $("end-day").disabled;
+    $("world-cashier").textContent = ready ? `收银 (${ready})` : "收银";
+    $("world-cashier").disabled = $("checkout-next").disabled;
+    $("world-wallet").textContent = `钱包 ${money(s.cash)}`;
     $("scene-business-label").textContent = this.closing ? "准备打烊" : b.open ? "正在营业" : "还未开门";
     $("live-turnover").textContent = `今日收入 ${money(b.packRevenue + b.cardRevenue)}`;
     $("retry-checkout").hidden = !this.paymentBlocked;

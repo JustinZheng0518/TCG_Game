@@ -2,33 +2,37 @@
 // Original low-poly shop geometry. No art or models from the reference game.
 class ShopWorld {
   constructor(host, onAction) {
-    this.host = host; this.onAction = onAction; this.yaw = .73; this.zoom = 1; this.view = "first"; this.lookYaw = 0; this.pitch = -.05; this.player = {x: .35, z: 3.2}; this.keys = new Set(); this.people = new Map(); this.time = 0;
+    this.host = host; this.onAction = onAction; this.yaw = .73; this.zoom = 1; this.view = "first"; this.lookYaw = .1; this.pitch = -.12; this.player = {x: .35, z: 3.2}; this.keys = new Set(); this.people = new Map(); this.time = 0;
+    this.velocity = {x:0,z:0}; this.joy = {x:0,y:0}; this.sensitivity = 1;
+    this.lastMotionTime = performance.now(); this.lastDrawTime = 0; this.lastAimTime = 0;
+    this.reducedMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
     this.canvas = document.createElement("canvas"); this.canvas.className = "shop-world-canvas";
     this.canvas.tabIndex = 0; this.canvas.setAttribute("aria-label", "第一人称卡店：拖动环顾，WASD 行走，E 互动");
     host.prepend(this.canvas); this.labels = document.getElementById("customer-labels");
     this.anchors = {supply: [-3.7, 1.2, 2.4], stock: [2.65, 1.7, .9], collection: [-3.8, 1.65, -.2], events: [.3, 2.5, -3.7]};
     try { this.init3D(); this.mode = "3d"; } catch { this.renderer?.dispose(); this.renderer = null; this.camera = null; this.canvas.remove(); this.canvas = document.createElement("canvas"); this.canvas.className = "shop-world-canvas"; this.canvas.setAttribute("aria-label", "等距卡店场景"); host.prepend(this.canvas); this.ctx = this.canvas.getContext("2d"); this.mode = "2.5d"; this.view = "overview"; document.getElementById("world-view").disabled = true; }
     this.canvas.tabIndex = 0; host.classList.add("is-3d"); host.dataset.renderMode = this.mode; host.classList.toggle("is-first-person", this.mode === "3d");
-    this.bindControls(); new ResizeObserver(() => this.resize()).observe(host); this.resize();
+    this.bindControls(); this.bindJoystick(); this.bindOptions(); new ResizeObserver(() => this.resize()).observe(host); this.resize();
   }
   init3D() {
     const T = globalThis.THREE; if (!T) throw new Error("3D unavailable"); this.T = T;
     this.renderer = new T.WebGLRenderer({canvas: this.canvas, antialias: true, alpha: true, powerPreference: "low-power"});
     this.renderer.setPixelRatio(Math.min(devicePixelRatio || 1, 1.5));
     this.renderer.shadowMap.enabled = true; this.renderer.shadowMap.type = T.PCFSoftShadowMap;
-    this.renderer.outputColorSpace = T.SRGBColorSpace; this.renderer.setClearColor(0xf0ead9, 0);
+    this.renderer.shadowMap.autoUpdate = false; this.shadowDirty = true;
+    this.renderer.outputColorSpace = T.SRGBColorSpace; this.renderer.toneMapping = T.ACESFilmicToneMapping; this.renderer.toneMappingExposure = 1.12; this.renderer.setClearColor(0xf0ead9, 0);
     this.scene = new T.Scene();
     this.scene.background = new T.Color(0xf5eadc);
     this.firstCamera = new T.PerspectiveCamera(70, 1, .06, 55);
     this.overviewCamera = new T.OrthographicCamera(-8, 8, 5, -5, .1, 100);
     this.camera = this.firstCamera;
-    this.scene.add(new T.HemisphereLight(0xfff6dc, 0xa0ac91, 2.3));
-    const sun = new T.DirectionalLight(0xfff1cc, 3.1); sun.position.set(-3, 12, 7); sun.castShadow = true;
-    sun.shadow.mapSize.set(1024, 1024); Object.assign(sun.shadow.camera, {left: -9, right: 9, top: 9, bottom: -9}); sun.shadow.normalBias = .035; sun.shadow.camera.updateProjectionMatrix();
+    this.scene.add(new T.HemisphereLight(0xfff7e9, 0xb9aca1, 2.5));
+    const sun = new T.DirectionalLight(0xfff3e2, 2.4); sun.position.set(-3, 12, 7); sun.castShadow = true;
+    sun.shadow.mapSize.set(1024, 1024); Object.assign(sun.shadow.camera, {left: -9, right: 9, top: 9, bottom: -9}); sun.shadow.normalBias = .025; sun.shadow.bias = -.00015; sun.shadow.camera.updateProjectionMatrix();
     this.scene.add(sun); this.materials = new Map(); this.clickables = [];
     this.box(0, -.3, 0, 10.6, .5, 8.6, 0x9c8265);
     for (let z = 0; z < 12; z++) for (let x = 0; x < 3; x++) this.box(-3.32 + x * 3.32, -.02, -3.67 + z * .67, 3.27, .12, .63, [0xd6b38a, 0xcba67c, 0xe1be94][(x + z) % 3]);
-    this.box(-5.1, 1.7, 0, .18, 3.5, 8.2, 0xe6dfc7); this.box(0, 1.7, -4.1, 10.4, 3.5, .18, 0xece5d2);
+    this.box(-5.1, 1.7, 0, .18, 3.5, 8.2, 0xf3e6d6); this.box(0, 1.7, -4.1, 10.4, 3.5, .18, 0xf6e9dc);
     this.box(-5, .14, 0, .15, .25, 8.2, 0x6d8b72); this.box(0, .14, -4, 10.1, .25, .15, 0x6d8b72);
     // Window, wall sign, community noticeboard.
     this.box(-3.45, 2.1, -3.96, 2.1, 1.8, .12, 0x8fa99e); this.box(-3.45, 2.1, -3.86, 1.85, 1.55, .05, 0xcbe4df);
@@ -73,8 +77,9 @@ class ShopWorld {
     mesh.userData.face = this.box(x, y, z + .025, size * .73, size * .94, .015, [0x9cbeaa, 0x8fa6cb, 0xcf9f94][Math.abs(Math.round(x * 100)) % 3] || 0x9cbeaa, action); return mesh;
   }
   shelf(x, z, width, action) {
-    this.box(x, 1.02, z, width, 2.04, .62, 0xaa8059, action);
-    this.box(x, 1.05, z + .2, width - .12, 1.86, .35, 0x6c7560, action);
+    this.box(x, 1.02, z - .27, width, 2.04, .09, 0xc2a17c, action);
+    this.box(x, 1.05, z - .21, width - .14, 1.86, .04, 0xa4b69f, action);
+    for(const side of [-1,1])this.box(x+side*(width/2-.05),1.02,z+.08,.1,2.04,.76,0xd9b993,action);
     for (let row = 0; row < 3; row++) {
       this.box(x, .24 + row * .6, z + .16, width + .09, .1, .82, 0xd7b48a, action);
       for (let i = 0; i < Math.floor(width / .3); i++) {
@@ -109,10 +114,24 @@ class ShopWorld {
     const T = this.T;
     this.firstObjects = [
       this.box(5.1, 1.7, 0, .18, 3.5, 8.2, 0xf0ded9),
-      this.box(0, 3.6, 0, 10.4, .12, 8.2, 0xfff2dc),
+      this.box(0, 3.6, 0, 10.4, .12, 8.2, 0xfff7ec),
       this.box(-1.1, 1.7, 4.15, 8.1, 3.5, .1, 0xd0e6df),
       this.box(4.7, 1.7, 4.15, .8, 3.5, .1, 0xd0e6df)
     ];
+    this.firstObjects[1].castShadow = false;
+    // Wood grain is generated locally; posters use the existing Chinese card library.
+    const wood = document.createElement("canvas"); wood.width=256; wood.height=128;
+    const grain=wood.getContext("2d"); grain.fillStyle="#fff9f0";grain.fillRect(0,0,256,128);
+    for(let i=0;i<24;i++){grain.strokeStyle=i%3?"#bda68a24":"#ffffff80";grain.lineWidth=i%3?1:2;grain.beginPath();const y=i*5.7;grain.moveTo(0,y);grain.bezierCurveTo(70,y+Math.sin(i)*8,165,y-Math.cos(i)*6,256,y+2);grain.stroke();}
+    const map=new T.CanvasTexture(wood);map.colorSpace=T.SRGBColorSpace;map.anisotropy=Math.min(4,this.renderer.capabilities.getMaxAnisotropy());
+    for(const color of [0xd6b38a,0xcba67c,0xe1be94]){this.material(color).map=map;this.material(color).needsUpdate=true;}
+    this.posterPlanes=[];
+    for(const [x,y,z,rotation,width] of [[-4.96,2.05,1.25,Math.PI/2,.95],[4.96,2.08,-1.65,-Math.PI/2,.95],[.5,2.05,-3.93,0,.59]]){
+      const group=new T.Group();
+      const frame=new T.Mesh(new T.BoxGeometry(width+.1,width*1.4+.1,.055),this.material(0xe9c8a4));frame.castShadow=true;group.add(frame);
+      const plane=new T.Mesh(new T.PlaneGeometry(width,width*1.4),new T.MeshStandardMaterial({color:0xffe7cf,roughness:.8}));plane.position.z=.03;group.add(plane);this.posterPlanes.push(plane);
+      group.position.set(x,y,z);group.rotation.y=rotation;this.scene.add(group);
+    }
     // Front window and cheerful striped awning, made for this game.
     const window = this.box(-1.1, 1.8, 4.05, 6.5, 2.2, .08, 0xc5e8e7);
     this.firstObjects.push(window);
@@ -137,8 +156,22 @@ class ShopWorld {
     for (const x of [-2.6,2.2]) {
       this.box(x,3.13,-1.8,.025,.75,.025,0xb19d83);
       const shade = new T.Mesh(new T.ConeGeometry(.38,.25,16,1,true),new T.MeshStandardMaterial({color:0xf3c7b8,side:T.DoubleSide})); shade.position.set(x,2.76,-1.8); this.scene.add(shade);
-      const light = new T.PointLight(0xffe5b8,3.5,7,2);light.position.set(x,2.65,-1.8);this.scene.add(light);
+      const light = new T.PointLight(0xffe9cb,1.8,6,2);light.position.set(x,2.65,-1.8);this.scene.add(light);
     }
+  }
+  setPosters(cards) {
+    if(!this.renderer||!this.posterPlanes)return;
+    const key=cards.map(card=>card.url).join("|");if(key===this.posterKey)return;this.posterKey=key;
+    const generation=(this.posterGeneration||0)+1;this.posterGeneration=generation;
+    cards.forEach((card,i)=>{
+      const plane=this.posterPlanes[i];if(!plane)return;
+      const loader=new this.T.TextureLoader();loader.setCrossOrigin("anonymous");
+      loader.load(card.url,texture=>{
+        if(generation!==this.posterGeneration){texture.dispose();return;}
+        plane.material.map?.dispose();texture.colorSpace=this.T.SRGBColorSpace;texture.anisotropy=Math.min(4,this.renderer.capabilities.getMaxAnisotropy());
+        plane.material.map=texture;plane.material.color.set(0xffffff);plane.material.needsUpdate=true;
+      },undefined,()=>{});
+    });
   }
   resize() {
     this.width = this.host.clientWidth; this.height = this.host.clientHeight; if (!this.width || !this.height) return;
@@ -146,25 +179,28 @@ class ShopWorld {
       this.renderer.setSize(this.width, this.height, false);
       const aspect = this.width / this.height, half = Math.max(4.6, 6.35 / aspect);
       Object.assign(this.overviewCamera, {left:-half*aspect,right:half*aspect,top:half,bottom:-half});
-      this.firstCamera.aspect = aspect; this.firstCamera.fov = aspect < 1 ? 90 : 70; this.firstCamera.updateProjectionMatrix();
+      this.firstCamera.aspect = aspect; this.firstCamera.fov = TCGMotion.fov(aspect); this.firstCamera.updateProjectionMatrix();
       this.updateCamera();
     } else { const ratio = Math.min(devicePixelRatio || 1, 2); this.canvas.width = this.width * ratio; this.canvas.height = this.height * ratio; this.ctx.setTransform(ratio, 0, 0, ratio, 0, 0); }
   }
-  updateCamera() {
+  updateCamera(dt) {
     if (!this.camera) return;
     if (this.view === "first") {
       this.camera.position.set(this.player.x,1.65,this.player.z);
-      this.camera.lookAt(this.player.x + Math.sin(this.lookYaw)*Math.cos(this.pitch),1.65+Math.sin(this.pitch),this.player.z-Math.cos(this.lookYaw)*Math.cos(this.pitch));
+      if (dt === undefined || this.reducedMotion) { this.renderYaw = this.lookYaw; this.renderPitch = this.pitch; }
+      else { this.renderYaw = TCGMotion.smooth(this.renderYaw ?? this.lookYaw,this.lookYaw,dt); this.renderPitch = TCGMotion.smooth(this.renderPitch ?? this.pitch,this.pitch,dt); }
+      this.camera.lookAt(this.player.x+Math.sin(this.renderYaw)*Math.cos(this.renderPitch),1.65+Math.sin(this.renderPitch),this.player.z-Math.cos(this.renderYaw)*Math.cos(this.renderPitch));
     } else {
       this.camera.position.set(Math.sin(this.yaw)*16,13,Math.cos(this.yaw)*16);this.camera.lookAt(0,.7,0);this.camera.zoom=this.zoom;
     }
     this.camera.updateProjectionMatrix(); this.camera.updateMatrixWorld();
   }
   setView(view) {
-    this.view = this.renderer ? view : "overview"; this.keys.clear();
+    this.releaseInput(); this.view = this.renderer ? view : "overview";
     this.camera = this.renderer ? (this.view === "first" ? this.firstCamera : this.overviewCamera) : null;
     this.host.classList.toggle("is-first-person",this.view === "first");
     document.getElementById("world-view").textContent = this.view === "first" ? "俯瞰" : "进店";
+    document.getElementById("world-look").disabled = !this.renderer || this.view !== "first" || !this.canvas.requestPointerLock;
     this.updateCamera();
   }
   canWalk(x,z) {
@@ -173,50 +209,140 @@ class ShopWorld {
     return !obstacles.some(([left,right,back,front])=>x>left&&x<right&&z>back&&z<front);
   }
   walk(forward,side,dt) {
-    const length=Math.hypot(forward,side)||1,speed=2.2*dt/Math.max(1,length);
-    const dx=(Math.sin(this.lookYaw)*forward+Math.cos(this.lookYaw)*side)*speed;
-    const dz=(-Math.cos(this.lookYaw)*forward+Math.sin(this.lookYaw)*side)*speed;
-    if(this.canWalk(this.player.x+dx,this.player.z))this.player.x+=dx;
-    if(this.canWalk(this.player.x,this.player.z+dz))this.player.z+=dz;
+    const length=Math.max(1,Math.hypot(forward,side)),speed=1.85*dt/length;
+    this.player=TCGMotion.displace(this.player,(Math.sin(this.lookYaw)*forward+Math.cos(this.lookYaw)*side)*speed,(-Math.cos(this.lookYaw)*forward+Math.sin(this.lookYaw)*side)*speed,(x,z)=>this.canWalk(x,z));
     this.updateCamera();
+  }
+  visibleHit(ray) {
+    this.scene.updateMatrixWorld(true);
+    return ray.intersectObjects(this.scene.children,true).find(hit=>{
+      for(let object=hit.object;object;object=object.parent)if(!object.visible)return false;
+      return hit.object.material?.opacity!==0;
+    });
   }
   interactAt(clientX,clientY) {
     if(!this.renderer)return;
     const rect=this.canvas.getBoundingClientRect(),ray=new this.T.Raycaster();
     ray.setFromCamera(new this.T.Vector2((clientX-rect.left)/rect.width*2-1,-(clientY-rect.top)/rect.height*2+1),this.camera);
-    const hit=ray.intersectObjects(this.scene.children,true).find(hit=>hit.object.visible&&hit.object.material?.opacity!==0);
-    if(hit?.object.userData.action && (this.view!=="first"||hit.distance<6))this.onAction(hit.object.userData.action);
+    const hit=this.visibleHit(ray);
+    if(hit?.object.userData.action&&(this.view!=="first"||hit.distance<5)){
+      this.releaseMouse(); this.onAction(hit.object.userData.action);
+    }
+  }
+  interactCenter() {const r=this.canvas.getBoundingClientRect();this.interactAt(r.left+r.width/2,r.top+r.height/2);}
+  updateAim(time) {
+    if(time-this.lastAimTime<100)return;this.lastAimTime=time;
+    const button=document.getElementById("world-interact");
+    if(!this.renderer||this.view!=="first"){button.hidden=true;return;}
+    const ray=new this.T.Raycaster();ray.setFromCamera(new this.T.Vector2(0,0),this.camera);
+    const hit=this.visibleHit(ray),action=hit?.distance<5?hit.object.userData.action:null;
+    const labels={supply:"补货",stock:"查看货架",checkout:"收银台",collection:"打开卡册",events:"查看活动"};
+    button.hidden=!labels[action];if(labels[action])button.textContent=labels[action];
+    this.host.classList.toggle("has-aim",!!labels[action]);
+  }
+  turn(dx,dy,touch=false) {
+    const scale=(touch?1.2/Math.max(320,this.width):.0025)*this.sensitivity;
+    this.lookYaw+=dx*scale;
+    this.pitch=Math.max(-.85,Math.min(.85,this.pitch-dy*scale*.85));
+    this.host.classList.add("has-explored");
+  }
+  releaseMouse() {if(document.pointerLockElement===this.canvas)document.exitPointerLock();}
+  resetJoystick() {
+    const pointer=this.joyPointer;this.joyPointer=null;this.joy={x:0,y:0};
+    const base=document.querySelector(".joystick-base");
+    base.style.setProperty("--stick-x","0px");base.style.setProperty("--stick-y","0px");base.classList.remove("is-held");
+    if(pointer!==null&&pointer!==undefined&&base.hasPointerCapture(pointer))base.releasePointerCapture(pointer);
+  }
+  releaseInput() {
+    this.keys.clear();this.velocity={x:0,z:0};this.resetJoystick();this.lastMotionTime=performance.now();
+    this.clearLook?.();this.releaseMouse();
+  }
+  setExpanded(expanded) {
+    this.releaseInput();this.expanded=expanded;this.host.classList.toggle("world-expanded",expanded);
+    document.body.classList.toggle("world-is-expanded",expanded);
+    document.getElementById("world-expand").textContent=expanded?"收起画面":"大画面";
+    document.getElementById("world-expand").setAttribute("aria-pressed",String(expanded));
+    this.resize();
+  }
+  bindOptions() {
+    const look=document.getElementById("world-look");
+    look.disabled=!this.renderer||!this.canvas.requestPointerLock;
+    const denied=()=>{look.textContent="拖动环顾";document.getElementById("world-control-status").textContent="当前浏览器未启用鼠标锁定，可继续拖动画面。";};
+    look.addEventListener("click",()=>{
+      if(document.pointerLockElement===this.canvas){this.releaseMouse();return;}
+      try{this.canvas.requestPointerLock()?.catch(denied);}catch{denied();}
+    });
+    document.addEventListener("pointerlockerror",denied);
+    document.addEventListener("pointerlockchange",()=>{
+      this.keys.clear();this.velocity={x:0,z:0};this.clearLook?.();
+      const locked=document.pointerLockElement===this.canvas;
+      this.host.classList.toggle("mouse-is-locked",locked);look.textContent=locked?"Esc 退出":"鼠标控制";look.setAttribute("aria-pressed",String(locked));
+    });
+    document.getElementById("world-expand").addEventListener("click",()=>this.setExpanded(!this.expanded));
+    document.getElementById("world-interact").addEventListener("click",()=>this.interactCenter());
+    document.getElementById("world-sensitivity").addEventListener("input",event=>{this.sensitivity=Number(event.target.value);});
+    document.getElementById("world-pad-mode").addEventListener("change",event=>{this.releaseInput();this.host.classList.toggle("use-direction-pad",event.target.checked);});
+  }
+  bindJoystick() {
+    const base=document.querySelector(".joystick-base");
+    const move=event=>{
+      if(event.pointerId!==this.joyPointer)return;
+      const r=base.getBoundingClientRect(),radius=r.width*.32;
+      const x=event.clientX-r.left-r.width/2,y=event.clientY-r.top-r.height/2,length=Math.hypot(x,y),limit=Math.min(1,radius/(length||1));
+      base.style.setProperty("--stick-x",`${x*limit}px`);base.style.setProperty("--stick-y",`${y*limit}px`);
+      this.joy=TCGMotion.axes(x/radius,-y/radius);this.host.classList.add("has-explored");
+    };
+    base.addEventListener("pointerdown",event=>{
+      if(this.joyPointer!==null&&this.joyPointer!==undefined)return;
+      event.preventDefault();this.joyPointer=event.pointerId;base.setPointerCapture(event.pointerId);base.classList.add("is-held");move(event);
+    });
+    base.addEventListener("pointermove",move);
+    base.addEventListener("pointerup",event=>{if(event.pointerId===this.joyPointer)this.resetJoystick();});
+    const cancel=event=>{if(event.pointerId===this.joyPointer){this.resetJoystick();this.velocity={x:0,z:0};}};
+    base.addEventListener("pointercancel",cancel);base.addEventListener("lostpointercapture",cancel);
   }
   bindControls() {
     const pointers=new Map();let start=null,lastPinch=0;
-    this.canvas.addEventListener("pointerdown",e=>{if(e.button!==0)return;this.canvas.focus({preventScroll:true});pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});this.canvas.setPointerCapture(e.pointerId);if(pointers.size===1)start={x:e.clientX,y:e.clientY,moved:false};else{const p=[...pointers.values()];lastPinch=Math.hypot(p[0].x-p[1].x,p[0].y-p[1].y);if(start)start.moved=true;}});
-    this.canvas.addEventListener("pointermove",e=>{
-      const old=pointers.get(e.pointerId);if(!old)return;pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
-      if(pointers.size===2){const p=[...pointers.values()],distance=Math.hypot(p[0].x-p[1].x,p[0].y-p[1].y);if(this.view!=="first"&&lastPinch)this.zoom=Math.max(.8,Math.min(1.65,this.zoom*distance/lastPinch));lastPinch=distance;}
-      else if(this.view==="first"&&this.renderer){this.lookYaw-=(e.clientX-old.x)*.005;this.pitch=Math.max(-.65,Math.min(.65,this.pitch+(e.clientY-old.y)*.004));}
-      else this.yaw=Math.max(.25,Math.min(1.3,this.yaw+(e.clientX-old.x)*.006));
-      if(start&&Math.hypot(e.clientX-start.x,e.clientY-start.y)>5)start.moved=true;this.updateCamera();
+    this.clearLook=()=>{pointers.clear();start=null;};
+    this.canvas.addEventListener("contextmenu",event=>event.preventDefault());
+    this.canvas.addEventListener("pointerdown",event=>{
+      if(document.pointerLockElement===this.canvas){if(event.button===0)this.interactCenter();return;}
+      if(![0,2].includes(event.button))return;
+      this.canvas.focus({preventScroll:true});pointers.set(event.pointerId,{x:event.clientX,y:event.clientY});this.canvas.setPointerCapture(event.pointerId);
+      if(pointers.size===1)start={x:event.clientX,y:event.clientY,moved:event.button===2};
+      else{const p=[...pointers.values()];lastPinch=Math.hypot(p[0].x-p[1].x,p[0].y-p[1].y);if(start)start.moved=true;}
     });
-    const release=e=>{const click=start&&!start.moved&&pointers.size===1;pointers.delete(e.pointerId);if(click&&e.type==="pointerup")this.interactAt(e.clientX,e.clientY);if(!pointers.size)start=null;};
-    this.canvas.addEventListener("pointerup",release);this.canvas.addEventListener("pointercancel",release);this.canvas.addEventListener("lostpointercapture",e=>{pointers.delete(e.pointerId);if(!pointers.size)start=null;});
-    this.canvas.addEventListener("wheel",e=>{if(this.view==="first")return;e.preventDefault();this.zoom=Math.max(.8,Math.min(1.65,this.zoom-e.deltaY*.001));this.updateCamera();},{passive:false});
-    const clear=()=>{this.keys.clear();pointers.clear();start=null;};
-    window.addEventListener("blur",clear);document.addEventListener("visibilitychange",()=>{if(document.hidden)clear();});
-    document.addEventListener("keydown",e=>{
-      if(state.mode!=="shop"||document.querySelector("dialog[open]")||e.target.closest("input:not([type=checkbox]),select,textarea,[contenteditable=true]"))return;
-      const key=e.key.toLowerCase();if(!["w","a","s","d","arrowup","arrowdown","arrowleft","arrowright","e"].includes(key))return;
-      e.preventDefault();this.keys.add(key);
-      if(key==="e"&&!e.repeat){const r=this.canvas.getBoundingClientRect();this.interactAt(r.left+r.width/2,r.top+r.height/2);}
+    this.canvas.addEventListener("pointermove",event=>{
+      if(document.pointerLockElement===this.canvas)return;
+      const old=pointers.get(event.pointerId);if(!old)return;pointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
+      if(pointers.size===2){
+        const p=[...pointers.values()],distance=Math.hypot(p[0].x-p[1].x,p[0].y-p[1].y);
+        if(this.view!=="first"&&lastPinch)this.zoom=Math.max(.8,Math.min(1.65,this.zoom*distance/lastPinch));lastPinch=distance;
+      }else if(this.view==="first"&&this.renderer)this.turn(event.clientX-old.x,event.clientY-old.y,event.pointerType==="touch");
+      else this.yaw=Math.max(.25,Math.min(1.3,this.yaw+(event.clientX-old.x)*.004));
+      if(start&&Math.hypot(event.clientX-start.x,event.clientY-start.y)>5)start.moved=true;
     });
-    document.addEventListener("keyup",e=>this.keys.delete(e.key.toLowerCase()));
+    document.addEventListener("mousemove",event=>{if(document.pointerLockElement===this.canvas)this.turn(event.movementX,event.movementY);});
+    const release=event=>{const click=start&&!start.moved&&pointers.size===1;pointers.delete(event.pointerId);if(click&&event.type==="pointerup")this.interactAt(event.clientX,event.clientY);if(!pointers.size)start=null;};
+    this.canvas.addEventListener("pointerup",release);this.canvas.addEventListener("pointercancel",release);this.canvas.addEventListener("lostpointercapture",event=>{pointers.delete(event.pointerId);if(!pointers.size)start=null;});
+    this.canvas.addEventListener("wheel",event=>{if(this.view==="first")return;event.preventDefault();this.zoom=Math.max(.8,Math.min(1.65,this.zoom-event.deltaY*.001));},{passive:false});
+    window.addEventListener("blur",()=>this.releaseInput());document.addEventListener("visibilitychange",()=>{if(document.hidden)this.releaseInput();});
+    document.addEventListener("keydown",event=>{
+      if(event.key==="Escape"){if(document.pointerLockElement===this.canvas)this.releaseMouse();else if(!document.querySelector("dialog[open]")){const help=this.host.querySelector(".world-help");if(help.open)help.open=false;else if(this.expanded)this.setExpanded(false);}return;}
+      if(state.mode!=="shop"||document.querySelector("dialog[open]")||event.target.closest("input:not([type=checkbox]),select,textarea,[contenteditable=true]"))return;
+      const key=event.key.toLowerCase();if(!["w","a","s","d","arrowup","arrowdown","arrowleft","arrowright","e"].includes(key))return;
+      event.preventDefault();this.keys.add(key);
+      if(key==="e"&&!event.repeat)this.interactCenter();
+    });
+    document.addEventListener("keyup",event=>this.keys.delete(event.key.toLowerCase()));
     for(const button of document.querySelectorAll("[data-walk]")){
       const release=()=>this.keys.delete(button.dataset.walk);
-      button.addEventListener("pointerdown",e=>{e.preventDefault();this.keys.add(button.dataset.walk);button.setPointerCapture(e.pointerId);});
+      button.addEventListener("pointerdown",event=>{event.preventDefault();this.keys.add(button.dataset.walk);button.setPointerCapture(event.pointerId);});
       button.addEventListener("pointerup",release);button.addEventListener("pointercancel",release);button.addEventListener("lostpointercapture",release);
-      button.addEventListener("click",e=>{if(e.detail===0)this.walk(button.dataset.walk==="w"?1:button.dataset.walk==="s"?-1:0,button.dataset.walk==="d"?1:button.dataset.walk==="a"?-1:0,.22);});
+      button.addEventListener("click",event=>{if(event.detail===0)this.walk(button.dataset.walk==="w"?1:button.dataset.walk==="s"?-1:0,button.dataset.walk==="d"?1:button.dataset.walk==="a"?-1:0,.22);});
     }
   }
-  resetCamera() { this.player={x:.35,z:3.2};this.lookYaw=0;this.pitch=-.05;this.yaw=.73;this.zoom=1;this.keys.clear();this.updateCamera(); }
+  resetCamera() {this.releaseInput();this.player={x:.35,z:3.2};this.lookYaw=.1;this.pitch=-.12;this.yaw=.73;this.zoom=1;this.updateCamera();}
 
   project(x, y, z) {
     if (this.camera) { const p = new this.T.Vector3(x, y, z).project(this.camera); return {x: (p.x + 1) * this.width / 2, y: (1 - p.y) * this.height / 2, visible: p.z > -1 && p.z < 1 && Math.abs(p.x)<.95 && Math.abs(p.y)<.9}; }
@@ -227,17 +353,24 @@ class ShopWorld {
     const stock = Object.values(save.shop.stock).reduce((a, b) => a + b, 0); const listed = Object.values(save.shop.listings).reduce((a, b) => a + b.count, 0);
     if (this.stockMeshes) this.stockMeshes.forEach((m, i) => { m.visible = (i * 19) % this.stockMeshes.length < Math.min(this.stockMeshes.length, stock); m.userData.face.visible = m.visible; });
     if (this.displayCards) this.displayCards.forEach((m, i) => { m.visible = i < Math.min(5, listed); m.userData.face.visible = m.visible; });
+    if(this.inventory?.stock!==stock||this.inventory?.listed!==listed)this.shadowDirty=true;
     this.inventory = {stock, listed};
   }
   render(people, dt) {
     this.time += dt;
-    const controlsActive = state.mode === "shop" && !document.hidden && !document.querySelector("dialog[open]");
-    if (!controlsActive) this.keys.clear();
-    if (this.renderer && this.view === "first" && controlsActive) {
-      if(this.keys.has("arrowleft"))this.lookYaw-=dt*1.6;
-      if(this.keys.has("arrowright"))this.lookYaw+=dt*1.6;
-      this.walk((this.keys.has("w")||this.keys.has("arrowup")?1:0)-(this.keys.has("s")||this.keys.has("arrowdown")?1:0),(this.keys.has("d")?1:0)-(this.keys.has("a")?1:0),dt);
+    const now=performance.now(),motionDt=Math.min(.15,Math.max(0,(now-this.lastMotionTime)/1000));this.lastMotionTime=now;
+    const controlsActive=state.mode==="shop"&&!document.hidden&&!document.querySelector("dialog[open]");
+    if(!controlsActive){this.keys.clear();this.velocity={x:0,z:0};this.resetJoystick();}
+    if(this.renderer&&this.view==="first"&&controlsActive){
+      if(this.keys.has("arrowleft"))this.lookYaw-=motionDt*1.3;
+      if(this.keys.has("arrowright"))this.lookYaw+=motionDt*1.3;
+      const forward=(this.keys.has("w")||this.keys.has("arrowup")?1:0)-(this.keys.has("s")||this.keys.has("arrowdown")?1:0)+this.joy.y;
+      const side=(this.keys.has("d")?1:0)-(this.keys.has("a")?1:0)+this.joy.x;
+      if(forward||side)this.host.classList.add("has-explored");
+      const step=TCGMotion.advance(this.player,this.velocity,forward,side,this.renderYaw??this.lookYaw,motionDt,(x,z)=>this.canWalk(x,z));
+      this.player=step.position;this.velocity=step.velocity;
     }
+    this.updateCamera(motionDt);
     if(this.firstObjects)this.firstObjects.forEach(mesh=>mesh.visible=this.view==="first");
     const alive = new Set();
     for (const person of people) {
@@ -249,7 +382,12 @@ class ShopWorld {
     for (const [id, entry] of this.people) if (!alive.has(id)) { if (entry.mesh) { this.scene.remove(entry.mesh); entry.mesh.traverse(object => object.geometry?.dispose()); } entry.label.remove(); this.people.delete(id); }
     const markers = {supply: ".supply-spot", stock: ".counter-spot", collection: ".collection-spot", events: ".event-spot"};
     for (const [action, coords] of Object.entries(this.anchors)) { if(this.view === "first" && this.renderer) continue; const p = this.project(...coords); const element = this.host.querySelector(markers[action]); element.style.left = `${Math.max(55, Math.min(this.width - 55, p.x))}px`; element.style.top = `${Math.max(48, Math.min(this.height - 35, p.y))}px`; element.style.right = "auto"; }
-    if (this.renderer) this.renderer.render(this.scene, this.camera); else this.drawFallback(people);
+    this.updateAim(now);
+    if(this.renderer){
+      if(people.length||this.lastPeopleCount!==people.length||this.lastShadowView!==this.view||this.shadowDirty)this.renderer.shadowMap.needsUpdate=true;
+      if(now-this.lastDrawTime>1000/60-1){this.renderer.render(this.scene,this.camera);this.lastDrawTime=now;this.shadowDirty=false;this.lastPeopleCount=people.length;this.lastShadowView=this.view;}
+    }
+    else this.drawFallback(people);
   }
   drawFallback(people) {
     const c = this.ctx; if (!c) return; c.clearRect(0, 0, this.width, this.height);
