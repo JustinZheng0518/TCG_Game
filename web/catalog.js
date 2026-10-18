@@ -180,7 +180,7 @@ function text(tag, value, className) {
 }
 
 async function readJSON(path) {
-  const response = await fetch(path);
+  const response = await fetch(path, {cache: "no-cache"});
   if (!response.ok) throw new Error(`无法读取卡牌档案 (${response.status})`);
   return response.json();
 }
