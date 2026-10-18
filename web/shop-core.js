@@ -184,6 +184,22 @@
   function addCards(save, cards) {
     save.counts = Game.collect({version: 1, counts: save.counts}, cards).counts;
   }
+  function deckPools(cards) {
+    const base = cards.filter(c => Game.tier(c) < 2 && !["RR", "RRR"].includes(Game.rarity(c)));
+    const ace = cards.filter(c => ["RR", "RRR"].includes(Game.rarity(c)));
+    return {base: base.length ? base : cards, ace: ace.length ? ace : base.length ? base : cards};
+  }
+  function eventPools(product, cards) {
+    let remaining = 1;
+    const groups = [];
+    for (const [variant, probability] of Object.entries(product.variant_distribution || {})) {
+      const chance = probability;
+      remaining -= chance;
+      groups.push({variant: Number(variant), chance, cards: cards.filter(c => c.variant_code === Number(variant))});
+    }
+    if (remaining > 1e-12) groups.push({variant: 0, chance: remaining, cards: cards.filter(c => c.variant_code === 0)});
+    return groups;
+  }
   function openStock(value, product, cards, count, random = Math.random) {
     const next = validate(value);
     integer(count, 1, 10);
@@ -196,11 +212,10 @@
       for (let i = 0; i < count * product.cards_per_unit; i++) drawn.push(pick(cards, random));
     } else {
       // A declared game recipe: not a reconstructed official 60-card decklist.
-      const base = cards.filter(c => Game.tier(c) < 2 && !["RR", "RRR"].includes(Game.rarity(c)));
-      const ace = cards.filter(c => ["RR", "RRR"].includes(Game.rarity(c)));
+      const {base, ace} = deckPools(cards);
       for (let deck = 0; deck < count; deck++) {
-        for (let i = 0; i < 58; i++) drawn.push(pick(base.length ? base : cards, random));
-        for (let i = 0; i < 2; i++) drawn.push(pick(ace.length ? ace : base.length ? base : cards, random));
+        for (let i = 0; i < 58; i++) drawn.push(pick(base, random));
+        for (let i = 0; i < 2; i++) drawn.push(pick(ace, random));
       }
     }
     addCards(next, drawn);
@@ -261,9 +276,9 @@
         const roll = random();
         if (!Number.isFinite(roll) || roll < 0 || roll >= 1) throw new Error("随机数无效。");
         let ceiling = 0, selectedVariant = 0;
-        for (const [variant, probability] of Object.entries(product.variant_distribution)) {
-          ceiling += probability;
-          if (roll < ceiling) { selectedVariant = Number(variant); break; }
+        for (const entry of eventPools(product, cards)) {
+          ceiling += entry.chance;
+          if (roll < ceiling) { selectedVariant = entry.variant; break; }
         }
         const pool = cards.filter(card => card.variant_code === selectedVariant);
         if (!pool.length) throw new Error("活动卡表与官方工艺配比不匹配。");
@@ -403,5 +418,5 @@
     s.business = newBusiness();
     return {save: validate(next), report: {day, soldPacks, soldCards, packRevenue, cardRevenue, rent, rewards}};
   }
-  return {RETAIL, QUESTS, validate, news, hash, feedValid, productQuote, cardQuote, buyStock, buyAndOpen, openStock, trade, sellDuplicates, acquire, work, claim, redeem, upgrade, customerLimit, setBusinessOpen, admitCustomer, checkoutCustomer, endDay};
+  return {RETAIL, QUESTS, validate, news, hash, feedValid, productQuote, cardQuote, deckPools, eventPools, buyStock, buyAndOpen, openStock, trade, sellDuplicates, acquire, work, claim, redeem, upgrade, customerLimit, setBusinessOpen, admitCustomer, checkoutCustomer, endDay};
 });

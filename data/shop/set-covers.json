@@ -1,0 +1,2499 @@
+{
+  "schema_version": 1,
+  "note": "Real product artwork when available; otherwise an explicitly labeled card from this exact set. No fabricated sealed-product images.",
+  "sets": {
+    "CSVH6C": {
+      "image": "data/shop/set-covers/CSVH6C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/530/cover.png"
+    },
+    "CSVH6eC": {
+      "image": "data/shop/set-covers/CSVH6eC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/529/cover.png"
+    },
+    "CSVH6pC": {
+      "image": "data/shop/set-covers/CSVH6pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/528/cover.png"
+    },
+    "CSVH6aC": {
+      "image": "data/shop/set-covers/CSVH6aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/527/cover.png"
+    },
+    "30thSCZSLH": {
+      "image": "data/shop/set-covers/30thSCZSLH.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/525/cover.png"
+    },
+    "30thKPZSTTZ2": {
+      "image": "data/shop/set-covers/30thKPZSTTZ2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/523/cover.png"
+    },
+    "30thKPZSTTZ1": {
+      "image": "data/shop/set-covers/30thKPZSTTZ1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/522/cover.png"
+    },
+    "PROMOGIFT05": {
+      "image": "data/shop/set-covers/PROMOGIFT05.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/520/0.png",
+      "card_id": "PROMOGIFT05:21950"
+    },
+    "PROMOSVEVENT05": {
+      "image": "data/shop/set-covers/PROMOSVEVENT05.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/519/0.png",
+      "card_id": "PROMOSVEVENT05:21870"
+    },
+    "MISSION10": {
+      "image": "data/shop/set-covers/MISSION10.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/518/0.png",
+      "card_id": "MISSION10:21858"
+    },
+    "30thDC": {
+      "image": "data/shop/set-covers/30thDC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/517/cover.png"
+    },
+    "30thC": {
+      "image": "data/shop/set-covers/30thC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/515/cover.png"
+    },
+    "PROMO_Lisia": {
+      "image": "data/shop/set-covers/PROMO_Lisia.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/513/cover.png"
+    },
+    "CBB6C": {
+      "image": "data/shop/set-covers/CBB6C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/511/cover.png"
+    },
+    "151PROMOf3": {
+      "image": "data/shop/set-covers/151PROMOf3.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/509/cover.png"
+    },
+    "30th-P-03": {
+      "image": "data/shop/set-covers/30th-P-03.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/507/cover.png"
+    },
+    "PROMO_26HL": {
+      "image": "data/shop/set-covers/PROMO_26HL.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/506/cover.png"
+    },
+    "PROMOR": {
+      "image": "data/shop/set-covers/PROMOR.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/504/cover.png"
+    },
+    "CSV9.5C_Coin": {
+      "image": "data/shop/set-covers/CSV9.5C_Coin.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/502/cover.png"
+    },
+    "PROMOEEVEE": {
+      "image": "data/shop/set-covers/PROMOEEVEE.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/500/cover.png"
+    },
+    "PROMOGIFT04": {
+      "image": "data/shop/set-covers/PROMOGIFT04.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/498/cover.png"
+    },
+    "PROMOSVEVENT04": {
+      "image": "data/shop/set-covers/PROMOSVEVENT04.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/497/cover.png"
+    },
+    "MISSION9": {
+      "image": "data/shop/set-covers/MISSION9.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/496/cover.png"
+    },
+    "CSVM2cC": {
+      "image": "data/shop/set-covers/CSVM2cC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/495/cover.png"
+    },
+    "CSVM2bC": {
+      "image": "data/shop/set-covers/CSVM2bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/494/cover.png"
+    },
+    "CSVM2aC": {
+      "image": "data/shop/set-covers/CSVM2aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/493/cover.png"
+    },
+    "CSVH5eC": {
+      "image": "data/shop/set-covers/CSVH5eC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/491/cover.png"
+    },
+    "CSVH5pC": {
+      "image": "data/shop/set-covers/CSVH5pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/490/cover.png"
+    },
+    "CSVH5aC": {
+      "image": "data/shop/set-covers/CSVH5aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/489/cover.png"
+    },
+    "CSVH5C": {
+      "image": "data/shop/set-covers/CSVH5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/488/cover.png"
+    },
+    "CSV10C": {
+      "image": "data/shop/set-covers/CSV10C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/485/cover.png"
+    },
+    "30th-P-02": {
+      "image": "data/shop/set-covers/30th-P-02.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/483/cover.png"
+    },
+    "CSV9.5C": {
+      "image": "data/shop/set-covers/CSV9.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/482/cover.png"
+    },
+    "MISSION8": {
+      "image": "data/shop/set-covers/MISSION8.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/480/cover.png"
+    },
+    "PROMOSVEVENT03": {
+      "image": "data/shop/set-covers/PROMOSVEVENT03.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/479/cover.png"
+    },
+    "PROMOGIFT03": {
+      "image": "data/shop/set-covers/PROMOGIFT03.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/478/cover.png"
+    },
+    "CSVNC": {
+      "image": "data/shop/set-covers/CSVNC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/477/cover.png"
+    },
+    "CSV9C": {
+      "image": "data/shop/set-covers/CSV9C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/475/cover.png"
+    },
+    "151PROMOf2": {
+      "image": "data/shop/set-covers/151PROMOf2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/469/cover.png"
+    },
+    "CBB5C": {
+      "image": "data/shop/set-covers/CBB5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/467/cover.png"
+    },
+    "CSVH4C": {
+      "image": "data/shop/set-covers/CSVH4C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/465/cover.png"
+    },
+    "CSVH4aC": {
+      "image": "data/shop/set-covers/CSVH4aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/464/cover.png"
+    },
+    "CSVH4eC": {
+      "image": "data/shop/set-covers/CSVH4eC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/463/cover.png"
+    },
+    "CSVH4pC": {
+      "image": "data/shop/set-covers/CSVH4pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/462/cover.png"
+    },
+    "30th-P-01": {
+      "image": "data/shop/set-covers/30th-P-01.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/460/cover.png"
+    },
+    "CSV8C": {
+      "image": "data/shop/set-covers/CSV8C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/458/cover.png"
+    },
+    "promosvPaldea": {
+      "image": "data/shop/set-covers/promosvPaldea.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/456/cover.png"
+    },
+    "PROMOGIFT02": {
+      "image": "data/shop/set-covers/PROMOGIFT02.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/454/cover.png"
+    },
+    "PROMOSVEVENT02": {
+      "image": "data/shop/set-covers/PROMOSVEVENT02.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/453/cover.png"
+    },
+    "MISSION07": {
+      "image": "data/shop/set-covers/MISSION07.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/452/cover.png"
+    },
+    "CBB4C": {
+      "image": "data/shop/set-covers/CBB4C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/339/cover.png"
+    },
+    "PROMOCBB01": {
+      "image": "data/shop/set-covers/PROMOCBB01.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/337/cover.png"
+    },
+    "MISSION06": {
+      "image": "data/shop/set-covers/MISSION06.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/335/cover.png"
+    },
+    "PROMOGIFT01": {
+      "image": "data/shop/set-covers/PROMOGIFT01.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/334/cover.png"
+    },
+    "PROMOSVEVENT01": {
+      "image": "data/shop/set-covers/PROMOSVEVENT01.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/332/cover.png"
+    },
+    "CSVM1aC": {
+      "image": "data/shop/set-covers/CSVM1aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/330/cover.png"
+    },
+    "CSVM1bC": {
+      "image": "data/shop/set-covers/CSVM1bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/329/cover.png"
+    },
+    "CSVM1cC": {
+      "image": "data/shop/set-covers/CSVM1cC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/328/cover.png"
+    },
+    "CSVSC": {
+      "image": "data/shop/set-covers/CSVSC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/326/cover.png"
+    },
+    "CSV7C": {
+      "image": "data/shop/set-covers/CSV7C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/324/cover.png"
+    },
+    "PROMOSV08": {
+      "image": "data/shop/set-covers/PROMOSV08.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/322/cover.png"
+    },
+    "PROMOSV07": {
+      "image": "data/shop/set-covers/PROMOSV07.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/320/cover.png"
+    },
+    "PROMOSVML04": {
+      "image": "data/shop/set-covers/PROMOSVML04.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/318/0.png",
+      "card_id": "PROMOSVML04:16135"
+    },
+    "151PROMOf": {
+      "image": "data/shop/set-covers/151PROMOf.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/316/cover.png"
+    },
+    "CSVL2C": {
+      "image": "data/shop/set-covers/CSVL2C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/314/cover.png"
+    },
+    "MISSION05": {
+      "image": "data/shop/set-covers/MISSION05.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/312/cover.png"
+    },
+    "CSV6C": {
+      "image": "data/shop/set-covers/CSV6C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/311/cover.png"
+    },
+    "CSVE2C2": {
+      "image": "data/shop/set-covers/CSVE2C2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/308/cover.png"
+    },
+    "CSVE2pC2": {
+      "image": "data/shop/set-covers/CSVE2pC2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/307/cover.png"
+    },
+    "PROMOSV151m1": {
+      "image": "data/shop/set-covers/PROMOSV151m1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/306/cover.png"
+    },
+    "PROMOSV151m2": {
+      "image": "data/shop/set-covers/PROMOSV151m2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/305/cover.png"
+    },
+    "PROMOSV151m3": {
+      "image": "data/shop/set-covers/PROMOSV151m3.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/304/cover.png"
+    },
+    "CBB3C": {
+      "image": "data/shop/set-covers/CBB3C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/302/cover.png"
+    },
+    "PROMOSVML03": {
+      "image": "data/shop/set-covers/PROMOSVML03.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/300/0.png",
+      "card_id": "PROMOSVML03:15282"
+    },
+    "CSV5C": {
+      "image": "data/shop/set-covers/CSV5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/298/cover.png"
+    },
+    "CSVH3C": {
+      "image": "data/shop/set-covers/CSVH3C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/296/cover.png"
+    },
+    "CSVH3aC": {
+      "image": "data/shop/set-covers/CSVH3aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/295/cover.png"
+    },
+    "CSVH3pC": {
+      "image": "data/shop/set-covers/CSVH3pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/294/cover.png"
+    },
+    "MISSION04": {
+      "image": "data/shop/set-covers/MISSION04.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/292/cover.png"
+    },
+    "PROMOSV05": {
+      "image": "data/shop/set-covers/PROMOSV05.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/291/cover.png"
+    },
+    "PROMOSV06": {
+      "image": "data/shop/set-covers/PROMOSV06.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/289/0.png",
+      "card_id": "PROMOSV06:14644"
+    },
+    "PROMOSVML02": {
+      "image": "data/shop/set-covers/PROMOSVML02.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/287/0.png",
+      "card_id": "PROMOSVML02:15294"
+    },
+    "CSV4C": {
+      "image": "data/shop/set-covers/CSV4C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/285/cover.png"
+    },
+    "CSVE2C1": {
+      "image": "data/shop/set-covers/CSVE2C1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/283/cover.png"
+    },
+    "CSVE2pC": {
+      "image": "data/shop/set-covers/CSVE2pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/282/cover.png"
+    },
+    "151C4": {
+      "image": "data/shop/set-covers/151C4.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/280/cover.png"
+    },
+    "151C3": {
+      "image": "data/shop/set-covers/151C3.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/279/cover.png"
+    },
+    "MISSION03": {
+      "image": "data/shop/set-covers/MISSION03.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/278/cover.png"
+    },
+    "PROMOSV04": {
+      "image": "data/shop/set-covers/PROMOSV04.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/277/cover.png"
+    },
+    "CSVL1C": {
+      "image": "data/shop/set-covers/CSVL1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/275/cover.png"
+    },
+    "MISSION02": {
+      "image": "data/shop/set-covers/MISSION02.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/273/cover.png"
+    },
+    "PROMOSV03": {
+      "image": "data/shop/set-covers/PROMOSV03.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/272/0.png",
+      "card_id": "PROMOSV03:13921"
+    },
+    "CSV3C": {
+      "image": "data/shop/set-covers/CSV3C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/270/cover.png"
+    },
+    "CSVH2C": {
+      "image": "data/shop/set-covers/CSVH2C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/268/cover.png"
+    },
+    "CSVH2aC": {
+      "image": "data/shop/set-covers/CSVH2aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/267/cover.png"
+    },
+    "CSVH2pC": {
+      "image": "data/shop/set-covers/CSVH2pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/266/cover.png"
+    },
+    "CBB2C": {
+      "image": "data/shop/set-covers/CBB2C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/264/cover.png"
+    },
+    "PROMOSV02": {
+      "image": "data/shop/set-covers/PROMOSV02.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/262/0.png",
+      "card_id": "PROMOSV02:13155"
+    },
+    "PROMOSV01": {
+      "image": "data/shop/set-covers/PROMOSV01.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/260/0.png",
+      "card_id": "PROMOSV01:13142"
+    },
+    "CSVE1C2": {
+      "image": "data/shop/set-covers/CSVE1C2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/258/cover.png"
+    },
+    "CSVE1pC2": {
+      "image": "data/shop/set-covers/CSVE1pC2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/257/cover.png"
+    },
+    "151C2": {
+      "image": "data/shop/set-covers/151C2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/256/cover.png"
+    },
+    "MISSION01": {
+      "image": "data/shop/set-covers/MISSION01.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/255/cover.png"
+    },
+    "CSV2C": {
+      "image": "data/shop/set-covers/CSV2C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/253/cover.png"
+    },
+    "CSVE1C1": {
+      "image": "data/shop/set-covers/CSVE1C1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/251/cover.png"
+    },
+    "CSVE1pC": {
+      "image": "data/shop/set-covers/CSVE1pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/250/cover.png"
+    },
+    "151C1": {
+      "image": "data/shop/set-covers/151C1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/247/cover.png"
+    },
+    "151C": {
+      "image": "data/shop/set-covers/151C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/246/cover.png"
+    },
+    "CSV1C": {
+      "image": "data/shop/set-covers/CSV1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/244/cover.png"
+    },
+    "CSVH1C": {
+      "image": "data/shop/set-covers/CSVH1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/242/cover.png"
+    },
+    "CSVH1aC": {
+      "image": "data/shop/set-covers/CSVH1aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/241/cover.png"
+    },
+    "CSVH1pC": {
+      "image": "data/shop/set-covers/CSVH1pC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/240/cover.png"
+    },
+    "CBB1C": {
+      "image": "data/shop/set-covers/CBB1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/238/cover.png"
+    },
+    "PROMO27": {
+      "image": "data/shop/set-covers/PROMO27.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/236/0.png",
+      "card_id": "PROMO27:11355"
+    },
+    "PROMO26": {
+      "image": "data/shop/set-covers/PROMO26.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/234/0.png",
+      "card_id": "PROMO26:11318"
+    },
+    "CSXC": {
+      "image": "data/shop/set-covers/CSXC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/232/cover.png"
+    },
+    "CS0LC": {
+      "image": "data/shop/set-covers/CS0LC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/230/cover.png"
+    },
+    "CSYC": {
+      "image": "data/shop/set-covers/CSYC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/228/cover.png"
+    },
+    "PROMO25": {
+      "image": "data/shop/set-covers/PROMO25.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/226/cover.png"
+    },
+    "CSZC": {
+      "image": "data/shop/set-covers/CSZC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/224/cover.png"
+    },
+    "CS6.5C": {
+      "image": "data/shop/set-covers/CS6.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/222/cover.png"
+    },
+    "PROMO24": {
+      "image": "data/shop/set-covers/PROMO24.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/220/0.png",
+      "card_id": "PROMO24:10933"
+    },
+    "PROMO23": {
+      "image": "data/shop/set-covers/PROMO23.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/219/0.png",
+      "card_id": "PROMO23:10932"
+    },
+    "CSUC": {
+      "image": "data/shop/set-covers/CSUC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/216/cover.png"
+    },
+    "PROMO22": {
+      "image": "data/shop/set-covers/PROMO22.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/214/0.png",
+      "card_id": "PROMO22:10888"
+    },
+    "PROMO21": {
+      "image": "data/shop/set-covers/PROMO21.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/212/1.png",
+      "card_id": "PROMO21:13052"
+    },
+    "CS6.1C": {
+      "image": "data/shop/set-covers/CS6.1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/210/cover.png"
+    },
+    "CS6aC": {
+      "image": "data/shop/set-covers/CS6aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/208/cover.png"
+    },
+    "CS6bC": {
+      "image": "data/shop/set-covers/CS6bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/206/cover.png"
+    },
+    "PROMO20": {
+      "image": "data/shop/set-covers/PROMO20.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/204/cover.png"
+    },
+    "CS5.5C": {
+      "image": "data/shop/set-covers/CS5.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/202/cover.png"
+    },
+    "PROMO19": {
+      "image": "data/shop/set-covers/PROMO19.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/200/0.png",
+      "card_id": "PROMO19:10143"
+    },
+    "CS5.1C": {
+      "image": "data/shop/set-covers/CS5.1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/198/cover.png"
+    },
+    "CSOC": {
+      "image": "data/shop/set-covers/CSOC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/196/cover.png"
+    },
+    "PROMO18": {
+      "image": "data/shop/set-covers/PROMO18.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/187/cover.png"
+    },
+    "PROMO17": {
+      "image": "data/shop/set-covers/PROMO17.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/186/cover.png"
+    },
+    "PROMO16": {
+      "image": "data/shop/set-covers/PROMO16.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/185/cover.png"
+    },
+    "CSMC": {
+      "image": "data/shop/set-covers/CSMC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/184/cover.png"
+    },
+    "CS5aC": {
+      "image": "data/shop/set-covers/CS5aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/183/cover.png"
+    },
+    "CS5bC": {
+      "image": "data/shop/set-covers/CS5bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/182/cover.png"
+    },
+    "CS5DC": {
+      "image": "data/shop/set-covers/CS5DC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/181/cover.png"
+    },
+    "CSNC": {
+      "image": "data/shop/set-covers/CSNC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/180/cover.png"
+    },
+    "CSFC10": {
+      "image": "data/shop/set-covers/CSFC10.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/179/cover.png"
+    },
+    "CSFC9": {
+      "image": "data/shop/set-covers/CSFC9.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/178/cover.png"
+    },
+    "CS4.1C2": {
+      "image": "data/shop/set-covers/CS4.1C2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/170/cover.png"
+    },
+    "CSJC": {
+      "image": "data/shop/set-covers/CSJC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/159/cover.png"
+    },
+    "CS4DaC": {
+      "image": "data/shop/set-covers/CS4DaC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/157/cover.png"
+    },
+    "CSFC8": {
+      "image": "data/shop/set-covers/CSFC8.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/156/cover.png"
+    },
+    "CSFC7": {
+      "image": "data/shop/set-covers/CSFC7.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/155/cover.png"
+    },
+    "CSIC": {
+      "image": "data/shop/set-covers/CSIC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/152/cover.png"
+    },
+    "CSFC6": {
+      "image": "data/shop/set-covers/CSFC6.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/150/cover.png"
+    },
+    "CSFC5": {
+      "image": "data/shop/set-covers/CSFC5.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/149/cover.png"
+    },
+    "PROMO15": {
+      "image": "data/shop/set-covers/PROMO15.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/148/0.png",
+      "card_id": "PROMO15:7327"
+    },
+    "PROMO14": {
+      "image": "data/shop/set-covers/PROMO14.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/146/0.png",
+      "card_id": "PROMO14:8395"
+    },
+    "CSHC1": {
+      "image": "data/shop/set-covers/CSHC1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/144/cover.png"
+    },
+    "CSHC2": {
+      "image": "data/shop/set-covers/CSHC2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/143/cover.png"
+    },
+    "CSHC": {
+      "image": "data/shop/set-covers/CSHC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/142/cover.png"
+    },
+    "CS4.5C": {
+      "image": "data/shop/set-covers/CS4.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/140/cover.png"
+    },
+    "CS4.1C-3": {
+      "image": "data/shop/set-covers/CS4.1C-3.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/138/cover.png"
+    },
+    "CS4.1C-2": {
+      "image": "data/shop/set-covers/CS4.1C-2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/137/cover.png"
+    },
+    "CS4.1C-1": {
+      "image": "data/shop/set-covers/CS4.1C-1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/136/cover.png"
+    },
+    "CS4.1C": {
+      "image": "data/shop/set-covers/CS4.1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/135/cover.png"
+    },
+    "CSGC": {
+      "image": "data/shop/set-covers/CSGC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/133/cover.png"
+    },
+    "CSFC4": {
+      "image": "data/shop/set-covers/CSFC4.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/131/cover.png"
+    },
+    "CSFC3": {
+      "image": "data/shop/set-covers/CSFC3.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/130/cover.png"
+    },
+    "CSFC2": {
+      "image": "data/shop/set-covers/CSFC2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/129/cover.png"
+    },
+    "CSFC1": {
+      "image": "data/shop/set-covers/CSFC1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/128/cover.png"
+    },
+    "CS4aC": {
+      "image": "data/shop/set-covers/CS4aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/126/cover.png"
+    },
+    "CS4bC": {
+      "image": "data/shop/set-covers/CS4bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/124/cover.png"
+    },
+    "CSEC": {
+      "image": "data/shop/set-covers/CSEC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/122/cover.png"
+    },
+    "CSEC1": {
+      "image": "data/shop/set-covers/CSEC1.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/121/cover.png"
+    },
+    "CSEC2": {
+      "image": "data/shop/set-covers/CSEC2.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/120/cover.png"
+    },
+    "CSEC4": {
+      "image": "data/shop/set-covers/CSEC4.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/119/cover.png"
+    },
+    "PROMO13": {
+      "image": "data/shop/set-covers/PROMO13.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/118/0.png",
+      "card_id": "PROMO13:7557"
+    },
+    "PROMO12": {
+      "image": "data/shop/set-covers/PROMO12.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/116/cover.png"
+    },
+    "CS3.5C": {
+      "image": "data/shop/set-covers/CS3.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/114/cover.png"
+    },
+    "CSDC": {
+      "image": "data/shop/set-covers/CSDC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/112/cover.png"
+    },
+    "CSMPjC": {
+      "image": "data/shop/set-covers/CSMPjC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/110/cover.png"
+    },
+    "CSMPkC": {
+      "image": "data/shop/set-covers/CSMPkC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/109/cover.png"
+    },
+    "CSMPlC": {
+      "image": "data/shop/set-covers/CSMPlC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/108/cover.png"
+    },
+    "CSMPmC": {
+      "image": "data/shop/set-covers/CSMPmC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/107/cover.png"
+    },
+    "CSMPnC": {
+      "image": "data/shop/set-covers/CSMPnC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/106/cover.png"
+    },
+    "CSMPoC": {
+      "image": "data/shop/set-covers/CSMPoC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/105/cover.png"
+    },
+    "CSMPpC": {
+      "image": "data/shop/set-covers/CSMPpC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/104/cover.png"
+    },
+    "CSMPqC": {
+      "image": "data/shop/set-covers/CSMPqC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/103/cover.png"
+    },
+    "CS2.1C": {
+      "image": "data/shop/set-covers/CS2.1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/102/cover.png"
+    },
+    "CS2DaC": {
+      "image": "data/shop/set-covers/CS2DaC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/100/cover.png"
+    },
+    "CSBC": {
+      "image": "data/shop/set-covers/CSBC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/99/cover.png"
+    },
+    "CSCC": {
+      "image": "data/shop/set-covers/CSCC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/96/cover.png"
+    },
+    "CS3aC": {
+      "image": "data/shop/set-covers/CS3aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/94/cover.png"
+    },
+    "CS3bC": {
+      "image": "data/shop/set-covers/CS3bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/92/cover.png"
+    },
+    "CS3DC": {
+      "image": "data/shop/set-covers/CS3DC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/90/cover.png"
+    },
+    "PROMO11": {
+      "image": "data/shop/set-covers/PROMO11.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/88/cover.png"
+    },
+    "PROMO10": {
+      "image": "data/shop/set-covers/PROMO10.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/87/cover.png"
+    },
+    "PROMO9": {
+      "image": "data/shop/set-covers/PROMO9.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/85/0.png",
+      "card_id": "PROMO9:6166"
+    },
+    "CS2.5C": {
+      "image": "data/shop/set-covers/CS2.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/83/cover.png"
+    },
+    "CSM2.1C": {
+      "image": "data/shop/set-covers/CSM2.1C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/81/cover.png"
+    },
+    "PROMO7": {
+      "image": "data/shop/set-covers/PROMO7.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/79/cover.png"
+    },
+    "PROMO8": {
+      "image": "data/shop/set-covers/PROMO8.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/78/cover.png"
+    },
+    "CS2aC": {
+      "image": "data/shop/set-covers/CS2aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/76/cover.png"
+    },
+    "CS2bC": {
+      "image": "data/shop/set-covers/CS2bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/75/cover.png"
+    },
+    "PROMO6": {
+      "image": "data/shop/set-covers/PROMO6.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/36/0.png",
+      "card_id": "PROMO6:5325"
+    },
+    "CS1.5C": {
+      "image": "data/shop/set-covers/CS1.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/35/cover.png"
+    },
+    "PROMO5": {
+      "image": "data/shop/set-covers/PROMO5.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/34/cover.png"
+    },
+    "PROMO4": {
+      "image": "data/shop/set-covers/PROMO4.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/33/0.png",
+      "card_id": "PROMO4:5089"
+    },
+    "PROMO3": {
+      "image": "data/shop/set-covers/PROMO3.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/32/0.png",
+      "card_id": "PROMO3:5062"
+    },
+    "CS1aC": {
+      "image": "data/shop/set-covers/CS1aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/31/cover.png"
+    },
+    "CS1bC": {
+      "image": "data/shop/set-covers/CS1bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/30/cover.png"
+    },
+    "CS1DC": {
+      "image": "data/shop/set-covers/CS1DC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/29/cover.png"
+    },
+    "CSAC": {
+      "image": "data/shop/set-covers/CSAC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/28/cover.png"
+    },
+    "PROMO2": {
+      "image": "data/shop/set-covers/PROMO2.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/27/0.png",
+      "card_id": "PROMO2:5033"
+    },
+    "CSMPaC": {
+      "image": "data/shop/set-covers/CSMPaC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/26/cover.png"
+    },
+    "CSMPbC": {
+      "image": "data/shop/set-covers/CSMPbC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/25/cover.png"
+    },
+    "CSMPcC": {
+      "image": "data/shop/set-covers/CSMPcC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/24/cover.png"
+    },
+    "CSMPdC": {
+      "image": "data/shop/set-covers/CSMPdC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/22/cover.png"
+    },
+    "CSMPeC": {
+      "image": "data/shop/set-covers/CSMPeC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/21/cover.png"
+    },
+    "CSMPfC": {
+      "image": "data/shop/set-covers/CSMPfC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/20/cover.png"
+    },
+    "CSMPgC": {
+      "image": "data/shop/set-covers/CSMPgC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/19/cover.png"
+    },
+    "CSMPhC": {
+      "image": "data/shop/set-covers/CSMPhC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/18/cover.png"
+    },
+    "CSMPiC": {
+      "image": "data/shop/set-covers/CSMPiC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/17/cover.png"
+    },
+    "PROMO1": {
+      "image": "data/shop/set-covers/PROMO1.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/16/0.png",
+      "card_id": "PROMO1:3592"
+    },
+    "CSMAC": {
+      "image": "data/shop/set-covers/CSMAC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/15/cover.png"
+    },
+    "CSM2.5C": {
+      "image": "data/shop/set-covers/CSM2.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/14/cover.png"
+    },
+    "CSMJC": {
+      "image": "data/shop/set-covers/CSMJC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/13/cover.png"
+    },
+    "CSM2cC": {
+      "image": "data/shop/set-covers/CSM2cC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/12/cover.png"
+    },
+    "CSM2bC": {
+      "image": "data/shop/set-covers/CSM2bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/11/cover.png"
+    },
+    "CSM2aC": {
+      "image": "data/shop/set-covers/CSM2aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/10/cover.png"
+    },
+    "CSM2DC": {
+      "image": "data/shop/set-covers/CSM2DC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/9/cover.png"
+    },
+    "CSMYC": {
+      "image": "data/shop/set-covers/CSMYC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/8/cover.png"
+    },
+    "CSM1.5C": {
+      "image": "data/shop/set-covers/CSM1.5C.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/7/cover.png"
+    },
+    "CSMLC": {
+      "image": "data/shop/set-covers/CSMLC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/6/cover.png"
+    },
+    "PROMO": {
+      "image": "data/shop/set-covers/PROMO.webp",
+      "kind": "card",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/5/0.png",
+      "card_id": "PROMO:1424"
+    },
+    "CSM1DC": {
+      "image": "data/shop/set-covers/CSM1DC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/4/cover.png"
+    },
+    "CSM1cC": {
+      "image": "data/shop/set-covers/CSM1cC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/3/cover.png"
+    },
+    "CSM1bC": {
+      "image": "data/shop/set-covers/CSM1bC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/2/cover.png"
+    },
+    "CSM1aC": {
+      "image": "data/shop/set-covers/CSM1aC.webp",
+      "kind": "product",
+      "sport": "pokemon",
+      "source_url": "https://raw.githubusercontent.com/duanxr/PTCG-CHS-Datasets/c3b6ac6ef803aad9d60e44d058359addf3a20883/img/1/cover.png"
+    },
+    "BB647539": {
+      "image": "data/basketball/previews/BB647539-40262073.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB647539:40262073",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/647539/647539-40262073Fr.jpg"
+    },
+    "BB531852": {
+      "image": "data/basketball/previews/BB531852-32138011.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB531852:32138011",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/531852/531852-32138011Fr.jpg"
+    },
+    "BB608789": {
+      "image": "data/basketball/previews/BB608789-36138082.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB608789:36138082",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/608789/608789-36138082Fr.jpg"
+    },
+    "BB589540": {
+      "image": "data/basketball/previews/BB589540-33837012.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB589540:33837012",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/589540/589540-33837012Fr.jpg"
+    },
+    "BB615262": {
+      "image": "data/basketball/previews/BB615262-37016793.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB615262:37016793",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/615262/615262-37016793Fr.jpg"
+    },
+    "BB654042": {
+      "image": "data/basketball/previews/BB654042-39589425.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB654042:39589425",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/654042/654042-39589425Fr.jpg"
+    },
+    "BB574514": {
+      "image": "data/basketball/previews/BB574514-32785166.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB574514:32785166",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/574514/574514-32785166Fr.jpg"
+    },
+    "BB484153": {
+      "image": "data/basketball/previews/BB484153-28370658.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB484153:28370658",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/484153/484153-28370658Fr.jpg"
+    },
+    "BB496490": {
+      "image": "data/basketball/previews/BB496490-31254135.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB496490:31254135",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/496490/496490-31254135Fr.jpg"
+    },
+    "BB544208": {
+      "image": "data/basketball/previews/BB544208-31104074.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB544208:31104074",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/544208/544208-31104074Fr.jpg"
+    },
+    "BB467815": {
+      "image": "data/basketball/previews/BB467815-27873298.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB467815:27873298",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/467815/467815-27873298Fr.jpg"
+    },
+    "BB550436": {
+      "image": "data/basketball/previews/BB550436-31210805.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB550436:31210805",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/550436/550436-31210805Fr.jpg"
+    },
+    "BB486727": {
+      "image": "data/basketball/previews/BB486727-28286759.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB486727:28286759",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/486727/486727-28286759Fr.jpg"
+    },
+    "BB529363": {
+      "image": "data/basketball/previews/BB529363-30374789.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB529363:30374789",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/529363/529363-30374789Fr.jpg"
+    },
+    "BB506756": {
+      "image": "data/basketball/previews/BB506756-31634116.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB506756:31634116",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/506756/506756-31634116Fr.jpg"
+    },
+    "BB472655": {
+      "image": "data/basketball/previews/BB472655-28245456.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB472655:28245456",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/472655/472655-28245456Fr.jpg"
+    },
+    "BB401358": {
+      "image": "data/basketball/previews/BB401358-23687323.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB401358:23687323",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/401358/401358-23687323Fr.jpg"
+    },
+    "BB415872": {
+      "image": "data/basketball/previews/BB415872-25114790.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB415872:25114790",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/415872/415872-25114790Fr.jpg"
+    },
+    "BB478481": {
+      "image": "data/basketball/previews/BB478481-27696707.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB478481:27696707",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/478481/478481-27696707Fr.jpg"
+    },
+    "BB388591": {
+      "image": "data/basketball/previews/BB388591-23127745.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB388591:23127745",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/388591/388591-23127745Fr.jpg"
+    },
+    "BB450171": {
+      "image": "data/basketball/previews/BB450171-25702162.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB450171:25702162",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/450171/450171-25702162Fr.jpg"
+    },
+    "BB399451": {
+      "image": "data/basketball/previews/BB399451-23997777.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB399451:23997777",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/399451/399451-23997777Fr.jpg"
+    },
+    "BB433006": {
+      "image": "data/basketball/previews/BB433006-25725475.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB433006:25725475",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/433006/433006-25725475Fr.jpg"
+    },
+    "BB457665": {
+      "image": "data/basketball/previews/BB457665-27868683.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB457665:27868683",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/457665/457665-27868683Fr.jpg"
+    },
+    "BB400618": {
+      "image": "data/basketball/previews/BB400618-23805910.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB400618:23805910",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/400618/400618-23805910Fr.jpg"
+    },
+    "BB425592": {
+      "image": "data/basketball/previews/BB425592-24614836.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB425592:24614836",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/425592/425592-24614836Fr.jpg"
+    },
+    "BB345533": {
+      "image": "data/basketball/previews/BB345533-20888748.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB345533:20888748",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/345533/345533-20888748Fr.jpg"
+    },
+    "BB354999": {
+      "image": "data/basketball/previews/BB354999-21472035.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB354999:21472035",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/354999/354999-21472035Fr.jpg"
+    },
+    "BB335315": {
+      "image": "data/basketball/previews/BB335315-20438646.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB335315:20438646",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/335315/335315-20438646RepFr.jpg"
+    },
+    "BB290866": {
+      "image": "data/basketball/previews/BB290866-18104474.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB290866:18104474",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/290866/290866-18104474RepFr.jpg"
+    },
+    "BB256855": {
+      "image": "data/basketball/previews/BB256855-16142746.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB256855:16142746",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/256855/256855-16142746Fr.jpg"
+    },
+    "BB264676": {
+      "image": "data/basketball/previews/BB264676-17170523.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB264676:17170523",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/264676/264676-17170523Fr.jpg"
+    },
+    "BB253171": {
+      "image": "data/basketball/previews/BB253171-15966310.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB253171:15966310",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/253171/253171-15966310Fr.jpg"
+    },
+    "BB287620": {
+      "image": "data/basketball/previews/BB287620-17607142.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB287620:17607142",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/287620/287620-17607142Fr.jpg"
+    },
+    "BB264067": {
+      "image": "data/basketball/previews/BB264067-16591519.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB264067:16591519",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/264067/264067-16591519Fr.jpg"
+    },
+    "BB277474": {
+      "image": "data/basketball/previews/BB277474-17627580.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB277474:17627580",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/277474/277474-17627580Fr.jpg"
+    },
+    "BB266582": {
+      "image": "data/basketball/previews/BB266582-16965809.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB266582:16965809",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/266582/266582-16965809Fr.jpg"
+    },
+    "BB261672": {
+      "image": "data/basketball/previews/BB261672-16262185.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB261672:16262185",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/261672/261672-16262185Fr.jpg"
+    },
+    "BB269422": {
+      "image": "data/basketball/previews/BB269422-16879892.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB269422:16879892",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/269422/269422-16879892Fr.jpg"
+    },
+    "BB213070": {
+      "image": "data/basketball/previews/BB213070-13972811.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB213070:13972811",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/213070/213070-13972811RepFr.jpg"
+    },
+    "BB217475": {
+      "image": "data/basketball/previews/BB217475-14231371.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB217475:14231371",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/217475/217475-14231371Fr.jpg"
+    },
+    "BB212196": {
+      "image": "data/basketball/previews/BB212196-13829066.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB212196:13829066",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/212196/212196-13829066Fr.jpg"
+    },
+    "BB244800": {
+      "image": "data/basketball/previews/BB244800-15211491.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB244800:15211491",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/244800/244800-15211491Fr.jpg"
+    },
+    "BB225916": {
+      "image": "data/basketball/previews/BB225916-14638753.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB225916:14638753",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/225916/225916-14638753Fr.jpg"
+    },
+    "BB227998": {
+      "image": "data/basketball/previews/BB227998-14555767.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB227998:14555767",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/227998/227998-14555767Fr.jpg"
+    },
+    "BB225917": {
+      "image": "data/basketball/previews/BB225917-14668443.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB225917:14668443",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/225917/225917-14668443Fr.jpg"
+    },
+    "BB216000": {
+      "image": "data/basketball/previews/BB216000-13965453.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB216000:13965453",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/216000/216000-13965453Fr.jpg"
+    },
+    "BB222141": {
+      "image": "data/basketball/previews/BB222141-14319103.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB222141:14319103",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/222141/222141-14319103Fr.jpg"
+    },
+    "BB183682": {
+      "image": "data/basketball/previews/BB183682-11980938.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB183682:11980938",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/183682/183682-11980938Fr.jpg"
+    },
+    "BB191579": {
+      "image": "data/basketball/previews/BB191579-12643446.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB191579:12643446",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/191579/191579-12643446Fr.jpg"
+    },
+    "BB182809": {
+      "image": "data/basketball/previews/BB182809-11903385.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB182809:11903385",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/182809/182809-11903385Fr.jpg"
+    },
+    "BB206591": {
+      "image": "data/basketball/previews/BB206591-13439299.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB206591:13439299",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/206591/206591-13439299Fr.jpg"
+    },
+    "BB196490": {
+      "image": "data/basketball/previews/BB196490-12857404.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB196490:12857404",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/196490/196490-12857404Fr.jpg"
+    },
+    "BB204836": {
+      "image": "data/basketball/previews/BB204836-13075425.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB204836:13075425",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204836/204836-13075425Fr.jpg"
+    },
+    "BB198282": {
+      "image": "data/basketball/previews/BB198282-12920005.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB198282:12920005",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/198282/198282-12920005Fr.jpg"
+    },
+    "BB188541": {
+      "image": "data/basketball/previews/BB188541-12044950.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB188541:12044950",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/188541/188541-12044950Fr.jpg"
+    },
+    "BB194154": {
+      "image": "data/basketball/previews/BB194154-12758886.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB194154:12758886",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/194154/194154-12758886Fr.jpg"
+    },
+    "BB153326": {
+      "image": "data/basketball/previews/BB153326-10396565.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB153326:10396565",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/153326/153326-10396565Fr.jpg"
+    },
+    "BB136418": {
+      "image": "data/basketball/previews/BB136418-9304522.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB136418:9304522",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/136418/136418-9304522Fr.jpg"
+    },
+    "BB122399": {
+      "image": "data/basketball/previews/BB122399-8360328.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB122399:8360328",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/122399/122399-8360328Fr.jpg"
+    },
+    "BB103422": {
+      "image": "data/basketball/previews/BB103422-7385868.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB103422:7385868",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/103422/103422-24595213Fr.jpg"
+    },
+    "BB84419": {
+      "image": "data/basketball/previews/BB84419-6230197.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB84419:6230197",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/84419/84419-6230197Fr.jpg"
+    },
+    "BB69363": {
+      "image": "data/basketball/previews/BB69363-5050144.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB69363:5050144",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/69363/69363-5050144Fr.jpg"
+    },
+    "BB70297": {
+      "image": "data/basketball/previews/BB70297-5091375.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB70297:5091375",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/70297/70297-5091375Fr.jpg"
+    },
+    "BB428557": {
+      "image": "data/basketball/previews/BB428557-24572976.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB428557:24572976",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/428557/428557-24572976Fr.jpg"
+    },
+    "BB78145": {
+      "image": "data/basketball/previews/BB78145-5564371.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB78145:5564371",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/78145/78145-1Fr.jpg"
+    },
+    "BB81580": {
+      "image": "data/basketball/previews/BB81580-5910922.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB81580:5910922",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/81580/81580-5910922Fr.jpg"
+    },
+    "BB72736": {
+      "image": "data/basketball/previews/BB72736-5285381.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB72736:5285381",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/72736/72736-5285381Fr.jpg"
+    },
+    "BB73988": {
+      "image": "data/basketball/previews/BB73988-5638552.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB73988:5638552",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73988/73988-5638552Fr.jpg"
+    },
+    "BB62089": {
+      "image": "data/basketball/previews/BB62089-3903292.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB62089:3903292",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/62089/62089-1Fr.jpg"
+    },
+    "BB33470": {
+      "image": "data/basketball/previews/BB33470-794521.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB33470:794521",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/33470/33470-794521Fr.jpg"
+    },
+    "BB120189": {
+      "image": "data/basketball/previews/BB120189-8177581.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB120189:8177581",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/120189/120189-8177581Fr.jpg"
+    },
+    "BB9487": {
+      "image": "data/basketball/previews/BB9487-777795.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB9487:777795",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/9487/9487-777795Fr.jpg"
+    },
+    "BB9631": {
+      "image": "data/basketball/previews/BB9631-780686.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB9631:780686",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/9631/9631-780686Fr.jpg"
+    },
+    "BB10063": {
+      "image": "data/basketball/previews/BB10063-785321.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB10063:785321",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/10063/10063-785321Fr.jpg"
+    },
+    "BB10105": {
+      "image": "data/basketball/previews/BB10105-785711.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB10105:785711",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/10105/10105-785711Fr.jpg"
+    },
+    "BB9509": {
+      "image": "data/basketball/previews/BB9509-778086.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB9509:778086",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/9509/9509-1Fr.jpg"
+    },
+    "BB9575": {
+      "image": "data/basketball/previews/BB9575-779317.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB9575:779317",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/9575/9575-779317RepFr.jpg"
+    },
+    "BB8837": {
+      "image": "data/basketball/previews/BB8837-665896.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB8837:665896",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/8837/8837-665896Fr.jpg"
+    },
+    "BB6605": {
+      "image": "data/basketball/previews/BB6605-646471.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB6605:646471",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/6605/6605-646471Fr.jpg"
+    },
+    "BB3147": {
+      "image": "data/basketball/previews/BB3147-770786.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3147:770786",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3147/3147-770786Fr.jpg"
+    },
+    "BB3119": {
+      "image": "data/basketball/previews/BB3119-764711.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3119:764711",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3119/3119-764711Fr.jpg"
+    },
+    "BB3081": {
+      "image": "data/basketball/previews/BB3081-756132.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3081:756132",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3081/3081-756132Fr.jpg"
+    },
+    "BB3032": {
+      "image": "data/basketball/previews/BB3032-745381.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3032:745381",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3032/3032-745381Fr.jpg"
+    },
+    "BB3057": {
+      "image": "data/basketball/previews/BB3057-745551.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3057:745551",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3057/3057-745551Fr.jpg"
+    },
+    "BB3035": {
+      "image": "data/basketball/previews/BB3035-745910.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3035:745910",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3035/3035-745910Fr.jpg"
+    },
+    "BB3036": {
+      "image": "data/basketball/previews/BB3036-746117.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3036:746117",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3036/3036-746117Fr.jpg"
+    },
+    "BB3040": {
+      "image": "data/basketball/previews/BB3040-747149.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3040:747149",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3040/3040-747149Fr.jpg"
+    },
+    "BB3037": {
+      "image": "data/basketball/previews/BB3037-662171.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3037:662171",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3037/3037-662171Fr.jpg"
+    },
+    "BB3058": {
+      "image": "data/basketball/previews/BB3058-750605.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3058:750605",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3058/3058-750605Fr.jpg"
+    },
+    "BB3074": {
+      "image": "data/basketball/previews/BB3074-752241.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3074:752241",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3074/3074-752241Fr.jpg"
+    },
+    "BB3014": {
+      "image": "data/basketball/previews/BB3014-662921.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB3014:662921",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/3014/3014-1Fr.jpg"
+    },
+    "BB2976": {
+      "image": "data/basketball/previews/BB2976-732374.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2976:732374",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2976/2976-1Fr.jpg"
+    },
+    "BB2921": {
+      "image": "data/basketball/previews/BB2921-723078.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2921:723078",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2921/2921-723078RepFr.jpg"
+    },
+    "BB2835": {
+      "image": "data/basketball/previews/BB2835-709844.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2835:709844",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2835/2835-709844RepFr.jpg"
+    },
+    "BB2749": {
+      "image": "data/basketball/previews/BB2749-700217.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2749:700217",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2749/2749-700217Fr.jpg"
+    },
+    "BB73939": {
+      "image": "data/basketball/previews/BB73939-5299781.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB73939:5299781",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73939/73939-1Fr.jpg"
+    },
+    "BB2755": {
+      "image": "data/basketball/previews/BB2755-660321.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2755:660321",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2755/2755-660321RepFr.jpg"
+    },
+    "BB25905": {
+      "image": "data/basketball/previews/BB25905-3026771.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB25905:3026771",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25905/25905-3026771Fr.jpg"
+    },
+    "BB2758": {
+      "image": "data/basketball/previews/BB2758-701130.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2758:701130",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2758/2758-701130Fr.jpg"
+    },
+    "BB2770": {
+      "image": "data/basketball/previews/BB2770-702530.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2770:702530",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2770/2770-702530RepFr.jpg"
+    },
+    "BB2787": {
+      "image": "data/basketball/previews/BB2787-704778.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2787:704778",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2787/2787-704778Fr.jpg"
+    },
+    "BB2792": {
+      "image": "data/basketball/previews/BB2792-705620.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2792:705620",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2792/2792-705620Fr.jpg"
+    },
+    "BB2608": {
+      "image": "data/basketball/previews/BB2608-3014296.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2608:3014296",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2608/2608-3014296RepFr.jpg"
+    },
+    "BB6653": {
+      "image": "data/basketball/previews/BB6653-790361.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB6653:790361",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/6653/6653-1Fr.jpg"
+    },
+    "BB2610": {
+      "image": "data/basketball/previews/BB2610-695336.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2610:695336",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2610/2610-1Fr.jpg"
+    },
+    "BB2624": {
+      "image": "data/basketball/previews/BB2624-695644.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2624:695644",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2624/2624-695644Fr.jpg"
+    },
+    "BB2627": {
+      "image": "data/basketball/previews/BB2627-696919.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2627:696919",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2627/2627-696919RepFr.jpg"
+    },
+    "BB2642": {
+      "image": "data/basketball/previews/BB2642-697319.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2642:697319",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2642/2642-1Fr.jpg"
+    },
+    "BB2705": {
+      "image": "data/basketball/previews/BB2705-699252.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2705:699252",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2705/2705-699252Fr.jpg"
+    },
+    "BB2731": {
+      "image": "data/basketball/previews/BB2731-659421.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2731:659421",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2731/2731-659421Fr.jpg"
+    },
+    "BB67614": {
+      "image": "data/basketball/previews/BB67614-4932005.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB67614:4932005",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/67614/67614-1Fr.jpg"
+    },
+    "BB2545": {
+      "image": "data/basketball/previews/BB2545-786046.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2545:786046",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2545/2545-1Fr.jpg"
+    },
+    "BB73095": {
+      "image": "data/basketball/previews/BB73095-5264896.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB73095:5264896",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264896Fr.jpg"
+    },
+    "BB2475": {
+      "image": "data/basketball/previews/BB2475-689121.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2475:689121",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2475/2475-689121Fr.jpg"
+    },
+    "BB2480": {
+      "image": "data/basketball/previews/BB2480-690121.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2480:690121",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690121Fr.jpg"
+    },
+    "BB2493": {
+      "image": "data/basketball/previews/BB2493-690471.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2493:690471",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2493/2493-690471Fr.jpg"
+    },
+    "BB2563": {
+      "image": "data/basketball/previews/BB2563-692441.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2563:692441",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-692441Fr.jpg"
+    },
+    "BB2594": {
+      "image": "data/basketball/previews/BB2594-693061.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2594:693061",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2594/2594-693061RepFr.jpg"
+    },
+    "BB2346": {
+      "image": "data/basketball/previews/BB2346-684296.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2346:684296",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2346/2346-684296Fr.jpg"
+    },
+    "BB2234": {
+      "image": "data/basketball/previews/BB2234-678746.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2234:678746",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2234/2234-678746RepFr.jpg"
+    },
+    "BB2142": {
+      "image": "data/basketball/previews/BB2142-673221.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2142:673221",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2142/2142-673221RepFr.jpg"
+    },
+    "BB2096": {
+      "image": "data/basketball/previews/BB2096-668871.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2096:668871",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2096/2096-668871RepFr.jpg"
+    },
+    "BB2082": {
+      "image": "data/basketball/previews/BB2082-663171.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2082:663171",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2082/2082-663171RepFr.jpg"
+    },
+    "BB2076": {
+      "image": "data/basketball/previews/BB2076-660796.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2076:660796",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2076/2076-1Fr.jpg"
+    },
+    "BB2073": {
+      "image": "data/basketball/previews/BB2073-786371.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2073:786371",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2073/2073-786371RepFr.jpg"
+    },
+    "BB2071": {
+      "image": "data/basketball/previews/BB2071-618757.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2071:618757",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2071/2071-618757RepFr.jpg"
+    },
+    "BB2069": {
+      "image": "data/basketball/previews/BB2069-618614.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2069:618614",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2069/2069-1Fr.jpg"
+    },
+    "BB2063": {
+      "image": "data/basketball/previews/BB2063-2987708.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2063:2987708",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2063/2063-2987708Fr.jpg"
+    },
+    "BB2065": {
+      "image": "data/basketball/previews/BB2065-2987731.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2065:2987731",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2065/2065-1Fr.jpg"
+    },
+    "BB2066": {
+      "image": "data/basketball/previews/BB2066-2987774.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2066:2987774",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2066/2066-2987774RepFr.jpg"
+    },
+    "BB2067": {
+      "image": "data/basketball/previews/BB2067-618471.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2067:618471",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2067/2067-1Fr.jpg"
+    },
+    "BB25505": {
+      "image": "data/basketball/previews/BB25505-2987530.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB25505:2987530",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25505/25505-2987530RepFr.jpg"
+    },
+    "BB2040": {
+      "image": "data/basketball/previews/BB2040-2987276.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2040:2987276",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2040/2040-2987276RepFr.jpg"
+    },
+    "BB2034": {
+      "image": "data/basketball/previews/BB2034-2987195.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2034:2987195",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987195Fr.jpg"
+    },
+    "BB2032": {
+      "image": "data/basketball/previews/BB2032-632643.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2032:632643",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2032/2032-632643RepFr.jpg"
+    },
+    "BB2030": {
+      "image": "data/basketball/previews/BB2030-632335.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2030:632335",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2030/2030-1Fr.jpg"
+    },
+    "BB2029": {
+      "image": "data/basketball/previews/BB2029-632203.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2029:632203",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2029/2029-1Fr.jpg"
+    },
+    "BB2027": {
+      "image": "data/basketball/previews/BB2027-632071.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2027:632071",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2027/2027-632071Fr.jpg"
+    },
+    "BB2026": {
+      "image": "data/basketball/previews/BB2026-631927.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2026:631927",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2026/2026-1Fr.jpg"
+    },
+    "BB2024": {
+      "image": "data/basketball/previews/BB2024-631603.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2024:631603",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2024/2024-631603Fr.jpg"
+    },
+    "BB2022": {
+      "image": "data/basketball/previews/BB2022-631333.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2022:631333",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-1Fr.jpg"
+    },
+    "BB2021": {
+      "image": "data/basketball/previews/BB2021-631069.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2021:631069",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2021/2021-1Fr.jpg"
+    },
+    "BB2018": {
+      "image": "data/basketball/previews/BB2018-630805.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2018:630805",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2018/2018-630805RepFr.jpg"
+    },
+    "BB2015": {
+      "image": "data/basketball/previews/BB2015-630571.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2015:630571",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2015/2015-1Fr.jpg"
+    },
+    "BB2013": {
+      "image": "data/basketball/previews/BB2013-630401.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2013:630401",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2013/2013-630401Fr.jpg"
+    },
+    "BB2012": {
+      "image": "data/basketball/previews/BB2012-630296.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2012:630296",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2012/2012-630296RepFr.jpg"
+    },
+    "BB2010": {
+      "image": "data/basketball/previews/BB2010-630230.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2010:630230",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2010/2010-630230RepFr.jpg"
+    },
+    "BB2008": {
+      "image": "data/basketball/previews/BB2008-630150.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2008:630150",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2008/2008-630150Fr.jpg"
+    },
+    "BB2006": {
+      "image": "data/basketball/previews/BB2006-622229.webp",
+      "kind": "card",
+      "sport": "basketball",
+      "card_id": "BB2006:622229",
+      "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-1Fr.jpg"
+    }
+  }
+}

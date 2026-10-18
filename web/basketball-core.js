@@ -2,13 +2,17 @@
  'use strict';
  const ODDS=[{kind:'numbered_low',chance:.001,label:'低编收藏位'},{kind:'auto',chance:.019,label:'签字位'},{kind:'memorabilia',chance:.03,label:'球衣位'},{kind:'numbered',chance:.05,label:'限编位'},{kind:'parallel',chance:.15,label:'平行位'},{kind:'insert',chance:.15,label:'特卡位'},{kind:'rookie',chance:.2,label:'新秀位'}];
  const group=c=>c.basketball_kind==='numbered'&&c.serial_max<=10?'numbered_low':c.basketball_kind==='auto_patch'?'auto':c.basketball_kind||'base';
+ function packModel(cards){
+  const base=cards.filter(c=>['base','rookie'].includes(group(c)));
+  return {base:base.length?base:cards,fixed:!base.length,groups:ODDS.map(o=>({...o,cards:cards.filter(c=>group(c)===o.kind)})),baseProbability:1-ODDS.reduce((sum,o)=>sum+o.chance,0)};
+ }
  function draw(cards,count,random=Math.random){
   if(!Array.isArray(cards)||!cards.length||cards.some(c=>c.sport!=='basketball')||!Number.isInteger(count)||count<1||count>10)throw Error('篮球卡包资料无效。');
   const unit=()=>{const r=random();if(!Number.isFinite(r)||r<0||r>=1)throw Error('随机数无效。');return r;};
   const pick=pool=>pool[Math.floor(unit()*pool.length)];
-  const base=cards.filter(c=>['base','rookie'].includes(group(c)));
-  if(!base.length){const result=[];for(let i=0;i<count*5;i++)result.push(pick(cards));return result;}
-  const groups=ODDS.map(o=>({...o,cards:cards.filter(c=>group(c)===o.kind)}));const result=[];
+  const {base,groups,fixed}=packModel(cards);
+  if(fixed){const result=[];for(let i=0;i<count*5;i++)result.push(pick(cards));return result;}
+  const result=[];
   for(let n=0;n<count;n++){for(let i=0;i<4;i++)result.push(pick(base));let r=unit(),ceiling=0,pool=base;for(const g of groups){ceiling+=g.chance;if(r<ceiling){pool=g.cards.length?g.cards:base;break;}}result.push(pick(pool));}
   return result;
  }
@@ -23,5 +27,5 @@
   if(card.serial_max)value*=card.serial_max<=1?12:card.serial_max<=10?5:card.serial_max<=25?2:1;
   return Math.min(100000000,Math.round(value));
  }
- return {ODDS,group,draw,baseValue};
+ return {ODDS,group,packModel,draw,baseValue};
 });

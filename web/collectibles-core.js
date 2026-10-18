@@ -1,6 +1,8 @@
 (function(root,factory){const node=typeof module==='object'&&module.exports;const api=factory(node?require('./shop-core.js'):root.TCGShop,node?require('./collectibles-state.js'):root.TCGCollectiblesState);if(node)module.exports=api;else root.TCGCollectibles=api;})(globalThis,function(Shop,State){
  'use strict';
  const {AGENCIES,SERVICES}=State;
+ const CONDITION_OUTCOMES=[{value:7,chance:.02,ceiling:.02},{value:8,chance:.04,ceiling:.06},{value:8.5,chance:.10,ceiling:.16},{value:9,chance:.24,ceiling:.4},{value:9.5,chance:.38,ceiling:.78},{value:10,chance:.22,ceiling:1}];
+ const conditionAge=card=>card.year<1980?1:card.year<2000?.5:0;
  function record(save,amount,note){const n=save.shop.cash+amount;if(!Number.isSafeInteger(n)||n<0||n>1000000000)throw Error(n<0?'现金不足。':'交易金额超出范围。');save.shop.cash=n;save.shop.ledger.unshift({day:save.shop.day,amount,note});save.shop.ledger.length=Math.min(50,save.shop.ledger.length);}
  function takeRaw(save,card){if(!(save.counts[card.id]>0))throw Error('没有可用散卡，可能已上架或送评。');if(--save.counts[card.id]===0)delete save.counts[card.id];}
  function addRaw(save,card){save.counts[card.id]=(save.counts[card.id]||0)+1;}
@@ -8,8 +10,11 @@
  function gradeQuote(value,card,agency='PSA',service='standard',feed){if(!Object.hasOwn(AGENCIES,agency)||!Object.hasOwn(SERVICES,service))throw Error('请选择评级机构和服务。');const base=Shop.cardQuote(value,card,feed).market;return {fee:Math.ceil(SERVICES[service].fee*AGENCIES[agency].factor+base*(service==='express'?.02:.01)),ready:value.shop.day+SERVICES[service].days,days:SERVICES[service].days};}
  function outcome(card,agency,random){
   const unit=()=>{const n=random();if(!Number.isFinite(n)||n<0||n>=1)throw Error('随机数无效。');return n;};
-  const condition={};const age=card.year<1980?1:card.year<2000?.5:0;
-  for(const key of ['centering','corners','edges','surface']){const n=unit();condition[key]=Math.max(1,(n<.02?7:n<.06?8:n<.16?8.5:n<.4?9:n<.78?9.5:10)-age);}
+  const condition={};const age=conditionAge(card);
+  for(const key of ['centering','corners','edges','surface']){const n=unit();condition[key]=Math.max(1,CONDITION_OUTCOMES.find(o=>n<o.ceiling).value-age);}
+  return gradeCondition(agency,condition);
+ }
+ function gradeCondition(agency,condition){
   const scores=Object.values(condition),min=Math.min(...scores),average=scores.reduce((a,b)=>a+b,0)/4;
   let grade,label;
   if(agency==='BGS'){
@@ -21,6 +26,15 @@
    label=grade===10?(agency==='CGC'&&min>=9.5&&average>=9.875?'PRISTINE':'GEM MINT'):grade===9?'MINT':grade===8?'NM-MT':'VINTAGE / PLAYED';
   }
   return {grade,label,condition};
+ }
+ function gradeDistribution(card,agency){
+  if(!Object.hasOwn(AGENCIES,agency))throw Error('请选择评级机构。');
+  const keys=['centering','corners','edges','surface'],rows=new Map(),age=conditionAge(card);
+  function visit(depth,condition,chance){
+   if(depth===4){const result=gradeCondition(agency,condition),key=`${result.grade}:${result.label}`,row=rows.get(key)||{grade:result.grade,label:result.label,chance:0};row.chance+=chance;rows.set(key,row);return;}
+   for(const o of CONDITION_OUTCOMES)visit(depth+1,{...condition,[keys[depth]]:Math.max(1,o.value-age)},chance*o.chance);
+  }
+  visit(0,{},1);return {age,conditions:CONDITION_OUTCOMES.map(o=>({value:Math.max(1,o.value-age),chance:o.chance})),rows:[...rows.values()].sort((a,b)=>b.grade-a.grade||b.label.localeCompare(a.label))};
  }
  function submit(value,card,agency,service,feed,random=Math.random){
   const next=Shop.validate(value),extra=next.shop.collectibles;
@@ -94,5 +108,5 @@
   show.used.push(key);return done(next);
  }
  function allCounts(value){const counts={...value.counts};for(const item of [...value.shop.collectibles.jobs,...value.shop.collectibles.slabs])counts[item.card.id]=(counts[item.card.id]||0)+1;return counts;}
- return {AGENCIES,SERVICES,gradeQuote,submit,collect,slabValue,sellSlab,attend,offers,showBid,deal,allCounts};
+ return {AGENCIES,SERVICES,CONDITION_OUTCOMES,gradeCondition,gradeDistribution,gradeQuote,submit,collect,slabValue,sellSlab,attend,offers,showBid,deal,allCounts};
 });

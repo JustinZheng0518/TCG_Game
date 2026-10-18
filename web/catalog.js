@@ -210,12 +210,15 @@ function renderSets() {
     const button = text("button", "", `set-button${state.selected?.id === set.id ? " active" : ""}`);
     button.type = "button";
     button.setAttribute("aria-pressed", String(state.selected?.id === set.id));
-    button.append(text("strong", set.name));
-    button.append(text("span", state.products?.[set.id]?.channel_label || "", "set-channel"));
+    button.append(seriesCover(set));
+    const copy=text("span", "", "series-copy");
+    copy.append(text("strong", set.name));
+    copy.append(text("span", state.products?.[set.id]?.channel_label || "", "set-channel"));
     const sub = text("small", "");
     const owned = ownedBySet.get(set.id) || 0;
     sub.append(text("span", set.id), text("span", `${owned} / ${set.card_faces}`));
-    button.append(sub);
+    copy.append(sub);
+    button.append(copy);
     button.addEventListener("click", () => jumpToSet(set.id, state.mode === "shop" ? "draw" : state.mode));
     $("set-list").append(button);
   }
@@ -223,6 +226,7 @@ function renderSets() {
 }
 
 function showCard(card) {
+  $("dialog-odds").onclick=()=>openOdds(state.index.sets.find(s=>s.id===card.set_id),card.id);
   $("dialog-title").textContent = card.name;
   $("dialog-number").textContent = `${card.set_id} · ${card.number}`;
   const quote = Shop.cardQuote(state.save, card, state.feed);
@@ -298,7 +302,8 @@ async function selectSet() {
   $("set-date").textContent = set.release_date ? `发行于 ${set.release_date}` : "";
   $("set-description").textContent = `${set.series} · ${set.distinct_card_numbers} 个卡号 · ${set.card_faces} 张卡面，含不同闪卡版本`;
   $("message").textContent = "正在读取本套卡牌…";
-  $("set-odds").textContent = "正在读取本套概率…";
+  $("open-odds").disabled = true;
+  $("probability-summary").textContent = "正在读取本系列概率…";
   $("cards").replaceChildren();
   $("load-more").hidden = true;
   $("draw-one").disabled = true;
@@ -322,9 +327,7 @@ async function selectSet() {
     if (request !== state.request) return;
     state.cards = cards;
     renderCollectibles();
-    const model = set.sport === "basketball" ? null : Game.packModel(cards);
-    if(model){const odds=model.groups.map(entry=>`${entry.label}：${Number((entry.probability*100).toFixed(3))}%`).join("；");$("set-odds").textContent=`${model.guaranteeLabel}。${odds}`;}
-    else $("set-odds").textContent="篮球数字体验包：4 个基础位 + 1 个收藏位；缺少的卡种回到本套基础卡池。高端全命中系列按现有卡面等概率体验。收藏位：/10 及以下限编 0.1%、签字 1.9%、球衣 3%、其他限编 5%、平行 15%、特卡 15%、新秀 20%，余下为基础。各包独立，缺档不补高档；全命中系列不适用这些比例。不是实体商品出货率。";
+    $("open-odds").disabled = false;
     $("reward-card").replaceChildren(...cards.map(card => new Option(`${card.number} · ${card.name} · ${card.rarity}`, card.id)));
     renderAcquisition();
     updateStats();
@@ -338,8 +341,9 @@ async function selectSet() {
 async function start() {
   loadSave();
   try {
-    const [index, products, feed, basketballIndex, basketballProducts] = await Promise.all([readJSON("data/pokemon/zh-CN/index.json"), readJSON("data/shop/products.json"), readJSON("data/shop/market-feed.json"), readJSON("data/basketball/index.json"), readJSON("data/basketball/products.json")]);
+    const [index, products, feed, basketballIndex, basketballProducts, covers] = await Promise.all([readJSON("data/pokemon/zh-CN/index.json"), readJSON("data/shop/products.json"), readJSON("data/shop/market-feed.json"), readJSON("data/basketball/index.json"), readJSON("data/basketball/products.json"), readJSON("data/shop/set-covers.json")]);
     state.basketballIndex=basketballIndex;
+    state.setCovers=covers.sets;
     index.sets.push(...basketballIndex.sets);
     index.set_count+=basketballIndex.set_count;
     index.card_faces+=basketballIndex.card_faces;
@@ -352,12 +356,13 @@ async function start() {
     initShopUI();
     initGameScene();
     initCollectibles();
+    initSeriesUI();
     state.index.sets.sort((a, b) => (b.release_date || "").localeCompare(a.release_date || "") || b.source_collection_id - a.source_collection_id);
-    $("library-stats").textContent = `${state.index.set_count} 个系列 · 简体中文卡面`;
+    $("library-stats").textContent = `${state.index.set_count} 个系列 · 图片选包`;
     for (const series of new Set(state.index.sets.map((set) => set.series))) $("series-filter").append(new Option(series, series));
     $("library-status").textContent = "简体中文卡牌 · 本地档案";
     readJSON("data/pokemon/zh-CN/coverage.json").then((coverage) => {
-      $("library-status").textContent = `${state.index.set_count} 套简体中文卡牌`;
+      $("library-status").textContent = `${state.index.set_count} 个可玩系列 · 本地封面`;
     }).catch(() => {});
     $("set-search").addEventListener("input", renderSets);
     for (const button of document.querySelectorAll("button[data-mode]")) button.addEventListener("click", () => button.dataset.mode === "draw" && button.closest(".mode-tabs") ? enterProcurement() : setMode(button.dataset.mode));

@@ -59,6 +59,7 @@ function renderCollectionSlabs(){
 function gradeTarget(){return state.collectionCards.find(c=>c.id===$('grading-card').value&&state.save.counts[c.id]);}
 function renderGradingForm(){
   const card=gradeTarget();$('grading-card-preview').replaceChildren();$('grading-submit').disabled=!card||state.collectionLoading;
+  renderGradingOdds(card,$('grading-agency').value);
   if(!card){$('grading-quote').textContent=state.collectionLoading?'整理散卡中…':'先开一包，或去卡展买张心仪的卡。';return;}
   state.gradeTarget=card.id;const image=document.createElement('img');applyCardImage(image,card);image.width=160;image.height=224;$('grading-card-preview').append(image);
   const q=Collectibles.gradeQuote(state.save,card,$('grading-agency').value,$('grading-service').value,state.feed);

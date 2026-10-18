@@ -105,7 +105,7 @@ function renderAcquisition() {
   $("channel-badge").textContent = product.channel_label;
   $("channel-title").textContent = retail ? "让货架和收藏一起成长" : "这套卡有自己的相遇方式";
   const descriptions = {
-    booster: "常规补充包：从供货商进货后，可拆包收藏，也可留在货架上等待顾客购买。每包 5 张，沿用独立 RR 保底与最高档 0.1% 的游戏规则。",
+    booster: "常规补充包：从供货商进货后，可拆包收藏，也可留在货架上等待顾客购买。本套封入、保底与单卡概率见上方“查看全部概率”。",
     special: `特色零售包：本套每份 ${product.cards_per_unit} 张，按收录卡面等概率模拟，不套用常规补充包的 RR 保底。`,
     deck: "预组与构筑：可作为未拆封商品出售，或拆为 60 张卡的游戏配方（58 张基础 + 2 张主力）。这不是实体卡组清单复刻。",
     gift: "礼盒特典：选择礼盒款式对应的卡面订购，获得所选卡面与 1 张活动券。每日限一份；体验价含特典估值，不复刻实体礼盒全部配件。",
@@ -121,7 +121,7 @@ function renderAcquisition() {
   $("buy-stock-actions").hidden = !show || !retail;
   $("pack-actions").hidden = !show || !retail;
   $("special-actions").hidden = !show || retail;
-  $("draw-rules").hidden = !show || product.channel !== "booster";
+  oddsSummary();
   $("draw-one").disabled = !retail;
   $("draw-ten").disabled = !retail || product.channel === "deck";
   const stock = s.stock[product.id] || 0;
