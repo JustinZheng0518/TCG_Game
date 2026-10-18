@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2006-622229.webp"
+    "local_preview": "data/basketball/previews/BB2006-622229.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2006:622230",
@@ -51,7 +53,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2006-622230.webp"
+    "local_preview": "data/basketball/previews/BB2006-622230.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2006:622231",
@@ -77,7 +81,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622232",
@@ -104,7 +109,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2006-622232.webp"
+    "local_preview": "data/basketball/previews/BB2006-622232.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2006:622234",
@@ -131,7 +138,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2006-622234.webp"
+    "local_preview": "data/basketball/previews/BB2006-622234.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2006:622235",
@@ -157,7 +166,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622236",
@@ -183,7 +193,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622237",
@@ -210,7 +221,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2006-622237.webp"
+    "local_preview": "data/basketball/previews/BB2006-622237.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2006:622238",
@@ -237,7 +250,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2006-622238.webp"
+    "local_preview": "data/basketball/previews/BB2006-622238.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2006:622240",
@@ -264,7 +279,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2006-622240.webp"
+    "local_preview": "data/basketball/previews/BB2006-622240.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2006:622241",
@@ -290,7 +307,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622242",
@@ -316,7 +334,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622243",
@@ -342,7 +361,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622244",
@@ -368,7 +388,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622246",
@@ -394,7 +415,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622247",
@@ -420,7 +442,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622248",
@@ -446,7 +469,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622249",
@@ -472,7 +496,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622250",
@@ -498,7 +523,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622252",
@@ -524,7 +550,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622253",
@@ -550,7 +577,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622254",
@@ -576,7 +604,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622255",
@@ -602,7 +631,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622256",
@@ -628,7 +658,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622258",
@@ -654,7 +685,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622259",
@@ -680,7 +712,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622260",
@@ -706,7 +739,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622261",
@@ -732,7 +766,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622262",
@@ -758,7 +793,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622264",
@@ -784,7 +820,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622265",
@@ -810,7 +847,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622266",
@@ -836,7 +874,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622267",
@@ -862,7 +901,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622268",
@@ -888,7 +928,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622270",
@@ -914,7 +955,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622271",
@@ -940,7 +982,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622272",
@@ -966,7 +1009,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622273",
@@ -992,7 +1036,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622274",
@@ -1018,7 +1063,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622276",
@@ -1044,7 +1090,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622277",
@@ -1070,7 +1117,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622278",
@@ -1096,7 +1144,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622279",
@@ -1122,7 +1171,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622280",
@@ -1148,7 +1198,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622282",
@@ -1174,7 +1225,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622283",
@@ -1200,7 +1252,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622284",
@@ -1226,7 +1279,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622285",
@@ -1252,7 +1306,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622286",
@@ -1278,7 +1333,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622288",
@@ -1304,7 +1360,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622289",
@@ -1330,7 +1387,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622290",
@@ -1356,7 +1414,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622291",
@@ -1382,7 +1441,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622292",
@@ -1408,7 +1468,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622294",
@@ -1434,7 +1495,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622295",
@@ -1460,7 +1522,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622296",
@@ -1486,7 +1549,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622297",
@@ -1512,7 +1576,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622298",
@@ -1538,7 +1603,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2006:622300",
@@ -1564,6 +1630,331 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB2006:622233",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "5",
+    "name": "Basketball Play Single Cut Off Post",
+    "original_name": "Basketball Play Single Cut Off Post",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622233/1948-Bowman-5-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-5Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-5Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-5Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-5Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622239",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "11",
+    "name": "Basketball Play Single Cut With Return Pass To Post",
+    "original_name": "Basketball Play Single Cut With Return Pass To Post",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622239/1948-Bowman-11-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622239Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622239Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622239Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622239Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622245",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "17",
+    "name": "Basketball Play",
+    "original_name": "Basketball Play",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622245/1948-Bowman-17-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622245Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622245Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622245Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622245Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622251",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "23",
+    "name": "Basketball Play Double Cut Off Post",
+    "original_name": "Basketball Play Double Cut Off Post",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622251/1948-Bowman-23-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622251Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622251Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622251Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622251Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622257",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "29",
+    "name": "Basketball Play Double Post",
+    "original_name": "Basketball Play Double Post",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622257/1948-Bowman-29-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622257Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622257Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622257Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622257Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622263",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "35",
+    "name": "Basketball Play Screen Play",
+    "original_name": "Basketball Play Screen Play",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622263/1948-Bowman-35-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622263Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622263Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622263Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622263Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622269",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "41",
+    "name": "Basketball Play Double Screen",
+    "original_name": "Basketball Play Double Screen",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622269/1948-Bowman-41-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622269Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622269Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622269Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622269Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622275",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "47",
+    "name": "Basketball Play Out Of Bounds",
+    "original_name": "Basketball Play Out Of Bounds",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622275/1948-Bowman-47-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622275Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622275Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622275Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622275Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622281",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "53",
+    "name": "Basketball Play Out Of Bounds",
+    "original_name": "Basketball Play Out Of Bounds",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622281/1948-Bowman-53-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622281Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622281Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622281Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622281Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622287",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "59",
+    "name": "Basketball Play Out Of Bounds",
+    "original_name": "Basketball Play Out Of Bounds",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622287/1948-Bowman-59-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622287Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622287Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622287Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622287Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622293",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "65",
+    "name": "Basketball Play Held Ball",
+    "original_name": "Basketball Play Held Ball",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622293/1948-Bowman-65-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622293Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622293Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622293Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622293Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2006:622299",
+    "set_id": "BB2006",
+    "source_set_id": 2006,
+    "number": "71",
+    "name": "Basketball Play Guards Play",
+    "original_name": "Basketball Play Guards Play",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1948 Bowman",
+    "source_notes": "",
+    "year": 1948,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2006/cid/622299/1948-Bowman-71-Basketball-Play",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622299Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622299Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622299Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2006/2006-622299Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry"
   }
 ]

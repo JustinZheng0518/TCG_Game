@@ -1,0 +1,333 @@
+{
+  "set_id": "BB9487",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/9487/2009-10-Bowman-48",
+  "headings": [
+    "Insert Sets (12)",
+    "Parallel Sets (7)"
+  ],
+  "subset_count": 19,
+  "subsets": [
+    {
+      "source_set_id": 32251,
+      "name": "2009-10 Bowman 48 - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32251/2009-10-Bowman-48-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32252,
+      "name": "2009-10 Bowman 48 - Autographs Black",
+      "short": "Autographs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32252/2009-10-Bowman-48-Autographs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32253,
+      "name": "2009-10 Bowman 48 - Autographs Press Plates Black",
+      "short": "Autographs Press Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32253/2009-10-Bowman-48-Autographs-Press-Plates-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32254,
+      "name": "2009-10 Bowman 48 - Autographs Press Plates Cyan",
+      "short": "Autographs Press Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32254/2009-10-Bowman-48-Autographs-Press-Plates-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32255,
+      "name": "2009-10 Bowman 48 - Autographs Press Plates Magenta",
+      "short": "Autographs Press Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32255/2009-10-Bowman-48-Autographs-Press-Plates-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32256,
+      "name": "2009-10 Bowman 48 - Autographs Press Plates Yellow",
+      "short": "Autographs Press Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32256/2009-10-Bowman-48-Autographs-Press-Plates-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32259,
+      "name": "2009-10 Bowman 48 - Locker Room Collection Autograph Relics",
+      "short": "Locker Room Collection Autograph Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32259/2009-10-Bowman-48-Locker-Room-Collection-Autograph-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32260,
+      "name": "2009-10 Bowman 48 - Locker Room Collection Autograph Relics Black",
+      "short": "Locker Room Collection Autograph Relics Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32260/2009-10-Bowman-48-Locker-Room-Collection-Autograph-Relics-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32261,
+      "name": "2009-10 Bowman 48 - Locker Room Collection Autograph Relics Patches",
+      "short": "Locker Room Collection Autograph Relics Patches",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32261/2009-10-Bowman-48-Locker-Room-Collection-Autograph-Relics-Patches",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32262,
+      "name": "2009-10 Bowman 48 - Locker Room Collection Autograph Relics Patches Black",
+      "short": "Locker Room Collection Autograph Relics Patches Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32262/2009-10-Bowman-48-Locker-Room-Collection-Autograph-Relics-Patches-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 369115,
+      "name": "2009-10 Bowman 48 - Locker Room Collection Autograph Relics Patches Red",
+      "short": "Locker Room Collection Autograph Relics Patches Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/369115/2009-10-Bowman-48-Locker-Room-Collection-Autograph-Relics-Patches-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 369114,
+      "name": "2009-10 Bowman 48 - Locker Room Collection Autograph Relics Red",
+      "short": "Locker Room Collection Autograph Relics Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/369114/2009-10-Bowman-48-Locker-Room-Collection-Autograph-Relics-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32257,
+      "name": "2009-10 Bowman 48 - Black",
+      "short": "Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32257/2009-10-Bowman-48-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32258,
+      "name": "2009-10 Bowman 48 - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32258/2009-10-Bowman-48-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32263,
+      "name": "2009-10 Bowman 48 - Press Plates Black",
+      "short": "Press Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32263/2009-10-Bowman-48-Press-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32264,
+      "name": "2009-10 Bowman 48 - Press Plates Cyan",
+      "short": "Press Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32264/2009-10-Bowman-48-Press-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32265,
+      "name": "2009-10 Bowman 48 - Press Plates Magenta",
+      "short": "Press Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32265/2009-10-Bowman-48-Press-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32266,
+      "name": "2009-10 Bowman 48 - Press Plates Yellow",
+      "short": "Press Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32266/2009-10-Bowman-48-Press-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32267,
+      "name": "2009-10 Bowman 48 - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32267/2009-10-Bowman-48-Red",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 9,
+  "imported_this_run": [
+    {
+      "source_set_id": 32257,
+      "name": "Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 24,
+      "missing_fronts": 90
+    },
+    {
+      "source_set_id": 32267,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 111
+    },
+    {
+      "source_set_id": 32263,
+      "name": "Press Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 114
+    },
+    {
+      "source_set_id": 32251,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 19,
+      "missing_fronts": 11
+    },
+    {
+      "source_set_id": 32259,
+      "name": "Locker Room Collection Autograph Relics",
+      "family_requested": "auto_patch",
+      "cards_with_front": 3,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 32261,
+      "name": "Locker Room Collection Autograph Relics Patches",
+      "family_requested": "auto_patch",
+      "cards_with_front": 2,
+      "missing_fronts": 8
+    },
+    {
+      "source_set_id": 369114,
+      "name": "Locker Room Collection Autograph Relics Red",
+      "family_requested": "auto_patch",
+      "cards_with_front": 1,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 32260,
+      "name": "Locker Room Collection Autograph Relics Black",
+      "family_requested": "auto_patch",
+      "cards_with_front": 3,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 369115,
+      "name": "Locker Room Collection Autograph Relics Patches Red",
+      "family_requested": "auto_patch",
+      "cards_with_front": 1,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 32262,
+      "name": "Locker Room Collection Autograph Relics Patches Black",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 32258,
+      "name": "Blue",
+      "family_requested": "parallel",
+      "cards_with_front": 114,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 32264,
+      "name": "Press Plates Cyan",
+      "family_requested": "parallel",
+      "cards_with_front": 0,
+      "missing_fronts": 114
+    },
+    {
+      "source_set_id": 32266,
+      "name": "Press Plates Yellow",
+      "family_requested": "parallel",
+      "cards_with_front": 0,
+      "missing_fronts": 114
+    }
+  ],
+  "import_errors": [],
+  "card_count": 284,
+  "before_tiers": {
+    "base": 100,
+    "numbered": 14
+  },
+  "tiers": {
+    "base": 100,
+    "numbered": 167,
+    "numbered_low": 8,
+    "auto": 19,
+    "auto_patch": 5
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "numbered": 167,
+    "numbered_low": 8,
+    "auto": 19,
+    "auto_patch": 5
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 100,
+      "available_cards": 100,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 8,
+      "source_candidates": 3
+    },
+    "auto": {
+      "status": "available",
+      "records": 19,
+      "available_cards": 19,
+      "local_images": 19,
+      "source_candidates": 6
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 6
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 7
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "available",
+      "records": 167,
+      "available_cards": 167,
+      "local_images": 167,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 15
+}

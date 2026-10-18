@@ -1,0 +1,118 @@
+{
+  "set_id": "BB2012",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2012/1969-70-Topps",
+  "headings": [
+    "Insert Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 25500,
+      "name": "1969-70 Topps - Rulers",
+      "short": "Rulers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25500/1969-70-Topps-Rulers",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 25500,
+      "name": "Rulers",
+      "family_requested": "insert",
+      "cards_with_front": 23,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 121,
+  "before_tiers": {
+    "base": 26,
+    "rookie": 72
+  },
+  "tiers": {
+    "base": 27,
+    "rookie": 72,
+    "insert": 23
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 1,
+    "rookie": 5,
+    "insert": 23
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 27,
+      "available_cards": 27,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 72,
+      "available_cards": 72,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 23,
+      "available_cards": 23,
+      "local_images": 23,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

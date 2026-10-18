@@ -1,15 +1,16 @@
 "use strict";
 const Collectibles=globalThis.TCGCollectibles;
 function cardImageURL(card,full=false){
-  if(card.sport==='basketball')return full?(card.image||card.source_url):(card.local_preview||card.thumbnail||card.source_url);
+  if(card.sport==='basketball')return card.local_preview||(full?(card.image||card.source_url):(card.thumbnail||card.source_url));
   return full&&state.localOriginals?(card.image||card.source_url):state.localImages?(card.thumbnail||card.source_url):card.source_url;
 }
 function applyCardImage(image,card,full=false){
+  image._missingLabel?.remove();image._missingLabel=null;delete image.dataset.imageMissing;
   image.hidden=false;image.referrerPolicy='no-referrer';image.alt=`${card.name} · ${card.sport==='basketball'?'篮球原版卡面':'简中卡面'}`;
   const urls=[cardImageURL(card,full),card.local_preview,card.source_url];
   if(card.sport==='basketball'&&card.source_url){const thumb=card.source_url.replace('/Images/Cards/','/Images/Thumbs/').replace(/\/(\d+)-([^/]+)Fr\.jpg$/,'/$1_$2Thumb.jpg');urls.push(thumb);}
   const unique=[...new Set(urls.filter(Boolean))];let index=0;
-  image.onerror=()=>{if(++index<unique.length)image.src=unique[index];else image.hidden=true;};
+  image.onerror=()=>{if(++index<unique.length)image.src=unique[index];else{image.hidden=true;image.dataset.imageMissing='true';if(image.parentElement){image._missingLabel=text('span','卡面暂未加载，点击查看卡牌资料','card-image-missing');image.parentElement.append(image._missingLabel);}}};
   if(unique.length)image.src=unique[0];else image.hidden=true;
 }
 function renderUniverse(){

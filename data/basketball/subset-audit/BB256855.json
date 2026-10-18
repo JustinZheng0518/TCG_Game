@@ -1,0 +1,948 @@
+{
+  "set_id": "BB256855",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/256855/2020-21-Donruss",
+  "headings": [
+    "Insert Sets (83)",
+    "Parallel Sets (22)"
+  ],
+  "subset_count": 105,
+  "subsets": [
+    {
+      "source_set_id": 262322,
+      "name": "2020-21 Donruss - All Time League Leaders",
+      "short": "All Time League Leaders",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262322/2020-21-Donruss-All-Time-League-Leaders",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262323,
+      "name": "2020-21 Donruss - All Time League Leaders Green Flood",
+      "short": "All Time League Leaders Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262323/2020-21-Donruss-All-Time-League-Leaders-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262324,
+      "name": "2020-21 Donruss - All Time League Leaders Holo Purple Laser",
+      "short": "All Time League Leaders Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262324/2020-21-Donruss-All-Time-League-Leaders-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262325,
+      "name": "2020-21 Donruss - All Time League Leaders Holo Red Laser",
+      "short": "All Time League Leaders Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262325/2020-21-Donruss-All-Time-League-Leaders-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262326,
+      "name": "2020-21 Donruss - All Time League Leaders Holo Yellow Laser",
+      "short": "All Time League Leaders Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262326/2020-21-Donruss-All-Time-League-Leaders-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262327,
+      "name": "2020-21 Donruss - Choice Signatures",
+      "short": "Choice Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262327/2020-21-Donruss-Choice-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262328,
+      "name": "2020-21 Donruss - Choice Signatures Black",
+      "short": "Choice Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262328/2020-21-Donruss-Choice-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262329,
+      "name": "2020-21 Donruss - Choice Signatures Gold",
+      "short": "Choice Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262329/2020-21-Donruss-Choice-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262330,
+      "name": "2020-21 Donruss - Complete Players",
+      "short": "Complete Players",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262330/2020-21-Donruss-Complete-Players",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262331,
+      "name": "2020-21 Donruss - Complete Players Green Flood",
+      "short": "Complete Players Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262331/2020-21-Donruss-Complete-Players-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262332,
+      "name": "2020-21 Donruss - Complete Players Holo Purple Laser",
+      "short": "Complete Players Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262332/2020-21-Donruss-Complete-Players-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262333,
+      "name": "2020-21 Donruss - Complete Players Holo Red Laser",
+      "short": "Complete Players Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262333/2020-21-Donruss-Complete-Players-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262334,
+      "name": "2020-21 Donruss - Complete Players Holo Yellow Laser",
+      "short": "Complete Players Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262334/2020-21-Donruss-Complete-Players-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262335,
+      "name": "2020-21 Donruss - Craftsmen",
+      "short": "Craftsmen",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262335/2020-21-Donruss-Craftsmen",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262336,
+      "name": "2020-21 Donruss - Craftsmen Press Proof",
+      "short": "Craftsmen Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262336/2020-21-Donruss-Craftsmen-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262337,
+      "name": "2020-21 Donruss - Craftsmen Press Proof Black",
+      "short": "Craftsmen Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262337/2020-21-Donruss-Craftsmen-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262338,
+      "name": "2020-21 Donruss - Crunch Time",
+      "short": "Crunch Time",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262338/2020-21-Donruss-Crunch-Time",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262339,
+      "name": "2020-21 Donruss - Crunch Time Press Proof",
+      "short": "Crunch Time Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262339/2020-21-Donruss-Crunch-Time-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262340,
+      "name": "2020-21 Donruss - Crunch Time Press Proof Black",
+      "short": "Crunch Time Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262340/2020-21-Donruss-Crunch-Time-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262341,
+      "name": "2020-21 Donruss - Dominator Signatures",
+      "short": "Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262341/2020-21-Donruss-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262342,
+      "name": "2020-21 Donruss - Dominator Signatures Black",
+      "short": "Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262342/2020-21-Donruss-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262343,
+      "name": "2020-21 Donruss - Dominator Signatures Gold",
+      "short": "Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262343/2020-21-Donruss-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262344,
+      "name": "2020-21 Donruss - Fantasy Stars",
+      "short": "Fantasy Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262344/2020-21-Donruss-Fantasy-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262345,
+      "name": "2020-21 Donruss - Fantasy Stars Green Flood",
+      "short": "Fantasy Stars Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262345/2020-21-Donruss-Fantasy-Stars-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262346,
+      "name": "2020-21 Donruss - Fantasy Stars Holo Purple Laser",
+      "short": "Fantasy Stars Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262346/2020-21-Donruss-Fantasy-Stars-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262347,
+      "name": "2020-21 Donruss - Fantasy Stars Holo Red Laser",
+      "short": "Fantasy Stars Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262347/2020-21-Donruss-Fantasy-Stars-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262348,
+      "name": "2020-21 Donruss - Fantasy Stars Holo Yellow Laser",
+      "short": "Fantasy Stars Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262348/2020-21-Donruss-Fantasy-Stars-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262349,
+      "name": "2020-21 Donruss - Franchise Features",
+      "short": "Franchise Features",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262349/2020-21-Donruss-Franchise-Features",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262350,
+      "name": "2020-21 Donruss - Franchise Features Green Flood",
+      "short": "Franchise Features Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262350/2020-21-Donruss-Franchise-Features-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262351,
+      "name": "2020-21 Donruss - Franchise Features Holo Purple Laser",
+      "short": "Franchise Features Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262351/2020-21-Donruss-Franchise-Features-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262352,
+      "name": "2020-21 Donruss - Franchise Features Holo Red Laser",
+      "short": "Franchise Features Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262352/2020-21-Donruss-Franchise-Features-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262353,
+      "name": "2020-21 Donruss - Franchise Features Holo Yellow Laser",
+      "short": "Franchise Features Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262353/2020-21-Donruss-Franchise-Features-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262354,
+      "name": "2020-21 Donruss - Great X-Pectations",
+      "short": "Great X-Pectations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262354/2020-21-Donruss-Great-X-Pectations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262355,
+      "name": "2020-21 Donruss - Great X-Pectations Green Flood",
+      "short": "Great X-Pectations Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262355/2020-21-Donruss-Great-X-Pectations-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262356,
+      "name": "2020-21 Donruss - Great X-Pectations Holo Purple Laser",
+      "short": "Great X-Pectations Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262356/2020-21-Donruss-Great-X-Pectations-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262357,
+      "name": "2020-21 Donruss - Great X-Pectations Holo Red Laser",
+      "short": "Great X-Pectations Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262357/2020-21-Donruss-Great-X-Pectations-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262358,
+      "name": "2020-21 Donruss - Great X-Pectations Holo Yellow Laser",
+      "short": "Great X-Pectations Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262358/2020-21-Donruss-Great-X-Pectations-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262359,
+      "name": "2020-21 Donruss - Hall Dominator Signatures",
+      "short": "Hall Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262359/2020-21-Donruss-Hall-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262360,
+      "name": "2020-21 Donruss - Hall Dominator Signatures Black",
+      "short": "Hall Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262360/2020-21-Donruss-Hall-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262361,
+      "name": "2020-21 Donruss - Hall Dominator Signatures Gold",
+      "short": "Hall Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262361/2020-21-Donruss-Hall-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262362,
+      "name": "2020-21 Donruss - Jersey Kings",
+      "short": "Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262362/2020-21-Donruss-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262363,
+      "name": "2020-21 Donruss - Jersey Series",
+      "short": "Jersey Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262363/2020-21-Donruss-Jersey-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262364,
+      "name": "2020-21 Donruss - Jersey Series Prime",
+      "short": "Jersey Series Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262364/2020-21-Donruss-Jersey-Series-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262365,
+      "name": "2020-21 Donruss - Jerseys Kings Prime",
+      "short": "Jerseys Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262365/2020-21-Donruss-Jerseys-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262366,
+      "name": "2020-21 Donruss - Net Marvels",
+      "short": "Net Marvels",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262366/2020-21-Donruss-Net-Marvels",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262367,
+      "name": "2020-21 Donruss - Net Marvels Press Proof",
+      "short": "Net Marvels Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262367/2020-21-Donruss-Net-Marvels-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262368,
+      "name": "2020-21 Donruss - Net Marvels Press Proof Black",
+      "short": "Net Marvels Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262368/2020-21-Donruss-Net-Marvels-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262369,
+      "name": "2020-21 Donruss - Power in the Paint",
+      "short": "Power in the Paint",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262369/2020-21-Donruss-Power-in-the-Paint",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262370,
+      "name": "2020-21 Donruss - Power in the Paint Green Flood",
+      "short": "Power in the Paint Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262370/2020-21-Donruss-Power-in-the-Paint-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262371,
+      "name": "2020-21 Donruss - Power in the Paint Holo Purple Laser",
+      "short": "Power in the Paint Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262371/2020-21-Donruss-Power-in-the-Paint-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262372,
+      "name": "2020-21 Donruss - Power in the Paint Holo Red Laser",
+      "short": "Power in the Paint Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262372/2020-21-Donruss-Power-in-the-Paint-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262373,
+      "name": "2020-21 Donruss - Power in the Paint Holo Yellow Laser",
+      "short": "Power in the Paint Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262373/2020-21-Donruss-Power-in-the-Paint-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262374,
+      "name": "2020-21 Donruss - Rated Rookies Signatures",
+      "short": "Rated Rookies Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262374/2020-21-Donruss-Rated-Rookies-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262375,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Choice",
+      "short": "Rated Rookies Signatures Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262375/2020-21-Donruss-Rated-Rookies-Signatures-Choice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262376,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Choice Black",
+      "short": "Rated Rookies Signatures Choice Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262376/2020-21-Donruss-Rated-Rookies-Signatures-Choice-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262377,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Choice Black Gold",
+      "short": "Rated Rookies Signatures Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262377/2020-21-Donruss-Rated-Rookies-Signatures-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262378,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Choice Blue",
+      "short": "Rated Rookies Signatures Choice Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262378/2020-21-Donruss-Rated-Rookies-Signatures-Choice-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262379,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Choice Gold",
+      "short": "Rated Rookies Signatures Choice Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262379/2020-21-Donruss-Rated-Rookies-Signatures-Choice-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262380,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Choice Red",
+      "short": "Rated Rookies Signatures Choice Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262380/2020-21-Donruss-Rated-Rookies-Signatures-Choice-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262381,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Green Flood",
+      "short": "Rated Rookies Signatures Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262381/2020-21-Donruss-Rated-Rookies-Signatures-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262382,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Black Laser",
+      "short": "Rated Rookies Signatures Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262382/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262383,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Blue Laser",
+      "short": "Rated Rookies Signatures Holo Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262383/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262384,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Gold Laser",
+      "short": "Rated Rookies Signatures Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262384/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262385,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Green and Yellow Laser",
+      "short": "Rated Rookies Signatures Holo Green and Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262385/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Green-and-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262386,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Light Blue Laser",
+      "short": "Rated Rookies Signatures Holo Light Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262386/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Light-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262387,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Orange Laser",
+      "short": "Rated Rookies Signatures Holo Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262387/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Orange-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262388,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Purple Laser",
+      "short": "Rated Rookies Signatures Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262388/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262391,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Red Laser",
+      "short": "Rated Rookies Signatures Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262391/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262389,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Red and Blue Laser",
+      "short": "Rated Rookies Signatures Holo Red and Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262389/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Red-and-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262390,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Red and Gold Laser",
+      "short": "Rated Rookies Signatures Holo Red and Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262390/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Red-and-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262392,
+      "name": "2020-21 Donruss - Rated Rookies Signatures Holo Yellow Laser",
+      "short": "Rated Rookies Signatures Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262392/2020-21-Donruss-Rated-Rookies-Signatures-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262393,
+      "name": "2020-21 Donruss - Retro Series",
+      "short": "Retro Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262393/2020-21-Donruss-Retro-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262394,
+      "name": "2020-21 Donruss - Retro Series Press Proof",
+      "short": "Retro Series Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262394/2020-21-Donruss-Retro-Series-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262395,
+      "name": "2020-21 Donruss - Retro Series Press Proof Black",
+      "short": "Retro Series Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262395/2020-21-Donruss-Retro-Series-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262396,
+      "name": "2020-21 Donruss - Rookie Jersey Kings",
+      "short": "Rookie Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262396/2020-21-Donruss-Rookie-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262397,
+      "name": "2020-21 Donruss - Rookie Jersey Kings Prime",
+      "short": "Rookie Jersey Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262397/2020-21-Donruss-Rookie-Jersey-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262398,
+      "name": "2020-21 Donruss - Signature Series",
+      "short": "Signature Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262398/2020-21-Donruss-Signature-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262399,
+      "name": "2020-21 Donruss - The Rookies",
+      "short": "The Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262399/2020-21-Donruss-The-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262400,
+      "name": "2020-21 Donruss - The Rookies Press Proof",
+      "short": "The Rookies Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262400/2020-21-Donruss-The-Rookies-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262401,
+      "name": "2020-21 Donruss - The Rookies Press Proof Black",
+      "short": "The Rookies Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262401/2020-21-Donruss-The-Rookies-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262402,
+      "name": "2020-21 Donruss - Zero Gravity",
+      "short": "Zero Gravity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262402/2020-21-Donruss-Zero-Gravity",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262403,
+      "name": "2020-21 Donruss - Zero Gravity Press Proof",
+      "short": "Zero Gravity Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262403/2020-21-Donruss-Zero-Gravity-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262404,
+      "name": "2020-21 Donruss - Zero Gravity Press Proof Black",
+      "short": "Zero Gravity Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262404/2020-21-Donruss-Zero-Gravity-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 262300,
+      "name": "2020-21 Donruss - Choice",
+      "short": "Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262300/2020-21-Donruss-Choice",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262301,
+      "name": "2020-21 Donruss - Choice Black",
+      "short": "Choice Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262301/2020-21-Donruss-Choice-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262302,
+      "name": "2020-21 Donruss - Choice Black Gold",
+      "short": "Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262302/2020-21-Donruss-Choice-Black-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262303,
+      "name": "2020-21 Donruss - Choice Blue",
+      "short": "Choice Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262303/2020-21-Donruss-Choice-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262304,
+      "name": "2020-21 Donruss - Choice Gold",
+      "short": "Choice Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262304/2020-21-Donruss-Choice-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262305,
+      "name": "2020-21 Donruss - Choice Red",
+      "short": "Choice Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262305/2020-21-Donruss-Choice-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262306,
+      "name": "2020-21 Donruss - Green Flood",
+      "short": "Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262306/2020-21-Donruss-Green-Flood",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262307,
+      "name": "2020-21 Donruss - Holo Black Laser",
+      "short": "Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262307/2020-21-Donruss-Holo-Black-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262308,
+      "name": "2020-21 Donruss - Holo Blue Laser",
+      "short": "Holo Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262308/2020-21-Donruss-Holo-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262309,
+      "name": "2020-21 Donruss - Holo Gold Laser",
+      "short": "Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262309/2020-21-Donruss-Holo-Gold-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262311,
+      "name": "2020-21 Donruss - Holo Green Laser",
+      "short": "Holo Green Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262311/2020-21-Donruss-Holo-Green-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262310,
+      "name": "2020-21 Donruss - Holo Green and Yellow Laser",
+      "short": "Holo Green and Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262310/2020-21-Donruss-Holo-Green-and-Yellow-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262312,
+      "name": "2020-21 Donruss - Holo Light Blue Laser",
+      "short": "Holo Light Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262312/2020-21-Donruss-Holo-Light-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262313,
+      "name": "2020-21 Donruss - Holo Orange Laser",
+      "short": "Holo Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262313/2020-21-Donruss-Holo-Orange-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262314,
+      "name": "2020-21 Donruss - Holo Purple Laser",
+      "short": "Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262314/2020-21-Donruss-Holo-Purple-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262317,
+      "name": "2020-21 Donruss - Holo Red Laser",
+      "short": "Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262317/2020-21-Donruss-Holo-Red-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262315,
+      "name": "2020-21 Donruss - Holo Red and Blue Laser",
+      "short": "Holo Red and Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262315/2020-21-Donruss-Holo-Red-and-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262316,
+      "name": "2020-21 Donruss - Holo Red and Gold Laser",
+      "short": "Holo Red and Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262316/2020-21-Donruss-Holo-Red-and-Gold-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262318,
+      "name": "2020-21 Donruss - Holo Yellow Laser",
+      "short": "Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262318/2020-21-Donruss-Holo-Yellow-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262319,
+      "name": "2020-21 Donruss - Press Proof Purple",
+      "short": "Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262319/2020-21-Donruss-Press-Proof-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262320,
+      "name": "2020-21 Donruss - Press Proof Silver",
+      "short": "Press Proof Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262320/2020-21-Donruss-Press-Proof-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 262321,
+      "name": "2020-21 Donruss - Yellow Flood",
+      "short": "Yellow Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/262321/2020-21-Donruss-Yellow-Flood",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 12,
+  "imported_this_run": [
+    {
+      "source_set_id": 262305,
+      "name": "Choice Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 17,
+      "missing_fronts": 233
+    },
+    {
+      "source_set_id": 262304,
+      "name": "Choice Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 247
+    },
+    {
+      "source_set_id": 262301,
+      "name": "Choice Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 250
+    },
+    {
+      "source_set_id": 262317,
+      "name": "Holo Red Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 19,
+      "missing_fronts": 231
+    },
+    {
+      "source_set_id": 262309,
+      "name": "Holo Gold Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 248
+    },
+    {
+      "source_set_id": 262307,
+      "name": "Holo Black Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 250
+    },
+    {
+      "source_set_id": 262398,
+      "name": "Signature Series",
+      "family_requested": "auto",
+      "cards_with_front": 32,
+      "missing_fronts": 66
+    },
+    {
+      "source_set_id": 262362,
+      "name": "Jersey Kings",
+      "family_requested": "memorabilia",
+      "cards_with_front": 9,
+      "missing_fronts": 51
+    },
+    {
+      "source_set_id": 262363,
+      "name": "Jersey Series",
+      "family_requested": "memorabilia",
+      "cards_with_front": 60,
+      "missing_fronts": 40
+    },
+    {
+      "source_set_id": 262300,
+      "name": "Choice",
+      "family_requested": "parallel",
+      "cards_with_front": 14,
+      "missing_fronts": 36
+    },
+    {
+      "source_set_id": 262303,
+      "name": "Choice Blue",
+      "family_requested": "parallel",
+      "cards_with_front": 11,
+      "missing_fronts": 239
+    },
+    {
+      "source_set_id": 262306,
+      "name": "Green Flood",
+      "family_requested": "parallel",
+      "cards_with_front": 88,
+      "missing_fronts": 162
+    },
+    {
+      "source_set_id": 262335,
+      "name": "Craftsmen",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 262338,
+      "name": "Crunch Time",
+      "family_requested": "insert",
+      "cards_with_front": 20,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 540,
+  "before_tiers": {
+    "base": 200,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 200,
+    "rookie": 50,
+    "numbered": 47,
+    "numbered_low": 5,
+    "auto": 32,
+    "memorabilia": 69,
+    "parallel": 102,
+    "insert": 35
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "numbered": 47,
+    "numbered_low": 5,
+    "auto": 32,
+    "memorabilia": 69,
+    "parallel": 102,
+    "insert": 35
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 200,
+      "available_cards": 200,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 21
+    },
+    "auto": {
+      "status": "available",
+      "records": 32,
+      "available_cards": 32,
+      "local_images": 32,
+      "source_candidates": 29
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 69,
+      "available_cards": 69,
+      "local_images": 69,
+      "source_candidates": 6
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 102,
+      "available_cards": 102,
+      "local_images": 102,
+      "source_candidates": 22
+    },
+    "insert": {
+      "status": "available",
+      "records": 35,
+      "available_cards": 35,
+      "local_images": 35,
+      "source_candidates": 48
+    },
+    "numbered": {
+      "status": "available",
+      "records": 47,
+      "available_cards": 47,
+      "local_images": 47,
+      "source_candidates": 25
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

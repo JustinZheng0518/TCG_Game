@@ -1,0 +1,331 @@
+{
+  "set_id": "BB2627",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2627/1997-98-Fleer",
+  "headings": [
+    "Insert Sets (21)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 25,
+  "subsets": [
+    {
+      "source_set_id": 2628,
+      "name": "1997-98 Fleer - Decade of Excellence",
+      "short": "Decade of Excellence",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2628/1997-98-Fleer-Decade-of-Excellence",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25777,
+      "name": "1997-98 Fleer - Decade of Excellence Rare Traditions",
+      "short": "Decade of Excellence Rare Traditions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25777/1997-98-Fleer-Decade-of-Excellence-Rare-Traditions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2629,
+      "name": "1997-98 Fleer - Diamond Ink 1 Point",
+      "short": "Diamond Ink 1 Point",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2629/1997-98-Fleer-Diamond-Ink-1-Point",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 95551,
+      "name": "1997-98 Fleer - Diamond Ink 10 Points",
+      "short": "Diamond Ink 10 Points",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/95551/1997-98-Fleer-Diamond-Ink-10-Points",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 282594,
+      "name": "1997-98 Fleer - Diamond Ink 25 Points",
+      "short": "Diamond Ink 25 Points",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/282594/1997-98-Fleer-Diamond-Ink-25-Points",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 95550,
+      "name": "1997-98 Fleer - Diamond Ink 5 Points",
+      "short": "Diamond Ink 5 Points",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/95550/1997-98-Fleer-Diamond-Ink-5-Points",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2630,
+      "name": "1997-98 Fleer - Flair Hardwood Leaders",
+      "short": "Flair Hardwood Leaders",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2630/1997-98-Fleer-Flair-Hardwood-Leaders",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2631,
+      "name": "1997-98 Fleer - Franchise Futures",
+      "short": "Franchise Futures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2631/1997-98-Fleer-Franchise-Futures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2632,
+      "name": "1997-98 Fleer - Game Breakers",
+      "short": "Game Breakers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2632/1997-98-Fleer-Game-Breakers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2633,
+      "name": "1997-98 Fleer - Goudey Greats",
+      "short": "Goudey Greats",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2633/1997-98-Fleer-Goudey-Greats",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25778,
+      "name": "1997-98 Fleer - High Flying Soaring Stars",
+      "short": "High Flying Soaring Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25778/1997-98-Fleer-High-Flying-Soaring-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2634,
+      "name": "1997-98 Fleer - Key Ingredient",
+      "short": "Key Ingredient",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2634/1997-98-Fleer-Key-Ingredient",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25779,
+      "name": "1997-98 Fleer - Key Ingredient Gold",
+      "short": "Key Ingredient Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25779/1997-98-Fleer-Key-Ingredient-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25780,
+      "name": "1997-98 Fleer - Million Dollar Moments",
+      "short": "Million Dollar Moments",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25780/1997-98-Fleer-Million-Dollar-Moments",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2635,
+      "name": "1997-98 Fleer - Rookie Rewind",
+      "short": "Rookie Rewind",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2635/1997-98-Fleer-Rookie-Rewind",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2636,
+      "name": "1997-98 Fleer - Rookie Sensations",
+      "short": "Rookie Sensations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2636/1997-98-Fleer-Rookie-Sensations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2637,
+      "name": "1997-98 Fleer - Soaring Stars",
+      "short": "Soaring Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2637/1997-98-Fleer-Soaring-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2638,
+      "name": "1997-98 Fleer - Thrill Seekers",
+      "short": "Thrill Seekers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2638/1997-98-Fleer-Thrill-Seekers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2639,
+      "name": "1997-98 Fleer - Total \"O\"",
+      "short": "Total \"O\"",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2639/1997-98-Fleer-Total-O-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2640,
+      "name": "1997-98 Fleer - Tower of Power",
+      "short": "Tower of Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2640/1997-98-Fleer-Tower-of-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2641,
+      "name": "1997-98 Fleer - Zone",
+      "short": "Zone",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2641/1997-98-Fleer-Zone",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 602460,
+      "name": "1997-98 Fleer - Million Dollar Moments Blank Front Game Cards",
+      "short": "Million Dollar Moments Blank Front Game Cards",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/602460/1997-98-Fleer-Million-Dollar-Moments-Blank-Front-Game-Cards",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 602459,
+      "name": "1997-98 Fleer - Million Dollar Moments Exchange",
+      "short": "Million Dollar Moments Exchange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/602459/1997-98-Fleer-Million-Dollar-Moments-Exchange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25776,
+      "name": "1997-98 Fleer - Traditions Crystal",
+      "short": "Traditions Crystal",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25776/1997-98-Fleer-Traditions-Crystal",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25781,
+      "name": "1997-98 Fleer - Traditions Tiffany",
+      "short": "Traditions Tiffany",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25781/1997-98-Fleer-Traditions-Tiffany",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 7,
+  "imported_this_run": [
+    {
+      "source_set_id": 25779,
+      "name": "Key Ingredient Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2629,
+      "name": "Diamond Ink 1 Point",
+      "family_requested": "auto",
+      "cards_with_front": 12,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 95550,
+      "name": "Diamond Ink 5 Points",
+      "family_requested": "auto",
+      "cards_with_front": 12,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 95551,
+      "name": "Diamond Ink 10 Points",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 7
+    },
+    {
+      "source_set_id": 282594,
+      "name": "Diamond Ink 25 Points",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 25776,
+      "name": "Traditions Crystal",
+      "family_requested": "parallel",
+      "cards_with_front": 345,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2634,
+      "name": "Key Ingredient",
+      "family_requested": "numbered",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 751,
+  "before_tiers": {
+    "base": 305,
+    "rookie": 40
+  },
+  "tiers": {
+    "base": 310,
+    "rookie": 40,
+    "insert": 61,
+    "parallel": 345
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "insert": 61,
+    "parallel": 345
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 310,
+      "available_cards": 310,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 4
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 345,
+      "available_cards": 345,
+      "local_images": 345,
+      "source_candidates": 2
+    },
+    "insert": {
+      "status": "available",
+      "records": 61,
+      "available_cards": 61,
+      "local_images": 61,
+      "source_candidates": 19
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 5
+}

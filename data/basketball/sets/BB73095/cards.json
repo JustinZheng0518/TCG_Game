@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB73095-5264896.webp"
+    "local_preview": "data/basketball/previews/BB73095-5264896.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB73095:5264897",
@@ -50,7 +52,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264898",
@@ -76,7 +79,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264899",
@@ -102,7 +106,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264900",
@@ -129,7 +134,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB73095-5264900.webp"
+    "local_preview": "data/basketball/previews/BB73095-5264900.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB73095:5264901",
@@ -155,7 +162,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264902",
@@ -181,7 +189,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264903",
@@ -207,7 +216,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264904",
@@ -233,7 +243,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264905",
@@ -259,7 +270,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264906",
@@ -285,7 +297,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264907",
@@ -311,7 +324,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264908",
@@ -337,7 +351,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264909",
@@ -363,7 +378,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264910",
@@ -389,7 +405,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264911",
@@ -415,7 +432,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264912",
@@ -441,7 +459,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264913",
@@ -467,7 +486,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264914",
@@ -493,7 +513,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264915",
@@ -519,7 +540,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264916",
@@ -545,7 +567,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264917",
@@ -571,7 +594,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264918",
@@ -597,7 +621,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264919",
@@ -623,7 +648,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264920",
@@ -649,7 +675,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264921",
@@ -675,7 +702,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264922",
@@ -701,7 +729,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264923",
@@ -727,7 +756,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264924",
@@ -753,7 +783,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264925",
@@ -779,7 +810,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264926",
@@ -805,7 +837,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264927",
@@ -831,7 +864,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264928",
@@ -857,7 +891,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264929",
@@ -883,7 +918,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264930",
@@ -909,7 +945,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264931",
@@ -935,7 +972,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264932",
@@ -961,7 +999,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264933",
@@ -987,7 +1026,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264934",
@@ -1013,7 +1053,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264935",
@@ -1039,7 +1080,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264936",
@@ -1065,7 +1107,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264937",
@@ -1091,7 +1134,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264938",
@@ -1117,7 +1161,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264939",
@@ -1143,7 +1188,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264940",
@@ -1169,7 +1215,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264941",
@@ -1195,7 +1242,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264942",
@@ -1221,7 +1269,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264943",
@@ -1247,7 +1296,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264944",
@@ -1273,7 +1323,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264945",
@@ -1299,7 +1350,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264946",
@@ -1325,7 +1377,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264947",
@@ -1351,7 +1404,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264948",
@@ -1377,7 +1431,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:5264949",
@@ -1403,7 +1458,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:14851505",
@@ -1430,7 +1486,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB73095-14851505.webp"
+    "local_preview": "data/basketball/previews/BB73095-14851505.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB73095:14851506",
@@ -1456,7 +1514,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:14851507",
@@ -1483,7 +1542,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB73095-14851507.webp"
+    "local_preview": "data/basketball/previews/BB73095-14851507.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB73095:14851508",
@@ -1509,7 +1570,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:14851509",
@@ -1536,7 +1598,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB73095-14851509.webp"
+    "local_preview": "data/basketball/previews/BB73095-14851509.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB73095:14851510",
@@ -1562,7 +1626,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:14851511",
@@ -1589,7 +1654,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB73095-14851511.webp"
+    "local_preview": "data/basketball/previews/BB73095-14851511.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB73095:14851512",
@@ -1615,7 +1682,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB73095:14851513",
@@ -1642,7 +1710,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB73095-14851513.webp"
+    "local_preview": "data/basketball/previews/BB73095-14851513.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB73095:14851514",
@@ -1668,6 +1738,718 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB73095:8438924",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G1",
+    "name": "Anfernee Hardaway",
+    "original_name": "Anfernee Hardaway",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/8438924/1996-SkyBox-USA-Gold-G1-Anfernee-Hardaway",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438924Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438924Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438924.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438924Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438924.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438925",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G2",
+    "name": "Grant Hill",
+    "original_name": "Grant Hill",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/8438925/1996-SkyBox-USA-Gold-G2-Grant-Hill",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438925Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438925Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438925.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438925Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438925.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438926",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G3",
+    "name": "Karl Malone",
+    "original_name": "Karl Malone",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/8438926/1996-SkyBox-USA-Gold-G3-Karl-Malone",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438926Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438926Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438926.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438926Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438926.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438928",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G5",
+    "name": "斯科蒂·皮蓬",
+    "original_name": "Scottie Pippen",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/8438928/1996-SkyBox-USA-Gold-G5-Scottie-Pippen",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438928Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438928Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438928.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438928Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438928.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438930",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G7",
+    "name": "沙奎尔·奥尼尔",
+    "original_name": "Shaquille O'Neal",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/8438930/1996-SkyBox-USA-Gold-G7-Shaquille-O'Neal",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438930Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438930Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438930.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438930Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438930.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438931",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G8",
+    "name": "David Robinson",
+    "original_name": "David Robinson",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/8438931/1996-SkyBox-USA-Gold-G8-David-Robinson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438931Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438931Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438931.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438931Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438931.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438933",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G10",
+    "name": "John Stockton",
+    "original_name": "John Stockton",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/8438933/1996-SkyBox-USA-Gold-G10-John-Stockton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438933Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438933Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438933.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-8438933Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438933.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:14850156",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G11",
+    "name": "查尔斯·巴克利",
+    "original_name": "Charles Barkley",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/14850156/1996-SkyBox-USA-Gold-G11-Charles-Barkley",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-14850156Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-14850156Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-14850156.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-14850156Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-14850156.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:14850157",
+    "set_id": "BB73095",
+    "source_set_id": 73136,
+    "number": "G12",
+    "name": "Mitch Richmond",
+    "original_name": "Mitch Richmond",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73136/cid/14850157/1996-SkyBox-USA-Gold-G12-Mitch-Richmond",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-14850157Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-14850157Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-14850157.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73136/73136-14850157Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-14850157.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438936",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G1",
+    "name": "Anfernee Hardaway",
+    "original_name": "Anfernee Hardaway",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/8438936/1996-SkyBox-USA-Gold-Sparkle-G1-Anfernee-Hardaway",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438936Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438936Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438936.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438936Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438936.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438937",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G2",
+    "name": "Grant Hill",
+    "original_name": "Grant Hill",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/8438937/1996-SkyBox-USA-Gold-Sparkle-G2-Grant-Hill",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438937RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438937RepBk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438937.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438937RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438937.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438938",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G3",
+    "name": "Karl Malone",
+    "original_name": "Karl Malone",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/8438938/1996-SkyBox-USA-Gold-Sparkle-G3-Karl-Malone",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438938Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438938Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438938.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438938Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438938.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438939",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G4",
+    "name": "Reggie Miller",
+    "original_name": "Reggie Miller",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/8438939/1996-SkyBox-USA-Gold-Sparkle-G4-Reggie-Miller",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438939Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438939Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438939.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438939Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438939.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438940",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G5",
+    "name": "斯科蒂·皮蓬",
+    "original_name": "Scottie Pippen",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/8438940/1996-SkyBox-USA-Gold-Sparkle-G5-Scottie-Pippen",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438940Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438940Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438940.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438940Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438940.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438942",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G7",
+    "name": "沙奎尔·奥尼尔",
+    "original_name": "Shaquille O'Neal",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/8438942/1996-SkyBox-USA-Gold-Sparkle-G7-Shaquille-O'Neal",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438942Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438942Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438942.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438942Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438942.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:8438945",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G10",
+    "name": "John Stockton",
+    "original_name": "John Stockton",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/8438945/1996-SkyBox-USA-Gold-Sparkle-G10-John-Stockton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438945Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438945Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-8438945.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-8438945Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-8438945.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:14850183",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G11",
+    "name": "查尔斯·巴克利",
+    "original_name": "Charles Barkley",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/14850183/1996-SkyBox-USA-Gold-Sparkle-G11-Charles-Barkley",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-14850183Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-14850183Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-14850183.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-14850183Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-14850183.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:12888703",
+    "set_id": "BB73095",
+    "source_set_id": 73137,
+    "number": "G12",
+    "name": "Mitch Richmond",
+    "original_name": "Mitch Richmond",
+    "team": "USA",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA - Gold Sparkle",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73137/cid/12888703/1996-SkyBox-USA-Gold-Sparkle-G12-Mitch-Richmond",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-12888703Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-12888703Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB73095-12888703.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73137/73137-12888703Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB73095-12888703.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB73095:5264950",
+    "set_id": "BB73095",
+    "source_set_id": 73095,
+    "number": "55",
+    "name": "Shaquille O'Neal / Anfernee Hardaway AD",
+    "original_name": "Shaquille O'Neal / Anfernee Hardaway AD",
+    "team": "USA",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73095/cid/5264950/1996-SkyBox-USA-55-Shaquille-O'Neal-/-Anfernee-Hardaway",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264950Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264950Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264950Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264950Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB73095:5264951",
+    "set_id": "BB73095",
+    "source_set_id": 73095,
+    "number": "56",
+    "name": "Karl Malone / John Stockton AD",
+    "original_name": "Karl Malone / John Stockton AD",
+    "team": "USA",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73095/cid/5264951/1996-SkyBox-USA-56-Karl-Malone-/-John-Stockton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264951Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264951Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264951Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264951Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB73095:5264952",
+    "set_id": "BB73095",
+    "source_set_id": 73095,
+    "number": "57",
+    "name": "David Robinson / Hakeem Olajuwon AD",
+    "original_name": "David Robinson / Hakeem Olajuwon AD",
+    "team": "USA",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73095/cid/5264952/1996-SkyBox-USA-57-David-Robinson-/-Hakeem-Olajuwon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264952Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264952Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264952Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264952Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB73095:5264953",
+    "set_id": "BB73095",
+    "source_set_id": 73095,
+    "number": "58",
+    "name": "Scottie Pippen / Grant Hill AD",
+    "original_name": "Scottie Pippen / Grant Hill AD",
+    "team": "USA",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73095/cid/5264953/1996-SkyBox-USA-58-Scottie-Pippen-/-Grant-Hill",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264953Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264953Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264953Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264953Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB73095:5264954",
+    "set_id": "BB73095",
+    "source_set_id": 73095,
+    "number": "59",
+    "name": "Reggie Miller / Glenn Robinson AD",
+    "original_name": "Reggie Miller / Glenn Robinson AD",
+    "team": "USA",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73095/cid/5264954/1996-SkyBox-USA-59-Reggie-Miller-/-Glenn-Robinson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264954Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264954Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264954Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264954Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB73095:5264955",
+    "set_id": "BB73095",
+    "source_set_id": 73095,
+    "number": "60",
+    "name": "Checklist: 1-60 and Inserts",
+    "original_name": "Checklist: 1-60 and Inserts",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA",
+    "source_notes": "CL",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73095/cid/5264955/1996-SkyBox-USA-60-Checklist:-1-60-and-Inserts",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264955Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264955Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264955Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-5264955Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB73095:14851515",
+    "set_id": "BB73095",
+    "source_set_id": 73095,
+    "number": "71",
+    "name": "Charles Barkley / Mitch Richmond AD, EXCH",
+    "original_name": "Charles Barkley / Mitch Richmond AD, EXCH",
+    "team": "USA",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996 SkyBox USA",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/73095/cid/14851515/1996-SkyBox-USA-71-Charles-Barkley-/-Mitch-Richmond",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-14851515RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-14851515RepBk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-14851515RepFr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/73095/73095-14851515RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry"
   }
 ]

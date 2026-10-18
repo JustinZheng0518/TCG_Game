@@ -1,0 +1,211 @@
+{
+  "set_id": "BB2096",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2096/1992-93-Fleer",
+  "headings": [
+    "Insert Sets (8)"
+  ],
+  "subset_count": 11,
+  "subsets": [
+    {
+      "source_set_id": 2097,
+      "name": "1992-93 Fleer - All-Stars",
+      "short": "All-Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2097/1992-93-Fleer-All-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 152488,
+      "name": "1992-93 Fleer - Autographed Embossed Stamp",
+      "short": "Autographed Embossed Stamp",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/152488/1992-93-Fleer-Autographed-Embossed-Stamp",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2098,
+      "name": "1992-93 Fleer - Larry Johnson NBA Rookie of the Year",
+      "short": "Larry Johnson NBA Rookie of the Year",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2098/1992-93-Fleer-Larry-Johnson-NBA-Rookie-of-the-Year",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 223403,
+      "name": "1992-93 Fleer - Larry Johnson NBA Rookie of the Year Autographs",
+      "short": "Larry Johnson NBA Rookie of the Year Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/223403/1992-93-Fleer-Larry-Johnson-NBA-Rookie-of-the-Year-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2099,
+      "name": "1992-93 Fleer - Rookie Sensations",
+      "short": "Rookie Sensations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2099/1992-93-Fleer-Rookie-Sensations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2100,
+      "name": "1992-93 Fleer - Sharpshooters",
+      "short": "Sharpshooters",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2100/1992-93-Fleer-Sharpshooters",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2101,
+      "name": "1992-93 Fleer - Team Leaders",
+      "short": "Team Leaders",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2101/1992-93-Fleer-Team-Leaders",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2102,
+      "name": "1992-93 Fleer - Total D",
+      "short": "Total D",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2102/1992-93-Fleer-Total-D",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 404585,
+      "name": "1992-93 Fleer - '92 Commemorative Card Promo",
+      "short": "'92 Commemorative Card Promo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/404585/1992-93-Fleer-92-Commemorative-Card-Promo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 280539,
+      "name": "1992-93 Fleer - Promo Sheet",
+      "short": "Promo Sheet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/280539/1992-93-Fleer-Promo-Sheet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 199809,
+      "name": "1992-93 Fleer - Promo Sheet Singles",
+      "short": "Promo Sheet Singles",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/199809/1992-93-Fleer-Promo-Sheet-Singles",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 4,
+  "imported_this_run": [
+    {
+      "source_set_id": 152488,
+      "name": "Autographed Embossed Stamp",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 223403,
+      "name": "Larry Johnson NBA Rookie of the Year Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 10,
+      "missing_fronts": 2
+    },
+    {
+      "source_set_id": 2102,
+      "name": "Total D",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2097,
+      "name": "All-Stars",
+      "family_requested": "insert",
+      "cards_with_front": 24,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 492,
+  "before_tiers": {
+    "base": 392,
+    "rookie": 48
+  },
+  "tiers": {
+    "base": 397,
+    "rookie": 48,
+    "auto": 13,
+    "insert": 39
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 2,
+    "auto": 13,
+    "insert": 39
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 397,
+      "available_cards": 397,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 48,
+      "available_cards": 48,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 13,
+      "available_cards": 13,
+      "local_images": 13,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 39,
+      "available_cards": 39,
+      "local_images": 39,
+      "source_candidates": 9
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 5
+}

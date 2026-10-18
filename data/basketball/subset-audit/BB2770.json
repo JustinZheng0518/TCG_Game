@@ -1,0 +1,227 @@
+{
+  "set_id": "BB2770",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2770/1998-99-Hoops",
+  "headings": [
+    "Insert Sets (8)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 11,
+  "subsets": [
+    {
+      "source_set_id": 300149,
+      "name": "1998-99 Hoops - Autographics",
+      "short": "Autographics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/300149/1998-99-Hoops-Autographics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25949,
+      "name": "1998-99 Hoops - Bams",
+      "short": "Bams",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25949/1998-99-Hoops-Bams",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2771,
+      "name": "1998-99 Hoops - Freshman Flashback",
+      "short": "Freshman Flashback",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2771/1998-99-Hoops-Freshman-Flashback",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25950,
+      "name": "1998-99 Hoops - Prime Twine",
+      "short": "Prime Twine",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25950/1998-99-Hoops-Prime-Twine",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25952,
+      "name": "1998-99 Hoops - Pump Up the Jam",
+      "short": "Pump Up the Jam",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25952/1998-99-Hoops-Pump-Up-the-Jam",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2772,
+      "name": "1998-99 Hoops - Rejectors",
+      "short": "Rejectors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2772/1998-99-Hoops-Rejectors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25953,
+      "name": "1998-99 Hoops - Shout Outs",
+      "short": "Shout Outs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25953/1998-99-Hoops-Shout-Outs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25954,
+      "name": "1998-99 Hoops - Slam Bams",
+      "short": "Slam Bams",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25954/1998-99-Hoops-Slam-Bams",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25955,
+      "name": "1998-99 Hoops - Starting Five",
+      "short": "Starting Five",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25955/1998-99-Hoops-Starting-Five",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 344797,
+      "name": "1998-99 Hoops - 6-Card Promo Sheet",
+      "short": "6-Card Promo Sheet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/344797/1998-99-Hoops-6-Card-Promo-Sheet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25951,
+      "name": "1998-99 Hoops - Promo Sheet Singles",
+      "short": "Promo Sheet Singles",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25951/1998-99-Hoops-Promo-Sheet-Singles",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 6,
+  "imported_this_run": [
+    {
+      "source_set_id": 300149,
+      "name": "Autographics",
+      "family_requested": "auto",
+      "cards_with_front": 95,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 25955,
+      "name": "Starting Five",
+      "family_requested": "parallel",
+      "cards_with_front": 5,
+      "missing_fronts": 160
+    },
+    {
+      "source_set_id": 25949,
+      "name": "Bams",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2772,
+      "name": "Rejectors",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25954,
+      "name": "Slam Bams",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25953,
+      "name": "Shout Outs",
+      "family_requested": "insert",
+      "cards_with_front": 30,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 325,
+  "before_tiers": {
+    "base": 165
+  },
+  "tiers": {
+    "base": 167,
+    "auto": 95,
+    "numbered_low": 5,
+    "numbered": 30,
+    "insert": 30
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "auto": 95,
+    "numbered_low": 5,
+    "numbered": 30,
+    "insert": 30
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 167,
+      "available_cards": 167,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 95,
+      "available_cards": 95,
+      "local_images": 95,
+      "source_candidates": 1
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 9
+    },
+    "numbered": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 2
+}

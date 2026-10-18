@@ -1,0 +1,397 @@
+{
+  "set_id": "BB73988",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/73988/2012-13-Panini-Select",
+  "headings": [
+    "Insert Sets (28)",
+    "Parallel Sets (4)"
+  ],
+  "subset_count": 32,
+  "subsets": [
+    {
+      "source_set_id": 91719,
+      "name": "2012-13 Panini Select - All-Star Selections",
+      "short": "All-Star Selections",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91719/2012-13-Panini-Select-All-Star-Selections",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205968,
+      "name": "2012-13 Panini Select - All-Star Selections Printing Plates Black",
+      "short": "All-Star Selections Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205968/2012-13-Panini-Select-All-Star-Selections-Printing-Plates-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205971,
+      "name": "2012-13 Panini Select - All-Star Selections Printing Plates Cyan",
+      "short": "All-Star Selections Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205971/2012-13-Panini-Select-All-Star-Selections-Printing-Plates-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205969,
+      "name": "2012-13 Panini Select - All-Star Selections Printing Plates Magenta",
+      "short": "All-Star Selections Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205969/2012-13-Panini-Select-All-Star-Selections-Printing-Plates-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205970,
+      "name": "2012-13 Panini Select - All-Star Selections Printing Plates Yellow",
+      "short": "All-Star Selections Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205970/2012-13-Panini-Select-All-Star-Selections-Printing-Plates-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91720,
+      "name": "2012-13 Panini Select - All-Star Selections Prizm",
+      "short": "All-Star Selections Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91720/2012-13-Panini-Select-All-Star-Selections-Prizm",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91721,
+      "name": "2012-13 Panini Select - Hall Selections",
+      "short": "Hall Selections",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91721/2012-13-Panini-Select-Hall-Selections",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91722,
+      "name": "2012-13 Panini Select - Hall Selections Prizms",
+      "short": "Hall Selections Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91722/2012-13-Panini-Select-Hall-Selections-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91730,
+      "name": "2012-13 Panini Select - Hot Rookies",
+      "short": "Hot Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91730/2012-13-Panini-Select-Hot-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91731,
+      "name": "2012-13 Panini Select - Hot Rookies Prizms",
+      "short": "Hot Rookies Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91731/2012-13-Panini-Select-Hot-Rookies-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91732,
+      "name": "2012-13 Panini Select - Hot Rookies Prizms Black",
+      "short": "Hot Rookies Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91732/2012-13-Panini-Select-Hot-Rookies-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91733,
+      "name": "2012-13 Panini Select - Hot Rookies Prizms Gold",
+      "short": "Hot Rookies Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91733/2012-13-Panini-Select-Hot-Rookies-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91742,
+      "name": "2012-13 Panini Select - Hot Rookies Prizms Green",
+      "short": "Hot Rookies Prizms Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91742/2012-13-Panini-Select-Hot-Rookies-Prizms-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91734,
+      "name": "2012-13 Panini Select - Hot Stars",
+      "short": "Hot Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91734/2012-13-Panini-Select-Hot-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91735,
+      "name": "2012-13 Panini Select - Hot Stars Prizms",
+      "short": "Hot Stars Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91735/2012-13-Panini-Select-Hot-Stars-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91736,
+      "name": "2012-13 Panini Select - Hot Stars Prizms Black",
+      "short": "Hot Stars Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91736/2012-13-Panini-Select-Hot-Stars-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91737,
+      "name": "2012-13 Panini Select - Hot Stars Prizms Gold",
+      "short": "Hot Stars Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91737/2012-13-Panini-Select-Hot-Stars-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91743,
+      "name": "2012-13 Panini Select - Hot Stars Prizms Green",
+      "short": "Hot Stars Prizms Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91743/2012-13-Panini-Select-Hot-Stars-Prizms-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91723,
+      "name": "2012-13 Panini Select - In-Flight Selections",
+      "short": "In-Flight Selections",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91723/2012-13-Panini-Select-In-Flight-Selections",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91724,
+      "name": "2012-13 Panini Select - In-Flight Selections Prizms",
+      "short": "In-Flight Selections Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91724/2012-13-Panini-Select-In-Flight-Selections-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91725,
+      "name": "2012-13 Panini Select - Select Stars Jersey Autographs",
+      "short": "Select Stars Jersey Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91725/2012-13-Panini-Select-Select-Stars-Jersey-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91726,
+      "name": "2012-13 Panini Select - Select Stars Jersey Autographs Prizms",
+      "short": "Select Stars Jersey Autographs Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91726/2012-13-Panini-Select-Select-Stars-Jersey-Autographs-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91727,
+      "name": "2012-13 Panini Select - Select Stars Jersey Prime Autographs Prizms",
+      "short": "Select Stars Jersey Prime Autographs Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91727/2012-13-Panini-Select-Select-Stars-Jersey-Prime-Autographs-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91728,
+      "name": "2012-13 Panini Select - Select Stars Jersey Prime Autographs Prizms Gold",
+      "short": "Select Stars Jersey Prime Autographs Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91728/2012-13-Panini-Select-Select-Stars-Jersey-Prime-Autographs-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91738,
+      "name": "2012-13 Panini Select - White Hot Rookies",
+      "short": "White Hot Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91738/2012-13-Panini-Select-White-Hot-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91739,
+      "name": "2012-13 Panini Select - White Hot Rookies Prizms",
+      "short": "White Hot Rookies Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91739/2012-13-Panini-Select-White-Hot-Rookies-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91740,
+      "name": "2012-13 Panini Select - White Hot Stars",
+      "short": "White Hot Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91740/2012-13-Panini-Select-White-Hot-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 91741,
+      "name": "2012-13 Panini Select - White Hot Stars Prizms",
+      "short": "White Hot Stars Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91741/2012-13-Panini-Select-White-Hot-Stars-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 90993,
+      "name": "2012-13 Panini Select - Prizms",
+      "short": "Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/90993/2012-13-Panini-Select-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 91729,
+      "name": "2012-13 Panini Select - Prizms Black",
+      "short": "Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/91729/2012-13-Panini-Select-Prizms-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 90995,
+      "name": "2012-13 Panini Select - Prizms Gold",
+      "short": "Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/90995/2012-13-Panini-Select-Prizms-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 90994,
+      "name": "2012-13 Panini Select - Prizms Green",
+      "short": "Prizms Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/90994/2012-13-Panini-Select-Prizms-Green",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 91737,
+      "name": "Hot Stars Prizms Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 23
+    },
+    {
+      "source_set_id": 91736,
+      "name": "Hot Stars Prizms Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 91733,
+      "name": "Hot Rookies Prizms Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 50
+    },
+    {
+      "source_set_id": 91732,
+      "name": "Hot Rookies Prizms Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 48
+    },
+    {
+      "source_set_id": 90993,
+      "name": "Prizms",
+      "family_requested": "parallel",
+      "cards_with_front": 146,
+      "missing_fronts": 163
+    },
+    {
+      "source_set_id": 90994,
+      "name": "Prizms Green",
+      "family_requested": "numbered",
+      "cards_with_front": 4,
+      "missing_fronts": 147
+    },
+    {
+      "source_set_id": 91743,
+      "name": "Hot Stars Prizms Green",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 91742,
+      "name": "Hot Rookies Prizms Green",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 50
+    }
+  ],
+  "import_errors": [],
+  "card_count": 388,
+  "before_tiers": {
+    "base": 150,
+    "auto": 23,
+    "auto_patch": 31,
+    "numbered_low": 9,
+    "insert": 19,
+    "numbered": 1
+  },
+  "tiers": {
+    "base": 150,
+    "auto": 39,
+    "auto_patch": 56,
+    "numbered_low": 18,
+    "insert": 19,
+    "numbered": 1,
+    "parallel": 105
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "auto": 39,
+    "auto_patch": 56,
+    "numbered_low": 18,
+    "insert": 19,
+    "numbered": 1,
+    "parallel": 105
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 150,
+      "available_cards": 150,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 18,
+      "available_cards": 18,
+      "local_images": 18,
+      "source_candidates": 7
+    },
+    "auto": {
+      "status": "available",
+      "records": 39,
+      "available_cards": 39,
+      "local_images": 39,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 56,
+      "available_cards": 56,
+      "local_images": 56,
+      "source_candidates": 4
+    },
+    "parallel": {
+      "status": "available",
+      "records": 105,
+      "available_cards": 105,
+      "local_images": 105,
+      "source_candidates": 4
+    },
+    "insert": {
+      "status": "available",
+      "records": 19,
+      "available_cards": 19,
+      "local_images": 19,
+      "source_candidates": 24
+    },
+    "numbered": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 6
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

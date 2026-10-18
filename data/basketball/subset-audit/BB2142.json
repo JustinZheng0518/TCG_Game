@@ -1,0 +1,232 @@
+{
+  "set_id": "BB2142",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2142/1993-94-Fleer",
+  "headings": [
+    "Insert Sets (11)"
+  ],
+  "subset_count": 15,
+  "subsets": [
+    {
+      "source_set_id": 280535,
+      "name": "1993-94 Fleer - 1993 NBA Draft Lottery Set Redemption",
+      "short": "1993 NBA Draft Lottery Set Redemption",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/280535/1993-94-Fleer-1993-NBA-Draft-Lottery-Set-Redemption",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2143,
+      "name": "1993-94 Fleer - All-Stars",
+      "short": "All-Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2143/1993-94-Fleer-All-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2144,
+      "name": "1993-94 Fleer - Clyde Drexler Career Highlights",
+      "short": "Clyde Drexler Career Highlights",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2144/1993-94-Fleer-Clyde-Drexler-Career-Highlights",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 182648,
+      "name": "1993-94 Fleer - Clyde Drexler Career Highlights Autographs",
+      "short": "Clyde Drexler Career Highlights Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/182648/1993-94-Fleer-Clyde-Drexler-Career-Highlights-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2145,
+      "name": "1993-94 Fleer - First Year Phenoms",
+      "short": "First Year Phenoms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2145/1993-94-Fleer-First-Year-Phenoms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2146,
+      "name": "1993-94 Fleer - Living Legends",
+      "short": "Living Legends",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2146/1993-94-Fleer-Living-Legends",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2148,
+      "name": "1993-94 Fleer - NBA Internationals",
+      "short": "NBA Internationals",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2148/1993-94-Fleer-NBA-Internationals",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2149,
+      "name": "1993-94 Fleer - NBA Superstars",
+      "short": "NBA Superstars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2149/1993-94-Fleer-NBA-Superstars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2150,
+      "name": "1993-94 Fleer - Rookie Sensations",
+      "short": "Rookie Sensations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2150/1993-94-Fleer-Rookie-Sensations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2151,
+      "name": "1993-94 Fleer - Sharpshooters",
+      "short": "Sharpshooters",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2151/1993-94-Fleer-Sharpshooters",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2152,
+      "name": "1993-94 Fleer - Tower of Power",
+      "short": "Tower of Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2152/1993-94-Fleer-Tower-of-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2147,
+      "name": "1993-94 Fleer - 1993 NBA Draft Lottery Pick Exchange",
+      "short": "1993 NBA Draft Lottery Pick Exchange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2147/1993-94-Fleer-1993-NBA-Draft-Lottery-Pick-Exchange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 165011,
+      "name": "1993-94 Fleer - All-Star NBA Jam Session Promo Sheet",
+      "short": "All-Star NBA Jam Session Promo Sheet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/165011/1993-94-Fleer-All-Star-NBA-Jam-Session-Promo-Sheet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 158109,
+      "name": "1993-94 Fleer - Perforated Promo Sheet",
+      "short": "Perforated Promo Sheet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/158109/1993-94-Fleer-Perforated-Promo-Sheet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 158108,
+      "name": "1993-94 Fleer - Perforated Promo Sheet Singles",
+      "short": "Perforated Promo Sheet Singles",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/158108/1993-94-Fleer-Perforated-Promo-Sheet-Singles",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 182648,
+      "name": "Clyde Drexler Career Highlights Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 10,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 2143,
+      "name": "All-Stars",
+      "family_requested": "insert",
+      "cards_with_front": 24,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 280535,
+      "name": "1993 NBA Draft Lottery Set Redemption",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 429,
+  "before_tiers": {
+    "base": 336,
+    "rookie": 59
+  },
+  "tiers": {
+    "base": 341,
+    "rookie": 59,
+    "auto": 10,
+    "insert": 25
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "rookie": 1,
+    "auto": 10,
+    "insert": 25
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 341,
+      "available_cards": 341,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 59,
+      "available_cards": 59,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 10,
+      "available_cards": 10,
+      "local_images": 10,
+      "source_candidates": 1
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 14
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 6
+}

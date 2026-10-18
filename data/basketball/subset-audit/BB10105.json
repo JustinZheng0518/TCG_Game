@@ -1,0 +1,963 @@
+{
+  "set_id": "BB10105",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/10105/2009-10-Playoff-National-Treasures",
+  "headings": [
+    "Insert Sets (96)",
+    "Parallel Sets (3)"
+  ],
+  "subset_count": 99,
+  "subsets": [
+    {
+      "source_set_id": 33077,
+      "name": "2009-10 Playoff National Treasures - 25th Anniversary Team",
+      "short": "25th Anniversary Team",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33077/2009-10-Playoff-National-Treasures-25th-Anniversary-Team",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33078,
+      "name": "2009-10 Playoff National Treasures - 25th Anniversary Team Signatures",
+      "short": "25th Anniversary Team Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33078/2009-10-Playoff-National-Treasures-25th-Anniversary-Team-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33079,
+      "name": "2009-10 Playoff National Treasures - 35th Anniversary Team",
+      "short": "35th Anniversary Team",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33079/2009-10-Playoff-National-Treasures-35th-Anniversary-Team",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33080,
+      "name": "2009-10 Playoff National Treasures - 35th Anniversary Team Signatures",
+      "short": "35th Anniversary Team Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33080/2009-10-Playoff-National-Treasures-35th-Anniversary-Team-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33081,
+      "name": "2009-10 Playoff National Treasures - All Decade",
+      "short": "All Decade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33081/2009-10-Playoff-National-Treasures-All-Decade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33082,
+      "name": "2009-10 Playoff National Treasures - All Decade Materials",
+      "short": "All Decade Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33082/2009-10-Playoff-National-Treasures-All-Decade-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33083,
+      "name": "2009-10 Playoff National Treasures - All Decade Materials Prime",
+      "short": "All Decade Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33083/2009-10-Playoff-National-Treasures-All-Decade-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33084,
+      "name": "2009-10 Playoff National Treasures - All Decade Materials Prime Signatures",
+      "short": "All Decade Materials Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33084/2009-10-Playoff-National-Treasures-All-Decade-Materials-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33085,
+      "name": "2009-10 Playoff National Treasures - All Decade Materials Signatures",
+      "short": "All Decade Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33085/2009-10-Playoff-National-Treasures-All-Decade-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33086,
+      "name": "2009-10 Playoff National Treasures - All Decade Signature Combos",
+      "short": "All Decade Signature Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33086/2009-10-Playoff-National-Treasures-All-Decade-Signature-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33087,
+      "name": "2009-10 Playoff National Treasures - All Decade Signature Quads",
+      "short": "All Decade Signature Quads",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33087/2009-10-Playoff-National-Treasures-All-Decade-Signature-Quads",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33088,
+      "name": "2009-10 Playoff National Treasures - All Decade Signature Trios",
+      "short": "All Decade Signature Trios",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33088/2009-10-Playoff-National-Treasures-All-Decade-Signature-Trios",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33089,
+      "name": "2009-10 Playoff National Treasures - All Decade Signatures",
+      "short": "All Decade Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33089/2009-10-Playoff-National-Treasures-All-Decade-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33090,
+      "name": "2009-10 Playoff National Treasures - All NBA",
+      "short": "All NBA",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33090/2009-10-Playoff-National-Treasures-All-NBA",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33091,
+      "name": "2009-10 Playoff National Treasures - All NBA Materials",
+      "short": "All NBA Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33091/2009-10-Playoff-National-Treasures-All-NBA-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33092,
+      "name": "2009-10 Playoff National Treasures - All NBA Materials Prime",
+      "short": "All NBA Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33092/2009-10-Playoff-National-Treasures-All-NBA-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33093,
+      "name": "2009-10 Playoff National Treasures - All NBA Materials Prime Signatures",
+      "short": "All NBA Materials Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33093/2009-10-Playoff-National-Treasures-All-NBA-Materials-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33094,
+      "name": "2009-10 Playoff National Treasures - All NBA Materials Signatures",
+      "short": "All NBA Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33094/2009-10-Playoff-National-Treasures-All-NBA-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204812,
+      "name": "2009-10 Playoff National Treasures - All NBA Printing Plate Black",
+      "short": "All NBA Printing Plate Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204812/2009-10-Playoff-National-Treasures-All-NBA-Printing-Plate-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204813,
+      "name": "2009-10 Playoff National Treasures - All NBA Printing Plate Cyan",
+      "short": "All NBA Printing Plate Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204813/2009-10-Playoff-National-Treasures-All-NBA-Printing-Plate-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204814,
+      "name": "2009-10 Playoff National Treasures - All NBA Printing Plate Magenta",
+      "short": "All NBA Printing Plate Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204814/2009-10-Playoff-National-Treasures-All-NBA-Printing-Plate-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204815,
+      "name": "2009-10 Playoff National Treasures - All NBA Printing Plate Yellow",
+      "short": "All NBA Printing Plate Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204815/2009-10-Playoff-National-Treasures-All-NBA-Printing-Plate-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33095,
+      "name": "2009-10 Playoff National Treasures - All NBA Signatures",
+      "short": "All NBA Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33095/2009-10-Playoff-National-Treasures-All-NBA-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33096,
+      "name": "2009-10 Playoff National Treasures - Biography Materials",
+      "short": "Biography Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33096/2009-10-Playoff-National-Treasures-Biography-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33097,
+      "name": "2009-10 Playoff National Treasures - Biography Materials Autographs",
+      "short": "Biography Materials Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33097/2009-10-Playoff-National-Treasures-Biography-Materials-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33098,
+      "name": "2009-10 Playoff National Treasures - Biography Materials Prime",
+      "short": "Biography Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33098/2009-10-Playoff-National-Treasures-Biography-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33099,
+      "name": "2009-10 Playoff National Treasures - Biography Materials Prime Autographs",
+      "short": "Biography Materials Prime Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33099/2009-10-Playoff-National-Treasures-Biography-Materials-Prime-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33104,
+      "name": "2009-10 Playoff National Treasures - Century Materials",
+      "short": "Century Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33104/2009-10-Playoff-National-Treasures-Century-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33100,
+      "name": "2009-10 Playoff National Treasures - Century Materials NBA Logoman",
+      "short": "Century Materials NBA Logoman",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33100/2009-10-Playoff-National-Treasures-Century-Materials-NBA-Logoman",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33105,
+      "name": "2009-10 Playoff National Treasures - Century Materials NBA Logoman Signatures",
+      "short": "Century Materials NBA Logoman Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33105/2009-10-Playoff-National-Treasures-Century-Materials-NBA-Logoman-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33101,
+      "name": "2009-10 Playoff National Treasures - Century Materials NBA Tags",
+      "short": "Century Materials NBA Tags",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33101/2009-10-Playoff-National-Treasures-Century-Materials-NBA-Tags",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33106,
+      "name": "2009-10 Playoff National Treasures - Century Materials NBA Tags Signatures",
+      "short": "Century Materials NBA Tags Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33106/2009-10-Playoff-National-Treasures-Century-Materials-NBA-Tags-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33107,
+      "name": "2009-10 Playoff National Treasures - Century Materials NBA Team Logos Signatures",
+      "short": "Century Materials NBA Team Logos Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33107/2009-10-Playoff-National-Treasures-Century-Materials-NBA-Team-Logos-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33108,
+      "name": "2009-10 Playoff National Treasures - Century Materials Prime",
+      "short": "Century Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33108/2009-10-Playoff-National-Treasures-Century-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33109,
+      "name": "2009-10 Playoff National Treasures - Century Materials Prime Signatures",
+      "short": "Century Materials Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33109/2009-10-Playoff-National-Treasures-Century-Materials-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33110,
+      "name": "2009-10 Playoff National Treasures - Century Materials Signatures",
+      "short": "Century Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33110/2009-10-Playoff-National-Treasures-Century-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33102,
+      "name": "2009-10 Playoff National Treasures - Century Materials Team Logos",
+      "short": "Century Materials Team Logos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33102/2009-10-Playoff-National-Treasures-Century-Materials-Team-Logos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33112,
+      "name": "2009-10 Playoff National Treasures - Century Signatures",
+      "short": "Century Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33112/2009-10-Playoff-National-Treasures-Century-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33113,
+      "name": "2009-10 Playoff National Treasures - Century Signatures Platinum",
+      "short": "Century Signatures Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33113/2009-10-Playoff-National-Treasures-Century-Signatures-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33115,
+      "name": "2009-10 Playoff National Treasures - Champions",
+      "short": "Champions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33115/2009-10-Playoff-National-Treasures-Champions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33116,
+      "name": "2009-10 Playoff National Treasures - Champions Signature Combos",
+      "short": "Champions Signature Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33116/2009-10-Playoff-National-Treasures-Champions-Signature-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33117,
+      "name": "2009-10 Playoff National Treasures - Champions Signature Quads",
+      "short": "Champions Signature Quads",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33117/2009-10-Playoff-National-Treasures-Champions-Signature-Quads",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33118,
+      "name": "2009-10 Playoff National Treasures - Champions Signatures",
+      "short": "Champions Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33118/2009-10-Playoff-National-Treasures-Champions-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33119,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials",
+      "short": "Colossal Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33119/2009-10-Playoff-National-Treasures-Colossal-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33120,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials Jersey Numbers",
+      "short": "Colossal Materials Jersey Numbers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33120/2009-10-Playoff-National-Treasures-Colossal-Materials-Jersey-Numbers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33121,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials Jersey Numbers Prime",
+      "short": "Colossal Materials Jersey Numbers Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33121/2009-10-Playoff-National-Treasures-Colossal-Materials-Jersey-Numbers-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33122,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials Jersey Numbers Prime Signatures",
+      "short": "Colossal Materials Jersey Numbers Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33122/2009-10-Playoff-National-Treasures-Colossal-Materials-Jersey-Numbers-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33123,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials Jersey Numbers Signatures",
+      "short": "Colossal Materials Jersey Numbers Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33123/2009-10-Playoff-National-Treasures-Colossal-Materials-Jersey-Numbers-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33124,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials NBA Logoman",
+      "short": "Colossal Materials NBA Logoman",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33124/2009-10-Playoff-National-Treasures-Colossal-Materials-NBA-Logoman",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33125,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials NBA Logoman Signatures",
+      "short": "Colossal Materials NBA Logoman Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33125/2009-10-Playoff-National-Treasures-Colossal-Materials-NBA-Logoman-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33126,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials Prime",
+      "short": "Colossal Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33126/2009-10-Playoff-National-Treasures-Colossal-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33127,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials Prime Signatures",
+      "short": "Colossal Materials Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33127/2009-10-Playoff-National-Treasures-Colossal-Materials-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33128,
+      "name": "2009-10 Playoff National Treasures - Colossal Materials Signatures",
+      "short": "Colossal Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33128/2009-10-Playoff-National-Treasures-Colossal-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33129,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Dual",
+      "short": "NBA Gear Dual",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33129/2009-10-Playoff-National-Treasures-NBA-Gear-Dual",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33130,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Dual Prime",
+      "short": "NBA Gear Dual Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33130/2009-10-Playoff-National-Treasures-NBA-Gear-Dual-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33131,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Dual Prime Signatures",
+      "short": "NBA Gear Dual Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33131/2009-10-Playoff-National-Treasures-NBA-Gear-Dual-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33132,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Dual Signatures",
+      "short": "NBA Gear Dual Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33132/2009-10-Playoff-National-Treasures-NBA-Gear-Dual-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33133,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Laundry Tag Combos",
+      "short": "NBA Gear Laundry Tag Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33133/2009-10-Playoff-National-Treasures-NBA-Gear-Laundry-Tag-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33134,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Laundry Tag Combos Signatures",
+      "short": "NBA Gear Laundry Tag Combos Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33134/2009-10-Playoff-National-Treasures-NBA-Gear-Laundry-Tag-Combos-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33135,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Trios",
+      "short": "NBA Gear Trios",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33135/2009-10-Playoff-National-Treasures-NBA-Gear-Trios",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33136,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Trios Prime",
+      "short": "NBA Gear Trios Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33136/2009-10-Playoff-National-Treasures-NBA-Gear-Trios-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33137,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Trios Prime Signatures",
+      "short": "NBA Gear Trios Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33137/2009-10-Playoff-National-Treasures-NBA-Gear-Trios-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33138,
+      "name": "2009-10 Playoff National Treasures - NBA Gear Trios Signatures",
+      "short": "NBA Gear Trios Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33138/2009-10-Playoff-National-Treasures-NBA-Gear-Trios-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33139,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest",
+      "short": "NBA Greatest",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33139/2009-10-Playoff-National-Treasures-NBA-Greatest",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33140,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Materials",
+      "short": "NBA Greatest Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33140/2009-10-Playoff-National-Treasures-NBA-Greatest-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33141,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Materials Prime",
+      "short": "NBA Greatest Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33141/2009-10-Playoff-National-Treasures-NBA-Greatest-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33142,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Materials Prime Signatures",
+      "short": "NBA Greatest Materials Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33142/2009-10-Playoff-National-Treasures-NBA-Greatest-Materials-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33143,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Materials Signatures",
+      "short": "NBA Greatest Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33143/2009-10-Playoff-National-Treasures-NBA-Greatest-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33144,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Signature Combos",
+      "short": "NBA Greatest Signature Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33144/2009-10-Playoff-National-Treasures-NBA-Greatest-Signature-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33145,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Signature Quads",
+      "short": "NBA Greatest Signature Quads",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33145/2009-10-Playoff-National-Treasures-NBA-Greatest-Signature-Quads",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33146,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Signature Trios",
+      "short": "NBA Greatest Signature Trios",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33146/2009-10-Playoff-National-Treasures-NBA-Greatest-Signature-Trios",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33147,
+      "name": "2009-10 Playoff National Treasures - NBA Greatest Signatures",
+      "short": "NBA Greatest Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33147/2009-10-Playoff-National-Treasures-NBA-Greatest-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33155,
+      "name": "2009-10 Playoff National Treasures - NBA Logoman",
+      "short": "NBA Logoman",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33155/2009-10-Playoff-National-Treasures-NBA-Logoman",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33148,
+      "name": "2009-10 Playoff National Treasures - NBA Logoman Combos",
+      "short": "NBA Logoman Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33148/2009-10-Playoff-National-Treasures-NBA-Logoman-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 142289,
+      "name": "2009-10 Playoff National Treasures - NBA Logoman Printing Plate Black",
+      "short": "NBA Logoman Printing Plate Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/142289/2009-10-Playoff-National-Treasures-NBA-Logoman-Printing-Plate-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 142291,
+      "name": "2009-10 Playoff National Treasures - NBA Logoman Printing Plate Cyan",
+      "short": "NBA Logoman Printing Plate Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/142291/2009-10-Playoff-National-Treasures-NBA-Logoman-Printing-Plate-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 142292,
+      "name": "2009-10 Playoff National Treasures - NBA Logoman Printing Plate Magenta",
+      "short": "NBA Logoman Printing Plate Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/142292/2009-10-Playoff-National-Treasures-NBA-Logoman-Printing-Plate-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 142290,
+      "name": "2009-10 Playoff National Treasures - NBA Logoman Printing Plate Yellow",
+      "short": "NBA Logoman Printing Plate Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/142290/2009-10-Playoff-National-Treasures-NBA-Logoman-Printing-Plate-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33149,
+      "name": "2009-10 Playoff National Treasures - NBA Logoman Signatures",
+      "short": "NBA Logoman Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33149/2009-10-Playoff-National-Treasures-NBA-Logoman-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33150,
+      "name": "2009-10 Playoff National Treasures - Notable Nicknames",
+      "short": "Notable Nicknames",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33150/2009-10-Playoff-National-Treasures-Notable-Nicknames",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33151,
+      "name": "2009-10 Playoff National Treasures - Pen Pals",
+      "short": "Pen Pals",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33151/2009-10-Playoff-National-Treasures-Pen-Pals",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33152,
+      "name": "2009-10 Playoff National Treasures - Rookies Black",
+      "short": "Rookies Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33152/2009-10-Playoff-National-Treasures-Rookies-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33153,
+      "name": "2009-10 Playoff National Treasures - Signature Patches College",
+      "short": "Signature Patches College",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33153/2009-10-Playoff-National-Treasures-Signature-Patches-College",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33154,
+      "name": "2009-10 Playoff National Treasures - Signature Patches NBA Logo",
+      "short": "Signature Patches NBA Logo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33154/2009-10-Playoff-National-Treasures-Signature-Patches-NBA-Logo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33156,
+      "name": "2009-10 Playoff National Treasures - Signature Patches NBA Team",
+      "short": "Signature Patches NBA Team",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33156/2009-10-Playoff-National-Treasures-Signature-Patches-NBA-Team",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33157,
+      "name": "2009-10 Playoff National Treasures - Souvenir Cuts",
+      "short": "Souvenir Cuts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33157/2009-10-Playoff-National-Treasures-Souvenir-Cuts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33158,
+      "name": "2009-10 Playoff National Treasures - Tag Team Logo Combos",
+      "short": "Tag Team Logo Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33158/2009-10-Playoff-National-Treasures-Tag-Team-Logo-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33159,
+      "name": "2009-10 Playoff National Treasures - Tag Team NBA Logo Combos",
+      "short": "Tag Team NBA Logo Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33159/2009-10-Playoff-National-Treasures-Tag-Team-NBA-Logo-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33160,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Names",
+      "short": "Timeline Materials Custom Names",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33160/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Names",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33161,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Names Prime",
+      "short": "Timeline Materials Custom Names Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33161/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Names-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33162,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Names Prime Signatures",
+      "short": "Timeline Materials Custom Names Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33162/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Names-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33163,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Names Signatures",
+      "short": "Timeline Materials Custom Names Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33163/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Names-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33164,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Team Nicknames",
+      "short": "Timeline Materials Custom Team Nicknames",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33164/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Team-Nicknames",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33165,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Team Nicknames Prime",
+      "short": "Timeline Materials Custom Team Nicknames Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33165/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Team-Nicknames-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33166,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Team Nicknames Prime Signatures",
+      "short": "Timeline Materials Custom Team Nicknames Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33166/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Team-Nicknames-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33167,
+      "name": "2009-10 Playoff National Treasures - Timeline Materials Custom Team Nicknames Signatures",
+      "short": "Timeline Materials Custom Team Nicknames Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33167/2009-10-Playoff-National-Treasures-Timeline-Materials-Custom-Team-Nicknames-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33103,
+      "name": "2009-10 Playoff National Treasures - Century Gold",
+      "short": "Century Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33103/2009-10-Playoff-National-Treasures-Century-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 33111,
+      "name": "2009-10 Playoff National Treasures - Century Platinum",
+      "short": "Century Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33111/2009-10-Playoff-National-Treasures-Century-Platinum",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 33114,
+      "name": "2009-10 Playoff National Treasures - Century Silver",
+      "short": "Century Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33114/2009-10-Playoff-National-Treasures-Century-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 17,
+  "imported_this_run": [
+    {
+      "source_set_id": 33103,
+      "name": "Century Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 9,
+      "missing_fronts": 229
+    },
+    {
+      "source_set_id": 33152,
+      "name": "Rookies Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 35
+    },
+    {
+      "source_set_id": 33111,
+      "name": "Century Platinum",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 236
+    },
+    {
+      "source_set_id": 204812,
+      "name": "All NBA Printing Plate Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 142289,
+      "name": "NBA Logoman Printing Plate Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 44
+    },
+    {
+      "source_set_id": 33095,
+      "name": "All NBA Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 33112,
+      "name": "Century Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 134
+    },
+    {
+      "source_set_id": 33118,
+      "name": "Champions Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 8
+    },
+    {
+      "source_set_id": 33089,
+      "name": "All Decade Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 4,
+      "missing_fronts": 13
+    },
+    {
+      "source_set_id": 33149,
+      "name": "NBA Logoman Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 35
+    },
+    {
+      "source_set_id": 33147,
+      "name": "NBA Greatest Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 33091,
+      "name": "All NBA Materials",
+      "family_requested": "memorabilia",
+      "cards_with_front": 5,
+      "missing_fronts": 1
+    },
+    {
+      "source_set_id": 33104,
+      "name": "Century Materials",
+      "family_requested": "memorabilia",
+      "cards_with_front": 16,
+      "missing_fronts": 98
+    },
+    {
+      "source_set_id": 33153,
+      "name": "Signature Patches College",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 33154,
+      "name": "Signature Patches NBA Logo",
+      "family_requested": "auto_patch",
+      "cards_with_front": 2,
+      "missing_fronts": 23
+    },
+    {
+      "source_set_id": 33156,
+      "name": "Signature Patches NBA Team",
+      "family_requested": "auto_patch",
+      "cards_with_front": 8,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 33114,
+      "name": "Century Silver",
+      "family_requested": "parallel",
+      "cards_with_front": 4,
+      "missing_fronts": 196
+    },
+    {
+      "source_set_id": 33090,
+      "name": "All NBA",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 33151,
+      "name": "Pen Pals",
+      "family_requested": "insert",
+      "cards_with_front": 2,
+      "missing_fronts": 5
+    },
+    {
+      "source_set_id": 33115,
+      "name": "Champions",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 33081,
+      "name": "All Decade",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 33155,
+      "name": "NBA Logoman",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 45
+    },
+    {
+      "source_set_id": 33139,
+      "name": "NBA Greatest",
+      "family_requested": "insert",
+      "cards_with_front": 4,
+      "missing_fronts": 26
+    }
+  ],
+  "import_errors": [],
+  "card_count": 110,
+  "before_tiers": {
+    "numbered": 34,
+    "auto_patch": 6
+  },
+  "tiers": {
+    "numbered": 45,
+    "auto_patch": 17,
+    "numbered_low": 20,
+    "auto": 8,
+    "memorabilia": 21
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "numbered": 45,
+    "auto_patch": 17,
+    "numbered_low": 20,
+    "auto": 8,
+    "memorabilia": 21
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 5
+    },
+    "auto": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 8,
+      "source_candidates": 22
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 22
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 25
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 27
+    },
+    "numbered": {
+      "status": "available",
+      "records": 45,
+      "available_cards": 45,
+      "local_images": 45,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

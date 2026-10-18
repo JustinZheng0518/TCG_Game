@@ -1,0 +1,118 @@
+{
+  "set_id": "BB69363",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/69363/2012-Rittenhouse-WNBA",
+  "headings": [
+    "Insert Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 76632,
+      "name": "2012 Rittenhouse WNBA - Rookies",
+      "short": "Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76632/2012-Rittenhouse-WNBA-Rookies",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 76632,
+      "name": "Rookies",
+      "family_requested": "insert",
+      "cards_with_front": 14,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 110,
+  "before_tiers": {
+    "base": 92,
+    "rookie": 4
+  },
+  "tiers": {
+    "base": 92,
+    "rookie": 4,
+    "insert": 14
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 2,
+    "rookie": 4,
+    "insert": 14
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 92,
+      "available_cards": 92,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 14,
+      "available_cards": 14,
+      "local_images": 14,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

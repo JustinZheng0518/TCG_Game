@@ -52,14 +52,15 @@ function renderProductArt() {
   const key = `${state.selected?.id}:${state.localImages}`;
   if (key === productArtKey || !state.cards.length) return;
   productArtKey = key;
-  const candidates = [...state.cards].sort((a, b) => Game.tier(b) - Game.tier(a));
+  const sourceCards = state.selected?.sport === 'basketball' ? state.cards.filter(c => c.local_preview) : state.cards;
+  const candidates = [...(sourceCards.length ? sourceCards : state.cards)].sort((a, b) => Game.tier(b) - Game.tier(a));
   const chosen = [candidates[0], candidates[Math.floor(candidates.length / 3)], candidates[Math.floor(candidates.length * 2 / 3)]].filter(Boolean);
   if (businessScene && state.selected?.sport !== "basketball") businessScene.world.setPosters(chosen.map(card => ({url: state.localImages ? card.thumbnail : card.source_url})));
   $("product-art").replaceChildren();
   for (const [index, card] of chosen.entries()) {
     const image = document.createElement("img");
     applyCardImage(image,card);
-    image.alt = `${card.name} 简中卡面预览`;
+    image.alt = `${card.name} ${card.sport === "basketball" ? "篮球原版卡面" : "简中卡面"}预览`;
     image.width = 300; image.height = 419;
     image.className = `showcase-card showcase-card-${index}`;
 

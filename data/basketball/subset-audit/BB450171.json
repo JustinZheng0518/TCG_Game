@@ -1,0 +1,139 @@
+{
+  "set_id": "BB450171",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/450171/2023-24-Hoops-Haunted-Hoops",
+  "headings": [
+    "Parallel Sets (4)"
+  ],
+  "subset_count": 4,
+  "subsets": [
+    {
+      "source_set_id": 450175,
+      "name": "2023-24 Hoops Haunted Hoops - Holo Candy",
+      "short": "Holo Candy",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/450175/2023-24-Hoops-Haunted-Hoops-Holo-Candy",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 450174,
+      "name": "2023-24 Hoops Haunted Hoops - Holo Webs",
+      "short": "Holo Webs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/450174/2023-24-Hoops-Haunted-Hoops-Holo-Webs",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 450172,
+      "name": "2023-24 Hoops Haunted Hoops - Orange",
+      "short": "Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/450172/2023-24-Hoops-Haunted-Hoops-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 450173,
+      "name": "2023-24 Hoops Haunted Hoops - Slime",
+      "short": "Slime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/450173/2023-24-Hoops-Haunted-Hoops-Slime",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 450173,
+      "name": "Slime",
+      "family_requested": "parallel",
+      "cards_with_front": 299,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 598,
+  "before_tiers": {
+    "base": 232,
+    "rookie": 67
+  },
+  "tiers": {
+    "base": 232,
+    "rookie": 67,
+    "parallel": 299
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "parallel": 299
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 232,
+      "available_cards": 232,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 67,
+      "available_cards": 67,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 299,
+      "available_cards": 299,
+      "local_images": 299,
+      "source_candidates": 4
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

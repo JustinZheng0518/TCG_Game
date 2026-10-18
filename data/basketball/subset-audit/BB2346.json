@@ -1,0 +1,230 @@
+{
+  "set_id": "BB2346",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2346/1995-96-Fleer",
+  "headings": [
+    "Insert Sets (14)"
+  ],
+  "subset_count": 16,
+  "subsets": [
+    {
+      "source_set_id": 2347,
+      "name": "1995-96 Fleer - Class Encounters",
+      "short": "Class Encounters",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2347/1995-96-Fleer-Class-Encounters",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2348,
+      "name": "1995-96 Fleer - Double Double",
+      "short": "Double Double",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2348/1995-96-Fleer-Double-Double",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2349,
+      "name": "1995-96 Fleer - End 2 End",
+      "short": "End 2 End",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2349/1995-96-Fleer-End-2-End",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2351,
+      "name": "1995-96 Fleer - Flair Hardwood Leader",
+      "short": "Flair Hardwood Leader",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2351/1995-96-Fleer-Flair-Hardwood-Leader",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2350,
+      "name": "1995-96 Fleer - Franchise Futures",
+      "short": "Franchise Futures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2350/1995-96-Fleer-Franchise-Futures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2352,
+      "name": "1995-96 Fleer - NBA All-Stars",
+      "short": "NBA All-Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2352/1995-96-Fleer-NBA-All-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2353,
+      "name": "1995-96 Fleer - Rookie Phenom",
+      "short": "Rookie Phenom",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2353/1995-96-Fleer-Rookie-Phenom",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25625,
+      "name": "1995-96 Fleer - Rookie Phenom Hot Pack",
+      "short": "Rookie Phenom Hot Pack",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25625/1995-96-Fleer-Rookie-Phenom-Hot-Pack",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2354,
+      "name": "1995-96 Fleer - Rookie Sensation",
+      "short": "Rookie Sensation",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2354/1995-96-Fleer-Rookie-Sensation",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2355,
+      "name": "1995-96 Fleer - Stackhouse's Scrapbook",
+      "short": "Stackhouse's Scrapbook",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2355/1995-96-Fleer-Stackhouse-s-Scrapbook",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2356,
+      "name": "1995-96 Fleer - Total D",
+      "short": "Total D",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2356/1995-96-Fleer-Total-D",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2357,
+      "name": "1995-96 Fleer - Total O",
+      "short": "Total O",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2357/1995-96-Fleer-Total-O",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25626,
+      "name": "1995-96 Fleer - Total O Hot Pack",
+      "short": "Total O Hot Pack",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25626/1995-96-Fleer-Total-O-Hot-Pack",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2358,
+      "name": "1995-96 Fleer - Tower of Power",
+      "short": "Tower of Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2358/1995-96-Fleer-Tower-of-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 548419,
+      "name": "1995-96 Fleer - Series 2 Promo Panel",
+      "short": "Series 2 Promo Panel",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/548419/1995-96-Fleer-Series-2-Promo-Panel",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 541781,
+      "name": "1995-96 Fleer - Series 2 Promo Panel Singles",
+      "short": "Series 2 Promo Panel Singles",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/541781/1995-96-Fleer-Series-2-Promo-Panel-Singles",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 2356,
+      "name": "Total D",
+      "family_requested": "insert",
+      "cards_with_front": 12,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2357,
+      "name": "Total O",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 367,
+  "before_tiers": {
+    "base": 305,
+    "rookie": 40
+  },
+  "tiers": {
+    "base": 310,
+    "rookie": 40,
+    "insert": 22
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 2,
+    "insert": 22
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 310,
+      "available_cards": 310,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 16
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 5
+}

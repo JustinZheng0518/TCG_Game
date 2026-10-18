@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690121.webp"
+    "local_preview": "data/basketball/previews/BB2480-690121.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690122",
@@ -50,7 +52,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690123",
@@ -76,7 +79,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690124",
@@ -102,7 +106,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690125",
@@ -128,7 +133,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690126",
@@ -154,7 +160,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690127",
@@ -180,7 +187,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690128",
@@ -206,7 +214,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690129",
@@ -232,7 +241,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690130",
@@ -258,7 +268,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690131",
@@ -284,7 +295,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690132",
@@ -310,7 +322,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690133",
@@ -337,7 +350,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690133.webp"
+    "local_preview": "data/basketball/previews/BB2480-690133.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690134",
@@ -363,7 +378,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690135",
@@ -390,7 +406,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690135.webp"
+    "local_preview": "data/basketball/previews/BB2480-690135.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690136",
@@ -416,7 +434,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690137",
@@ -442,7 +461,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690138",
@@ -468,7 +488,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690139",
@@ -494,7 +515,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690140",
@@ -520,7 +542,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690141",
@@ -546,7 +569,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690142",
@@ -572,7 +596,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690143",
@@ -598,7 +623,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690144",
@@ -624,7 +650,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690145",
@@ -650,7 +677,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690146",
@@ -676,7 +704,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690147",
@@ -702,7 +731,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690148",
@@ -728,7 +758,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690149",
@@ -754,7 +785,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690150",
@@ -780,7 +812,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690151",
@@ -806,7 +839,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690152",
@@ -832,7 +866,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690153",
@@ -858,7 +893,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690154",
@@ -884,7 +920,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690155",
@@ -910,7 +947,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690156",
@@ -936,7 +974,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690157",
@@ -962,7 +1001,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690158",
@@ -988,7 +1028,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690159",
@@ -1014,7 +1055,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690160",
@@ -1040,7 +1082,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690161",
@@ -1066,7 +1109,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690162",
@@ -1092,7 +1136,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690163",
@@ -1118,7 +1163,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690164",
@@ -1144,7 +1190,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690165",
@@ -1170,7 +1217,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690166",
@@ -1196,7 +1244,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690167",
@@ -1222,7 +1271,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690168",
@@ -1248,7 +1298,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690169",
@@ -1274,7 +1325,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690170",
@@ -1300,7 +1352,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690171",
@@ -1326,7 +1379,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690172",
@@ -1352,7 +1406,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690173",
@@ -1378,7 +1433,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690174",
@@ -1404,7 +1460,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690175",
@@ -1430,7 +1487,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690176",
@@ -1456,7 +1514,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690177",
@@ -1482,7 +1541,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690178",
@@ -1508,7 +1568,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690179",
@@ -1534,7 +1595,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690180",
@@ -1560,7 +1622,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690181",
@@ -1586,7 +1649,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690182",
@@ -1612,7 +1676,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690183",
@@ -1638,7 +1703,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690184",
@@ -1664,7 +1730,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690185",
@@ -1690,7 +1757,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690186",
@@ -1716,7 +1784,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690187",
@@ -1742,7 +1811,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690188",
@@ -1768,7 +1838,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690189",
@@ -1794,7 +1865,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690190",
@@ -1820,7 +1892,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690191",
@@ -1846,7 +1919,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690192",
@@ -1872,7 +1946,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690193",
@@ -1898,7 +1973,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690194",
@@ -1924,7 +2000,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690195",
@@ -1950,7 +2027,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690196",
@@ -1976,7 +2054,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690197",
@@ -2002,7 +2081,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690198",
@@ -2028,7 +2108,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690199",
@@ -2054,7 +2135,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690200",
@@ -2080,7 +2162,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690201",
@@ -2106,7 +2189,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690202",
@@ -2132,7 +2216,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690203",
@@ -2158,7 +2243,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690204",
@@ -2184,7 +2270,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690205",
@@ -2210,7 +2297,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690206",
@@ -2236,7 +2324,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690207",
@@ -2262,7 +2351,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690208",
@@ -2288,7 +2378,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690209",
@@ -2314,7 +2405,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690210",
@@ -2340,7 +2432,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690211",
@@ -2366,7 +2459,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690212",
@@ -2392,7 +2486,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690213",
@@ -2418,7 +2513,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690214",
@@ -2444,7 +2540,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690215",
@@ -2470,7 +2567,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690216",
@@ -2496,7 +2594,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690217",
@@ -2522,7 +2621,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690218",
@@ -2548,7 +2648,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690219",
@@ -2574,7 +2675,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690220",
@@ -2600,7 +2702,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690221",
@@ -2626,7 +2729,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690222",
@@ -2652,7 +2756,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690223",
@@ -2678,7 +2783,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690224",
@@ -2704,7 +2810,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690225",
@@ -2730,7 +2837,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690226",
@@ -2756,7 +2864,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690227",
@@ -2782,7 +2891,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690228",
@@ -2808,7 +2918,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690229",
@@ -2834,7 +2945,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690230",
@@ -2860,7 +2972,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690231",
@@ -2886,7 +2999,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690232",
@@ -2912,7 +3026,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690233",
@@ -2938,7 +3053,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690234",
@@ -2964,7 +3080,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690235",
@@ -2990,7 +3107,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690236",
@@ -3016,7 +3134,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690237",
@@ -3042,7 +3161,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690238",
@@ -3068,7 +3188,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690239",
@@ -3094,7 +3215,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690240",
@@ -3120,7 +3242,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690241",
@@ -3146,7 +3269,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690242",
@@ -3172,7 +3296,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690243",
@@ -3198,7 +3323,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690244",
@@ -3224,7 +3350,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690245",
@@ -3250,7 +3377,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690246",
@@ -3276,7 +3404,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690247",
@@ -3302,7 +3431,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690248",
@@ -3328,7 +3458,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690249",
@@ -3354,7 +3485,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690250",
@@ -3380,7 +3512,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690251",
@@ -3406,7 +3539,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690252",
@@ -3432,7 +3566,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690253",
@@ -3458,7 +3593,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690254",
@@ -3484,7 +3620,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690255",
@@ -3510,7 +3647,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690256",
@@ -3536,7 +3674,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690257",
@@ -3562,7 +3701,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690258",
@@ -3588,7 +3728,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690259",
@@ -3614,7 +3755,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690260",
@@ -3640,7 +3782,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690261",
@@ -3666,7 +3809,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690262",
@@ -3692,7 +3836,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690263",
@@ -3718,7 +3863,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690264",
@@ -3744,7 +3890,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690265",
@@ -3770,7 +3917,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690266",
@@ -3796,7 +3944,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690267",
@@ -3822,7 +3971,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690268",
@@ -3848,7 +3998,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690271",
@@ -3874,7 +4025,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690272",
@@ -3901,7 +4053,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690272.webp"
+    "local_preview": "data/basketball/previews/BB2480-690272.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690273",
@@ -3927,7 +4081,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690274",
@@ -3953,7 +4108,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690275",
@@ -3979,7 +4135,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690276",
@@ -4005,7 +4162,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690277",
@@ -4031,7 +4189,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690278",
@@ -4057,7 +4216,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690279",
@@ -4083,7 +4243,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690280",
@@ -4109,7 +4270,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690281",
@@ -4135,7 +4297,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690282",
@@ -4161,7 +4324,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690283",
@@ -4187,7 +4351,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690284",
@@ -4213,7 +4378,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690285",
@@ -4239,7 +4405,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690286",
@@ -4265,7 +4432,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690287",
@@ -4291,7 +4459,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690288",
@@ -4317,7 +4486,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690289",
@@ -4343,7 +4513,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690290",
@@ -4369,7 +4540,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690291",
@@ -4395,7 +4567,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690292",
@@ -4421,7 +4594,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690293",
@@ -4447,7 +4621,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690294",
@@ -4473,7 +4648,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690295",
@@ -4499,7 +4675,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690296",
@@ -4525,7 +4702,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690297",
@@ -4551,7 +4729,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690298",
@@ -4577,7 +4756,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690299",
@@ -4603,7 +4783,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690300",
@@ -4629,7 +4810,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690301",
@@ -4655,7 +4837,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690302",
@@ -4681,7 +4864,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690303",
@@ -4707,7 +4891,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690304",
@@ -4733,7 +4918,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690305",
@@ -4759,7 +4945,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690306",
@@ -4785,7 +4972,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690307",
@@ -4811,7 +4999,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690308",
@@ -4837,7 +5026,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690309",
@@ -4863,7 +5053,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690310",
@@ -4889,7 +5080,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690311",
@@ -4915,7 +5107,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690312",
@@ -4941,7 +5134,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690313",
@@ -4967,7 +5161,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690314",
@@ -4993,7 +5188,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690315",
@@ -5019,7 +5215,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690316",
@@ -5045,7 +5242,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690317",
@@ -5071,7 +5269,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690318",
@@ -5097,7 +5296,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690319",
@@ -5123,7 +5323,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690320",
@@ -5149,7 +5350,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690321",
@@ -5175,7 +5377,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690322",
@@ -5201,7 +5404,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690323",
@@ -5228,7 +5432,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690323.webp"
+    "local_preview": "data/basketball/previews/BB2480-690323.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690324",
@@ -5254,7 +5460,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690325",
@@ -5280,7 +5487,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690326",
@@ -5306,7 +5514,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690327",
@@ -5332,7 +5541,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690328",
@@ -5358,7 +5568,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690329",
@@ -5384,7 +5595,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690330",
@@ -5410,7 +5622,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690331",
@@ -5436,7 +5649,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690332",
@@ -5463,7 +5677,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690332.webp"
+    "local_preview": "data/basketball/previews/BB2480-690332.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690333",
@@ -5489,7 +5705,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690334",
@@ -5515,7 +5732,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690335",
@@ -5541,7 +5759,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690336",
@@ -5567,7 +5786,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690337",
@@ -5593,7 +5813,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690338",
@@ -5619,7 +5840,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690339",
@@ -5645,7 +5867,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690340",
@@ -5671,7 +5894,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690341",
@@ -5697,7 +5921,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690342",
@@ -5723,7 +5948,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690343",
@@ -5749,7 +5975,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690344",
@@ -5775,7 +6002,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690345",
@@ -5801,7 +6029,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690346",
@@ -5827,7 +6056,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690347",
@@ -5853,7 +6083,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690348",
@@ -5879,7 +6110,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690349",
@@ -5905,7 +6137,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690350",
@@ -5931,7 +6164,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690351",
@@ -5957,7 +6191,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690352",
@@ -5983,7 +6218,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690353",
@@ -6009,7 +6245,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690354",
@@ -6035,7 +6272,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690355",
@@ -6062,7 +6300,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690355.webp"
+    "local_preview": "data/basketball/previews/BB2480-690355.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690356",
@@ -6088,7 +6328,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690357",
@@ -6114,7 +6355,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690358",
@@ -6140,7 +6382,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690359",
@@ -6167,7 +6410,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2480-690359.webp"
+    "local_preview": "data/basketball/previews/BB2480-690359.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2480:690360",
@@ -6193,7 +6438,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690361",
@@ -6219,7 +6465,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690362",
@@ -6245,7 +6492,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690363",
@@ -6271,7 +6519,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690364",
@@ -6297,7 +6546,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690365",
@@ -6323,7 +6573,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690366",
@@ -6349,7 +6600,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690367",
@@ -6375,7 +6627,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690368",
@@ -6401,7 +6654,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690369",
@@ -6427,7 +6681,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690370",
@@ -6453,7 +6708,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690371",
@@ -6479,7 +6735,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690372",
@@ -6505,7 +6762,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690373",
@@ -6531,7 +6789,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690374",
@@ -6557,7 +6816,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690375",
@@ -6583,7 +6843,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690376",
@@ -6609,7 +6870,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690377",
@@ -6635,7 +6897,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690378",
@@ -6661,7 +6924,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690379",
@@ -6687,7 +6951,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690380",
@@ -6713,7 +6978,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690381",
@@ -6739,7 +7005,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690382",
@@ -6765,7 +7032,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690383",
@@ -6791,7 +7059,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690384",
@@ -6817,7 +7086,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690385",
@@ -6843,7 +7113,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690386",
@@ -6869,7 +7140,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690387",
@@ -6895,7 +7167,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690388",
@@ -6921,7 +7194,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690389",
@@ -6947,7 +7221,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690390",
@@ -6973,7 +7248,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690391",
@@ -6999,7 +7275,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690392",
@@ -7025,7 +7302,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690393",
@@ -7051,7 +7329,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690394",
@@ -7077,7 +7356,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690395",
@@ -7103,7 +7383,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690396",
@@ -7129,7 +7410,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690397",
@@ -7155,7 +7437,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690398",
@@ -7181,7 +7464,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690399",
@@ -7207,7 +7491,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690400",
@@ -7233,7 +7518,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690401",
@@ -7259,7 +7545,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690402",
@@ -7285,7 +7572,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690403",
@@ -7311,7 +7599,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690404",
@@ -7337,7 +7626,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690405",
@@ -7363,7 +7653,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690406",
@@ -7389,7 +7680,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690407",
@@ -7415,7 +7707,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690408",
@@ -7441,7 +7734,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690409",
@@ -7467,7 +7761,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690410",
@@ -7493,7 +7788,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690411",
@@ -7519,7 +7815,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690412",
@@ -7545,7 +7842,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690413",
@@ -7571,7 +7869,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690414",
@@ -7597,7 +7896,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690415",
@@ -7623,7 +7923,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690416",
@@ -7649,7 +7950,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690417",
@@ -7675,7 +7977,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2480:690418",
@@ -7701,6 +8004,1130 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB2480:3010084",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "1",
+    "name": "阿伦·艾弗森",
+    "original_name": "Allen Iverson",
+    "team": "Philadelphia 76ers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010084/1996-97-Fleer-Lucky-13-1-Allen-Iverson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010084Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010084Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010084.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010084Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010084.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010085",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "2",
+    "name": "Marcus Camby",
+    "original_name": "Marcus Camby",
+    "team": "Toronto Raptors",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010085/1996-97-Fleer-Lucky-13-2-Marcus-Camby",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-2Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-2Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010085.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-2Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010085.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010086",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "3",
+    "name": "Shareef Abdur-Rahim",
+    "original_name": "Shareef Abdur-Rahim",
+    "team": "Vancouver Grizzlies",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010086/1996-97-Fleer-Lucky-13-3-Shareef-Abdur-Rahim",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010086Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010086Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010086.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010086Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010086.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010087",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "4",
+    "name": "Stephon Marbury",
+    "original_name": "Stephon Marbury",
+    "team": "Minnesota Timberwolves",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010087/1996-97-Fleer-Lucky-13-4-Stephon-Marbury",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-4Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-4Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010087.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-4Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010087.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010088",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "5",
+    "name": "雷·阿伦",
+    "original_name": "Ray Allen",
+    "team": "Milwaukee Bucks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010088/1996-97-Fleer-Lucky-13-5-Ray-Allen",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010088Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010088Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010088.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010088Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010088.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010089",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "6",
+    "name": "Antoine Walker",
+    "original_name": "Antoine Walker",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010089/1996-97-Fleer-Lucky-13-6-Antoine-Walker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-6Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-6Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010089.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-6Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010089.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010090",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "7",
+    "name": "Lorenzen Wright",
+    "original_name": "Lorenzen Wright",
+    "team": "Los Angeles Clippers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010090/1996-97-Fleer-Lucky-13-7-Lorenzen-Wright",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-7Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-7Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010090.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-7Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010090.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010091",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "8",
+    "name": "Kerry Kittles",
+    "original_name": "Kerry Kittles",
+    "team": "New Jersey Nets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010091/1996-97-Fleer-Lucky-13-8-Kerry-Kittles",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010091Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010091Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010091.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010091Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010091.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010092",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "9",
+    "name": "Samaki Walker",
+    "original_name": "Samaki Walker",
+    "team": "Dallas Mavericks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010092/1996-97-Fleer-Lucky-13-9-Samaki-Walker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010092Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010092Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010092.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010092Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010092.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010093",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "10",
+    "name": "Erick Dampier",
+    "original_name": "Erick Dampier",
+    "team": "Indiana Pacers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010093/1996-97-Fleer-Lucky-13-10-Erick-Dampier",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010093Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010093Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010093.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010093Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010093.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010094",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "11",
+    "name": "Todd Fuller",
+    "original_name": "Todd Fuller",
+    "team": "Golden State Warriors",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010094/1996-97-Fleer-Lucky-13-11-Todd-Fuller",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010094Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010094Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010094.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010094Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010094.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010095",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "12",
+    "name": "Vitaly Potapenko",
+    "original_name": "Vitaly Potapenko",
+    "team": "Cleveland Cavaliers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010095/1996-97-Fleer-Lucky-13-12-Vitaly-Potapenko",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010095Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010095Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010095.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010095Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010095.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010096",
+    "set_id": "BB2480",
+    "source_set_id": 2484,
+    "number": "13",
+    "name": "科比·布莱恩特",
+    "original_name": "Kobe Bryant",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13",
+    "source_notes": "EXCH",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2484/cid/3010096/1996-97-Fleer-Lucky-13-13-Kobe-Bryant",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010096RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010096RepBk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010096.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2484/2484-3010096RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010096.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010172",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "1",
+    "name": "Anfernee Hardaway",
+    "original_name": "Anfernee Hardaway",
+    "team": "Orlando Magic",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010172/1996-97-Fleer-Total-O--1-Anfernee-Hardaway",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010172Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010172Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010172.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010172Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010172.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010173",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "2",
+    "name": "Grant Hill",
+    "original_name": "Grant Hill",
+    "team": "Detroit Pistons",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010173/1996-97-Fleer-Total-O--2-Grant-Hill",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010173Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010173Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010173.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010173Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010173.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010174",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "3",
+    "name": "Juwan Howard",
+    "original_name": "Juwan Howard",
+    "team": "Washington Bullets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010174/1996-97-Fleer-Total-O--3-Juwan-Howard",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010174Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010174Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010174.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010174Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010174.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010175",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "4",
+    "name": "迈克尔·乔丹",
+    "original_name": "Michael Jordan",
+    "team": "Chicago Bulls",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010175/1996-97-Fleer-Total-O--4-Michael-Jordan",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010175Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010175Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010175.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010175Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010175.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010176",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "5",
+    "name": "Shawn Kemp",
+    "original_name": "Shawn Kemp",
+    "team": "Seattle SuperSonics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010176/1996-97-Fleer-Total-O--5-Shawn-Kemp",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010176Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010176Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010176.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010176Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010176.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010177",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "6",
+    "name": "Karl Malone",
+    "original_name": "Karl Malone",
+    "team": "Utah Jazz",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010177/1996-97-Fleer-Total-O--6-Karl-Malone",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010177RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010177RepBk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010177.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010177RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010177.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010178",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "7",
+    "name": "Alonzo Mourning",
+    "original_name": "Alonzo Mourning",
+    "team": "Miami Heat",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010178/1996-97-Fleer-Total-O--7-Alonzo-Mourning",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010178Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010178Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010178.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010178Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010178.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010179",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "8",
+    "name": "Hakeem Olajuwon",
+    "original_name": "Hakeem Olajuwon",
+    "team": "Houston Rockets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010179/1996-97-Fleer-Total-O--8-Hakeem-Olajuwon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010179Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010179Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010179.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010179Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010179.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010180",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "9",
+    "name": "沙奎尔·奥尼尔",
+    "original_name": "Shaquille O'Neal",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010180/1996-97-Fleer-Total-O--9-Shaquille-O'Neal",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010180RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010180RepBk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010180.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010180RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010180.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:3010181",
+    "set_id": "BB2480",
+    "source_set_id": 2491,
+    "number": "10",
+    "name": "Jerry Stackhouse",
+    "original_name": "Jerry Stackhouse",
+    "team": "Philadelphia 76ers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Total \"O\"",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2491/cid/3010181/1996-97-Fleer-Total-O--10-Jerry-Stackhouse",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010181Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010181Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-3010181.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2491/2491-3010181Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-3010181.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:690269",
+    "set_id": "BB2480",
+    "source_set_id": 2480,
+    "number": "149",
+    "name": "Checklist: 1-119",
+    "original_name": "Checklist: 1-119",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer",
+    "source_notes": "CL",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2480/cid/690269/1996-97-Fleer-149-Checklist:-1-119",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-149Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-149Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-149Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-149Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2480:690270",
+    "set_id": "BB2480",
+    "source_set_id": 2480,
+    "number": "150",
+    "name": "Checklist: 120-180 and Inserts",
+    "original_name": "Checklist: 120-180 and Inserts",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer",
+    "source_notes": "CL, UERUER: #151-180 Translation are from Fleer European and don't exist in this set",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2480/cid/690270/1996-97-Fleer-150-Checklist:-120-180-and-Inserts",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690270Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690270Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690270Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690270Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2480:690419",
+    "set_id": "BB2480",
+    "source_set_id": 2480,
+    "number": "299",
+    "name": "Checklist: 151-268",
+    "original_name": "Checklist: 151-268",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer",
+    "source_notes": "CL",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2480/cid/690419/1996-97-Fleer-299-Checklist:-151-268",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690419Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690419Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690419Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690419Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2480:690420",
+    "set_id": "BB2480",
+    "source_set_id": 2480,
+    "number": "300",
+    "name": "Checklist: 269-300 and Inserts",
+    "original_name": "Checklist: 269-300 and Inserts",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer",
+    "source_notes": "CL",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2480/cid/690420/1996-97-Fleer-300-Checklist:-269-300-and-Inserts",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690420Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690420Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690420Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2480/2480-690420Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2480:12302218",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "1",
+    "name": "Lucky 13 #1 RDMCard could be redeemed for #1 Allen Iverson",
+    "original_name": "Lucky 13 #1 RDMCard could be redeemed for #1 Allen Iverson",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302218/1996-97-Fleer-Lucky-13-Redemptions-1-Lucky-13-#1",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302218Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302218Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302218.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302218Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302218.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302219",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "2",
+    "name": "Lucky 13 #2 RDMCard could be redeemed for #2 Marcus Camby",
+    "original_name": "Lucky 13 #2 RDMCard could be redeemed for #2 Marcus Camby",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302219/1996-97-Fleer-Lucky-13-Redemptions-2-Lucky-13-#2",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302219Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302219Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302219.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302219Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302219.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302220",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "3",
+    "name": "Lucky 13 #3 RDMCard could be redeemed for #3 Shareef Abdur-Rahim",
+    "original_name": "Lucky 13 #3 RDMCard could be redeemed for #3 Shareef Abdur-Rahim",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302220/1996-97-Fleer-Lucky-13-Redemptions-3-Lucky-13-#3",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302220Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302220Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302220.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302220Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302220.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302221",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "4",
+    "name": "Lucky 13 #4 RDMCard could be redeemed for #4 Stephon Marbury",
+    "original_name": "Lucky 13 #4 RDMCard could be redeemed for #4 Stephon Marbury",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302221/1996-97-Fleer-Lucky-13-Redemptions-4-Lucky-13-#4",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302221Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302221Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302221.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302221Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302221.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302223",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "6",
+    "name": "Lucky 13 #6 RDMCard could be redeemed for #6 Antoine Walker",
+    "original_name": "Lucky 13 #6 RDMCard could be redeemed for #6 Antoine Walker",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302223/1996-97-Fleer-Lucky-13-Redemptions-6-Lucky-13-#6",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302223Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302223Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302223.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302223Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302223.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302224",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "7",
+    "name": "Lucky 13 #7 RDMCard could be redeemed for #7 Lorenzen Wright",
+    "original_name": "Lucky 13 #7 RDMCard could be redeemed for #7 Lorenzen Wright",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302224/1996-97-Fleer-Lucky-13-Redemptions-7-Lucky-13-#7",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302224Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302224Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302224.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302224Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302224.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302225",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "8",
+    "name": "Lucky 13 #8 RDMCard could be redeemed for #8 Kerry Kittles",
+    "original_name": "Lucky 13 #8 RDMCard could be redeemed for #8 Kerry Kittles",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302225/1996-97-Fleer-Lucky-13-Redemptions-8-Lucky-13-#8",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302225Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302225Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302225.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302225Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302225.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302226",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "9",
+    "name": "Lucky 13 #9 RDMCard could be redeemed for #9 Samaki Walker",
+    "original_name": "Lucky 13 #9 RDMCard could be redeemed for #9 Samaki Walker",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302226/1996-97-Fleer-Lucky-13-Redemptions-9-Lucky-13-#9",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302226Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302226Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302226.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302226Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302226.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302227",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "10",
+    "name": "Lucky 13 #10 RDMCard could be redeemed for #10 Erick Dampier",
+    "original_name": "Lucky 13 #10 RDMCard could be redeemed for #10 Erick Dampier",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302227/1996-97-Fleer-Lucky-13-Redemptions-10-Lucky-13-#10",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302227Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302227Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302227.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302227Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302227.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302228",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "11",
+    "name": "Lucky 13 #11 RDMCard could be redeemed for #11 Todd Fuller",
+    "original_name": "Lucky 13 #11 RDMCard could be redeemed for #11 Todd Fuller",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302228/1996-97-Fleer-Lucky-13-Redemptions-11-Lucky-13-#11",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302228Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302228Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302228.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302228Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302228.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302229",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "12",
+    "name": "Lucky 13 #12 RDMCard could be redeemed for #12 Vitaly Potapenko",
+    "original_name": "Lucky 13 #12 RDMCard could be redeemed for #12 Vitaly Potapenko",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302229/1996-97-Fleer-Lucky-13-Redemptions-12-Lucky-13-#12",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302229Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302229Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302229.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302229Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302229.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2480:12302230",
+    "set_id": "BB2480",
+    "source_set_id": 193567,
+    "number": "13",
+    "name": "Lucky 13 #13 RDMCard could be redeemed for #13 Kobe Bryant",
+    "original_name": "Lucky 13 #13 RDMCard could be redeemed for #13 Kobe Bryant",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Fleer - Lucky 13 Redemptions",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/193567/cid/12302230/1996-97-Fleer-Lucky-13-Redemptions-13-Lucky-13-#13",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302230Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302230Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2480-12302230.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/193567/193567-12302230Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2480-12302230.webp",
+    "image_status": "local_verified"
   }
 ]

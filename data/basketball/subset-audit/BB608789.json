@@ -1,0 +1,3319 @@
+{
+  "set_id": "BB608789",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/608789/2025-26-Bowman",
+  "headings": [
+    "Insert Sets (360)",
+    "Parallel Sets (78)"
+  ],
+  "subset_count": 438,
+  "subsets": [
+    {
+      "source_set_id": 627113,
+      "name": "2025-26 Bowman - Anime NBA",
+      "short": "Anime NBA",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627113/2025-26-Bowman-Anime-NBA",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627114,
+      "name": "2025-26 Bowman - Anime NBA Black Refractor",
+      "short": "Anime NBA Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627114/2025-26-Bowman-Anime-NBA-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627115,
+      "name": "2025-26 Bowman - Anime NBA Red Refractor",
+      "short": "Anime NBA Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627115/2025-26-Bowman-Anime-NBA-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627116,
+      "name": "2025-26 Bowman - Anime NBA SuperFractor",
+      "short": "Anime NBA SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627116/2025-26-Bowman-Anime-NBA-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627117,
+      "name": "2025-26 Bowman - Anime NIL",
+      "short": "Anime NIL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627117/2025-26-Bowman-Anime-NIL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627118,
+      "name": "2025-26 Bowman - Anime NIL Black Refractor",
+      "short": "Anime NIL Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627118/2025-26-Bowman-Anime-NIL-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627119,
+      "name": "2025-26 Bowman - Anime NIL Red Refractor",
+      "short": "Anime NIL Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627119/2025-26-Bowman-Anime-NIL-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627120,
+      "name": "2025-26 Bowman - Anime NIL SuperFractor",
+      "short": "Anime NIL SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627120/2025-26-Bowman-Anime-NIL-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626339,
+      "name": "2025-26 Bowman - Bowman Dual Autographs",
+      "short": "Bowman Dual Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626339/2025-26-Bowman-Bowman-Dual-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626340,
+      "name": "2025-26 Bowman - Bowman Dual Autographs Superfractor",
+      "short": "Bowman Dual Autographs Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626340/2025-26-Bowman-Bowman-Dual-Autographs-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627097,
+      "name": "2025-26 Bowman - Bowman Spotlights NBA",
+      "short": "Bowman Spotlights NBA",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627097/2025-26-Bowman-Bowman-Spotlights-NBA",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627098,
+      "name": "2025-26 Bowman - Bowman Spotlights NBA Red Refractor",
+      "short": "Bowman Spotlights NBA Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627098/2025-26-Bowman-Bowman-Spotlights-NBA-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627099,
+      "name": "2025-26 Bowman - Bowman Spotlights NBA Superfractor",
+      "short": "Bowman Spotlights NBA Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627099/2025-26-Bowman-Bowman-Spotlights-NBA-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627100,
+      "name": "2025-26 Bowman - Bowman Spotlights NIL",
+      "short": "Bowman Spotlights NIL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627100/2025-26-Bowman-Bowman-Spotlights-NIL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627101,
+      "name": "2025-26 Bowman - Bowman Spotlights NIL Red Refractor",
+      "short": "Bowman Spotlights NIL Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627101/2025-26-Bowman-Bowman-Spotlights-NIL-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627102,
+      "name": "2025-26 Bowman - Bowman Spotlights NIL Superfractor",
+      "short": "Bowman Spotlights NIL Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627102/2025-26-Bowman-Bowman-Spotlights-NIL-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625896,
+      "name": "2025-26 Bowman - Bowman Verified",
+      "short": "Bowman Verified",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625896/2025-26-Bowman-Bowman-Verified",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626430,
+      "name": "2025-26 Bowman - Bowman Verified Aqua Refractor",
+      "short": "Bowman Verified Aqua Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626430/2025-26-Bowman-Bowman-Verified-Aqua-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626438,
+      "name": "2025-26 Bowman - Bowman Verified Black Geometric",
+      "short": "Bowman Verified Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626438/2025-26-Bowman-Bowman-Verified-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626428,
+      "name": "2025-26 Bowman - Bowman Verified Fuchsia Refractor",
+      "short": "Bowman Verified Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626428/2025-26-Bowman-Bowman-Verified-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626426,
+      "name": "2025-26 Bowman - Bowman Verified Geometric Refractor",
+      "short": "Bowman Verified Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626426/2025-26-Bowman-Bowman-Verified-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626436,
+      "name": "2025-26 Bowman - Bowman Verified Gold Geometric",
+      "short": "Bowman Verified Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626436/2025-26-Bowman-Bowman-Verified-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626432,
+      "name": "2025-26 Bowman - Bowman Verified Gold Refractor",
+      "short": "Bowman Verified Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626432/2025-26-Bowman-Bowman-Verified-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626431,
+      "name": "2025-26 Bowman - Bowman Verified Green Refractor",
+      "short": "Bowman Verified Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626431/2025-26-Bowman-Bowman-Verified-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626429,
+      "name": "2025-26 Bowman - Bowman Verified Mini-Diamond Refractor",
+      "short": "Bowman Verified Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626429/2025-26-Bowman-Bowman-Verified-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626437,
+      "name": "2025-26 Bowman - Bowman Verified Orange Geometric",
+      "short": "Bowman Verified Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626437/2025-26-Bowman-Bowman-Verified-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626433,
+      "name": "2025-26 Bowman - Bowman Verified Orange Refractor",
+      "short": "Bowman Verified Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626433/2025-26-Bowman-Bowman-Verified-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626427,
+      "name": "2025-26 Bowman - Bowman Verified Purple Refractor",
+      "short": "Bowman Verified Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626427/2025-26-Bowman-Bowman-Verified-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626439,
+      "name": "2025-26 Bowman - Bowman Verified Red Geometric",
+      "short": "Bowman Verified Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626439/2025-26-Bowman-Bowman-Verified-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626434,
+      "name": "2025-26 Bowman - Bowman Verified Red Refractor",
+      "short": "Bowman Verified Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626434/2025-26-Bowman-Bowman-Verified-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626425,
+      "name": "2025-26 Bowman - Bowman Verified Refractor",
+      "short": "Bowman Verified Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626425/2025-26-Bowman-Bowman-Verified-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626435,
+      "name": "2025-26 Bowman - Bowman Verified SuperFractor",
+      "short": "Bowman Verified SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626435/2025-26-Bowman-Bowman-Verified-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626307,
+      "name": "2025-26 Bowman - Buzz Factor Autographs",
+      "short": "Buzz Factor Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626307/2025-26-Bowman-Buzz-Factor-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626304,
+      "name": "2025-26 Bowman - Buzz Factor Autographs Black Refractor",
+      "short": "Buzz Factor Autographs Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626304/2025-26-Bowman-Buzz-Factor-Autographs-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626302,
+      "name": "2025-26 Bowman - Buzz Factor Autographs Gold Refractor",
+      "short": "Buzz Factor Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626302/2025-26-Bowman-Buzz-Factor-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626303,
+      "name": "2025-26 Bowman - Buzz Factor Autographs Orange Refractor",
+      "short": "Buzz Factor Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626303/2025-26-Bowman-Buzz-Factor-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626305,
+      "name": "2025-26 Bowman - Buzz Factor Autographs Red Refractor",
+      "short": "Buzz Factor Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626305/2025-26-Bowman-Buzz-Factor-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626306,
+      "name": "2025-26 Bowman - Buzz Factor Autographs Superfractor",
+      "short": "Buzz Factor Autographs Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626306/2025-26-Bowman-Buzz-Factor-Autographs-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625770,
+      "name": "2025-26 Bowman - Chrome Autographs",
+      "short": "Chrome Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625770/2025-26-Bowman-Chrome-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625791,
+      "name": "2025-26 Bowman - Chrome Autographs Black Geometric",
+      "short": "Chrome Autographs Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625791/2025-26-Bowman-Chrome-Autographs-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625790,
+      "name": "2025-26 Bowman - Chrome Autographs Black Refractor",
+      "short": "Chrome Autographs Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625790/2025-26-Bowman-Chrome-Autographs-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625792,
+      "name": "2025-26 Bowman - Chrome Autographs Black X-Fractor Refractor",
+      "short": "Chrome Autographs Black X-Fractor Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625792/2025-26-Bowman-Chrome-Autographs-Black-X-Fractor-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625776,
+      "name": "2025-26 Bowman - Chrome Autographs Blue Geometric",
+      "short": "Chrome Autographs Blue Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625776/2025-26-Bowman-Chrome-Autographs-Blue-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625774,
+      "name": "2025-26 Bowman - Chrome Autographs Blue Refractor",
+      "short": "Chrome Autographs Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625774/2025-26-Bowman-Chrome-Autographs-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625775,
+      "name": "2025-26 Bowman - Chrome Autographs Blue X-Fractor",
+      "short": "Chrome Autographs Blue X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625775/2025-26-Bowman-Chrome-Autographs-Blue-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625796,
+      "name": "2025-26 Bowman - Chrome Autographs FireFractor",
+      "short": "Chrome Autographs FireFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625796/2025-26-Bowman-Chrome-Autographs-FireFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625784,
+      "name": "2025-26 Bowman - Chrome Autographs Gold Geometric",
+      "short": "Chrome Autographs Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625784/2025-26-Bowman-Chrome-Autographs-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625783,
+      "name": "2025-26 Bowman - Chrome Autographs Gold Refractor",
+      "short": "Chrome Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625783/2025-26-Bowman-Chrome-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625785,
+      "name": "2025-26 Bowman - Chrome Autographs Gold Shimmer Refractor",
+      "short": "Chrome Autographs Gold Shimmer Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625785/2025-26-Bowman-Chrome-Autographs-Gold-Shimmer-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625779,
+      "name": "2025-26 Bowman - Chrome Autographs Green Geometric",
+      "short": "Chrome Autographs Green Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625779/2025-26-Bowman-Chrome-Autographs-Green-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 671548,
+      "name": "2025-26 Bowman - Chrome Autographs Green Mojo",
+      "short": "Chrome Autographs Green Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/671548/2025-26-Bowman-Chrome-Autographs-Green-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625778,
+      "name": "2025-26 Bowman - Chrome Autographs Green Refractor",
+      "short": "Chrome Autographs Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625778/2025-26-Bowman-Chrome-Autographs-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625780,
+      "name": "2025-26 Bowman - Chrome Autographs Green Shimmer Refractor",
+      "short": "Chrome Autographs Green Shimmer Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625780/2025-26-Bowman-Chrome-Autographs-Green-Shimmer-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625777,
+      "name": "2025-26 Bowman - Chrome Autographs Mini-Diamond Refractor",
+      "short": "Chrome Autographs Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625777/2025-26-Bowman-Chrome-Autographs-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625788,
+      "name": "2025-26 Bowman - Chrome Autographs Orange Geometric",
+      "short": "Chrome Autographs Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625788/2025-26-Bowman-Chrome-Autographs-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625787,
+      "name": "2025-26 Bowman - Chrome Autographs Orange Refractor",
+      "short": "Chrome Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625787/2025-26-Bowman-Chrome-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625789,
+      "name": "2025-26 Bowman - Chrome Autographs Orange Shimmer Refractor",
+      "short": "Chrome Autographs Orange Shimmer Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625789/2025-26-Bowman-Chrome-Autographs-Orange-Shimmer-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625773,
+      "name": "2025-26 Bowman - Chrome Autographs Purple Refractor",
+      "short": "Chrome Autographs Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625773/2025-26-Bowman-Chrome-Autographs-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625794,
+      "name": "2025-26 Bowman - Chrome Autographs Red Geometric",
+      "short": "Chrome Autographs Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625794/2025-26-Bowman-Chrome-Autographs-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625795,
+      "name": "2025-26 Bowman - Chrome Autographs Red Lava Refractor",
+      "short": "Chrome Autographs Red Lava Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625795/2025-26-Bowman-Chrome-Autographs-Red-Lava-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625793,
+      "name": "2025-26 Bowman - Chrome Autographs Red Refractor",
+      "short": "Chrome Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625793/2025-26-Bowman-Chrome-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625771,
+      "name": "2025-26 Bowman - Chrome Autographs Refractor",
+      "short": "Chrome Autographs Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625771/2025-26-Bowman-Chrome-Autographs-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625781,
+      "name": "2025-26 Bowman - Chrome Autographs Reptilian Green Refractor",
+      "short": "Chrome Autographs Reptilian Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625781/2025-26-Bowman-Chrome-Autographs-Reptilian-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625786,
+      "name": "2025-26 Bowman - Chrome Autographs Reptilian Orange Refractor",
+      "short": "Chrome Autographs Reptilian Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625786/2025-26-Bowman-Chrome-Autographs-Reptilian-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625772,
+      "name": "2025-26 Bowman - Chrome Autographs Speckle Refractor",
+      "short": "Chrome Autographs Speckle Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625772/2025-26-Bowman-Chrome-Autographs-Speckle-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625797,
+      "name": "2025-26 Bowman - Chrome Autographs SuperFractor",
+      "short": "Chrome Autographs SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625797/2025-26-Bowman-Chrome-Autographs-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625782,
+      "name": "2025-26 Bowman - Chrome Autographs Yellow Refractor",
+      "short": "Chrome Autographs Yellow Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625782/2025-26-Bowman-Chrome-Autographs-Yellow-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625742,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs",
+      "short": "Chrome Prospect Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625742/2025-26-Bowman-Chrome-Prospect-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625762,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Black Geometric",
+      "short": "Chrome Prospect Autographs Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625762/2025-26-Bowman-Chrome-Prospect-Autographs-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625761,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Black Refractor",
+      "short": "Chrome Prospect Autographs Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625761/2025-26-Bowman-Chrome-Prospect-Autographs-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625763,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Black X-Fractor Refractor",
+      "short": "Chrome Prospect Autographs Black X-Fractor Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625763/2025-26-Bowman-Chrome-Prospect-Autographs-Black-X-Fractor-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625746,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Blue Refractor",
+      "short": "Chrome Prospect Autographs Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625746/2025-26-Bowman-Chrome-Prospect-Autographs-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625747,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Blue X-Fractor",
+      "short": "Chrome Prospect Autographs Blue X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625747/2025-26-Bowman-Chrome-Prospect-Autographs-Blue-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625767,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs FireFractor",
+      "short": "Chrome Prospect Autographs FireFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625767/2025-26-Bowman-Chrome-Prospect-Autographs-FireFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625755,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Gold Geometric",
+      "short": "Chrome Prospect Autographs Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625755/2025-26-Bowman-Chrome-Prospect-Autographs-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625754,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Gold Refractor",
+      "short": "Chrome Prospect Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625754/2025-26-Bowman-Chrome-Prospect-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625756,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Gold Shimmer Refractor",
+      "short": "Chrome Prospect Autographs Gold Shimmer Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625756/2025-26-Bowman-Chrome-Prospect-Autographs-Gold-Shimmer-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625750,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Green Geometric",
+      "short": "Chrome Prospect Autographs Green Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625750/2025-26-Bowman-Chrome-Prospect-Autographs-Green-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625749,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Green Refractor",
+      "short": "Chrome Prospect Autographs Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625749/2025-26-Bowman-Chrome-Prospect-Autographs-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625751,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Green Shimmer Refractor",
+      "short": "Chrome Prospect Autographs Green Shimmer Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625751/2025-26-Bowman-Chrome-Prospect-Autographs-Green-Shimmer-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625748,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Mini-Diamond Refractor",
+      "short": "Chrome Prospect Autographs Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625748/2025-26-Bowman-Chrome-Prospect-Autographs-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625759,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Orange Geometric",
+      "short": "Chrome Prospect Autographs Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625759/2025-26-Bowman-Chrome-Prospect-Autographs-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 666683,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Orange Mojo Refractor",
+      "short": "Chrome Prospect Autographs Orange Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/666683/2025-26-Bowman-Chrome-Prospect-Autographs-Orange-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625758,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Orange Refractor",
+      "short": "Chrome Prospect Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625758/2025-26-Bowman-Chrome-Prospect-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625760,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Orange Shimmer Refractor",
+      "short": "Chrome Prospect Autographs Orange Shimmer Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625760/2025-26-Bowman-Chrome-Prospect-Autographs-Orange-Shimmer-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625745,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Purple Refractor",
+      "short": "Chrome Prospect Autographs Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625745/2025-26-Bowman-Chrome-Prospect-Autographs-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625765,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Red Geometric",
+      "short": "Chrome Prospect Autographs Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625765/2025-26-Bowman-Chrome-Prospect-Autographs-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625766,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Red Lava Refractor",
+      "short": "Chrome Prospect Autographs Red Lava Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625766/2025-26-Bowman-Chrome-Prospect-Autographs-Red-Lava-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625764,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Red Refractor",
+      "short": "Chrome Prospect Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625764/2025-26-Bowman-Chrome-Prospect-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625743,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Refractor",
+      "short": "Chrome Prospect Autographs Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625743/2025-26-Bowman-Chrome-Prospect-Autographs-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625752,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Reptilian Green Refractor",
+      "short": "Chrome Prospect Autographs Reptilian Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625752/2025-26-Bowman-Chrome-Prospect-Autographs-Reptilian-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625757,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Reptilian Orange Refractor",
+      "short": "Chrome Prospect Autographs Reptilian Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625757/2025-26-Bowman-Chrome-Prospect-Autographs-Reptilian-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625744,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Speckle Refractor",
+      "short": "Chrome Prospect Autographs Speckle Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625744/2025-26-Bowman-Chrome-Prospect-Autographs-Speckle-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625768,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Superfractor",
+      "short": "Chrome Prospect Autographs Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625768/2025-26-Bowman-Chrome-Prospect-Autographs-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 640559,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Yellow Mojo Refractor",
+      "short": "Chrome Prospect Autographs Yellow Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/640559/2025-26-Bowman-Chrome-Prospect-Autographs-Yellow-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625753,
+      "name": "2025-26 Bowman - Chrome Prospect Autographs Yellow Refractor",
+      "short": "Chrome Prospect Autographs Yellow Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625753/2025-26-Bowman-Chrome-Prospect-Autographs-Yellow-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624184,
+      "name": "2025-26 Bowman - Chrome Prospects",
+      "short": "Chrome Prospects",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624184/2025-26-Bowman-Chrome-Prospects",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624200,
+      "name": "2025-26 Bowman - Chrome Prospects Aqua Mojo Refractor",
+      "short": "Chrome Prospects Aqua Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624200/2025-26-Bowman-Chrome-Prospects-Aqua-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625730,
+      "name": "2025-26 Bowman - Chrome Prospects Aqua X-Fractor",
+      "short": "Chrome Prospects Aqua X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625730/2025-26-Bowman-Chrome-Prospects-Aqua-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624191,
+      "name": "2025-26 Bowman - Chrome Prospects Black Geometric Refractor",
+      "short": "Chrome Prospects Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624191/2025-26-Bowman-Chrome-Prospects-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625737,
+      "name": "2025-26 Bowman - Chrome Prospects Black Refractor",
+      "short": "Chrome Prospects Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625737/2025-26-Bowman-Chrome-Prospects-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625738,
+      "name": "2025-26 Bowman - Chrome Prospects Black X-Fractor",
+      "short": "Chrome Prospects Black X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625738/2025-26-Bowman-Chrome-Prospects-Black-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624199,
+      "name": "2025-26 Bowman - Chrome Prospects Blue Mojo Refractor",
+      "short": "Chrome Prospects Blue Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624199/2025-26-Bowman-Chrome-Prospects-Blue-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625729,
+      "name": "2025-26 Bowman - Chrome Prospects Blue Refractor",
+      "short": "Chrome Prospects Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625729/2025-26-Bowman-Chrome-Prospects-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624195,
+      "name": "2025-26 Bowman - Chrome Prospects Burgundy Mojo Refractor",
+      "short": "Chrome Prospects Burgundy Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624195/2025-26-Bowman-Chrome-Prospects-Burgundy-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625741,
+      "name": "2025-26 Bowman - Chrome Prospects Etched In Glass Variations",
+      "short": "Chrome Prospects Etched In Glass Variations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625741/2025-26-Bowman-Chrome-Prospects-Etched-In-Glass-Variations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624212,
+      "name": "2025-26 Bowman - Chrome Prospects Floorboard Refractor",
+      "short": "Chrome Prospects Floorboard Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624212/2025-26-Bowman-Chrome-Prospects-Floorboard-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624194,
+      "name": "2025-26 Bowman - Chrome Prospects Fuchsia Mojo Refractor",
+      "short": "Chrome Prospects Fuchsia Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624194/2025-26-Bowman-Chrome-Prospects-Fuchsia-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625715,
+      "name": "2025-26 Bowman - Chrome Prospects Fuchsia Refractor",
+      "short": "Chrome Prospects Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625715/2025-26-Bowman-Chrome-Prospects-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624186,
+      "name": "2025-26 Bowman - Chrome Prospects Geometric Refractor",
+      "short": "Chrome Prospects Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624186/2025-26-Bowman-Chrome-Prospects-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624189,
+      "name": "2025-26 Bowman - Chrome Prospects Gold Geometric Refractor",
+      "short": "Chrome Prospects Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624189/2025-26-Bowman-Chrome-Prospects-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624203,
+      "name": "2025-26 Bowman - Chrome Prospects Gold Mojo Refractor",
+      "short": "Chrome Prospects Gold Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624203/2025-26-Bowman-Chrome-Prospects-Gold-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625733,
+      "name": "2025-26 Bowman - Chrome Prospects Gold Refractor",
+      "short": "Chrome Prospects Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625733/2025-26-Bowman-Chrome-Prospects-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624188,
+      "name": "2025-26 Bowman - Chrome Prospects Green Geometric Refractor",
+      "short": "Chrome Prospects Green Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624188/2025-26-Bowman-Chrome-Prospects-Green-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624201,
+      "name": "2025-26 Bowman - Chrome Prospects Green Mojo Refractor",
+      "short": "Chrome Prospects Green Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624201/2025-26-Bowman-Chrome-Prospects-Green-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624208,
+      "name": "2025-26 Bowman - Chrome Prospects Green Refractor",
+      "short": "Chrome Prospects Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624208/2025-26-Bowman-Chrome-Prospects-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624210,
+      "name": "2025-26 Bowman - Chrome Prospects Green Shimmer Refractor",
+      "short": "Chrome Prospects Green Shimmer Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624210/2025-26-Bowman-Chrome-Prospects-Green-Shimmer-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624207,
+      "name": "2025-26 Bowman - Chrome Prospects Lava Refractor",
+      "short": "Chrome Prospects Lava Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624207/2025-26-Bowman-Chrome-Prospects-Lava-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624211,
+      "name": "2025-26 Bowman - Chrome Prospects Mini-Diamond Refractor",
+      "short": "Chrome Prospects Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624211/2025-26-Bowman-Chrome-Prospects-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624193,
+      "name": "2025-26 Bowman - Chrome Prospects Mojo Refractor",
+      "short": "Chrome Prospects Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624193/2025-26-Bowman-Chrome-Prospects-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624198,
+      "name": "2025-26 Bowman - Chrome Prospects Navy Mojo Refractor",
+      "short": "Chrome Prospects Navy Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624198/2025-26-Bowman-Chrome-Prospects-Navy-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624190,
+      "name": "2025-26 Bowman - Chrome Prospects Orange Geometric Refractor",
+      "short": "Chrome Prospects Orange Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624190/2025-26-Bowman-Chrome-Prospects-Orange-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624204,
+      "name": "2025-26 Bowman - Chrome Prospects Orange Mojo Refractor",
+      "short": "Chrome Prospects Orange Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624204/2025-26-Bowman-Chrome-Prospects-Orange-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624214,
+      "name": "2025-26 Bowman - Chrome Prospects Orange Refractor",
+      "short": "Chrome Prospects Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624214/2025-26-Bowman-Chrome-Prospects-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624197,
+      "name": "2025-26 Bowman - Chrome Prospects Pink Mojo Refractor",
+      "short": "Chrome Prospects Pink Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624197/2025-26-Bowman-Chrome-Prospects-Pink-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624196,
+      "name": "2025-26 Bowman - Chrome Prospects Purple Mojo Refractor",
+      "short": "Chrome Prospects Purple Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624196/2025-26-Bowman-Chrome-Prospects-Purple-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625714,
+      "name": "2025-26 Bowman - Chrome Prospects Purple Refractor",
+      "short": "Chrome Prospects Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625714/2025-26-Bowman-Chrome-Prospects-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624192,
+      "name": "2025-26 Bowman - Chrome Prospects Red Geometric Refractor",
+      "short": "Chrome Prospects Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624192/2025-26-Bowman-Chrome-Prospects-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624205,
+      "name": "2025-26 Bowman - Chrome Prospects Red Mojo Refractor",
+      "short": "Chrome Prospects Red Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624205/2025-26-Bowman-Chrome-Prospects-Red-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625739,
+      "name": "2025-26 Bowman - Chrome Prospects Red Refractor",
+      "short": "Chrome Prospects Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625739/2025-26-Bowman-Chrome-Prospects-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625712,
+      "name": "2025-26 Bowman - Chrome Prospects Refractor",
+      "short": "Chrome Prospects Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625712/2025-26-Bowman-Chrome-Prospects-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625728,
+      "name": "2025-26 Bowman - Chrome Prospects Reptilian Blue Refractor",
+      "short": "Chrome Prospects Reptilian Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625728/2025-26-Bowman-Chrome-Prospects-Reptilian-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625716,
+      "name": "2025-26 Bowman - Chrome Prospects Reptilian Fuchsia Refractor",
+      "short": "Chrome Prospects Reptilian Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625716/2025-26-Bowman-Chrome-Prospects-Reptilian-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625734,
+      "name": "2025-26 Bowman - Chrome Prospects Reptilian Gold Refractor",
+      "short": "Chrome Prospects Reptilian Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625734/2025-26-Bowman-Chrome-Prospects-Reptilian-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624209,
+      "name": "2025-26 Bowman - Chrome Prospects Reptilian Green Refractor",
+      "short": "Chrome Prospects Reptilian Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624209/2025-26-Bowman-Chrome-Prospects-Reptilian-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624215,
+      "name": "2025-26 Bowman - Chrome Prospects Reptilian Orange Refractor",
+      "short": "Chrome Prospects Reptilian Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624215/2025-26-Bowman-Chrome-Prospects-Reptilian-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625740,
+      "name": "2025-26 Bowman - Chrome Prospects Reptilian Red Refractor",
+      "short": "Chrome Prospects Reptilian Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625740/2025-26-Bowman-Chrome-Prospects-Reptilian-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625711,
+      "name": "2025-26 Bowman - Chrome Prospects Reptilian Refractor",
+      "short": "Chrome Prospects Reptilian Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625711/2025-26-Bowman-Chrome-Prospects-Reptilian-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625736,
+      "name": "2025-26 Bowman - Chrome Prospects Rose Gold Mini-Diamond Refractor",
+      "short": "Chrome Prospects Rose Gold Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625736/2025-26-Bowman-Chrome-Prospects-Rose-Gold-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624206,
+      "name": "2025-26 Bowman - Chrome Prospects Rose Gold Mojo Refractor",
+      "short": "Chrome Prospects Rose Gold Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624206/2025-26-Bowman-Chrome-Prospects-Rose-Gold-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625735,
+      "name": "2025-26 Bowman - Chrome Prospects Rose Gold Refractor",
+      "short": "Chrome Prospects Rose Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625735/2025-26-Bowman-Chrome-Prospects-Rose-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625713,
+      "name": "2025-26 Bowman - Chrome Prospects Speckle Refractor",
+      "short": "Chrome Prospects Speckle Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625713/2025-26-Bowman-Chrome-Prospects-Speckle-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625731,
+      "name": "2025-26 Bowman - Chrome Prospects Steel Metal Refractor",
+      "short": "Chrome Prospects Steel Metal Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625731/2025-26-Bowman-Chrome-Prospects-Steel-Metal-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624216,
+      "name": "2025-26 Bowman - Chrome Prospects Superfractor",
+      "short": "Chrome Prospects Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624216/2025-26-Bowman-Chrome-Prospects-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624202,
+      "name": "2025-26 Bowman - Chrome Prospects Yellow Mojo Refractor",
+      "short": "Chrome Prospects Yellow Mojo Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624202/2025-26-Bowman-Chrome-Prospects-Yellow-Mojo-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625732,
+      "name": "2025-26 Bowman - Chrome Prospects Yellow Refractor",
+      "short": "Chrome Prospects Yellow Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625732/2025-26-Bowman-Chrome-Prospects-Yellow-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624213,
+      "name": "2025-26 Bowman - Chrome Prospects Yellow X-Fractor",
+      "short": "Chrome Prospects Yellow X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624213/2025-26-Bowman-Chrome-Prospects-Yellow-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627103,
+      "name": "2025-26 Bowman - Crystallized NBA",
+      "short": "Crystallized NBA",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627103/2025-26-Bowman-Crystallized-NBA",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627104,
+      "name": "2025-26 Bowman - Crystallized NBA Gold Crystal Refractor",
+      "short": "Crystallized NBA Gold Crystal Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627104/2025-26-Bowman-Crystallized-NBA-Gold-Crystal-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627105,
+      "name": "2025-26 Bowman - Crystallized NBA Orange Crystal Refractor",
+      "short": "Crystallized NBA Orange Crystal Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627105/2025-26-Bowman-Crystallized-NBA-Orange-Crystal-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627106,
+      "name": "2025-26 Bowman - Crystallized NBA Red Crystal Refractor",
+      "short": "Crystallized NBA Red Crystal Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627106/2025-26-Bowman-Crystallized-NBA-Red-Crystal-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627107,
+      "name": "2025-26 Bowman - Crystallized NBA Superfractor",
+      "short": "Crystallized NBA Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627107/2025-26-Bowman-Crystallized-NBA-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627108,
+      "name": "2025-26 Bowman - Crystallized NIL",
+      "short": "Crystallized NIL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627108/2025-26-Bowman-Crystallized-NIL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627109,
+      "name": "2025-26 Bowman - Crystallized NIL Gold Crystal Refractor",
+      "short": "Crystallized NIL Gold Crystal Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627109/2025-26-Bowman-Crystallized-NIL-Gold-Crystal-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627110,
+      "name": "2025-26 Bowman - Crystallized NIL Orange Crystal Refractor",
+      "short": "Crystallized NIL Orange Crystal Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627110/2025-26-Bowman-Crystallized-NIL-Orange-Crystal-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627111,
+      "name": "2025-26 Bowman - Crystallized NIL Red Crystal Refractor",
+      "short": "Crystallized NIL Red Crystal Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627111/2025-26-Bowman-Crystallized-NIL-Red-Crystal-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627112,
+      "name": "2025-26 Bowman - Crystallized NIL Superfractor",
+      "short": "Crystallized NIL Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627112/2025-26-Bowman-Crystallized-NIL-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625799,
+      "name": "2025-26 Bowman - Future Script",
+      "short": "Future Script",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625799/2025-26-Bowman-Future-Script",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625807,
+      "name": "2025-26 Bowman - Future Script Black Refractor",
+      "short": "Future Script Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625807/2025-26-Bowman-Future-Script-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625805,
+      "name": "2025-26 Bowman - Future Script Gold Refractor",
+      "short": "Future Script Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625805/2025-26-Bowman-Future-Script-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625806,
+      "name": "2025-26 Bowman - Future Script Orange Refractor",
+      "short": "Future Script Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625806/2025-26-Bowman-Future-Script-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625808,
+      "name": "2025-26 Bowman - Future Script Red Refractor",
+      "short": "Future Script Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625808/2025-26-Bowman-Future-Script-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625809,
+      "name": "2025-26 Bowman - Future Script SuperFractor",
+      "short": "Future Script SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625809/2025-26-Bowman-Future-Script-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625976,
+      "name": "2025-26 Bowman - GPK NBA",
+      "short": "GPK NBA",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625976/2025-26-Bowman-GPK-NBA",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625997,
+      "name": "2025-26 Bowman - GPK NBA Red Refractor",
+      "short": "GPK NBA Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625997/2025-26-Bowman-GPK-NBA-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625998,
+      "name": "2025-26 Bowman - GPK NBA Superfractor",
+      "short": "GPK NBA Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625998/2025-26-Bowman-GPK-NBA-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625977,
+      "name": "2025-26 Bowman - GPK NIL",
+      "short": "GPK NIL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625977/2025-26-Bowman-GPK-NIL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625999,
+      "name": "2025-26 Bowman - GPK NIL Red Refractor",
+      "short": "GPK NIL Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625999/2025-26-Bowman-GPK-NIL-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626000,
+      "name": "2025-26 Bowman - GPK NIL Superfractor",
+      "short": "GPK NIL Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626000/2025-26-Bowman-GPK-NIL-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625970,
+      "name": "2025-26 Bowman - Gen Next",
+      "short": "Gen Next",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625970/2025-26-Bowman-Gen-Next",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626392,
+      "name": "2025-26 Bowman - Gen Next Aqua Refractor",
+      "short": "Gen Next Aqua Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626392/2025-26-Bowman-Gen-Next-Aqua-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626399,
+      "name": "2025-26 Bowman - Gen Next Black Geometric",
+      "short": "Gen Next Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626399/2025-26-Bowman-Gen-Next-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626388,
+      "name": "2025-26 Bowman - Gen Next Fuchsia Refractor",
+      "short": "Gen Next Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626388/2025-26-Bowman-Gen-Next-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626385,
+      "name": "2025-26 Bowman - Gen Next Geometric Refractor",
+      "short": "Gen Next Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626385/2025-26-Bowman-Gen-Next-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626396,
+      "name": "2025-26 Bowman - Gen Next Gold Geometric",
+      "short": "Gen Next Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626396/2025-26-Bowman-Gen-Next-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626394,
+      "name": "2025-26 Bowman - Gen Next Gold Refractor",
+      "short": "Gen Next Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626394/2025-26-Bowman-Gen-Next-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626393,
+      "name": "2025-26 Bowman - Gen Next Green Refractor",
+      "short": "Gen Next Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626393/2025-26-Bowman-Gen-Next-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626390,
+      "name": "2025-26 Bowman - Gen Next Mini-Diamond Refractor",
+      "short": "Gen Next Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626390/2025-26-Bowman-Gen-Next-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626398,
+      "name": "2025-26 Bowman - Gen Next Orange Geometric",
+      "short": "Gen Next Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626398/2025-26-Bowman-Gen-Next-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626397,
+      "name": "2025-26 Bowman - Gen Next Orange Refractor",
+      "short": "Gen Next Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626397/2025-26-Bowman-Gen-Next-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626387,
+      "name": "2025-26 Bowman - Gen Next Purple Refractor",
+      "short": "Gen Next Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626387/2025-26-Bowman-Gen-Next-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626402,
+      "name": "2025-26 Bowman - Gen Next Red Geometric",
+      "short": "Gen Next Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626402/2025-26-Bowman-Gen-Next-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626401,
+      "name": "2025-26 Bowman - Gen Next Red Refractor",
+      "short": "Gen Next Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626401/2025-26-Bowman-Gen-Next-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626384,
+      "name": "2025-26 Bowman - Gen Next Refractor",
+      "short": "Gen Next Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626384/2025-26-Bowman-Gen-Next-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626403,
+      "name": "2025-26 Bowman - Gen Next Superfractor",
+      "short": "Gen Next Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626403/2025-26-Bowman-Gen-Next-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625918,
+      "name": "2025-26 Bowman - Greatness Loading",
+      "short": "Greatness Loading",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625918/2025-26-Bowman-Greatness-Loading",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627025,
+      "name": "2025-26 Bowman - Greatness Loading Aqua Refractor",
+      "short": "Greatness Loading Aqua Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627025/2025-26-Bowman-Greatness-Loading-Aqua-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627033,
+      "name": "2025-26 Bowman - Greatness Loading Black Geometric",
+      "short": "Greatness Loading Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627033/2025-26-Bowman-Greatness-Loading-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627023,
+      "name": "2025-26 Bowman - Greatness Loading Fuchsia Refractor",
+      "short": "Greatness Loading Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627023/2025-26-Bowman-Greatness-Loading-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627021,
+      "name": "2025-26 Bowman - Greatness Loading Geometric Refractor",
+      "short": "Greatness Loading Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627021/2025-26-Bowman-Greatness-Loading-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627031,
+      "name": "2025-26 Bowman - Greatness Loading Gold Geometric",
+      "short": "Greatness Loading Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627031/2025-26-Bowman-Greatness-Loading-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627027,
+      "name": "2025-26 Bowman - Greatness Loading Gold Refractor",
+      "short": "Greatness Loading Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627027/2025-26-Bowman-Greatness-Loading-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627026,
+      "name": "2025-26 Bowman - Greatness Loading Green Refractor",
+      "short": "Greatness Loading Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627026/2025-26-Bowman-Greatness-Loading-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627024,
+      "name": "2025-26 Bowman - Greatness Loading Mini-Diamond Refractor",
+      "short": "Greatness Loading Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627024/2025-26-Bowman-Greatness-Loading-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627032,
+      "name": "2025-26 Bowman - Greatness Loading Orange Geometric",
+      "short": "Greatness Loading Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627032/2025-26-Bowman-Greatness-Loading-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627028,
+      "name": "2025-26 Bowman - Greatness Loading Orange Refractor",
+      "short": "Greatness Loading Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627028/2025-26-Bowman-Greatness-Loading-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627022,
+      "name": "2025-26 Bowman - Greatness Loading Purple Refractor",
+      "short": "Greatness Loading Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627022/2025-26-Bowman-Greatness-Loading-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627034,
+      "name": "2025-26 Bowman - Greatness Loading Red Geometric",
+      "short": "Greatness Loading Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627034/2025-26-Bowman-Greatness-Loading-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627029,
+      "name": "2025-26 Bowman - Greatness Loading Red Refractor",
+      "short": "Greatness Loading Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627029/2025-26-Bowman-Greatness-Loading-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627020,
+      "name": "2025-26 Bowman - Greatness Loading Refractor",
+      "short": "Greatness Loading Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627020/2025-26-Bowman-Greatness-Loading-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627030,
+      "name": "2025-26 Bowman - Greatness Loading Superfractor",
+      "short": "Greatness Loading Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627030/2025-26-Bowman-Greatness-Loading-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626034,
+      "name": "2025-26 Bowman - Hobby Stars",
+      "short": "Hobby Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626034/2025-26-Bowman-Hobby-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626980,
+      "name": "2025-26 Bowman - Hobby Stars Aqua Refractor",
+      "short": "Hobby Stars Aqua Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626980/2025-26-Bowman-Hobby-Stars-Aqua-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626988,
+      "name": "2025-26 Bowman - Hobby Stars Black Geometric",
+      "short": "Hobby Stars Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626988/2025-26-Bowman-Hobby-Stars-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626978,
+      "name": "2025-26 Bowman - Hobby Stars Fuchsia Refractor",
+      "short": "Hobby Stars Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626978/2025-26-Bowman-Hobby-Stars-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626976,
+      "name": "2025-26 Bowman - Hobby Stars Geometric Refractor",
+      "short": "Hobby Stars Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626976/2025-26-Bowman-Hobby-Stars-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626986,
+      "name": "2025-26 Bowman - Hobby Stars Gold Geometric",
+      "short": "Hobby Stars Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626986/2025-26-Bowman-Hobby-Stars-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626982,
+      "name": "2025-26 Bowman - Hobby Stars Gold Refractor",
+      "short": "Hobby Stars Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626982/2025-26-Bowman-Hobby-Stars-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626981,
+      "name": "2025-26 Bowman - Hobby Stars Green Refractor",
+      "short": "Hobby Stars Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626981/2025-26-Bowman-Hobby-Stars-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626979,
+      "name": "2025-26 Bowman - Hobby Stars Mini-Diamond Refractor",
+      "short": "Hobby Stars Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626979/2025-26-Bowman-Hobby-Stars-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626987,
+      "name": "2025-26 Bowman - Hobby Stars Orange Geometric",
+      "short": "Hobby Stars Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626987/2025-26-Bowman-Hobby-Stars-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626983,
+      "name": "2025-26 Bowman - Hobby Stars Orange Refractor",
+      "short": "Hobby Stars Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626983/2025-26-Bowman-Hobby-Stars-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626977,
+      "name": "2025-26 Bowman - Hobby Stars Purple Refractor",
+      "short": "Hobby Stars Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626977/2025-26-Bowman-Hobby-Stars-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626989,
+      "name": "2025-26 Bowman - Hobby Stars Red Geometric",
+      "short": "Hobby Stars Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626989/2025-26-Bowman-Hobby-Stars-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626984,
+      "name": "2025-26 Bowman - Hobby Stars Red Refractor",
+      "short": "Hobby Stars Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626984/2025-26-Bowman-Hobby-Stars-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626975,
+      "name": "2025-26 Bowman - Hobby Stars Refractor",
+      "short": "Hobby Stars Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626975/2025-26-Bowman-Hobby-Stars-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626985,
+      "name": "2025-26 Bowman - Hobby Stars SuperFractor",
+      "short": "Hobby Stars SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626985/2025-26-Bowman-Hobby-Stars-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627080,
+      "name": "2025-26 Bowman - Mega Prospects",
+      "short": "Mega Prospects",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627080/2025-26-Bowman-Mega-Prospects",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627086,
+      "name": "2025-26 Bowman - Mega Prospects Black Mojo",
+      "short": "Mega Prospects Black Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627086/2025-26-Bowman-Mega-Prospects-Black-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627081,
+      "name": "2025-26 Bowman - Mega Prospects Blue Mojo",
+      "short": "Mega Prospects Blue Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627081/2025-26-Bowman-Mega-Prospects-Blue-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627084,
+      "name": "2025-26 Bowman - Mega Prospects Gold Mojo",
+      "short": "Mega Prospects Gold Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627084/2025-26-Bowman-Mega-Prospects-Gold-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627082,
+      "name": "2025-26 Bowman - Mega Prospects Green Mojo",
+      "short": "Mega Prospects Green Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627082/2025-26-Bowman-Mega-Prospects-Green-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627085,
+      "name": "2025-26 Bowman - Mega Prospects Orange Mojo",
+      "short": "Mega Prospects Orange Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627085/2025-26-Bowman-Mega-Prospects-Orange-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627087,
+      "name": "2025-26 Bowman - Mega Prospects Red Mojo",
+      "short": "Mega Prospects Red Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627087/2025-26-Bowman-Mega-Prospects-Red-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627088,
+      "name": "2025-26 Bowman - Mega Prospects Rose Gold Mojo",
+      "short": "Mega Prospects Rose Gold Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627088/2025-26-Bowman-Mega-Prospects-Rose-Gold-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627083,
+      "name": "2025-26 Bowman - Mega Prospects Yellow Mojo",
+      "short": "Mega Prospects Yellow Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627083/2025-26-Bowman-Mega-Prospects-Yellow-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627070,
+      "name": "2025-26 Bowman - Mega Rookies",
+      "short": "Mega Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627070/2025-26-Bowman-Mega-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627076,
+      "name": "2025-26 Bowman - Mega Rookies Black Mojo",
+      "short": "Mega Rookies Black Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627076/2025-26-Bowman-Mega-Rookies-Black-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627071,
+      "name": "2025-26 Bowman - Mega Rookies Blue Mojo",
+      "short": "Mega Rookies Blue Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627071/2025-26-Bowman-Mega-Rookies-Blue-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627074,
+      "name": "2025-26 Bowman - Mega Rookies Gold Mojo",
+      "short": "Mega Rookies Gold Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627074/2025-26-Bowman-Mega-Rookies-Gold-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627072,
+      "name": "2025-26 Bowman - Mega Rookies Green Mojo",
+      "short": "Mega Rookies Green Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627072/2025-26-Bowman-Mega-Rookies-Green-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627075,
+      "name": "2025-26 Bowman - Mega Rookies Orange Mojo",
+      "short": "Mega Rookies Orange Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627075/2025-26-Bowman-Mega-Rookies-Orange-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627077,
+      "name": "2025-26 Bowman - Mega Rookies Red Mojo",
+      "short": "Mega Rookies Red Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627077/2025-26-Bowman-Mega-Rookies-Red-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627078,
+      "name": "2025-26 Bowman - Mega Rookies Rose Gold Mojo",
+      "short": "Mega Rookies Rose Gold Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627078/2025-26-Bowman-Mega-Rookies-Rose-Gold-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627073,
+      "name": "2025-26 Bowman - Mega Rookies Yellow Mojo",
+      "short": "Mega Rookies Yellow Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627073/2025-26-Bowman-Mega-Rookies-Yellow-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626314,
+      "name": "2025-26 Bowman - Opening Statement Signatures",
+      "short": "Opening Statement Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626314/2025-26-Bowman-Opening-Statement-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626311,
+      "name": "2025-26 Bowman - Opening Statement Signatures Black Refractor",
+      "short": "Opening Statement Signatures Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626311/2025-26-Bowman-Opening-Statement-Signatures-Black-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626309,
+      "name": "2025-26 Bowman - Opening Statement Signatures Gold Refractor",
+      "short": "Opening Statement Signatures Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626309/2025-26-Bowman-Opening-Statement-Signatures-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626310,
+      "name": "2025-26 Bowman - Opening Statement Signatures Orange Refractor",
+      "short": "Opening Statement Signatures Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626310/2025-26-Bowman-Opening-Statement-Signatures-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626312,
+      "name": "2025-26 Bowman - Opening Statement Signatures Red Refractor",
+      "short": "Opening Statement Signatures Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626312/2025-26-Bowman-Opening-Statement-Signatures-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626313,
+      "name": "2025-26 Bowman - Opening Statement Signatures SuperFractor",
+      "short": "Opening Statement Signatures SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626313/2025-26-Bowman-Opening-Statement-Signatures-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626323,
+      "name": "2025-26 Bowman - Prospect Autographs",
+      "short": "Prospect Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626323/2025-26-Bowman-Prospect-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626324,
+      "name": "2025-26 Bowman - Prospect Autographs Blue Border",
+      "short": "Prospect Autographs Blue Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626324/2025-26-Bowman-Prospect-Autographs-Blue-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626326,
+      "name": "2025-26 Bowman - Prospect Autographs Gold Border",
+      "short": "Prospect Autographs Gold Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626326/2025-26-Bowman-Prospect-Autographs-Gold-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626325,
+      "name": "2025-26 Bowman - Prospect Autographs Green Border",
+      "short": "Prospect Autographs Green Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626325/2025-26-Bowman-Prospect-Autographs-Green-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626327,
+      "name": "2025-26 Bowman - Prospect Autographs Orange Border",
+      "short": "Prospect Autographs Orange Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626327/2025-26-Bowman-Prospect-Autographs-Orange-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626329,
+      "name": "2025-26 Bowman - Prospect Autographs Platinum Border",
+      "short": "Prospect Autographs Platinum Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626329/2025-26-Bowman-Prospect-Autographs-Platinum-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626328,
+      "name": "2025-26 Bowman - Prospect Autographs Red Border",
+      "short": "Prospect Autographs Red Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626328/2025-26-Bowman-Prospect-Autographs-Red-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624158,
+      "name": "2025-26 Bowman - Prospects",
+      "short": "Prospects",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624158/2025-26-Bowman-Prospects",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624169,
+      "name": "2025-26 Bowman - Prospects Black Border",
+      "short": "Prospects Black Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624169/2025-26-Bowman-Prospects-Black-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624170,
+      "name": "2025-26 Bowman - Prospects Black Pattern Border",
+      "short": "Prospects Black Pattern Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624170/2025-26-Bowman-Prospects-Black-Pattern-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624162,
+      "name": "2025-26 Bowman - Prospects Blue Border",
+      "short": "Prospects Blue Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624162/2025-26-Bowman-Prospects-Blue-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624161,
+      "name": "2025-26 Bowman - Prospects Blue Pattern",
+      "short": "Prospects Blue Pattern",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624161/2025-26-Bowman-Prospects-Blue-Pattern",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624163,
+      "name": "2025-26 Bowman - Prospects Bowman Logo Pattern Parallel",
+      "short": "Prospects Bowman Logo Pattern Parallel",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624163/2025-26-Bowman-Prospects-Bowman-Logo-Pattern-Parallel",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624167,
+      "name": "2025-26 Bowman - Prospects Gold Border",
+      "short": "Prospects Gold Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624167/2025-26-Bowman-Prospects-Gold-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624164,
+      "name": "2025-26 Bowman - Prospects Green Border",
+      "short": "Prospects Green Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624164/2025-26-Bowman-Prospects-Green-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624165,
+      "name": "2025-26 Bowman - Prospects Green Pattern Border",
+      "short": "Prospects Green Pattern Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624165/2025-26-Bowman-Prospects-Green-Pattern-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624168,
+      "name": "2025-26 Bowman - Prospects Orange Border",
+      "short": "Prospects Orange Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624168/2025-26-Bowman-Prospects-Orange-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624160,
+      "name": "2025-26 Bowman - Prospects Pink Border",
+      "short": "Prospects Pink Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624160/2025-26-Bowman-Prospects-Pink-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624172,
+      "name": "2025-26 Bowman - Prospects Platinum Border",
+      "short": "Prospects Platinum Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624172/2025-26-Bowman-Prospects-Platinum-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624159,
+      "name": "2025-26 Bowman - Prospects Purple Pattern Border",
+      "short": "Prospects Purple Pattern Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624159/2025-26-Bowman-Prospects-Purple-Pattern-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624171,
+      "name": "2025-26 Bowman - Prospects Red Border",
+      "short": "Prospects Red Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624171/2025-26-Bowman-Prospects-Red-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 624166,
+      "name": "2025-26 Bowman - Prospects Yellow Border",
+      "short": "Prospects Yellow Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624166/2025-26-Bowman-Prospects-Yellow-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625800,
+      "name": "2025-26 Bowman - Retrofractor Autographs Gold Refractor",
+      "short": "Retrofractor Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625800/2025-26-Bowman-Retrofractor-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625801,
+      "name": "2025-26 Bowman - Retrofractor Autographs Orange Refractor",
+      "short": "Retrofractor Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625801/2025-26-Bowman-Retrofractor-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625802,
+      "name": "2025-26 Bowman - Retrofractor Autographs Red Refractor",
+      "short": "Retrofractor Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625802/2025-26-Bowman-Retrofractor-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625803,
+      "name": "2025-26 Bowman - Retrofractor Autographs Superfractor",
+      "short": "Retrofractor Autographs Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625803/2025-26-Bowman-Retrofractor-Autographs-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626018,
+      "name": "2025-26 Bowman - Rockstar Rookies",
+      "short": "Rockstar Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626018/2025-26-Bowman-Rockstar-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627010,
+      "name": "2025-26 Bowman - Rockstar Rookies Aqua Refractor",
+      "short": "Rockstar Rookies Aqua Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627010/2025-26-Bowman-Rockstar-Rookies-Aqua-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627018,
+      "name": "2025-26 Bowman - Rockstar Rookies Black Geometric",
+      "short": "Rockstar Rookies Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627018/2025-26-Bowman-Rockstar-Rookies-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627008,
+      "name": "2025-26 Bowman - Rockstar Rookies Fuchsia Refractor",
+      "short": "Rockstar Rookies Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627008/2025-26-Bowman-Rockstar-Rookies-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627006,
+      "name": "2025-26 Bowman - Rockstar Rookies Geometric Refractor",
+      "short": "Rockstar Rookies Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627006/2025-26-Bowman-Rockstar-Rookies-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627016,
+      "name": "2025-26 Bowman - Rockstar Rookies Gold Geometric",
+      "short": "Rockstar Rookies Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627016/2025-26-Bowman-Rockstar-Rookies-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627012,
+      "name": "2025-26 Bowman - Rockstar Rookies Gold Refractor",
+      "short": "Rockstar Rookies Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627012/2025-26-Bowman-Rockstar-Rookies-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627011,
+      "name": "2025-26 Bowman - Rockstar Rookies Green Refractor",
+      "short": "Rockstar Rookies Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627011/2025-26-Bowman-Rockstar-Rookies-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627009,
+      "name": "2025-26 Bowman - Rockstar Rookies Mini-Diamond Refractor",
+      "short": "Rockstar Rookies Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627009/2025-26-Bowman-Rockstar-Rookies-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627017,
+      "name": "2025-26 Bowman - Rockstar Rookies Orange Geometric",
+      "short": "Rockstar Rookies Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627017/2025-26-Bowman-Rockstar-Rookies-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627013,
+      "name": "2025-26 Bowman - Rockstar Rookies Orange Refractor",
+      "short": "Rockstar Rookies Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627013/2025-26-Bowman-Rockstar-Rookies-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627007,
+      "name": "2025-26 Bowman - Rockstar Rookies Purple Refractor",
+      "short": "Rockstar Rookies Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627007/2025-26-Bowman-Rockstar-Rookies-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627019,
+      "name": "2025-26 Bowman - Rockstar Rookies Red Geometric",
+      "short": "Rockstar Rookies Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627019/2025-26-Bowman-Rockstar-Rookies-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627014,
+      "name": "2025-26 Bowman - Rockstar Rookies Red Refractor",
+      "short": "Rockstar Rookies Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627014/2025-26-Bowman-Rockstar-Rookies-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627005,
+      "name": "2025-26 Bowman - Rockstar Rookies Refractor",
+      "short": "Rockstar Rookies Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627005/2025-26-Bowman-Rockstar-Rookies-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627015,
+      "name": "2025-26 Bowman - Rockstar Rookies Superfractor",
+      "short": "Rockstar Rookies Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627015/2025-26-Bowman-Rockstar-Rookies-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626045,
+      "name": "2025-26 Bowman - Rookie and Veteran Autographs",
+      "short": "Rookie and Veteran Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626045/2025-26-Bowman-Rookie-and-Veteran-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626332,
+      "name": "2025-26 Bowman - Rookie and Veteran Autographs Blue Border",
+      "short": "Rookie and Veteran Autographs Blue Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626332/2025-26-Bowman-Rookie-and-Veteran-Autographs-Blue-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626334,
+      "name": "2025-26 Bowman - Rookie and Veteran Autographs Gold Border",
+      "short": "Rookie and Veteran Autographs Gold Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626334/2025-26-Bowman-Rookie-and-Veteran-Autographs-Gold-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626333,
+      "name": "2025-26 Bowman - Rookie and Veteran Autographs Green Border",
+      "short": "Rookie and Veteran Autographs Green Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626333/2025-26-Bowman-Rookie-and-Veteran-Autographs-Green-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626335,
+      "name": "2025-26 Bowman - Rookie and Veteran Autographs Orange Border",
+      "short": "Rookie and Veteran Autographs Orange Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626335/2025-26-Bowman-Rookie-and-Veteran-Autographs-Orange-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626337,
+      "name": "2025-26 Bowman - Rookie and Veteran Autographs Platinum Border",
+      "short": "Rookie and Veteran Autographs Platinum Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626337/2025-26-Bowman-Rookie-and-Veteran-Autographs-Platinum-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626336,
+      "name": "2025-26 Bowman - Rookie and Veteran Autographs Red Border",
+      "short": "Rookie and Veteran Autographs Red Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626336/2025-26-Bowman-Rookie-and-Veteran-Autographs-Red-Border",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625885,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites",
+      "short": "Rookie of the Year Favorites",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625885/2025-26-Bowman-Rookie-of-the-Year-Favorites",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626965,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Aqua Refractor",
+      "short": "Rookie of the Year Favorites Aqua Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626965/2025-26-Bowman-Rookie-of-the-Year-Favorites-Aqua-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626973,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Black Geometric",
+      "short": "Rookie of the Year Favorites Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626973/2025-26-Bowman-Rookie-of-the-Year-Favorites-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626963,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Fuchsia Refractor",
+      "short": "Rookie of the Year Favorites Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626963/2025-26-Bowman-Rookie-of-the-Year-Favorites-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626961,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Geometric Refractor",
+      "short": "Rookie of the Year Favorites Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626961/2025-26-Bowman-Rookie-of-the-Year-Favorites-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626971,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Gold Geometric",
+      "short": "Rookie of the Year Favorites Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626971/2025-26-Bowman-Rookie-of-the-Year-Favorites-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626967,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Gold Refractor",
+      "short": "Rookie of the Year Favorites Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626967/2025-26-Bowman-Rookie-of-the-Year-Favorites-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626966,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Green Refractor",
+      "short": "Rookie of the Year Favorites Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626966/2025-26-Bowman-Rookie-of-the-Year-Favorites-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626964,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Mini-Diamond Refractor",
+      "short": "Rookie of the Year Favorites Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626964/2025-26-Bowman-Rookie-of-the-Year-Favorites-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626972,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Orange Geometric",
+      "short": "Rookie of the Year Favorites Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626972/2025-26-Bowman-Rookie-of-the-Year-Favorites-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626968,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Orange Refractor",
+      "short": "Rookie of the Year Favorites Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626968/2025-26-Bowman-Rookie-of-the-Year-Favorites-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626962,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Purple Refractor",
+      "short": "Rookie of the Year Favorites Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626962/2025-26-Bowman-Rookie-of-the-Year-Favorites-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626974,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Red Geometric",
+      "short": "Rookie of the Year Favorites Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626974/2025-26-Bowman-Rookie-of-the-Year-Favorites-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626969,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Red Refractor",
+      "short": "Rookie of the Year Favorites Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626969/2025-26-Bowman-Rookie-of-the-Year-Favorites-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626960,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites Refractor",
+      "short": "Rookie of the Year Favorites Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626960/2025-26-Bowman-Rookie-of-the-Year-Favorites-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626970,
+      "name": "2025-26 Bowman - Rookie of the Year Favorites SuperFractor",
+      "short": "Rookie of the Year Favorites SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626970/2025-26-Bowman-Rookie-of-the-Year-Favorites-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625883,
+      "name": "2025-26 Bowman - Talent Tracker",
+      "short": "Talent Tracker",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625883/2025-26-Bowman-Talent-Tracker",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626358,
+      "name": "2025-26 Bowman - Talent Tracker Aqua Refractor",
+      "short": "Talent Tracker Aqua Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626358/2025-26-Bowman-Talent-Tracker-Aqua-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626365,
+      "name": "2025-26 Bowman - Talent Tracker Black Geometric",
+      "short": "Talent Tracker Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626365/2025-26-Bowman-Talent-Tracker-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626356,
+      "name": "2025-26 Bowman - Talent Tracker Fuchsia Refractor",
+      "short": "Talent Tracker Fuchsia Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626356/2025-26-Bowman-Talent-Tracker-Fuchsia-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626354,
+      "name": "2025-26 Bowman - Talent Tracker Geometric Refractor",
+      "short": "Talent Tracker Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626354/2025-26-Bowman-Talent-Tracker-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626362,
+      "name": "2025-26 Bowman - Talent Tracker Gold Geometric",
+      "short": "Talent Tracker Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626362/2025-26-Bowman-Talent-Tracker-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626361,
+      "name": "2025-26 Bowman - Talent Tracker Gold Refractor",
+      "short": "Talent Tracker Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626361/2025-26-Bowman-Talent-Tracker-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626360,
+      "name": "2025-26 Bowman - Talent Tracker Green Refractor",
+      "short": "Talent Tracker Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626360/2025-26-Bowman-Talent-Tracker-Green-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626357,
+      "name": "2025-26 Bowman - Talent Tracker Mini-Diamond Refractor",
+      "short": "Talent Tracker Mini-Diamond Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626357/2025-26-Bowman-Talent-Tracker-Mini-Diamond-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626364,
+      "name": "2025-26 Bowman - Talent Tracker Orange Geometric",
+      "short": "Talent Tracker Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626364/2025-26-Bowman-Talent-Tracker-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626363,
+      "name": "2025-26 Bowman - Talent Tracker Orange Refractor",
+      "short": "Talent Tracker Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626363/2025-26-Bowman-Talent-Tracker-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626355,
+      "name": "2025-26 Bowman - Talent Tracker Purple Refractor",
+      "short": "Talent Tracker Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626355/2025-26-Bowman-Talent-Tracker-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626367,
+      "name": "2025-26 Bowman - Talent Tracker Red Geometric",
+      "short": "Talent Tracker Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626367/2025-26-Bowman-Talent-Tracker-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626366,
+      "name": "2025-26 Bowman - Talent Tracker Red Refractor",
+      "short": "Talent Tracker Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626366/2025-26-Bowman-Talent-Tracker-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626353,
+      "name": "2025-26 Bowman - Talent Tracker Refractor",
+      "short": "Talent Tracker Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626353/2025-26-Bowman-Talent-Tracker-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626368,
+      "name": "2025-26 Bowman - Talent Tracker Superfractor",
+      "short": "Talent Tracker Superfractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626368/2025-26-Bowman-Talent-Tracker-Superfractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626316,
+      "name": "2025-26 Bowman - Timeless Touch Signatures",
+      "short": "Timeless Touch Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626316/2025-26-Bowman-Timeless-Touch-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626318,
+      "name": "2025-26 Bowman - Timeless Touch Signatures Black Refractors",
+      "short": "Timeless Touch Signatures Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626318/2025-26-Bowman-Timeless-Touch-Signatures-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626315,
+      "name": "2025-26 Bowman - Timeless Touch Signatures Gold Refractors",
+      "short": "Timeless Touch Signatures Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626315/2025-26-Bowman-Timeless-Touch-Signatures-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626317,
+      "name": "2025-26 Bowman - Timeless Touch Signatures Orange Refractors",
+      "short": "Timeless Touch Signatures Orange Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626317/2025-26-Bowman-Timeless-Touch-Signatures-Orange-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626319,
+      "name": "2025-26 Bowman - Timeless Touch Signatures Red Refractors",
+      "short": "Timeless Touch Signatures Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626319/2025-26-Bowman-Timeless-Touch-Signatures-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626320,
+      "name": "2025-26 Bowman - Timeless Touch Signatures SuperFractors",
+      "short": "Timeless Touch Signatures SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626320/2025-26-Bowman-Timeless-Touch-Signatures-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625975,
+      "name": "2025-26 Bowman - Very Important Prospects",
+      "short": "Very Important Prospects",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625975/2025-26-Bowman-Very-Important-Prospects",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626414,
+      "name": "2025-26 Bowman - Very Important Prospects Aqua Refractors",
+      "short": "Very Important Prospects Aqua Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626414/2025-26-Bowman-Very-Important-Prospects-Aqua-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626422,
+      "name": "2025-26 Bowman - Very Important Prospects Black Geometric",
+      "short": "Very Important Prospects Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626422/2025-26-Bowman-Very-Important-Prospects-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626412,
+      "name": "2025-26 Bowman - Very Important Prospects Fuchsia Refractors",
+      "short": "Very Important Prospects Fuchsia Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626412/2025-26-Bowman-Very-Important-Prospects-Fuchsia-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626409,
+      "name": "2025-26 Bowman - Very Important Prospects Geometric Refractors",
+      "short": "Very Important Prospects Geometric Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626409/2025-26-Bowman-Very-Important-Prospects-Geometric-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626420,
+      "name": "2025-26 Bowman - Very Important Prospects Gold Geometric",
+      "short": "Very Important Prospects Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626420/2025-26-Bowman-Very-Important-Prospects-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626416,
+      "name": "2025-26 Bowman - Very Important Prospects Gold Refractors",
+      "short": "Very Important Prospects Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626416/2025-26-Bowman-Very-Important-Prospects-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626415,
+      "name": "2025-26 Bowman - Very Important Prospects Green Refractors",
+      "short": "Very Important Prospects Green Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626415/2025-26-Bowman-Very-Important-Prospects-Green-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626413,
+      "name": "2025-26 Bowman - Very Important Prospects Mini-Diamond Refractors",
+      "short": "Very Important Prospects Mini-Diamond Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626413/2025-26-Bowman-Very-Important-Prospects-Mini-Diamond-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626421,
+      "name": "2025-26 Bowman - Very Important Prospects Orange Geometric",
+      "short": "Very Important Prospects Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626421/2025-26-Bowman-Very-Important-Prospects-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626417,
+      "name": "2025-26 Bowman - Very Important Prospects Orange Refractors",
+      "short": "Very Important Prospects Orange Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626417/2025-26-Bowman-Very-Important-Prospects-Orange-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626410,
+      "name": "2025-26 Bowman - Very Important Prospects Purple Refractors",
+      "short": "Very Important Prospects Purple Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626410/2025-26-Bowman-Very-Important-Prospects-Purple-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626424,
+      "name": "2025-26 Bowman - Very Important Prospects Red Geometric",
+      "short": "Very Important Prospects Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626424/2025-26-Bowman-Very-Important-Prospects-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626418,
+      "name": "2025-26 Bowman - Very Important Prospects Red Refractors",
+      "short": "Very Important Prospects Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626418/2025-26-Bowman-Very-Important-Prospects-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626408,
+      "name": "2025-26 Bowman - Very Important Prospects Refractors",
+      "short": "Very Important Prospects Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626408/2025-26-Bowman-Very-Important-Prospects-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626419,
+      "name": "2025-26 Bowman - Very Important Prospects SuperFractors",
+      "short": "Very Important Prospects SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626419/2025-26-Bowman-Very-Important-Prospects-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 625978,
+      "name": "2025-26 Bowman - Young Kings",
+      "short": "Young Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/625978/2025-26-Bowman-Young-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626995,
+      "name": "2025-26 Bowman - Young Kings Aqua Refractors",
+      "short": "Young Kings Aqua Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626995/2025-26-Bowman-Young-Kings-Aqua-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627003,
+      "name": "2025-26 Bowman - Young Kings Black Geometric",
+      "short": "Young Kings Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627003/2025-26-Bowman-Young-Kings-Black-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626993,
+      "name": "2025-26 Bowman - Young Kings Fuchsia Refractors",
+      "short": "Young Kings Fuchsia Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626993/2025-26-Bowman-Young-Kings-Fuchsia-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626991,
+      "name": "2025-26 Bowman - Young Kings Geometric Refractors",
+      "short": "Young Kings Geometric Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626991/2025-26-Bowman-Young-Kings-Geometric-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627001,
+      "name": "2025-26 Bowman - Young Kings Gold Geometric",
+      "short": "Young Kings Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627001/2025-26-Bowman-Young-Kings-Gold-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626997,
+      "name": "2025-26 Bowman - Young Kings Gold Refractors",
+      "short": "Young Kings Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626997/2025-26-Bowman-Young-Kings-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626996,
+      "name": "2025-26 Bowman - Young Kings Green Refractors",
+      "short": "Young Kings Green Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626996/2025-26-Bowman-Young-Kings-Green-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626994,
+      "name": "2025-26 Bowman - Young Kings Mini-Diamond Refractors",
+      "short": "Young Kings Mini-Diamond Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626994/2025-26-Bowman-Young-Kings-Mini-Diamond-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627002,
+      "name": "2025-26 Bowman - Young Kings Orange Geometric",
+      "short": "Young Kings Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627002/2025-26-Bowman-Young-Kings-Orange-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626998,
+      "name": "2025-26 Bowman - Young Kings Orange Refractors",
+      "short": "Young Kings Orange Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626998/2025-26-Bowman-Young-Kings-Orange-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626992,
+      "name": "2025-26 Bowman - Young Kings Purple Refractors",
+      "short": "Young Kings Purple Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626992/2025-26-Bowman-Young-Kings-Purple-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627004,
+      "name": "2025-26 Bowman - Young Kings Red Geometric",
+      "short": "Young Kings Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627004/2025-26-Bowman-Young-Kings-Red-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626999,
+      "name": "2025-26 Bowman - Young Kings Red Refractors",
+      "short": "Young Kings Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626999/2025-26-Bowman-Young-Kings-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 626990,
+      "name": "2025-26 Bowman - Young Kings Refractors",
+      "short": "Young Kings Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/626990/2025-26-Bowman-Young-Kings-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 627000,
+      "name": "2025-26 Bowman - Young Kings SuperFractors",
+      "short": "Young Kings SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/627000/2025-26-Bowman-Young-Kings-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 623452,
+      "name": "2025-26 Bowman - Black Border",
+      "short": "Black Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623452/2025-26-Bowman-Black-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623454,
+      "name": "2025-26 Bowman - Black Pattern Border",
+      "short": "Black Pattern Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623454/2025-26-Bowman-Black-Pattern-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623439,
+      "name": "2025-26 Bowman - Blue Border",
+      "short": "Blue Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623439/2025-26-Bowman-Blue-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623441,
+      "name": "2025-26 Bowman - Blue Pattern",
+      "short": "Blue Pattern",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623441/2025-26-Bowman-Blue-Pattern",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623442,
+      "name": "2025-26 Bowman - Bowman Logo Pattern",
+      "short": "Bowman Logo Pattern",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623442/2025-26-Bowman-Bowman-Logo-Pattern",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623463,
+      "name": "2025-26 Bowman - Chrome",
+      "short": "Chrome",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623463/2025-26-Bowman-Chrome",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623472,
+      "name": "2025-26 Bowman - Chrome Aqua Mojo Refractors",
+      "short": "Chrome Aqua Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623472/2025-26-Bowman-Chrome-Aqua-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623512,
+      "name": "2025-26 Bowman - Chrome Black Geometric",
+      "short": "Chrome Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623512/2025-26-Bowman-Chrome-Black-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623510,
+      "name": "2025-26 Bowman - Chrome Black Refractors",
+      "short": "Chrome Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623510/2025-26-Bowman-Chrome-Black-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623511,
+      "name": "2025-26 Bowman - Chrome Black X-Fractors",
+      "short": "Chrome Black X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623511/2025-26-Bowman-Chrome-Black-X-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623471,
+      "name": "2025-26 Bowman - Chrome Blue Mojo Refractors",
+      "short": "Chrome Blue Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623471/2025-26-Bowman-Chrome-Blue-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623487,
+      "name": "2025-26 Bowman - Chrome Blue Refractors",
+      "short": "Chrome Blue Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623487/2025-26-Bowman-Chrome-Blue-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623488,
+      "name": "2025-26 Bowman - Chrome Blue Shimmer",
+      "short": "Chrome Blue Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623488/2025-26-Bowman-Chrome-Blue-Shimmer",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623467,
+      "name": "2025-26 Bowman - Chrome Burgundy Mojo Refractors",
+      "short": "Chrome Burgundy Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623467/2025-26-Bowman-Chrome-Burgundy-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623518,
+      "name": "2025-26 Bowman - Chrome FireFractors",
+      "short": "Chrome FireFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623518/2025-26-Bowman-Chrome-FireFractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623490,
+      "name": "2025-26 Bowman - Chrome Floorboard Refractors",
+      "short": "Chrome Floorboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623490/2025-26-Bowman-Chrome-Floorboard-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623466,
+      "name": "2025-26 Bowman - Chrome Fuchsia Mojo Refractors",
+      "short": "Chrome Fuchsia Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623466/2025-26-Bowman-Chrome-Fuchsia-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623485,
+      "name": "2025-26 Bowman - Chrome Fuchsia Refractors",
+      "short": "Chrome Fuchsia Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623485/2025-26-Bowman-Chrome-Fuchsia-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623464,
+      "name": "2025-26 Bowman - Chrome Geometric",
+      "short": "Chrome Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623464/2025-26-Bowman-Chrome-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623502,
+      "name": "2025-26 Bowman - Chrome Gold Geometric",
+      "short": "Chrome Gold Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623502/2025-26-Bowman-Chrome-Gold-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623475,
+      "name": "2025-26 Bowman - Chrome Gold Mojo Refractors",
+      "short": "Chrome Gold Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623475/2025-26-Bowman-Chrome-Gold-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623499,
+      "name": "2025-26 Bowman - Chrome Gold Refractors",
+      "short": "Chrome Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623499/2025-26-Bowman-Chrome-Gold-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623500,
+      "name": "2025-26 Bowman - Chrome Gold Shimmer Refractors",
+      "short": "Chrome Gold Shimmer Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623500/2025-26-Bowman-Chrome-Gold-Shimmer-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623495,
+      "name": "2025-26 Bowman - Chrome Green Geometric",
+      "short": "Chrome Green Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623495/2025-26-Bowman-Chrome-Green-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623473,
+      "name": "2025-26 Bowman - Chrome Green Mojo Refractors",
+      "short": "Chrome Green Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623473/2025-26-Bowman-Chrome-Green-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623492,
+      "name": "2025-26 Bowman - Chrome Green Refractors",
+      "short": "Chrome Green Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623492/2025-26-Bowman-Chrome-Green-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623494,
+      "name": "2025-26 Bowman - Chrome Green Shimmer Refractors",
+      "short": "Chrome Green Shimmer Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623494/2025-26-Bowman-Chrome-Green-Shimmer-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623482,
+      "name": "2025-26 Bowman - Chrome Lava Refractors",
+      "short": "Chrome Lava Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623482/2025-26-Bowman-Chrome-Lava-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623480,
+      "name": "2025-26 Bowman - Chrome Mini-Diamond Refractors",
+      "short": "Chrome Mini-Diamond Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623480/2025-26-Bowman-Chrome-Mini-Diamond-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623465,
+      "name": "2025-26 Bowman - Chrome Mojo Refractors",
+      "short": "Chrome Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623465/2025-26-Bowman-Chrome-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623470,
+      "name": "2025-26 Bowman - Chrome Navy Mojo Refractors",
+      "short": "Chrome Navy Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623470/2025-26-Bowman-Chrome-Navy-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623506,
+      "name": "2025-26 Bowman - Chrome Orange Geometric",
+      "short": "Chrome Orange Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623506/2025-26-Bowman-Chrome-Orange-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623476,
+      "name": "2025-26 Bowman - Chrome Orange Mojo Refractors",
+      "short": "Chrome Orange Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623476/2025-26-Bowman-Chrome-Orange-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623503,
+      "name": "2025-26 Bowman - Chrome Orange Refractors",
+      "short": "Chrome Orange Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623503/2025-26-Bowman-Chrome-Orange-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623504,
+      "name": "2025-26 Bowman - Chrome Orange Shimmer Refractors",
+      "short": "Chrome Orange Shimmer Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623504/2025-26-Bowman-Chrome-Orange-Shimmer-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623469,
+      "name": "2025-26 Bowman - Chrome Pink Mojo Refractors",
+      "short": "Chrome Pink Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623469/2025-26-Bowman-Chrome-Pink-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623468,
+      "name": "2025-26 Bowman - Chrome Purple Mojo Refractors",
+      "short": "Chrome Purple Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623468/2025-26-Bowman-Chrome-Purple-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623484,
+      "name": "2025-26 Bowman - Chrome Purple Refractors",
+      "short": "Chrome Purple Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623484/2025-26-Bowman-Chrome-Purple-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623517,
+      "name": "2025-26 Bowman - Chrome Red Geometric",
+      "short": "Chrome Red Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623517/2025-26-Bowman-Chrome-Red-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623514,
+      "name": "2025-26 Bowman - Chrome Red Lava Refractors",
+      "short": "Chrome Red Lava Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623514/2025-26-Bowman-Chrome-Red-Lava-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623477,
+      "name": "2025-26 Bowman - Chrome Red Mojo Refractors",
+      "short": "Chrome Red Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623477/2025-26-Bowman-Chrome-Red-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623513,
+      "name": "2025-26 Bowman - Chrome Red Refractors",
+      "short": "Chrome Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623513/2025-26-Bowman-Chrome-Red-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623515,
+      "name": "2025-26 Bowman - Chrome Red X-Fractors",
+      "short": "Chrome Red X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623515/2025-26-Bowman-Chrome-Red-X-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623481,
+      "name": "2025-26 Bowman - Chrome Refractors",
+      "short": "Chrome Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623481/2025-26-Bowman-Chrome-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623489,
+      "name": "2025-26 Bowman - Chrome Reptilian Blue Refractors",
+      "short": "Chrome Reptilian Blue Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623489/2025-26-Bowman-Chrome-Reptilian-Blue-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623486,
+      "name": "2025-26 Bowman - Chrome Reptilian Fuchsia Refractors",
+      "short": "Chrome Reptilian Fuchsia Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623486/2025-26-Bowman-Chrome-Reptilian-Fuchsia-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623501,
+      "name": "2025-26 Bowman - Chrome Reptilian Gold Refractors",
+      "short": "Chrome Reptilian Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623501/2025-26-Bowman-Chrome-Reptilian-Gold-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623493,
+      "name": "2025-26 Bowman - Chrome Reptilian Green Refractors",
+      "short": "Chrome Reptilian Green Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623493/2025-26-Bowman-Chrome-Reptilian-Green-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623505,
+      "name": "2025-26 Bowman - Chrome Reptilian Orange Refractors",
+      "short": "Chrome Reptilian Orange Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623505/2025-26-Bowman-Chrome-Reptilian-Orange-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623516,
+      "name": "2025-26 Bowman - Chrome Reptilian Red Refractors",
+      "short": "Chrome Reptilian Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623516/2025-26-Bowman-Chrome-Reptilian-Red-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623479,
+      "name": "2025-26 Bowman - Chrome Reptilian Refractors",
+      "short": "Chrome Reptilian Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623479/2025-26-Bowman-Chrome-Reptilian-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 624135,
+      "name": "2025-26 Bowman - Chrome Rookie Red RC Logo",
+      "short": "Chrome Rookie Red RC Logo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624135/2025-26-Bowman-Chrome-Rookie-Red-RC-Logo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623508,
+      "name": "2025-26 Bowman - Chrome Rose Gold Mini-Diamond Refractors",
+      "short": "Chrome Rose Gold Mini-Diamond Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623508/2025-26-Bowman-Chrome-Rose-Gold-Mini-Diamond-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623478,
+      "name": "2025-26 Bowman - Chrome Rose Gold Mojo Refractors",
+      "short": "Chrome Rose Gold Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623478/2025-26-Bowman-Chrome-Rose-Gold-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623507,
+      "name": "2025-26 Bowman - Chrome Rose Gold Refractors",
+      "short": "Chrome Rose Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623507/2025-26-Bowman-Chrome-Rose-Gold-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623509,
+      "name": "2025-26 Bowman - Chrome Rose Gold X-Fractors",
+      "short": "Chrome Rose Gold X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623509/2025-26-Bowman-Chrome-Rose-Gold-X-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623483,
+      "name": "2025-26 Bowman - Chrome Speckle Refractors",
+      "short": "Chrome Speckle Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623483/2025-26-Bowman-Chrome-Speckle-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623491,
+      "name": "2025-26 Bowman - Chrome Steel Metal Refractors",
+      "short": "Chrome Steel Metal Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623491/2025-26-Bowman-Chrome-Steel-Metal-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623519,
+      "name": "2025-26 Bowman - Chrome SuperFractors",
+      "short": "Chrome SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623519/2025-26-Bowman-Chrome-SuperFractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623474,
+      "name": "2025-26 Bowman - Chrome Yellow Mojo Refractors",
+      "short": "Chrome Yellow Mojo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623474/2025-26-Bowman-Chrome-Yellow-Mojo-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623496,
+      "name": "2025-26 Bowman - Chrome Yellow Refractors",
+      "short": "Chrome Yellow Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623496/2025-26-Bowman-Chrome-Yellow-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623497,
+      "name": "2025-26 Bowman - Chrome Yellow Wave Refractors",
+      "short": "Chrome Yellow Wave Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623497/2025-26-Bowman-Chrome-Yellow-Wave-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623498,
+      "name": "2025-26 Bowman - Chrome Yellow X-Fractors",
+      "short": "Chrome Yellow X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623498/2025-26-Bowman-Chrome-Yellow-X-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 624136,
+      "name": "2025-26 Bowman - Etched In Glass Variations",
+      "short": "Etched In Glass Variations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624136/2025-26-Bowman-Etched-In-Glass-Variations",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623449,
+      "name": "2025-26 Bowman - Gold Border",
+      "short": "Gold Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623449/2025-26-Bowman-Gold-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623444,
+      "name": "2025-26 Bowman - Green Border",
+      "short": "Green Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623444/2025-26-Bowman-Green-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623446,
+      "name": "2025-26 Bowman - Green Pattern Border",
+      "short": "Green Pattern Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623446/2025-26-Bowman-Green-Pattern-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623451,
+      "name": "2025-26 Bowman - Orange Border",
+      "short": "Orange Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623451/2025-26-Bowman-Orange-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623438,
+      "name": "2025-26 Bowman - Pink Border",
+      "short": "Pink Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623438/2025-26-Bowman-Pink-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623457,
+      "name": "2025-26 Bowman - Platinum Border",
+      "short": "Platinum Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623457/2025-26-Bowman-Platinum-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623436,
+      "name": "2025-26 Bowman - Purple Pattern Border",
+      "short": "Purple Pattern Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623436/2025-26-Bowman-Purple-Pattern-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623455,
+      "name": "2025-26 Bowman - Red Border",
+      "short": "Red Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623455/2025-26-Bowman-Red-Border",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 624137,
+      "name": "2025-26 Bowman - Retrofractor Variations",
+      "short": "Retrofractor Variations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624137/2025-26-Bowman-Retrofractor-Variations",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 624138,
+      "name": "2025-26 Bowman - Retrofractor Variations Gold Refractors",
+      "short": "Retrofractor Variations Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624138/2025-26-Bowman-Retrofractor-Variations-Gold-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 624140,
+      "name": "2025-26 Bowman - Retrofractor Variations Orange Refractors",
+      "short": "Retrofractor Variations Orange Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624140/2025-26-Bowman-Retrofractor-Variations-Orange-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 624141,
+      "name": "2025-26 Bowman - Retrofractor Variations Red Refractors",
+      "short": "Retrofractor Variations Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624141/2025-26-Bowman-Retrofractor-Variations-Red-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 624142,
+      "name": "2025-26 Bowman - Retrofractor Variations SuperFractors",
+      "short": "Retrofractor Variations SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/624142/2025-26-Bowman-Retrofractor-Variations-SuperFractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 623447,
+      "name": "2025-26 Bowman - Yellow Border",
+      "short": "Yellow Border",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/623447/2025-26-Bowman-Yellow-Border",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 11,
+  "imported_this_run": [
+    {
+      "source_set_id": 623455,
+      "name": "Red Border",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 623449,
+      "name": "Gold Border",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 623452,
+      "name": "Black Border",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 623457,
+      "name": "Platinum Border",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 623454,
+      "name": "Black Pattern Border",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 623517,
+      "name": "Chrome Red Geometric",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 625799,
+      "name": "Future Script",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 625770,
+      "name": "Chrome Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 9,
+      "missing_fronts": 89
+    },
+    {
+      "source_set_id": 626323,
+      "name": "Prospect Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 626339,
+      "name": "Bowman Dual Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 626307,
+      "name": "Buzz Factor Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 626316,
+      "name": "Timeless Touch Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 8,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 623463,
+      "name": "Chrome",
+      "family_requested": "parallel",
+      "cards_with_front": 137,
+      "missing_fronts": 63
+    },
+    {
+      "source_set_id": 625976,
+      "name": "GPK NBA",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 625977,
+      "name": "GPK NIL",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 1
+    },
+    {
+      "source_set_id": 625970,
+      "name": "Gen Next",
+      "family_requested": "insert",
+      "cards_with_front": 21,
+      "missing_fronts": 4
+    },
+    {
+      "source_set_id": 623439,
+      "name": "Blue Border",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 623441,
+      "name": "Blue Pattern",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 623444,
+      "name": "Green Border",
+      "family_requested": "numbered",
+      "cards_with_front": 4,
+      "missing_fronts": 196
+    },
+    {
+      "source_set_id": 623488,
+      "name": "Chrome Blue Shimmer",
+      "family_requested": "numbered",
+      "cards_with_front": 5,
+      "missing_fronts": 195
+    }
+  ],
+  "import_errors": [],
+  "card_count": 388,
+  "before_tiers": {
+    "rookie": 54,
+    "base": 146
+  },
+  "tiers": {
+    "rookie": 54,
+    "base": 146,
+    "numbered_low": 4,
+    "auto": 17,
+    "parallel": 137,
+    "insert": 24,
+    "numbered": 9
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "rookie": 1,
+    "base": 7,
+    "numbered_low": 4,
+    "auto": 17,
+    "parallel": 137,
+    "insert": 24,
+    "numbered": 9
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 146,
+      "available_cards": 146,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 54,
+      "available_cards": 54,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 130
+    },
+    "auto": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 102
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 137,
+      "available_cards": 137,
+      "local_images": 137,
+      "source_candidates": 78
+    },
+    "insert": {
+      "status": "available",
+      "records": 24,
+      "available_cards": 24,
+      "local_images": 24,
+      "source_candidates": 258
+    },
+    "numbered": {
+      "status": "available",
+      "records": 9,
+      "available_cards": 9,
+      "local_images": 9,
+      "source_candidates": 123
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 3
+}

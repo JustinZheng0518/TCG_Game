@@ -1,0 +1,890 @@
+{
+  "set_id": "BB478481",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/478481/2023-24-Finest",
+  "headings": [
+    "Insert Sets (78)",
+    "Parallel Sets (14)"
+  ],
+  "subset_count": 92,
+  "subsets": [
+    {
+      "source_set_id": 487235,
+      "name": "2023-24 Finest - Arrivals",
+      "short": "Arrivals",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487235/2023-24-Finest-Arrivals",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496392,
+      "name": "2023-24 Finest - Arrivals Black Refractors",
+      "short": "Arrivals Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496392/2023-24-Finest-Arrivals-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496387,
+      "name": "2023-24 Finest - Arrivals Blue Checkerboard Refractors",
+      "short": "Arrivals Blue Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496387/2023-24-Finest-Arrivals-Blue-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496386,
+      "name": "2023-24 Finest - Arrivals Blue Refractors",
+      "short": "Arrivals Blue Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496386/2023-24-Finest-Arrivals-Blue-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496385,
+      "name": "2023-24 Finest - Arrivals Checkerboard Refractors",
+      "short": "Arrivals Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496385/2023-24-Finest-Arrivals-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496390,
+      "name": "2023-24 Finest - Arrivals Gold Refractors",
+      "short": "Arrivals Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496390/2023-24-Finest-Arrivals-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496388,
+      "name": "2023-24 Finest - Arrivals Purple Checkerboard Refractors",
+      "short": "Arrivals Purple Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496388/2023-24-Finest-Arrivals-Purple-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496391,
+      "name": "2023-24 Finest - Arrivals Red Refractors",
+      "short": "Arrivals Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496391/2023-24-Finest-Arrivals-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496384,
+      "name": "2023-24 Finest - Arrivals Refractors",
+      "short": "Arrivals Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496384/2023-24-Finest-Arrivals-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496389,
+      "name": "2023-24 Finest - Arrivals Refractors Die Cut",
+      "short": "Arrivals Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496389/2023-24-Finest-Arrivals-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496393,
+      "name": "2023-24 Finest - Arrivals SuperFractors",
+      "short": "Arrivals SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496393/2023-24-Finest-Arrivals-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487236,
+      "name": "2023-24 Finest - Centurions",
+      "short": "Centurions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487236/2023-24-Finest-Centurions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487237,
+      "name": "2023-24 Finest - Debut",
+      "short": "Debut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487237/2023-24-Finest-Debut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496403,
+      "name": "2023-24 Finest - Debut Black Refractors",
+      "short": "Debut Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496403/2023-24-Finest-Debut-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496399,
+      "name": "2023-24 Finest - Debut Blue Checkerboard Refractors",
+      "short": "Debut Blue Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496399/2023-24-Finest-Debut-Blue-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496400,
+      "name": "2023-24 Finest - Debut Blue Refractors",
+      "short": "Debut Blue Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496400/2023-24-Finest-Debut-Blue-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496397,
+      "name": "2023-24 Finest - Debut Checkerboard Refractors",
+      "short": "Debut Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496397/2023-24-Finest-Debut-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496402,
+      "name": "2023-24 Finest - Debut Gold Refractors",
+      "short": "Debut Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496402/2023-24-Finest-Debut-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496398,
+      "name": "2023-24 Finest - Debut Purple Checkerboard Refractors",
+      "short": "Debut Purple Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496398/2023-24-Finest-Debut-Purple-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496404,
+      "name": "2023-24 Finest - Debut Red Refractors",
+      "short": "Debut Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496404/2023-24-Finest-Debut-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496396,
+      "name": "2023-24 Finest - Debut Refractors",
+      "short": "Debut Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496396/2023-24-Finest-Debut-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496401,
+      "name": "2023-24 Finest - Debut Refractors Die Cut",
+      "short": "Debut Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496401/2023-24-Finest-Debut-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496405,
+      "name": "2023-24 Finest - Debut SuperFractors",
+      "short": "Debut SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496405/2023-24-Finest-Debut-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487241,
+      "name": "2023-24 Finest - Finest Autographs",
+      "short": "Finest Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487241/2023-24-Finest-Finest-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496430,
+      "name": "2023-24 Finest - Finest Autographs Black Refractors",
+      "short": "Finest Autographs Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496430/2023-24-Finest-Finest-Autographs-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 550406,
+      "name": "2023-24 Finest - Finest Autographs Blue Geometric Refractors",
+      "short": "Finest Autographs Blue Geometric Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550406/2023-24-Finest-Finest-Autographs-Blue-Geometric-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496429,
+      "name": "2023-24 Finest - Finest Autographs Gold Refractors",
+      "short": "Finest Autographs Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496429/2023-24-Finest-Finest-Autographs-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496431,
+      "name": "2023-24 Finest - Finest Autographs Red & Black Vapor Refractors",
+      "short": "Finest Autographs Red & Black Vapor Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496431/2023-24-Finest-Finest-Autographs-Red-Black-Vapor-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496433,
+      "name": "2023-24 Finest - Finest Autographs Red Refractors",
+      "short": "Finest Autographs Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496433/2023-24-Finest-Finest-Autographs-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 488779,
+      "name": "2023-24 Finest - Finest Autographs Refractors",
+      "short": "Finest Autographs Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/488779/2023-24-Finest-Finest-Autographs-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496434,
+      "name": "2023-24 Finest - Finest Autographs SuperFractors",
+      "short": "Finest Autographs SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496434/2023-24-Finest-Finest-Autographs-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487238,
+      "name": "2023-24 Finest - Finishers",
+      "short": "Finishers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487238/2023-24-Finest-Finishers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496416,
+      "name": "2023-24 Finest - Finishers Black Refractors",
+      "short": "Finishers Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496416/2023-24-Finest-Finishers-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496412,
+      "name": "2023-24 Finest - Finishers Blue Checkerboard Refractors",
+      "short": "Finishers Blue Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496412/2023-24-Finest-Finishers-Blue-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496413,
+      "name": "2023-24 Finest - Finishers Blue Refractors",
+      "short": "Finishers Blue Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496413/2023-24-Finest-Finishers-Blue-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496410,
+      "name": "2023-24 Finest - Finishers Checkerboard Refractors",
+      "short": "Finishers Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496410/2023-24-Finest-Finishers-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496415,
+      "name": "2023-24 Finest - Finishers Gold Refractors",
+      "short": "Finishers Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496415/2023-24-Finest-Finishers-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496411,
+      "name": "2023-24 Finest - Finishers Purple Checkerboard Refractors",
+      "short": "Finishers Purple Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496411/2023-24-Finest-Finishers-Purple-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496417,
+      "name": "2023-24 Finest - Finishers Red Refractors",
+      "short": "Finishers Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496417/2023-24-Finest-Finishers-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496409,
+      "name": "2023-24 Finest - Finishers Refractors",
+      "short": "Finishers Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496409/2023-24-Finest-Finishers-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496414,
+      "name": "2023-24 Finest - Finishers Refractors Die Cut",
+      "short": "Finishers Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496414/2023-24-Finest-Finishers-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496418,
+      "name": "2023-24 Finest - Finishers SuperFractors",
+      "short": "Finishers SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496418/2023-24-Finest-Finishers-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487242,
+      "name": "2023-24 Finest - Flashback Autographs",
+      "short": "Flashback Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487242/2023-24-Finest-Flashback-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496440,
+      "name": "2023-24 Finest - Flashback Autographs Black Refractors",
+      "short": "Flashback Autographs Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496440/2023-24-Finest-Flashback-Autographs-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 557413,
+      "name": "2023-24 Finest - Flashback Autographs Blue Geometric",
+      "short": "Flashback Autographs Blue Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/557413/2023-24-Finest-Flashback-Autographs-Blue-Geometric",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496439,
+      "name": "2023-24 Finest - Flashback Autographs Gold Refractors",
+      "short": "Flashback Autographs Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496439/2023-24-Finest-Flashback-Autographs-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496441,
+      "name": "2023-24 Finest - Flashback Autographs Red & Black Vapor Refractors",
+      "short": "Flashback Autographs Red & Black Vapor Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496441/2023-24-Finest-Flashback-Autographs-Red-Black-Vapor-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496442,
+      "name": "2023-24 Finest - Flashback Autographs Red Refractors",
+      "short": "Flashback Autographs Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496442/2023-24-Finest-Flashback-Autographs-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496438,
+      "name": "2023-24 Finest - Flashback Autographs Refractors",
+      "short": "Flashback Autographs Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496438/2023-24-Finest-Flashback-Autographs-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496443,
+      "name": "2023-24 Finest - Flashback Autographs SuperFractors",
+      "short": "Flashback Autographs SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496443/2023-24-Finest-Flashback-Autographs-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487243,
+      "name": "2023-24 Finest - Masters Autographs",
+      "short": "Masters Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487243/2023-24-Finest-Masters-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496446,
+      "name": "2023-24 Finest - Masters Autographs Black Refractors",
+      "short": "Masters Autographs Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496446/2023-24-Finest-Masters-Autographs-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 511695,
+      "name": "2023-24 Finest - Masters Autographs Blue Geo Refractors",
+      "short": "Masters Autographs Blue Geo Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/511695/2023-24-Finest-Masters-Autographs-Blue-Geo-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496445,
+      "name": "2023-24 Finest - Masters Autographs Gold Refractors",
+      "short": "Masters Autographs Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496445/2023-24-Finest-Masters-Autographs-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496447,
+      "name": "2023-24 Finest - Masters Autographs Red & Black Vapor Refractors",
+      "short": "Masters Autographs Red & Black Vapor Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496447/2023-24-Finest-Masters-Autographs-Red-Black-Vapor-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496448,
+      "name": "2023-24 Finest - Masters Autographs Red Refractors",
+      "short": "Masters Autographs Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496448/2023-24-Finest-Masters-Autographs-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496444,
+      "name": "2023-24 Finest - Masters Autographs Refractors",
+      "short": "Masters Autographs Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496444/2023-24-Finest-Masters-Autographs-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496449,
+      "name": "2023-24 Finest - Masters Autographs SuperFractors",
+      "short": "Masters Autographs SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496449/2023-24-Finest-Masters-Autographs-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487244,
+      "name": "2023-24 Finest - Rookie Finest Autographs",
+      "short": "Rookie Finest Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487244/2023-24-Finest-Rookie-Finest-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496452,
+      "name": "2023-24 Finest - Rookie Finest Autographs Black Refractors",
+      "short": "Rookie Finest Autographs Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496452/2023-24-Finest-Rookie-Finest-Autographs-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 579861,
+      "name": "2023-24 Finest - Rookie Finest Autographs Blue Geometric Refractors",
+      "short": "Rookie Finest Autographs Blue Geometric Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/579861/2023-24-Finest-Rookie-Finest-Autographs-Blue-Geometric-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496451,
+      "name": "2023-24 Finest - Rookie Finest Autographs Gold Refractors",
+      "short": "Rookie Finest Autographs Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496451/2023-24-Finest-Rookie-Finest-Autographs-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496453,
+      "name": "2023-24 Finest - Rookie Finest Autographs Red & Black Vapor Refractors",
+      "short": "Rookie Finest Autographs Red & Black Vapor Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496453/2023-24-Finest-Rookie-Finest-Autographs-Red-Black-Vapor-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496454,
+      "name": "2023-24 Finest - Rookie Finest Autographs Red Refractors",
+      "short": "Rookie Finest Autographs Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496454/2023-24-Finest-Rookie-Finest-Autographs-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496450,
+      "name": "2023-24 Finest - Rookie Finest Autographs Refractors",
+      "short": "Rookie Finest Autographs Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496450/2023-24-Finest-Rookie-Finest-Autographs-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496455,
+      "name": "2023-24 Finest - Rookie Finest Autographs SuperFractors",
+      "short": "Rookie Finest Autographs SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496455/2023-24-Finest-Rookie-Finest-Autographs-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487240,
+      "name": "2023-24 Finest - Showstoppers",
+      "short": "Showstoppers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487240/2023-24-Finest-Showstoppers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496426,
+      "name": "2023-24 Finest - Showstoppers Black Refractors",
+      "short": "Showstoppers Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496426/2023-24-Finest-Showstoppers-Black-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496422,
+      "name": "2023-24 Finest - Showstoppers Blue Checkerboard Refractors",
+      "short": "Showstoppers Blue Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496422/2023-24-Finest-Showstoppers-Blue-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496423,
+      "name": "2023-24 Finest - Showstoppers Blue Refractors",
+      "short": "Showstoppers Blue Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496423/2023-24-Finest-Showstoppers-Blue-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496420,
+      "name": "2023-24 Finest - Showstoppers Checkerboard Refractors",
+      "short": "Showstoppers Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496420/2023-24-Finest-Showstoppers-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496424,
+      "name": "2023-24 Finest - Showstoppers Gold Refractors",
+      "short": "Showstoppers Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496424/2023-24-Finest-Showstoppers-Gold-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496421,
+      "name": "2023-24 Finest - Showstoppers Purple Checkerboard Refractors",
+      "short": "Showstoppers Purple Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496421/2023-24-Finest-Showstoppers-Purple-Checkerboard-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496425,
+      "name": "2023-24 Finest - Showstoppers Red Refractors",
+      "short": "Showstoppers Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496425/2023-24-Finest-Showstoppers-Red-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496419,
+      "name": "2023-24 Finest - Showstoppers Refractors",
+      "short": "Showstoppers Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496419/2023-24-Finest-Showstoppers-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496427,
+      "name": "2023-24 Finest - Showstoppers Refractors Die Cut",
+      "short": "Showstoppers Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496427/2023-24-Finest-Showstoppers-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 496428,
+      "name": "2023-24 Finest - Showstoppers SuperFractors",
+      "short": "Showstoppers SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/496428/2023-24-Finest-Showstoppers-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 487239,
+      "name": "2023-24 Finest - The Man",
+      "short": "The Man",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487239/2023-24-Finest-The-Man",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 564387,
+      "name": "2023-24 Finest - Black Geometric",
+      "short": "Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/564387/2023-24-Finest-Black-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487254,
+      "name": "2023-24 Finest - Black Refractors",
+      "short": "Black Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487254/2023-24-Finest-Black-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487249,
+      "name": "2023-24 Finest - Blue Checkerboard Refractors",
+      "short": "Blue Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487249/2023-24-Finest-Blue-Checkerboard-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487248,
+      "name": "2023-24 Finest - Blue Refractors",
+      "short": "Blue Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487248/2023-24-Finest-Blue-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487246,
+      "name": "2023-24 Finest - Checkerboard Refractors",
+      "short": "Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487246/2023-24-Finest-Checkerboard-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 494311,
+      "name": "2023-24 Finest - Gold Geometric Refractors",
+      "short": "Gold Geometric Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/494311/2023-24-Finest-Gold-Geometric-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487252,
+      "name": "2023-24 Finest - Gold Refractors",
+      "short": "Gold Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487252/2023-24-Finest-Gold-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487250,
+      "name": "2023-24 Finest - Purple Checkerboard Refractors",
+      "short": "Purple Checkerboard Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487250/2023-24-Finest-Purple-Checkerboard-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487258,
+      "name": "2023-24 Finest - Red Refractors",
+      "short": "Red Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487258/2023-24-Finest-Red-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 564379,
+      "name": "2023-24 Finest - Red/Black Geometric",
+      "short": "Red/Black Geometric",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/564379/2023-24-Finest-Red-Black-Geometric",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487257,
+      "name": "2023-24 Finest - Red/Black Vapor Refractors",
+      "short": "Red/Black Vapor Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487257/2023-24-Finest-Red-Black-Vapor-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487247,
+      "name": "2023-24 Finest - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487247/2023-24-Finest-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487251,
+      "name": "2023-24 Finest - Refractors Die Cut",
+      "short": "Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487251/2023-24-Finest-Refractors-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 487260,
+      "name": "2023-24 Finest - SuperFractors",
+      "short": "SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/487260/2023-24-Finest-SuperFractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 14,
+  "imported_this_run": [
+    {
+      "source_set_id": 487258,
+      "name": "Red Refractors",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 299
+    },
+    {
+      "source_set_id": 487260,
+      "name": "SuperFractors",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 299
+    },
+    {
+      "source_set_id": 564387,
+      "name": "Black Geometric",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 297
+    },
+    {
+      "source_set_id": 487252,
+      "name": "Gold Refractors",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 295
+    },
+    {
+      "source_set_id": 487254,
+      "name": "Black Refractors",
+      "family_requested": "numbered_low",
+      "cards_with_front": 8,
+      "missing_fronts": 292
+    },
+    {
+      "source_set_id": 496405,
+      "name": "Debut SuperFractors",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 30
+    },
+    {
+      "source_set_id": 487241,
+      "name": "Finest Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 48
+    },
+    {
+      "source_set_id": 487243,
+      "name": "Masters Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 50
+    },
+    {
+      "source_set_id": 487242,
+      "name": "Flashback Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 50
+    },
+    {
+      "source_set_id": 487244,
+      "name": "Rookie Finest Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 46
+    },
+    {
+      "source_set_id": 496434,
+      "name": "Finest Autographs SuperFractors",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 51
+    },
+    {
+      "source_set_id": 496449,
+      "name": "Masters Autographs SuperFractors",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 50
+    },
+    {
+      "source_set_id": 487247,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 10,
+      "missing_fronts": 290
+    },
+    {
+      "source_set_id": 487248,
+      "name": "Blue Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 6,
+      "missing_fronts": 94
+    },
+    {
+      "source_set_id": 487237,
+      "name": "Debut",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 487239,
+      "name": "The Man",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 487235,
+      "name": "Arrivals",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 487238,
+      "name": "Finishers",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 7
+    },
+    {
+      "source_set_id": 487236,
+      "name": "Centurions",
+      "family_requested": "insert",
+      "cards_with_front": 4,
+      "missing_fronts": 16
+    }
+  ],
+  "import_errors": [],
+  "card_count": 333,
+  "before_tiers": {
+    "base": 208,
+    "rookie": 68
+  },
+  "tiers": {
+    "base": 208,
+    "rookie": 68,
+    "numbered_low": 2,
+    "numbered": 22,
+    "auto": 7,
+    "parallel": 10,
+    "insert": 16
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 3,
+    "numbered_low": 2,
+    "numbered": 22,
+    "auto": 7,
+    "parallel": 10,
+    "insert": 16
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 208,
+      "available_cards": 208,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 68,
+      "available_cards": 68,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 2,
+      "available_cards": 2,
+      "local_images": 2,
+      "source_candidates": 24
+    },
+    "auto": {
+      "status": "available",
+      "records": 7,
+      "available_cards": 7,
+      "local_images": 7,
+      "source_candidates": 32
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 10,
+      "available_cards": 10,
+      "local_images": 10,
+      "source_candidates": 14
+    },
+    "insert": {
+      "status": "available",
+      "records": 16,
+      "available_cards": 16,
+      "local_images": 16,
+      "source_candidates": 46
+    },
+    "numbered": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 23
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

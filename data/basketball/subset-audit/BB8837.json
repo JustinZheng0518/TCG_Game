@@ -1,0 +1,619 @@
+{
+  "set_id": "BB8837",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/8837/2008-09-Bowman",
+  "headings": [
+    "Insert Sets (32)",
+    "Parallel Sets (19)"
+  ],
+  "subset_count": 51,
+  "subsets": [
+    {
+      "source_set_id": 31584,
+      "name": "2008-09 Bowman - Destination Letterman",
+      "short": "Destination Letterman",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31584/2008-09-Bowman-Destination-Letterman",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 223211,
+      "name": "2008-09 Bowman - Destination Letterman Autographs",
+      "short": "Destination Letterman Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/223211/2008-09-Bowman-Destination-Letterman-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31586,
+      "name": "2008-09 Bowman - Destination Tags",
+      "short": "Destination Tags",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31586/2008-09-Bowman-Destination-Tags",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31587,
+      "name": "2008-09 Bowman - Destination Tags Autographs",
+      "short": "Destination Tags Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31587/2008-09-Bowman-Destination-Tags-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31588,
+      "name": "2008-09 Bowman - Draft Day Issue Logoman",
+      "short": "Draft Day Issue Logoman",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31588/2008-09-Bowman-Draft-Day-Issue-Logoman",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31589,
+      "name": "2008-09 Bowman - Draft Day Issue Logoman Autographs",
+      "short": "Draft Day Issue Logoman Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31589/2008-09-Bowman-Draft-Day-Issue-Logoman-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31590,
+      "name": "2008-09 Bowman - Draft Day Issue Relics",
+      "short": "Draft Day Issue Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31590/2008-09-Bowman-Draft-Day-Issue-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31591,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Autographs",
+      "short": "Draft Day Issue Relics Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31591/2008-09-Bowman-Draft-Day-Issue-Relics-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31592,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Autographs Blue",
+      "short": "Draft Day Issue Relics Autographs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31592/2008-09-Bowman-Draft-Day-Issue-Relics-Autographs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31593,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Autographs Gold",
+      "short": "Draft Day Issue Relics Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31593/2008-09-Bowman-Draft-Day-Issue-Relics-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31594,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Autographs Orange",
+      "short": "Draft Day Issue Relics Autographs Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31594/2008-09-Bowman-Draft-Day-Issue-Relics-Autographs-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31595,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Autographs Red",
+      "short": "Draft Day Issue Relics Autographs Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31595/2008-09-Bowman-Draft-Day-Issue-Relics-Autographs-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31596,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Blue",
+      "short": "Draft Day Issue Relics Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31596/2008-09-Bowman-Draft-Day-Issue-Relics-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31597,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos",
+      "short": "Draft Day Issue Relics Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31597/2008-09-Bowman-Draft-Day-Issue-Relics-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31598,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Autographs",
+      "short": "Draft Day Issue Relics Combos Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31598/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31599,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Autographs Blue",
+      "short": "Draft Day Issue Relics Combos Autographs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31599/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Autographs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31600,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Autographs Gold",
+      "short": "Draft Day Issue Relics Combos Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31600/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31601,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Autographs Orange",
+      "short": "Draft Day Issue Relics Combos Autographs Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31601/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Autographs-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31602,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Autographs Red",
+      "short": "Draft Day Issue Relics Combos Autographs Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31602/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Autographs-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31603,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Blue",
+      "short": "Draft Day Issue Relics Combos Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31603/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31604,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Gold",
+      "short": "Draft Day Issue Relics Combos Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31604/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31605,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Orange",
+      "short": "Draft Day Issue Relics Combos Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31605/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31606,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Combos Red",
+      "short": "Draft Day Issue Relics Combos Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31606/2008-09-Bowman-Draft-Day-Issue-Relics-Combos-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31607,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Gold",
+      "short": "Draft Day Issue Relics Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31607/2008-09-Bowman-Draft-Day-Issue-Relics-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31608,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Orange",
+      "short": "Draft Day Issue Relics Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31608/2008-09-Bowman-Draft-Day-Issue-Relics-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31609,
+      "name": "2008-09 Bowman - Draft Day Issue Relics Red",
+      "short": "Draft Day Issue Relics Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31609/2008-09-Bowman-Draft-Day-Issue-Relics-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31617,
+      "name": "2008-09 Bowman - Relics",
+      "short": "Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31617/2008-09-Bowman-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31618,
+      "name": "2008-09 Bowman - Relics Blue",
+      "short": "Relics Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31618/2008-09-Bowman-Relics-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31619,
+      "name": "2008-09 Bowman - Relics Gold",
+      "short": "Relics Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31619/2008-09-Bowman-Relics-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31620,
+      "name": "2008-09 Bowman - Relics Orange",
+      "short": "Relics Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31620/2008-09-Bowman-Relics-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31621,
+      "name": "2008-09 Bowman - Relics Red",
+      "short": "Relics Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31621/2008-09-Bowman-Relics-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 153131,
+      "name": "2008-09 Bowman - Retail Relics",
+      "short": "Retail Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/153131/2008-09-Bowman-Retail-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 31572,
+      "name": "2008-09 Bowman - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31572/2008-09-Bowman-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31573,
+      "name": "2008-09 Bowman - Chrome",
+      "short": "Chrome",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31573/2008-09-Bowman-Chrome",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31574,
+      "name": "2008-09 Bowman - Chrome Press Plates Black",
+      "short": "Chrome Press Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31574/2008-09-Bowman-Chrome-Press-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31575,
+      "name": "2008-09 Bowman - Chrome Press Plates Cyan",
+      "short": "Chrome Press Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31575/2008-09-Bowman-Chrome-Press-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31576,
+      "name": "2008-09 Bowman - Chrome Press Plates Magenta",
+      "short": "Chrome Press Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31576/2008-09-Bowman-Chrome-Press-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31577,
+      "name": "2008-09 Bowman - Chrome Press Plates Yellow",
+      "short": "Chrome Press Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31577/2008-09-Bowman-Chrome-Press-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31578,
+      "name": "2008-09 Bowman - Chrome Refractors",
+      "short": "Chrome Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31578/2008-09-Bowman-Chrome-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31579,
+      "name": "2008-09 Bowman - Chrome Refractors Blue",
+      "short": "Chrome Refractors Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31579/2008-09-Bowman-Chrome-Refractors-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31580,
+      "name": "2008-09 Bowman - Chrome Refractors Gold",
+      "short": "Chrome Refractors Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31580/2008-09-Bowman-Chrome-Refractors-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31581,
+      "name": "2008-09 Bowman - Chrome Refractors Red",
+      "short": "Chrome Refractors Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31581/2008-09-Bowman-Chrome-Refractors-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31582,
+      "name": "2008-09 Bowman - Chrome Superfractors",
+      "short": "Chrome Superfractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31582/2008-09-Bowman-Chrome-Superfractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31583,
+      "name": "2008-09 Bowman - Chrome X-Fractors",
+      "short": "Chrome X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31583/2008-09-Bowman-Chrome-X-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31610,
+      "name": "2008-09 Bowman - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31610/2008-09-Bowman-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31611,
+      "name": "2008-09 Bowman - Orange",
+      "short": "Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31611/2008-09-Bowman-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31612,
+      "name": "2008-09 Bowman - Press Plates Black",
+      "short": "Press Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31612/2008-09-Bowman-Press-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31613,
+      "name": "2008-09 Bowman - Press Plates Cyan",
+      "short": "Press Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31613/2008-09-Bowman-Press-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31614,
+      "name": "2008-09 Bowman - Press Plates Magenta",
+      "short": "Press Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31614/2008-09-Bowman-Press-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31615,
+      "name": "2008-09 Bowman - Press Plates Yellow",
+      "short": "Press Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31615/2008-09-Bowman-Press-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 31616,
+      "name": "2008-09 Bowman - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/31616/2008-09-Bowman-Red",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 8,
+  "imported_this_run": [
+    {
+      "source_set_id": 31610,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 9,
+      "missing_fronts": 141
+    },
+    {
+      "source_set_id": 31616,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 149
+    },
+    {
+      "source_set_id": 31612,
+      "name": "Press Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 150
+    },
+    {
+      "source_set_id": 31582,
+      "name": "Chrome Superfractors",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 183
+    },
+    {
+      "source_set_id": 31581,
+      "name": "Chrome Refractors Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 179
+    },
+    {
+      "source_set_id": 31580,
+      "name": "Chrome Refractors Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 13,
+      "missing_fronts": 170
+    },
+    {
+      "source_set_id": 31587,
+      "name": "Destination Tags Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 223211,
+      "name": "Destination Letterman Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 73
+    },
+    {
+      "source_set_id": 31589,
+      "name": "Draft Day Issue Logoman Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 31617,
+      "name": "Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 30,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 31591,
+      "name": "Draft Day Issue Relics Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 31594,
+      "name": "Draft Day Issue Relics Autographs Orange",
+      "family_requested": "auto_patch",
+      "cards_with_front": 1,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 31598,
+      "name": "Draft Day Issue Relics Combos Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 31601,
+      "name": "Draft Day Issue Relics Combos Autographs Orange",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 31595,
+      "name": "Draft Day Issue Relics Autographs Red",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 31592,
+      "name": "Draft Day Issue Relics Autographs Blue",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 31572,
+      "name": "Blue",
+      "family_requested": "parallel",
+      "cards_with_front": 121,
+      "missing_fronts": 29
+    },
+    {
+      "source_set_id": 31573,
+      "name": "Chrome",
+      "family_requested": "parallel",
+      "cards_with_front": 145,
+      "missing_fronts": 38
+    },
+    {
+      "source_set_id": 31586,
+      "name": "Destination Tags",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 5
+    },
+    {
+      "source_set_id": 31584,
+      "name": "Destination Letterman",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 31
+    },
+    {
+      "source_set_id": 31588,
+      "name": "Draft Day Issue Logoman",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 5
+    }
+  ],
+  "import_errors": [],
+  "card_count": 474,
+  "before_tiers": {
+    "base": 110,
+    "rookie": 40
+  },
+  "tiers": {
+    "base": 110,
+    "rookie": 40,
+    "numbered": 143,
+    "numbered_low": 5,
+    "memorabilia": 30,
+    "auto_patch": 1,
+    "parallel": 137,
+    "auto": 8
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "numbered": 143,
+    "numbered_low": 5,
+    "memorabilia": 30,
+    "auto_patch": 1,
+    "parallel": 137,
+    "auto": 8
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 110,
+      "available_cards": 110,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 7
+    },
+    "auto": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 8,
+      "source_candidates": 3
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 16
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 10
+    },
+    "parallel": {
+      "status": "available",
+      "records": 137,
+      "available_cards": 137,
+      "local_images": 137,
+      "source_candidates": 19
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 3
+    },
+    "numbered": {
+      "status": "available",
+      "records": 143,
+      "available_cards": 143,
+      "local_images": 143,
+      "source_candidates": 6
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

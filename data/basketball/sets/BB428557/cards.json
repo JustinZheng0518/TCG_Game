@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB428557-24572976.webp"
+    "local_preview": "data/basketball/previews/BB428557-24572976.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB428557:24572978",
@@ -50,7 +52,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24572980",
@@ -76,7 +79,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24572981",
@@ -102,7 +106,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24572988",
@@ -128,7 +133,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573003",
@@ -154,7 +160,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573005",
@@ -180,7 +187,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573008",
@@ -206,7 +214,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573049",
@@ -232,7 +241,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573058",
@@ -258,7 +268,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573071",
@@ -284,7 +295,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573075",
@@ -310,7 +322,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573121",
@@ -336,7 +349,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573123",
@@ -362,7 +376,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573128",
@@ -388,7 +403,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573134",
@@ -415,7 +431,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB428557-24573134.webp"
+    "local_preview": "data/basketball/previews/BB428557-24573134.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB428557:24573144",
@@ -441,7 +459,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573157",
@@ -467,7 +486,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573162",
@@ -493,7 +513,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573178",
@@ -520,7 +541,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB428557-24573178.webp"
+    "local_preview": "data/basketball/previews/BB428557-24573178.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB428557:24573185",
@@ -547,7 +570,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB428557-24573185.webp"
+    "local_preview": "data/basketball/previews/BB428557-24573185.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB428557:24573187",
@@ -574,7 +599,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB428557-24573187.webp"
+    "local_preview": "data/basketball/previews/BB428557-24573187.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB428557:24573246",
@@ -601,7 +628,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB428557-24573246.webp"
+    "local_preview": "data/basketball/previews/BB428557-24573246.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB428557:24573248",
@@ -627,7 +656,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB428557:24573253",
@@ -654,6 +684,66 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB428557-24573253.webp"
+    "local_preview": "data/basketball/previews/BB428557-24573253.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB428557:24578609",
+    "set_id": "BB428557",
+    "source_set_id": 428757,
+    "number": "247",
+    "name": "Norris Cole",
+    "original_name": "Norris Cole",
+    "team": "Miami Heat",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2012-13 Hoops International - Printed Golden Foil Signature",
+    "source_notes": "",
+    "year": 2012,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/428757/cid/24578609/2012-13-Hoops-International-Printed-Golden-Foil-Signature-247-Norris-Cole",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/428757/428757-24578609Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/428757/428757-24578609Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB428557-24578609.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/428757/428757-24578609Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB428557-24578609.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB428557:24573492",
+    "set_id": "BB428557",
+    "source_set_id": 428559,
+    "number": "4",
+    "name": "Dion Waiters",
+    "original_name": "Dion Waiters",
+    "team": "Cleveland Cavaliers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2012-13 Hoops International - Draft Night",
+    "source_notes": "",
+    "year": 2012,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/428559/cid/24573492/2012-13-Hoops-International-Draft-Night-4-Dion-Waiters",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/428559/428559-24573492Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/428559/428559-24573492Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB428557-24573492.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/428559/428559-24573492Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB428557-24573492.webp",
+    "image_status": "local_verified"
   }
 ]

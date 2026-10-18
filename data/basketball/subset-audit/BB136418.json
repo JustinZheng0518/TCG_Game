@@ -1,0 +1,871 @@
+{
+  "set_id": "BB136418",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/136418/2016-17-Donruss",
+  "headings": [
+    "Insert Sets (71)",
+    "Parallel Sets (14)"
+  ],
+  "subset_count": 85,
+  "subsets": [
+    {
+      "source_set_id": 141010,
+      "name": "2016-17 Donruss - All-Stars",
+      "short": "All-Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141010/2016-17-Donruss-All-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141011,
+      "name": "2016-17 Donruss - All-Stars Press Proof",
+      "short": "All-Stars Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141011/2016-17-Donruss-All-Stars-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141013,
+      "name": "2016-17 Donruss - All-Stars Press Proof Black",
+      "short": "All-Stars Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141013/2016-17-Donruss-All-Stars-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141012,
+      "name": "2016-17 Donruss - All-Stars Press Proof Blue",
+      "short": "All-Stars Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141012/2016-17-Donruss-All-Stars-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141014,
+      "name": "2016-17 Donruss - Back to the Future Materials",
+      "short": "Back to the Future Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141014/2016-17-Donruss-Back-to-the-Future-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141015,
+      "name": "2016-17 Donruss - Back to the Future Materials Prime",
+      "short": "Back to the Future Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141015/2016-17-Donruss-Back-to-the-Future-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141016,
+      "name": "2016-17 Donruss - Court Kings",
+      "short": "Court Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141016/2016-17-Donruss-Court-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141017,
+      "name": "2016-17 Donruss - Court Kings Press Proof",
+      "short": "Court Kings Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141017/2016-17-Donruss-Court-Kings-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141020,
+      "name": "2016-17 Donruss - Court Kings Press Proof Black",
+      "short": "Court Kings Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141020/2016-17-Donruss-Court-Kings-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141019,
+      "name": "2016-17 Donruss - Court Kings Press Proof Blue",
+      "short": "Court Kings Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141019/2016-17-Donruss-Court-Kings-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141018,
+      "name": "2016-17 Donruss - Court Kings Press Proof Orange",
+      "short": "Court Kings Press Proof Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141018/2016-17-Donruss-Court-Kings-Press-Proof-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141021,
+      "name": "2016-17 Donruss - Crashers",
+      "short": "Crashers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141021/2016-17-Donruss-Crashers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141022,
+      "name": "2016-17 Donruss - Crashers Press Proof",
+      "short": "Crashers Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141022/2016-17-Donruss-Crashers-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141024,
+      "name": "2016-17 Donruss - Crashers Press Proof Black",
+      "short": "Crashers Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141024/2016-17-Donruss-Crashers-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141023,
+      "name": "2016-17 Donruss - Crashers Press Proof Blue",
+      "short": "Crashers Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141023/2016-17-Donruss-Crashers-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141025,
+      "name": "2016-17 Donruss - Dimes",
+      "short": "Dimes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141025/2016-17-Donruss-Dimes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141026,
+      "name": "2016-17 Donruss - Dimes Press Proof",
+      "short": "Dimes Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141026/2016-17-Donruss-Dimes-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141028,
+      "name": "2016-17 Donruss - Dimes Press Proof Black",
+      "short": "Dimes Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141028/2016-17-Donruss-Dimes-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141027,
+      "name": "2016-17 Donruss - Dimes Press Proof Blue",
+      "short": "Dimes Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141027/2016-17-Donruss-Dimes-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141029,
+      "name": "2016-17 Donruss - Dominator Signatures",
+      "short": "Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141029/2016-17-Donruss-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141031,
+      "name": "2016-17 Donruss - Dominator Signatures Black",
+      "short": "Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141031/2016-17-Donruss-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141030,
+      "name": "2016-17 Donruss - Dominator Signatures Gold",
+      "short": "Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141030/2016-17-Donruss-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141032,
+      "name": "2016-17 Donruss - Elite Signatures",
+      "short": "Elite Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141032/2016-17-Donruss-Elite-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141034,
+      "name": "2016-17 Donruss - Elite Signatures Black",
+      "short": "Elite Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141034/2016-17-Donruss-Elite-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141033,
+      "name": "2016-17 Donruss - Elite Signatures Green",
+      "short": "Elite Signatures Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141033/2016-17-Donruss-Elite-Signatures-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141076,
+      "name": "2016-17 Donruss - Hall Dominator Signatures",
+      "short": "Hall Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141076/2016-17-Donruss-Hall-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141078,
+      "name": "2016-17 Donruss - Hall Dominator Signatures Black",
+      "short": "Hall Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141078/2016-17-Donruss-Hall-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141077,
+      "name": "2016-17 Donruss - Hall Dominator Signatures Gold",
+      "short": "Hall Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141077/2016-17-Donruss-Hall-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141035,
+      "name": "2016-17 Donruss - Hall Kings",
+      "short": "Hall Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141035/2016-17-Donruss-Hall-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141036,
+      "name": "2016-17 Donruss - Hall Kings Press Proof",
+      "short": "Hall Kings Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141036/2016-17-Donruss-Hall-Kings-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141039,
+      "name": "2016-17 Donruss - Hall Kings Press Proof Black",
+      "short": "Hall Kings Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141039/2016-17-Donruss-Hall-Kings-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141038,
+      "name": "2016-17 Donruss - Hall Kings Press Proof Blue",
+      "short": "Hall Kings Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141038/2016-17-Donruss-Hall-Kings-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141037,
+      "name": "2016-17 Donruss - Hall Kings Press Proof Orange",
+      "short": "Hall Kings Press Proof Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141037/2016-17-Donruss-Hall-Kings-Press-Proof-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141047,
+      "name": "2016-17 Donruss - Jersey Kings",
+      "short": "Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141047/2016-17-Donruss-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141048,
+      "name": "2016-17 Donruss - Jersey Kings Prime",
+      "short": "Jersey Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141048/2016-17-Donruss-Jersey-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141045,
+      "name": "2016-17 Donruss - Jersey Series",
+      "short": "Jersey Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141045/2016-17-Donruss-Jersey-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141046,
+      "name": "2016-17 Donruss - Jersey Series Prime",
+      "short": "Jersey Series Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141046/2016-17-Donruss-Jersey-Series-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141051,
+      "name": "2016-17 Donruss - Newly Crowned Rookie Jerseys",
+      "short": "Newly Crowned Rookie Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141051/2016-17-Donruss-Newly-Crowned-Rookie-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141052,
+      "name": "2016-17 Donruss - Newly Crowned Rookie Jerseys Prime",
+      "short": "Newly Crowned Rookie Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141052/2016-17-Donruss-Newly-Crowned-Rookie-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141053,
+      "name": "2016-17 Donruss - Next Day Autographs",
+      "short": "Next Day Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141053/2016-17-Donruss-Next-Day-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141054,
+      "name": "2016-17 Donruss - Optic Preview",
+      "short": "Optic Preview",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141054/2016-17-Donruss-Optic-Preview",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141073,
+      "name": "2016-17 Donruss - Rookie Dominator Signatures",
+      "short": "Rookie Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141073/2016-17-Donruss-Rookie-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141075,
+      "name": "2016-17 Donruss - Rookie Dominator Signatures Black",
+      "short": "Rookie Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141075/2016-17-Donruss-Rookie-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141074,
+      "name": "2016-17 Donruss - Rookie Dominator Signatures Gold",
+      "short": "Rookie Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141074/2016-17-Donruss-Rookie-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141049,
+      "name": "2016-17 Donruss - Rookie Jerseys",
+      "short": "Rookie Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141049/2016-17-Donruss-Rookie-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141050,
+      "name": "2016-17 Donruss - Rookie Jerseys Prime",
+      "short": "Rookie Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141050/2016-17-Donruss-Rookie-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141040,
+      "name": "2016-17 Donruss - Rookie Kings",
+      "short": "Rookie Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141040/2016-17-Donruss-Rookie-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141041,
+      "name": "2016-17 Donruss - Rookie Kings Press Proof",
+      "short": "Rookie Kings Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141041/2016-17-Donruss-Rookie-Kings-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141044,
+      "name": "2016-17 Donruss - Rookie Kings Press Proof Black",
+      "short": "Rookie Kings Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141044/2016-17-Donruss-Rookie-Kings-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141043,
+      "name": "2016-17 Donruss - Rookie Kings Press Proof Blue",
+      "short": "Rookie Kings Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141043/2016-17-Donruss-Rookie-Kings-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141042,
+      "name": "2016-17 Donruss - Rookie Kings Press Proof Orange",
+      "short": "Rookie Kings Press Proof Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141042/2016-17-Donruss-Rookie-Kings-Press-Proof-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141055,
+      "name": "2016-17 Donruss - Rookie Materials Signatures",
+      "short": "Rookie Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141055/2016-17-Donruss-Rookie-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141056,
+      "name": "2016-17 Donruss - Rookie Materials Signatures Prime",
+      "short": "Rookie Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141056/2016-17-Donruss-Rookie-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141008,
+      "name": "2016-17 Donruss - Signature Series",
+      "short": "Signature Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141008/2016-17-Donruss-Signature-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141009,
+      "name": "2016-17 Donruss - Signature Series Gold",
+      "short": "Signature Series Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141009/2016-17-Donruss-Signature-Series-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141057,
+      "name": "2016-17 Donruss - Swatch Kings Jumbo",
+      "short": "Swatch Kings Jumbo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141057/2016-17-Donruss-Swatch-Kings-Jumbo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141058,
+      "name": "2016-17 Donruss - Swatch Kings Jumbo Prime",
+      "short": "Swatch Kings Jumbo Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141058/2016-17-Donruss-Swatch-Kings-Jumbo-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141059,
+      "name": "2016-17 Donruss - The Champ is Here",
+      "short": "The Champ is Here",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141059/2016-17-Donruss-The-Champ-is-Here",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141060,
+      "name": "2016-17 Donruss - The Champ is Here Press Proof",
+      "short": "The Champ is Here Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141060/2016-17-Donruss-The-Champ-is-Here-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141062,
+      "name": "2016-17 Donruss - The Champ is Here Press Proof Black",
+      "short": "The Champ is Here Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141062/2016-17-Donruss-The-Champ-is-Here-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141061,
+      "name": "2016-17 Donruss - The Champ is Here Press Proof Blue",
+      "short": "The Champ is Here Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141061/2016-17-Donruss-The-Champ-is-Here-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141063,
+      "name": "2016-17 Donruss - The Elite Series",
+      "short": "The Elite Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141063/2016-17-Donruss-The-Elite-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141064,
+      "name": "2016-17 Donruss - The Elite Series Press Proof",
+      "short": "The Elite Series Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141064/2016-17-Donruss-The-Elite-Series-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141066,
+      "name": "2016-17 Donruss - The Elite Series Press Proof Black",
+      "short": "The Elite Series Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141066/2016-17-Donruss-The-Elite-Series-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141065,
+      "name": "2016-17 Donruss - The Elite Series Press Proof Blue",
+      "short": "The Elite Series Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141065/2016-17-Donruss-The-Elite-Series-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141067,
+      "name": "2016-17 Donruss - The Rookies",
+      "short": "The Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141067/2016-17-Donruss-The-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141068,
+      "name": "2016-17 Donruss - The Rookies Press Proof",
+      "short": "The Rookies Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141068/2016-17-Donruss-The-Rookies-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141070,
+      "name": "2016-17 Donruss - The Rookies Press Proof Black",
+      "short": "The Rookies Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141070/2016-17-Donruss-The-Rookies-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141069,
+      "name": "2016-17 Donruss - The Rookies Press Proof Blue",
+      "short": "The Rookies Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141069/2016-17-Donruss-The-Rookies-Press-Proof-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141071,
+      "name": "2016-17 Donruss - Timeless Treasures Materials Signatures",
+      "short": "Timeless Treasures Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141071/2016-17-Donruss-Timeless-Treasures-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 141072,
+      "name": "2016-17 Donruss - Timeless Treasures Materials Signatures Prime",
+      "short": "Timeless Treasures Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141072/2016-17-Donruss-Timeless-Treasures-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 140998,
+      "name": "2016-17 Donruss - Blue Holo Laser",
+      "short": "Blue Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/140998/2016-17-Donruss-Blue-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 140996,
+      "name": "2016-17 Donruss - Green Holo Laser",
+      "short": "Green Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/140996/2016-17-Donruss-Green-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 140995,
+      "name": "2016-17 Donruss - Green and Yellow Holo Laser",
+      "short": "Green and Yellow Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/140995/2016-17-Donruss-Green-and-Yellow-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 142064,
+      "name": "2016-17 Donruss - Orange Holo Laser",
+      "short": "Orange Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/142064/2016-17-Donruss-Orange-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141007,
+      "name": "2016-17 Donruss - Press Proof Black",
+      "short": "Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141007/2016-17-Donruss-Press-Proof-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141005,
+      "name": "2016-17 Donruss - Press Proof Blue",
+      "short": "Press Proof Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141005/2016-17-Donruss-Press-Proof-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141006,
+      "name": "2016-17 Donruss - Press Proof Gold",
+      "short": "Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141006/2016-17-Donruss-Press-Proof-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141003,
+      "name": "2016-17 Donruss - Press Proof Purple",
+      "short": "Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141003/2016-17-Donruss-Press-Proof-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141004,
+      "name": "2016-17 Donruss - Press Proof Red",
+      "short": "Press Proof Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141004/2016-17-Donruss-Press-Proof-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141002,
+      "name": "2016-17 Donruss - Press Proof Silver",
+      "short": "Press Proof Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141002/2016-17-Donruss-Press-Proof-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141001,
+      "name": "2016-17 Donruss - Purple Holo Laser",
+      "short": "Purple Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141001/2016-17-Donruss-Purple-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 140997,
+      "name": "2016-17 Donruss - Red Holo Laser",
+      "short": "Red Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/140997/2016-17-Donruss-Red-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 141000,
+      "name": "2016-17 Donruss - Red and Blue Holo Laser",
+      "short": "Red and Blue Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/141000/2016-17-Donruss-Red-and-Blue-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 140999,
+      "name": "2016-17 Donruss - Yellow Holo Laser",
+      "short": "Yellow Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/140999/2016-17-Donruss-Yellow-Holo-Laser",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 22,
+  "imported_this_run": [
+    {
+      "source_set_id": 140997,
+      "name": "Red Holo Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 20,
+      "missing_fronts": 180
+    },
+    {
+      "source_set_id": 141004,
+      "name": "Press Proof Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 10,
+      "missing_fronts": 190
+    },
+    {
+      "source_set_id": 141006,
+      "name": "Press Proof Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 196
+    },
+    {
+      "source_set_id": 141007,
+      "name": "Press Proof Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 141028,
+      "name": "Dimes Press Proof Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 141000,
+      "name": "Red and Blue Holo Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 197
+    },
+    {
+      "source_set_id": 141032,
+      "name": "Elite Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 94
+    },
+    {
+      "source_set_id": 141008,
+      "name": "Signature Series",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 47
+    },
+    {
+      "source_set_id": 141053,
+      "name": "Next Day Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 37
+    },
+    {
+      "source_set_id": 141029,
+      "name": "Dominator Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 38
+    },
+    {
+      "source_set_id": 141076,
+      "name": "Hall Dominator Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 4,
+      "missing_fronts": 26
+    },
+    {
+      "source_set_id": 141073,
+      "name": "Rookie Dominator Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 26
+    },
+    {
+      "source_set_id": 141047,
+      "name": "Jersey Kings",
+      "family_requested": "memorabilia",
+      "cards_with_front": 10,
+      "missing_fronts": 15
+    },
+    {
+      "source_set_id": 141045,
+      "name": "Jersey Series",
+      "family_requested": "memorabilia",
+      "cards_with_front": 7,
+      "missing_fronts": 43
+    },
+    {
+      "source_set_id": 141055,
+      "name": "Rookie Materials Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 3,
+      "missing_fronts": 32
+    },
+    {
+      "source_set_id": 141056,
+      "name": "Rookie Materials Signatures Prime",
+      "family_requested": "auto_patch",
+      "cards_with_front": 3,
+      "missing_fronts": 31
+    },
+    {
+      "source_set_id": 141071,
+      "name": "Timeless Treasures Materials Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 2,
+      "missing_fronts": 23
+    },
+    {
+      "source_set_id": 141072,
+      "name": "Timeless Treasures Materials Signatures Prime",
+      "family_requested": "auto_patch",
+      "cards_with_front": 1,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 140998,
+      "name": "Blue Holo Laser",
+      "family_requested": "parallel",
+      "cards_with_front": 17,
+      "missing_fronts": 183
+    },
+    {
+      "source_set_id": 140996,
+      "name": "Green Holo Laser",
+      "family_requested": "parallel",
+      "cards_with_front": 15,
+      "missing_fronts": 185
+    },
+    {
+      "source_set_id": 141005,
+      "name": "Press Proof Blue",
+      "family_requested": "parallel",
+      "cards_with_front": 8,
+      "missing_fronts": 192
+    },
+    {
+      "source_set_id": 141025,
+      "name": "Dimes",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 141021,
+      "name": "Crashers",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 345,
+  "before_tiers": {
+    "base": 150,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 150,
+    "rookie": 50,
+    "numbered": 73,
+    "numbered_low": 8,
+    "auto": 16,
+    "memorabilia": 17,
+    "auto_patch": 6,
+    "insert": 25
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "numbered": 73,
+    "numbered_low": 8,
+    "auto": 16,
+    "memorabilia": 17,
+    "auto_patch": 6,
+    "insert": 25
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 150,
+      "available_cards": 150,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 8,
+      "source_candidates": 14
+    },
+    "auto": {
+      "status": "available",
+      "records": 16,
+      "available_cards": 16,
+      "local_images": 16,
+      "source_candidates": 15
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 12
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 6,
+      "available_cards": 6,
+      "local_images": 6,
+      "source_candidates": 4
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 14
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 40
+    },
+    "numbered": {
+      "status": "available",
+      "records": 73,
+      "available_cards": 73,
+      "local_images": 73,
+      "source_candidates": 17
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

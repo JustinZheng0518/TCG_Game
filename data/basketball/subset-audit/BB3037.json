@@ -1,0 +1,203 @@
+{
+  "set_id": "BB3037",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3037/2003-04-Finest",
+  "headings": [
+    "Parallel Sets (7)"
+  ],
+  "subset_count": 7,
+  "subsets": [
+    {
+      "source_set_id": 27912,
+      "name": "2003-04 Finest - Press Plates Black",
+      "short": "Press Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27912/2003-04-Finest-Press-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 223596,
+      "name": "2003-04 Finest - Press Plates Cyan",
+      "short": "Press Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/223596/2003-04-Finest-Press-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 223597,
+      "name": "2003-04 Finest - Press Plates Magenta",
+      "short": "Press Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/223597/2003-04-Finest-Press-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 223598,
+      "name": "2003-04 Finest - Press Plates Yellow",
+      "short": "Press Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/223598/2003-04-Finest-Press-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 9473,
+      "name": "2003-04 Finest - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/9473/2003-04-Finest-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27913,
+      "name": "2003-04 Finest - Refractors Gold",
+      "short": "Refractors Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27913/2003-04-Finest-Refractors-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27914,
+      "name": "2003-04 Finest - X-Fractors",
+      "short": "X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27914/2003-04-Finest-X-Fractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 6,
+  "imported_this_run": [
+    {
+      "source_set_id": 27913,
+      "name": "Refractors Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 178
+    },
+    {
+      "source_set_id": 27912,
+      "name": "Press Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 183
+    },
+    {
+      "source_set_id": 9473,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 131,
+      "missing_fronts": 53
+    },
+    {
+      "source_set_id": 27914,
+      "name": "X-Fractors",
+      "family_requested": "parallel",
+      "cards_with_front": 1,
+      "missing_fronts": 183
+    },
+    {
+      "source_set_id": 223596,
+      "name": "Press Plates Cyan",
+      "family_requested": "parallel",
+      "cards_with_front": 2,
+      "missing_fronts": 182
+    },
+    {
+      "source_set_id": 223598,
+      "name": "Press Plates Yellow",
+      "family_requested": "parallel",
+      "cards_with_front": 3,
+      "missing_fronts": 181
+    }
+  ],
+  "import_errors": [],
+  "card_count": 327,
+  "before_tiers": {
+    "base": 113,
+    "memorabilia": 30,
+    "numbered": 10,
+    "auto": 30
+  },
+  "tiers": {
+    "base": 113,
+    "memorabilia": 74,
+    "numbered": 82,
+    "auto": 41,
+    "numbered_low": 7,
+    "auto_patch": 10
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 1,
+    "memorabilia": 74,
+    "numbered": 82,
+    "auto": 41,
+    "numbered_low": 7,
+    "auto_patch": 10
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 113,
+      "available_cards": 113,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 7,
+      "available_cards": 7,
+      "local_images": 7,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "available",
+      "records": 41,
+      "available_cards": 41,
+      "local_images": 41,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 74,
+      "available_cards": 74,
+      "local_images": 74,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 10,
+      "available_cards": 10,
+      "local_images": 10,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 7
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "available",
+      "records": 82,
+      "available_cards": 82,
+      "local_images": 82,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

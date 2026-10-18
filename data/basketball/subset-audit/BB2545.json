@@ -1,0 +1,132 @@
+{
+  "set_id": "BB2545",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2545/1996-SPx",
+  "headings": [
+    "Insert Sets (1)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 2,
+  "subsets": [
+    {
+      "source_set_id": 2546,
+      "name": "1996 SPx - Holoview Heroes",
+      "short": "Holoview Heroes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2546/1996-SPx-Holoview-Heroes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25658,
+      "name": "1996 SPx - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25658/1996-SPx-Gold",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 25658,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 50,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2546,
+      "name": "Holoview Heroes",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 110,
+  "before_tiers": {
+    "base": 50
+  },
+  "tiers": {
+    "base": 50,
+    "parallel": 50,
+    "insert": 10
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 6,
+    "parallel": 50,
+    "insert": 10
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 50,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 10,
+      "available_cards": 10,
+      "local_images": 10,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

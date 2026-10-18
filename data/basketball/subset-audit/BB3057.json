@@ -1,0 +1,270 @@
+{
+  "set_id": "BB3057",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3057/2003-04-Bazooka",
+  "headings": [
+    "Insert Sets (13)",
+    "Parallel Sets (6)"
+  ],
+  "subset_count": 19,
+  "subsets": [
+    {
+      "source_set_id": 27871,
+      "name": "2003-04 Bazooka - Beginnings",
+      "short": "Beginnings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27871/2003-04-Bazooka-Beginnings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27872,
+      "name": "2003-04 Bazooka - Beginnings Foil",
+      "short": "Beginnings Foil",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27872/2003-04-Bazooka-Beginnings-Foil",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27873,
+      "name": "2003-04 Bazooka - Blasts",
+      "short": "Blasts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27873/2003-04-Bazooka-Blasts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27874,
+      "name": "2003-04 Bazooka - Blasts Foil",
+      "short": "Blasts Foil",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27874/2003-04-Bazooka-Blasts-Foil",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27875,
+      "name": "2003-04 Bazooka - Boo-Yah!",
+      "short": "Boo-Yah!",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27875/2003-04-Bazooka-Boo-Yah-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27876,
+      "name": "2003-04 Bazooka - Boo-Yah! Foil",
+      "short": "Boo-Yah! Foil",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27876/2003-04-Bazooka-Boo-Yah-Foil",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27877,
+      "name": "2003-04 Bazooka - Comics",
+      "short": "Comics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27877/2003-04-Bazooka-Comics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27878,
+      "name": "2003-04 Bazooka - Four-on-One Stickers",
+      "short": "Four-on-One Stickers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27878/2003-04-Bazooka-Four-on-One-Stickers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27881,
+      "name": "2003-04 Bazooka - Piece of Americana",
+      "short": "Piece of Americana",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27881/2003-04-Bazooka-Piece-of-Americana",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27882,
+      "name": "2003-04 Bazooka - Piece of Americana Foil",
+      "short": "Piece of Americana Foil",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27882/2003-04-Bazooka-Piece-of-Americana-Foil",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27883,
+      "name": "2003-04 Bazooka - Signs",
+      "short": "Signs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27883/2003-04-Bazooka-Signs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27884,
+      "name": "2003-04 Bazooka - Stand-ups",
+      "short": "Stand-ups",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27884/2003-04-Bazooka-Stand-ups",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27885,
+      "name": "2003-04 Bazooka - Tattoos",
+      "short": "Tattoos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27885/2003-04-Bazooka-Tattoos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27880,
+      "name": "2003-04 Bazooka - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27880/2003-04-Bazooka-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27879,
+      "name": "2003-04 Bazooka - Mini",
+      "short": "Mini",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27879/2003-04-Bazooka-Mini",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 166945,
+      "name": "2003-04 Bazooka - Press Plates Black",
+      "short": "Press Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/166945/2003-04-Bazooka-Press-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 166946,
+      "name": "2003-04 Bazooka - Press Plates Cyan",
+      "short": "Press Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/166946/2003-04-Bazooka-Press-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 166947,
+      "name": "2003-04 Bazooka - Press Plates Magenta",
+      "short": "Press Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/166947/2003-04-Bazooka-Press-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 166948,
+      "name": "2003-04 Bazooka - Press Plates Yellow",
+      "short": "Press Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/166948/2003-04-Bazooka-Press-Plates-Yellow",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 27880,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 297,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 166945,
+      "name": "Press Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 309
+    },
+    {
+      "source_set_id": 27883,
+      "name": "Signs",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 27873,
+      "name": "Blasts",
+      "family_requested": "insert",
+      "cards_with_front": 21,
+      "missing_fronts": 38
+    }
+  ],
+  "import_errors": [],
+  "card_count": 630,
+  "before_tiers": {
+    "base": 243,
+    "rookie": 68
+  },
+  "tiers": {
+    "base": 243,
+    "rookie": 68,
+    "parallel": 297,
+    "auto": 1,
+    "insert": 21
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 2,
+    "rookie": 5,
+    "parallel": 297,
+    "auto": 1,
+    "insert": 21
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 243,
+      "available_cards": 243,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 68,
+      "available_cards": 68,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 297,
+      "available_cards": 297,
+      "local_images": 297,
+      "source_candidates": 6
+    },
+    "insert": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 13
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

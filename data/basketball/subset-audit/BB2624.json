@@ -1,0 +1,150 @@
+{
+  "set_id": "BB2624",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2624/1997-98-Finest",
+  "headings": [
+    "Parallel Sets (3)"
+  ],
+  "subset_count": 4,
+  "subsets": [
+    {
+      "source_set_id": 25765,
+      "name": "1997-98 Finest - Embossed",
+      "short": "Embossed",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25765/1997-98-Finest-Embossed",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25766,
+      "name": "1997-98 Finest - Embossed Refractors",
+      "short": "Embossed Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25766/1997-98-Finest-Embossed-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 2625,
+      "name": "1997-98 Finest - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2625/1997-98-Finest-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 333672,
+      "name": "1997-98 Finest - Promotional Samples",
+      "short": "Promotional Samples",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/333672/1997-98-Finest-Promotional-Samples",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 2625,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 303,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 333672,
+      "name": "Promotional Samples",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 633,
+  "before_tiers": {
+    "base": 303,
+    "rookie": 21
+  },
+  "tiers": {
+    "base": 305,
+    "rookie": 21,
+    "parallel": 213,
+    "numbered": 92,
+    "insert": 6
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 2,
+    "parallel": 213,
+    "numbered": 92,
+    "insert": 6
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 305,
+      "available_cards": 305,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 213,
+      "available_cards": 213,
+      "local_images": 213,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "available",
+      "records": 6,
+      "available_cards": 6,
+      "local_images": 6,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "available",
+      "records": 92,
+      "available_cards": 92,
+      "local_images": 92,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 4
+}

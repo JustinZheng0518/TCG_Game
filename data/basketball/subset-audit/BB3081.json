@@ -1,0 +1,296 @@
+{
+  "set_id": "BB3081",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3081/2004-05-Bowman",
+  "headings": [
+    "Insert Sets (7)",
+    "Parallel Sets (9)"
+  ],
+  "subset_count": 16,
+  "subsets": [
+    {
+      "source_set_id": 28662,
+      "name": "2004-05 Bowman - Cityscape Relics",
+      "short": "Cityscape Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28662/2004-05-Bowman-Cityscape-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28664,
+      "name": "2004-05 Bowman - Instant Impact Relics",
+      "short": "Instant Impact Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28664/2004-05-Bowman-Instant-Impact-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28665,
+      "name": "2004-05 Bowman - Original Rookies",
+      "short": "Original Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28665/2004-05-Bowman-Original-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28668,
+      "name": "2004-05 Bowman - Remembering Rookies Autographs",
+      "short": "Remembering Rookies Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28668/2004-05-Bowman-Remembering-Rookies-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28669,
+      "name": "2004-05 Bowman - Rookie Registration Relics",
+      "short": "Rookie Registration Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28669/2004-05-Bowman-Rookie-Registration-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28670,
+      "name": "2004-05 Bowman - Signs of the Future",
+      "short": "Signs of the Future",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28670/2004-05-Bowman-Signs-of-the-Future",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28671,
+      "name": "2004-05 Bowman - Twice As Nice Relics",
+      "short": "Twice As Nice Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28671/2004-05-Bowman-Twice-As-Nice-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28658,
+      "name": "2004-05 Bowman - Chrome",
+      "short": "Chrome",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28658/2004-05-Bowman-Chrome",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28659,
+      "name": "2004-05 Bowman - Chrome Refractors",
+      "short": "Chrome Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28659/2004-05-Bowman-Chrome-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28660,
+      "name": "2004-05 Bowman - Chrome Refractors Gold",
+      "short": "Chrome Refractors Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28660/2004-05-Bowman-Chrome-Refractors-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28661,
+      "name": "2004-05 Bowman - Chrome X-Fractors",
+      "short": "Chrome X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28661/2004-05-Bowman-Chrome-X-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28663,
+      "name": "2004-05 Bowman - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28663/2004-05-Bowman-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28666,
+      "name": "2004-05 Bowman - Printing Plates Black",
+      "short": "Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28666/2004-05-Bowman-Printing-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 203401,
+      "name": "2004-05 Bowman - Printing Plates Cyan",
+      "short": "Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/203401/2004-05-Bowman-Printing-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28667,
+      "name": "2004-05 Bowman - Printing Plates Magenta",
+      "short": "Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28667/2004-05-Bowman-Printing-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 203400,
+      "name": "2004-05 Bowman - Printing Plates Yellow",
+      "short": "Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/203400/2004-05-Bowman-Printing-Plates-Yellow",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 28663,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 156,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 28666,
+      "name": "Printing Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 152
+    },
+    {
+      "source_set_id": 28660,
+      "name": "Chrome Refractors Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 16,
+      "missing_fronts": 140
+    },
+    {
+      "source_set_id": 28668,
+      "name": "Remembering Rookies Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 28662,
+      "name": "Cityscape Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 28671,
+      "name": "Twice As Nice Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 8
+    },
+    {
+      "source_set_id": 28664,
+      "name": "Instant Impact Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 5,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 28669,
+      "name": "Rookie Registration Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 17,
+      "missing_fronts": 8
+    },
+    {
+      "source_set_id": 28665,
+      "name": "Original Rookies",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 28670,
+      "name": "Signs of the Future",
+      "family_requested": "insert",
+      "cards_with_front": 11,
+      "missing_fronts": 25
+    }
+  ],
+  "import_errors": [],
+  "card_count": 370,
+  "before_tiers": {
+    "base": 110,
+    "rookie": 36,
+    "auto": 10
+  },
+  "tiers": {
+    "base": 110,
+    "rookie": 36,
+    "auto": 24,
+    "parallel": 156,
+    "numbered_low": 4,
+    "numbered": 17,
+    "memorabilia": 28
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 1,
+    "auto": 24,
+    "parallel": 156,
+    "numbered_low": 4,
+    "numbered": 17,
+    "memorabilia": 28
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 110,
+      "available_cards": 110,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 3
+    },
+    "auto": {
+      "status": "available",
+      "records": 24,
+      "available_cards": 24,
+      "local_images": 24,
+      "source_candidates": 1
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 28,
+      "available_cards": 28,
+      "local_images": 28,
+      "source_candidates": 4
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 156,
+      "available_cards": 156,
+      "local_images": 156,
+      "source_candidates": 9
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "numbered": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 5
+}

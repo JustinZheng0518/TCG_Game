@@ -1,0 +1,988 @@
+{
+  "set_id": "BB399451",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/399451/2023-24-Panini-Court-Kings",
+  "headings": [
+    "Insert Sets (95)",
+    "Parallel Sets (10)"
+  ],
+  "subset_count": 105,
+  "subsets": [
+    {
+      "source_set_id": 419142,
+      "name": "2023-24 Panini Court Kings - 2023-24 Panini Private Signings",
+      "short": "2023-24 Panini Private Signings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/419142/2023-24-Panini-Court-Kings-2023-24-Panini-Private-Signings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411793,
+      "name": "2023-24 Panini Court Kings - Acetate Rookies",
+      "short": "Acetate Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411793/2023-24-Panini-Court-Kings-Acetate-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411835,
+      "name": "2023-24 Panini Court Kings - Art Nouveau",
+      "short": "Art Nouveau",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411835/2023-24-Panini-Court-Kings-Art-Nouveau",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411836,
+      "name": "2023-24 Panini Court Kings - Art Nouveau Prime",
+      "short": "Art Nouveau Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411836/2023-24-Panini-Court-Kings-Art-Nouveau-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411837,
+      "name": "2023-24 Panini Court Kings - Art Nouveau Super Prime",
+      "short": "Art Nouveau Super Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411837/2023-24-Panini-Court-Kings-Art-Nouveau-Super-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411838,
+      "name": "2023-24 Panini Court Kings - Artistic Endeavors",
+      "short": "Artistic Endeavors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411838/2023-24-Panini-Court-Kings-Artistic-Endeavors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411839,
+      "name": "2023-24 Panini Court Kings - Artistic Endeavors Prime",
+      "short": "Artistic Endeavors Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411839/2023-24-Panini-Court-Kings-Artistic-Endeavors-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411840,
+      "name": "2023-24 Panini Court Kings - Artistic Endeavors Super Prime",
+      "short": "Artistic Endeavors Super Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411840/2023-24-Panini-Court-Kings-Artistic-Endeavors-Super-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411794,
+      "name": "2023-24 Panini Court Kings - Artistry In Motion",
+      "short": "Artistry In Motion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411794/2023-24-Panini-Court-Kings-Artistry-In-Motion",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411797,
+      "name": "2023-24 Panini Court Kings - Artistry In Motion Amethyst",
+      "short": "Artistry In Motion Amethyst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411797/2023-24-Panini-Court-Kings-Artistry-In-Motion-Amethyst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411796,
+      "name": "2023-24 Panini Court Kings - Artistry In Motion Jade",
+      "short": "Artistry In Motion Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411796/2023-24-Panini-Court-Kings-Artistry-In-Motion-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411795,
+      "name": "2023-24 Panini Court Kings - Artistry In Motion Pink",
+      "short": "Artistry In Motion Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411795/2023-24-Panini-Court-Kings-Artistry-In-Motion-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411798,
+      "name": "2023-24 Panini Court Kings - Aurora",
+      "short": "Aurora",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411798/2023-24-Panini-Court-Kings-Aurora",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411799,
+      "name": "2023-24 Panini Court Kings - Blank Slate",
+      "short": "Blank Slate",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411799/2023-24-Panini-Court-Kings-Blank-Slate",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415919,
+      "name": "2023-24 Panini Court Kings - Brush Strokes",
+      "short": "Brush Strokes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415919/2023-24-Panini-Court-Kings-Brush-Strokes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415920,
+      "name": "2023-24 Panini Court Kings - Brush Strokes Jade",
+      "short": "Brush Strokes Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415920/2023-24-Panini-Court-Kings-Brush-Strokes-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415914,
+      "name": "2023-24 Panini Court Kings - Brush Strokes Masterpiece",
+      "short": "Brush Strokes Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415914/2023-24-Panini-Court-Kings-Brush-Strokes-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415915,
+      "name": "2023-24 Panini Court Kings - Brush Strokes Pink",
+      "short": "Brush Strokes Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415915/2023-24-Panini-Court-Kings-Brush-Strokes-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415918,
+      "name": "2023-24 Panini Court Kings - Brush Strokes Ruby",
+      "short": "Brush Strokes Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415918/2023-24-Panini-Court-Kings-Brush-Strokes-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415916,
+      "name": "2023-24 Panini Court Kings - Brush Strokes Sapphire",
+      "short": "Brush Strokes Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415916/2023-24-Panini-Court-Kings-Brush-Strokes-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415917,
+      "name": "2023-24 Panini Court Kings - Brush Strokes Violet",
+      "short": "Brush Strokes Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415917/2023-24-Panini-Court-Kings-Brush-Strokes-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411841,
+      "name": "2023-24 Panini Court Kings - Debut Showcase Memorabilia",
+      "short": "Debut Showcase Memorabilia",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411841/2023-24-Panini-Court-Kings-Debut-Showcase-Memorabilia",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411842,
+      "name": "2023-24 Panini Court Kings - Debut Showcase Memorabilia Prime",
+      "short": "Debut Showcase Memorabilia Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411842/2023-24-Panini-Court-Kings-Debut-Showcase-Memorabilia-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411843,
+      "name": "2023-24 Panini Court Kings - Debut Showcase Memorabilia Super Prime",
+      "short": "Debut Showcase Memorabilia Super Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411843/2023-24-Panini-Court-Kings-Debut-Showcase-Memorabilia-Super-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411800,
+      "name": "2023-24 Panini Court Kings - Double Exposure",
+      "short": "Double Exposure",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411800/2023-24-Panini-Court-Kings-Double-Exposure",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411803,
+      "name": "2023-24 Panini Court Kings - Double Exposure Amethyst",
+      "short": "Double Exposure Amethyst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411803/2023-24-Panini-Court-Kings-Double-Exposure-Amethyst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411802,
+      "name": "2023-24 Panini Court Kings - Double Exposure Jade",
+      "short": "Double Exposure Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411802/2023-24-Panini-Court-Kings-Double-Exposure-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411801,
+      "name": "2023-24 Panini Court Kings - Double Exposure Pink",
+      "short": "Double Exposure Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411801/2023-24-Panini-Court-Kings-Double-Exposure-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411804,
+      "name": "2023-24 Panini Court Kings - Dressed to Impress",
+      "short": "Dressed to Impress",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411804/2023-24-Panini-Court-Kings-Dressed-to-Impress",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411807,
+      "name": "2023-24 Panini Court Kings - Dressed to Impress Amethyst",
+      "short": "Dressed to Impress Amethyst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411807/2023-24-Panini-Court-Kings-Dressed-to-Impress-Amethyst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411806,
+      "name": "2023-24 Panini Court Kings - Dressed to Impress Jade",
+      "short": "Dressed to Impress Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411806/2023-24-Panini-Court-Kings-Dressed-to-Impress-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411805,
+      "name": "2023-24 Panini Court Kings - Dressed to Impress Pink",
+      "short": "Dressed to Impress Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411805/2023-24-Panini-Court-Kings-Dressed-to-Impress-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411808,
+      "name": "2023-24 Panini Court Kings - First Steps",
+      "short": "First Steps",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411808/2023-24-Panini-Court-Kings-First-Steps",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411812,
+      "name": "2023-24 Panini Court Kings - First Steps Masterpiece",
+      "short": "First Steps Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411812/2023-24-Panini-Court-Kings-First-Steps-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411809,
+      "name": "2023-24 Panini Court Kings - First Steps Ruby",
+      "short": "First Steps Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411809/2023-24-Panini-Court-Kings-First-Steps-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411811,
+      "name": "2023-24 Panini Court Kings - First Steps Sapphire",
+      "short": "First Steps Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411811/2023-24-Panini-Court-Kings-First-Steps-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411810,
+      "name": "2023-24 Panini Court Kings - First Steps Violet",
+      "short": "First Steps Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411810/2023-24-Panini-Court-Kings-First-Steps-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415888,
+      "name": "2023-24 Panini Court Kings - Fresh Paint",
+      "short": "Fresh Paint",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415888/2023-24-Panini-Court-Kings-Fresh-Paint",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415889,
+      "name": "2023-24 Panini Court Kings - Fresh Paint Amber",
+      "short": "Fresh Paint Amber",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415889/2023-24-Panini-Court-Kings-Fresh-Paint-Amber",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415890,
+      "name": "2023-24 Panini Court Kings - Fresh Paint Jade",
+      "short": "Fresh Paint Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415890/2023-24-Panini-Court-Kings-Fresh-Paint-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415891,
+      "name": "2023-24 Panini Court Kings - Fresh Paint Masterpiece",
+      "short": "Fresh Paint Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415891/2023-24-Panini-Court-Kings-Fresh-Paint-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415892,
+      "name": "2023-24 Panini Court Kings - Fresh Paint Pink",
+      "short": "Fresh Paint Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415892/2023-24-Panini-Court-Kings-Fresh-Paint-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415893,
+      "name": "2023-24 Panini Court Kings - Fresh Paint Ruby",
+      "short": "Fresh Paint Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415893/2023-24-Panini-Court-Kings-Fresh-Paint-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415894,
+      "name": "2023-24 Panini Court Kings - Fresh Paint Sapphire",
+      "short": "Fresh Paint Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415894/2023-24-Panini-Court-Kings-Fresh-Paint-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415895,
+      "name": "2023-24 Panini Court Kings - Fresh Paint Violet",
+      "short": "Fresh Paint Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415895/2023-24-Panini-Court-Kings-Fresh-Paint-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415931,
+      "name": "2023-24 Panini Court Kings - Heir Apparent",
+      "short": "Heir Apparent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415931/2023-24-Panini-Court-Kings-Heir-Apparent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415929,
+      "name": "2023-24 Panini Court Kings - Heir Apparent Amber",
+      "short": "Heir Apparent Amber",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415929/2023-24-Panini-Court-Kings-Heir-Apparent-Amber",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415932,
+      "name": "2023-24 Panini Court Kings - Heir Apparent Jade",
+      "short": "Heir Apparent Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415932/2023-24-Panini-Court-Kings-Heir-Apparent-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415925,
+      "name": "2023-24 Panini Court Kings - Heir Apparent Masterpiece",
+      "short": "Heir Apparent Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415925/2023-24-Panini-Court-Kings-Heir-Apparent-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415926,
+      "name": "2023-24 Panini Court Kings - Heir Apparent Pink",
+      "short": "Heir Apparent Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415926/2023-24-Panini-Court-Kings-Heir-Apparent-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415930,
+      "name": "2023-24 Panini Court Kings - Heir Apparent Ruby",
+      "short": "Heir Apparent Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415930/2023-24-Panini-Court-Kings-Heir-Apparent-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415927,
+      "name": "2023-24 Panini Court Kings - Heir Apparent Sapphire",
+      "short": "Heir Apparent Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415927/2023-24-Panini-Court-Kings-Heir-Apparent-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415928,
+      "name": "2023-24 Panini Court Kings - Heir Apparent Violet",
+      "short": "Heir Apparent Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415928/2023-24-Panini-Court-Kings-Heir-Apparent-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415879,
+      "name": "2023-24 Panini Court Kings - Impressionist Ink",
+      "short": "Impressionist Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415879/2023-24-Panini-Court-Kings-Impressionist-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415880,
+      "name": "2023-24 Panini Court Kings - Impressionist Ink Jade",
+      "short": "Impressionist Ink Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415880/2023-24-Panini-Court-Kings-Impressionist-Ink-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415885,
+      "name": "2023-24 Panini Court Kings - Impressionist Ink Masterpiece",
+      "short": "Impressionist Ink Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415885/2023-24-Panini-Court-Kings-Impressionist-Ink-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415884,
+      "name": "2023-24 Panini Court Kings - Impressionist Ink Pink",
+      "short": "Impressionist Ink Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415884/2023-24-Panini-Court-Kings-Impressionist-Ink-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415881,
+      "name": "2023-24 Panini Court Kings - Impressionist Ink Ruby",
+      "short": "Impressionist Ink Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415881/2023-24-Panini-Court-Kings-Impressionist-Ink-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415883,
+      "name": "2023-24 Panini Court Kings - Impressionist Ink Sapphire",
+      "short": "Impressionist Ink Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415883/2023-24-Panini-Court-Kings-Impressionist-Ink-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 415882,
+      "name": "2023-24 Panini Court Kings - Impressionist Ink Violet",
+      "short": "Impressionist Ink Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/415882/2023-24-Panini-Court-Kings-Impressionist-Ink-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411844,
+      "name": "2023-24 Panini Court Kings - Legacy Portrait Signatures",
+      "short": "Legacy Portrait Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411844/2023-24-Panini-Court-Kings-Legacy-Portrait-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411845,
+      "name": "2023-24 Panini Court Kings - Legacy Portrait Signatures Amber",
+      "short": "Legacy Portrait Signatures Amber",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411845/2023-24-Panini-Court-Kings-Legacy-Portrait-Signatures-Amber",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411846,
+      "name": "2023-24 Panini Court Kings - Legacy Portrait Signatures Masterpiece",
+      "short": "Legacy Portrait Signatures Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411846/2023-24-Panini-Court-Kings-Legacy-Portrait-Signatures-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411847,
+      "name": "2023-24 Panini Court Kings - Legacy Portrait Signatures Ruby",
+      "short": "Legacy Portrait Signatures Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411847/2023-24-Panini-Court-Kings-Legacy-Portrait-Signatures-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411848,
+      "name": "2023-24 Panini Court Kings - Legacy Portrait Signatures Sapphire",
+      "short": "Legacy Portrait Signatures Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411848/2023-24-Panini-Court-Kings-Legacy-Portrait-Signatures-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411849,
+      "name": "2023-24 Panini Court Kings - Legacy Portrait Signatures Violet",
+      "short": "Legacy Portrait Signatures Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411849/2023-24-Panini-Court-Kings-Legacy-Portrait-Signatures-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 423500,
+      "name": "2023-24 Panini Court Kings - Masterstrokes",
+      "short": "Masterstrokes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/423500/2023-24-Panini-Court-Kings-Masterstrokes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 423501,
+      "name": "2023-24 Panini Court Kings - Masterstrokes Jade",
+      "short": "Masterstrokes Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/423501/2023-24-Panini-Court-Kings-Masterstrokes-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 423502,
+      "name": "2023-24 Panini Court Kings - Masterstrokes Masterpiece",
+      "short": "Masterstrokes Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/423502/2023-24-Panini-Court-Kings-Masterstrokes-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 423503,
+      "name": "2023-24 Panini Court Kings - Masterstrokes Pink",
+      "short": "Masterstrokes Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/423503/2023-24-Panini-Court-Kings-Masterstrokes-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 423504,
+      "name": "2023-24 Panini Court Kings - Masterstrokes Ruby",
+      "short": "Masterstrokes Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/423504/2023-24-Panini-Court-Kings-Masterstrokes-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 423505,
+      "name": "2023-24 Panini Court Kings - Masterstrokes Sapphire",
+      "short": "Masterstrokes Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/423505/2023-24-Panini-Court-Kings-Masterstrokes-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 423506,
+      "name": "2023-24 Panini Court Kings - Masterstrokes Violet",
+      "short": "Masterstrokes Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/423506/2023-24-Panini-Court-Kings-Masterstrokes-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411813,
+      "name": "2023-24 Panini Court Kings - Modern Strokes",
+      "short": "Modern Strokes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411813/2023-24-Panini-Court-Kings-Modern-Strokes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411816,
+      "name": "2023-24 Panini Court Kings - Modern Strokes Amethyst",
+      "short": "Modern Strokes Amethyst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411816/2023-24-Panini-Court-Kings-Modern-Strokes-Amethyst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411815,
+      "name": "2023-24 Panini Court Kings - Modern Strokes Jade",
+      "short": "Modern Strokes Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411815/2023-24-Panini-Court-Kings-Modern-Strokes-Jade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411814,
+      "name": "2023-24 Panini Court Kings - Modern Strokes Pink",
+      "short": "Modern Strokes Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411814/2023-24-Panini-Court-Kings-Modern-Strokes-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411817,
+      "name": "2023-24 Panini Court Kings - Paint by Numbers",
+      "short": "Paint by Numbers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411817/2023-24-Panini-Court-Kings-Paint-by-Numbers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411818,
+      "name": "2023-24 Panini Court Kings - Rookie Exclusive",
+      "short": "Rookie Exclusive",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411818/2023-24-Panini-Court-Kings-Rookie-Exclusive",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411819,
+      "name": "2023-24 Panini Court Kings - Self Expression",
+      "short": "Self Expression",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411819/2023-24-Panini-Court-Kings-Self-Expression",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411823,
+      "name": "2023-24 Panini Court Kings - Self Expression Masterpiece",
+      "short": "Self Expression Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411823/2023-24-Panini-Court-Kings-Self-Expression-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411820,
+      "name": "2023-24 Panini Court Kings - Self Expression Ruby",
+      "short": "Self Expression Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411820/2023-24-Panini-Court-Kings-Self-Expression-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411821,
+      "name": "2023-24 Panini Court Kings - Self Expression Sapphire",
+      "short": "Self Expression Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411821/2023-24-Panini-Court-Kings-Self-Expression-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411822,
+      "name": "2023-24 Panini Court Kings - Self Expression Violet",
+      "short": "Self Expression Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411822/2023-24-Panini-Court-Kings-Self-Expression-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411824,
+      "name": "2023-24 Panini Court Kings - State of the Art",
+      "short": "State of the Art",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411824/2023-24-Panini-Court-Kings-State-of-the-Art",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411825,
+      "name": "2023-24 Panini Court Kings - Water Color",
+      "short": "Water Color",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411825/2023-24-Panini-Court-Kings-Water-Color",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411828,
+      "name": "2023-24 Panini Court Kings - Water Color Masterpiece",
+      "short": "Water Color Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411828/2023-24-Panini-Court-Kings-Water-Color-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411826,
+      "name": "2023-24 Panini Court Kings - Water Color Ruby",
+      "short": "Water Color Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411826/2023-24-Panini-Court-Kings-Water-Color-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411829,
+      "name": "2023-24 Panini Court Kings - Water Color Sapphire",
+      "short": "Water Color Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411829/2023-24-Panini-Court-Kings-Water-Color-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411827,
+      "name": "2023-24 Panini Court Kings - Water Color Violet",
+      "short": "Water Color Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411827/2023-24-Panini-Court-Kings-Water-Color-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411830,
+      "name": "2023-24 Panini Court Kings - Works in Progress",
+      "short": "Works in Progress",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411830/2023-24-Panini-Court-Kings-Works-in-Progress",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411834,
+      "name": "2023-24 Panini Court Kings - Works in Progress Masterpiece",
+      "short": "Works in Progress Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411834/2023-24-Panini-Court-Kings-Works-in-Progress-Masterpiece",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411831,
+      "name": "2023-24 Panini Court Kings - Works in Progress Ruby",
+      "short": "Works in Progress Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411831/2023-24-Panini-Court-Kings-Works-in-Progress-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411833,
+      "name": "2023-24 Panini Court Kings - Works in Progress Sapphire",
+      "short": "Works in Progress Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411833/2023-24-Panini-Court-Kings-Works-in-Progress-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411832,
+      "name": "2023-24 Panini Court Kings - Works in Progress Violet",
+      "short": "Works in Progress Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411832/2023-24-Panini-Court-Kings-Works-in-Progress-Violet",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 411854,
+      "name": "2023-24 Panini Court Kings - Amber",
+      "short": "Amber",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411854/2023-24-Panini-Court-Kings-Amber",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411853,
+      "name": "2023-24 Panini Court Kings - Amethyst",
+      "short": "Amethyst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411853/2023-24-Panini-Court-Kings-Amethyst",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411850,
+      "name": "2023-24 Panini Court Kings - Artist Proof",
+      "short": "Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411850/2023-24-Panini-Court-Kings-Artist-Proof",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411856,
+      "name": "2023-24 Panini Court Kings - Jade",
+      "short": "Jade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411856/2023-24-Panini-Court-Kings-Jade",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411859,
+      "name": "2023-24 Panini Court Kings - Masterpiece",
+      "short": "Masterpiece",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411859/2023-24-Panini-Court-Kings-Masterpiece",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411855,
+      "name": "2023-24 Panini Court Kings - Pink",
+      "short": "Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411855/2023-24-Panini-Court-Kings-Pink",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411852,
+      "name": "2023-24 Panini Court Kings - Ruby",
+      "short": "Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411852/2023-24-Panini-Court-Kings-Ruby",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411858,
+      "name": "2023-24 Panini Court Kings - Sapphire",
+      "short": "Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411858/2023-24-Panini-Court-Kings-Sapphire",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411851,
+      "name": "2023-24 Panini Court Kings - Stealth",
+      "short": "Stealth",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411851/2023-24-Panini-Court-Kings-Stealth",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 411857,
+      "name": "2023-24 Panini Court Kings - Violet",
+      "short": "Violet",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/411857/2023-24-Panini-Court-Kings-Violet",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 14,
+  "imported_this_run": [
+    {
+      "source_set_id": 415879,
+      "name": "Impressionist Ink",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 415880,
+      "name": "Impressionist Ink Jade",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 415884,
+      "name": "Impressionist Ink Pink",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 415881,
+      "name": "Impressionist Ink Ruby",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 415882,
+      "name": "Impressionist Ink Violet",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 415883,
+      "name": "Impressionist Ink Sapphire",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 411841,
+      "name": "Debut Showcase Memorabilia",
+      "family_requested": "memorabilia",
+      "cards_with_front": 22,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 411856,
+      "name": "Jade",
+      "family_requested": "parallel",
+      "cards_with_front": 1,
+      "missing_fronts": 66
+    },
+    {
+      "source_set_id": 411855,
+      "name": "Pink",
+      "family_requested": "parallel",
+      "cards_with_front": 3,
+      "missing_fronts": 64
+    },
+    {
+      "source_set_id": 411852,
+      "name": "Ruby",
+      "family_requested": "parallel",
+      "cards_with_front": 8,
+      "missing_fronts": 59
+    },
+    {
+      "source_set_id": 411854,
+      "name": "Amber",
+      "family_requested": "parallel",
+      "cards_with_front": 0,
+      "missing_fronts": 67
+    },
+    {
+      "source_set_id": 411857,
+      "name": "Violet",
+      "family_requested": "parallel",
+      "cards_with_front": 3,
+      "missing_fronts": 64
+    },
+    {
+      "source_set_id": 411851,
+      "name": "Stealth",
+      "family_requested": "parallel",
+      "cards_with_front": 0,
+      "missing_fronts": 67
+    },
+    {
+      "source_set_id": 411798,
+      "name": "Aurora",
+      "family_requested": "insert",
+      "cards_with_front": 4,
+      "missing_fronts": 13
+    },
+    {
+      "source_set_id": 411835,
+      "name": "Art Nouveau",
+      "family_requested": "insert",
+      "cards_with_front": 19,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 411808,
+      "name": "First Steps",
+      "family_requested": "insert",
+      "cards_with_front": 8,
+      "missing_fronts": 2
+    },
+    {
+      "source_set_id": 415888,
+      "name": "Fresh Paint",
+      "family_requested": "insert",
+      "cards_with_front": 7,
+      "missing_fronts": 38
+    },
+    {
+      "source_set_id": 411825,
+      "name": "Water Color",
+      "family_requested": "insert",
+      "cards_with_front": 13,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 411850,
+      "name": "Artist Proof",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 67
+    },
+    {
+      "source_set_id": 411799,
+      "name": "Blank Slate",
+      "family_requested": "case_hit",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    }
+  ],
+  "import_errors": [],
+  "card_count": 234,
+  "before_tiers": {
+    "base": 61,
+    "rookie": 75
+  },
+  "tiers": {
+    "base": 61,
+    "rookie": 75,
+    "auto": 14,
+    "memorabilia": 41,
+    "numbered": 15,
+    "insert": 25,
+    "case_hit": 3
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 4,
+    "auto": 14,
+    "memorabilia": 41,
+    "numbered": 15,
+    "insert": 25,
+    "case_hit": 3
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 61,
+      "available_cards": 61,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 75,
+      "available_cards": 75,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 14,
+      "available_cards": 14,
+      "local_images": 14,
+      "source_candidates": 13
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 41,
+      "available_cards": 41,
+      "local_images": 41,
+      "source_candidates": 3
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 10
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 78
+    },
+    "numbered": {
+      "status": "available",
+      "records": 15,
+      "available_cards": 15,
+      "local_images": 15,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 1
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

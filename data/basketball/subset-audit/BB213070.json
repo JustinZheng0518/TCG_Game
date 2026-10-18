@@ -1,0 +1,934 @@
+{
+  "set_id": "BB213070",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/213070/2019-20-Donruss",
+  "headings": [
+    "Insert Sets (84)",
+    "Parallel Sets (20)"
+  ],
+  "subset_count": 104,
+  "subsets": [
+    {
+      "source_set_id": 221764,
+      "name": "2019-20 Donruss - Changing Stripes",
+      "short": "Changing Stripes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221764/2019-20-Donruss-Changing-Stripes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221765,
+      "name": "2019-20 Donruss - Changing Stripes Green Flood",
+      "short": "Changing Stripes Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221765/2019-20-Donruss-Changing-Stripes-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221766,
+      "name": "2019-20 Donruss - Changing Stripes Holo Camo Laser",
+      "short": "Changing Stripes Holo Camo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221766/2019-20-Donruss-Changing-Stripes-Holo-Camo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221767,
+      "name": "2019-20 Donruss - Changing Stripes Holo Purple Laser",
+      "short": "Changing Stripes Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221767/2019-20-Donruss-Changing-Stripes-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221768,
+      "name": "2019-20 Donruss - Changing Stripes Holo Red Laser",
+      "short": "Changing Stripes Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221768/2019-20-Donruss-Changing-Stripes-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221769,
+      "name": "2019-20 Donruss - Changing Stripes Holo Yellow Laser",
+      "short": "Changing Stripes Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221769/2019-20-Donruss-Changing-Stripes-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221770,
+      "name": "2019-20 Donruss - Complete Players",
+      "short": "Complete Players",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221770/2019-20-Donruss-Complete-Players",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221771,
+      "name": "2019-20 Donruss - Complete Players Green Flood",
+      "short": "Complete Players Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221771/2019-20-Donruss-Complete-Players-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221772,
+      "name": "2019-20 Donruss - Complete Players Holo Camo Laser",
+      "short": "Complete Players Holo Camo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221772/2019-20-Donruss-Complete-Players-Holo-Camo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221773,
+      "name": "2019-20 Donruss - Complete Players Holo Purple Laser",
+      "short": "Complete Players Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221773/2019-20-Donruss-Complete-Players-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221774,
+      "name": "2019-20 Donruss - Complete Players Holo Red Laser",
+      "short": "Complete Players Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221774/2019-20-Donruss-Complete-Players-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221775,
+      "name": "2019-20 Donruss - Complete Players Holo Yellow Laser",
+      "short": "Complete Players Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221775/2019-20-Donruss-Complete-Players-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221776,
+      "name": "2019-20 Donruss - Craftsmen",
+      "short": "Craftsmen",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221776/2019-20-Donruss-Craftsmen",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221777,
+      "name": "2019-20 Donruss - Craftsmen Press Proof",
+      "short": "Craftsmen Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221777/2019-20-Donruss-Craftsmen-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221778,
+      "name": "2019-20 Donruss - Craftsmen Press Proof Black",
+      "short": "Craftsmen Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221778/2019-20-Donruss-Craftsmen-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221779,
+      "name": "2019-20 Donruss - Crunch Time",
+      "short": "Crunch Time",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221779/2019-20-Donruss-Crunch-Time",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221780,
+      "name": "2019-20 Donruss - Crunch Time Press Proof",
+      "short": "Crunch Time Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221780/2019-20-Donruss-Crunch-Time-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221781,
+      "name": "2019-20 Donruss - Crunch Time Press Proof Black",
+      "short": "Crunch Time Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221781/2019-20-Donruss-Crunch-Time-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221782,
+      "name": "2019-20 Donruss - Defying Gravity",
+      "short": "Defying Gravity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221782/2019-20-Donruss-Defying-Gravity",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221783,
+      "name": "2019-20 Donruss - Defying Gravity Press Proof",
+      "short": "Defying Gravity Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221783/2019-20-Donruss-Defying-Gravity-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221784,
+      "name": "2019-20 Donruss - Defying Gravity Press Proof Black",
+      "short": "Defying Gravity Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221784/2019-20-Donruss-Defying-Gravity-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221785,
+      "name": "2019-20 Donruss - Dominator Signatures",
+      "short": "Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221785/2019-20-Donruss-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221786,
+      "name": "2019-20 Donruss - Dominator Signatures Black",
+      "short": "Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221786/2019-20-Donruss-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221787,
+      "name": "2019-20 Donruss - Dominator Signatures Gold",
+      "short": "Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221787/2019-20-Donruss-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221788,
+      "name": "2019-20 Donruss - Fantasy Stars",
+      "short": "Fantasy Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221788/2019-20-Donruss-Fantasy-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221789,
+      "name": "2019-20 Donruss - Fantasy Stars Green Flood",
+      "short": "Fantasy Stars Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221789/2019-20-Donruss-Fantasy-Stars-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221790,
+      "name": "2019-20 Donruss - Fantasy Stars Holo Camo Laser",
+      "short": "Fantasy Stars Holo Camo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221790/2019-20-Donruss-Fantasy-Stars-Holo-Camo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221791,
+      "name": "2019-20 Donruss - Fantasy Stars Holo Purple Laser",
+      "short": "Fantasy Stars Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221791/2019-20-Donruss-Fantasy-Stars-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221792,
+      "name": "2019-20 Donruss - Fantasy Stars Holo Red Laser",
+      "short": "Fantasy Stars Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221792/2019-20-Donruss-Fantasy-Stars-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221793,
+      "name": "2019-20 Donruss - Fantasy Stars Holo Yellow Laser",
+      "short": "Fantasy Stars Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221793/2019-20-Donruss-Fantasy-Stars-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221794,
+      "name": "2019-20 Donruss - Franchise Features",
+      "short": "Franchise Features",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221794/2019-20-Donruss-Franchise-Features",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221795,
+      "name": "2019-20 Donruss - Franchise Features Green Flood",
+      "short": "Franchise Features Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221795/2019-20-Donruss-Franchise-Features-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221796,
+      "name": "2019-20 Donruss - Franchise Features Holo Camo Laser",
+      "short": "Franchise Features Holo Camo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221796/2019-20-Donruss-Franchise-Features-Holo-Camo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221797,
+      "name": "2019-20 Donruss - Franchise Features Holo Purple Laser",
+      "short": "Franchise Features Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221797/2019-20-Donruss-Franchise-Features-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221798,
+      "name": "2019-20 Donruss - Franchise Features Holo Red Laser",
+      "short": "Franchise Features Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221798/2019-20-Donruss-Franchise-Features-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221799,
+      "name": "2019-20 Donruss - Franchise Features Holo Yellow Laser",
+      "short": "Franchise Features Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221799/2019-20-Donruss-Franchise-Features-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221800,
+      "name": "2019-20 Donruss - Great X-Pectations",
+      "short": "Great X-Pectations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221800/2019-20-Donruss-Great-X-Pectations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221801,
+      "name": "2019-20 Donruss - Great X-Pectations Green Flood",
+      "short": "Great X-Pectations Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221801/2019-20-Donruss-Great-X-Pectations-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221802,
+      "name": "2019-20 Donruss - Great X-Pectations Holo Camo Laser",
+      "short": "Great X-Pectations Holo Camo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221802/2019-20-Donruss-Great-X-Pectations-Holo-Camo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221803,
+      "name": "2019-20 Donruss - Great X-Pectations Holo Purple Laser",
+      "short": "Great X-Pectations Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221803/2019-20-Donruss-Great-X-Pectations-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221804,
+      "name": "2019-20 Donruss - Great X-Pectations Holo Red Laser",
+      "short": "Great X-Pectations Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221804/2019-20-Donruss-Great-X-Pectations-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221805,
+      "name": "2019-20 Donruss - Great X-Pectations Holo Yellow Laser",
+      "short": "Great X-Pectations Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221805/2019-20-Donruss-Great-X-Pectations-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221806,
+      "name": "2019-20 Donruss - Hall Dominator Signatures",
+      "short": "Hall Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221806/2019-20-Donruss-Hall-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221807,
+      "name": "2019-20 Donruss - Hall Dominator Signatures Black",
+      "short": "Hall Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221807/2019-20-Donruss-Hall-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221808,
+      "name": "2019-20 Donruss - Hall Dominator Signatures Gold",
+      "short": "Hall Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221808/2019-20-Donruss-Hall-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221809,
+      "name": "2019-20 Donruss - Jersey Kings",
+      "short": "Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221809/2019-20-Donruss-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221810,
+      "name": "2019-20 Donruss - Jersey Kings Prime",
+      "short": "Jersey Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221810/2019-20-Donruss-Jersey-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221811,
+      "name": "2019-20 Donruss - Jersey Series",
+      "short": "Jersey Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221811/2019-20-Donruss-Jersey-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221812,
+      "name": "2019-20 Donruss - Jersey Series Prime",
+      "short": "Jersey Series Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221812/2019-20-Donruss-Jersey-Series-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221813,
+      "name": "2019-20 Donruss - League Leaders",
+      "short": "League Leaders",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221813/2019-20-Donruss-League-Leaders",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221814,
+      "name": "2019-20 Donruss - League Leaders Green Flood",
+      "short": "League Leaders Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221814/2019-20-Donruss-League-Leaders-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221815,
+      "name": "2019-20 Donruss - League Leaders Holo Camo Laser",
+      "short": "League Leaders Holo Camo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221815/2019-20-Donruss-League-Leaders-Holo-Camo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221816,
+      "name": "2019-20 Donruss - League Leaders Holo Purple Laser",
+      "short": "League Leaders Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221816/2019-20-Donruss-League-Leaders-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221817,
+      "name": "2019-20 Donruss - League Leaders Holo Red Laser",
+      "short": "League Leaders Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221817/2019-20-Donruss-League-Leaders-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221818,
+      "name": "2019-20 Donruss - League Leaders Holo Yellow Laser",
+      "short": "League Leaders Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221818/2019-20-Donruss-League-Leaders-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221819,
+      "name": "2019-20 Donruss - Net Marvels",
+      "short": "Net Marvels",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221819/2019-20-Donruss-Net-Marvels",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221820,
+      "name": "2019-20 Donruss - Net Marvels Press Proof",
+      "short": "Net Marvels Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221820/2019-20-Donruss-Net-Marvels-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221821,
+      "name": "2019-20 Donruss - Net Marvels Press Proof Black",
+      "short": "Net Marvels Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221821/2019-20-Donruss-Net-Marvels-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221822,
+      "name": "2019-20 Donruss - Next Day Autographs",
+      "short": "Next Day Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221822/2019-20-Donruss-Next-Day-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221823,
+      "name": "2019-20 Donruss - Rated Rookies Signatures",
+      "short": "Rated Rookies Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221823/2019-20-Donruss-Rated-Rookies-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221824,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Black Infinite",
+      "short": "Rated Rookies Signatures Black Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221824/2019-20-Donruss-Rated-Rookies-Signatures-Black-Infinite",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221825,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Blue Infinite",
+      "short": "Rated Rookies Signatures Blue Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221825/2019-20-Donruss-Rated-Rookies-Signatures-Blue-Infinite",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221826,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Gold Infinite",
+      "short": "Rated Rookies Signatures Gold Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221826/2019-20-Donruss-Rated-Rookies-Signatures-Gold-Infinite",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221828,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Green Flood",
+      "short": "Rated Rookies Signatures Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221828/2019-20-Donruss-Rated-Rookies-Signatures-Green-Flood",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221827,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Green and Yellow Laser",
+      "short": "Rated Rookies Signatures Green and Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221827/2019-20-Donruss-Rated-Rookies-Signatures-Green-and-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221829,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Holo Orange Laser",
+      "short": "Rated Rookies Signatures Holo Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221829/2019-20-Donruss-Rated-Rookies-Signatures-Holo-Orange-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221831,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Holo Purple Laser",
+      "short": "Rated Rookies Signatures Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221831/2019-20-Donruss-Rated-Rookies-Signatures-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221830,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Holo Purple and Green Laser",
+      "short": "Rated Rookies Signatures Holo Purple and Green Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221830/2019-20-Donruss-Rated-Rookies-Signatures-Holo-Purple-and-Green-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221832,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Holo Yellow Laser",
+      "short": "Rated Rookies Signatures Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221832/2019-20-Donruss-Rated-Rookies-Signatures-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221833,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Press Proof Black Laser",
+      "short": "Rated Rookies Signatures Press Proof Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221833/2019-20-Donruss-Rated-Rookies-Signatures-Press-Proof-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221834,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Press Proof Gold Laser",
+      "short": "Rated Rookies Signatures Press Proof Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221834/2019-20-Donruss-Rated-Rookies-Signatures-Press-Proof-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221835,
+      "name": "2019-20 Donruss - Rated Rookies Signatures Red and Blue Laser",
+      "short": "Rated Rookies Signatures Red and Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221835/2019-20-Donruss-Rated-Rookies-Signatures-Red-and-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221836,
+      "name": "2019-20 Donruss - Retro Series",
+      "short": "Retro Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221836/2019-20-Donruss-Retro-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221837,
+      "name": "2019-20 Donruss - Retro Series Press Proof",
+      "short": "Retro Series Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221837/2019-20-Donruss-Retro-Series-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221838,
+      "name": "2019-20 Donruss - Retro Series Press Proof Black",
+      "short": "Retro Series Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221838/2019-20-Donruss-Retro-Series-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221839,
+      "name": "2019-20 Donruss - Rookie Dominator Signatures",
+      "short": "Rookie Dominator Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221839/2019-20-Donruss-Rookie-Dominator-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221840,
+      "name": "2019-20 Donruss - Rookie Dominator Signatures Black",
+      "short": "Rookie Dominator Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221840/2019-20-Donruss-Rookie-Dominator-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221841,
+      "name": "2019-20 Donruss - Rookie Dominator Signatures Gold",
+      "short": "Rookie Dominator Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221841/2019-20-Donruss-Rookie-Dominator-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221842,
+      "name": "2019-20 Donruss - Rookie Jersey Kings",
+      "short": "Rookie Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221842/2019-20-Donruss-Rookie-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221843,
+      "name": "2019-20 Donruss - Rookie Jersey Kings Prime",
+      "short": "Rookie Jersey Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221843/2019-20-Donruss-Rookie-Jersey-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221844,
+      "name": "2019-20 Donruss - Signature Series",
+      "short": "Signature Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221844/2019-20-Donruss-Signature-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221845,
+      "name": "2019-20 Donruss - The Rookies",
+      "short": "The Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221845/2019-20-Donruss-The-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221846,
+      "name": "2019-20 Donruss - The Rookies Press Proof",
+      "short": "The Rookies Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221846/2019-20-Donruss-The-Rookies-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221847,
+      "name": "2019-20 Donruss - The Rookies Press Proof Black",
+      "short": "The Rookies Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221847/2019-20-Donruss-The-Rookies-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221744,
+      "name": "2019-20 Donruss - Black Infinite",
+      "short": "Black Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221744/2019-20-Donruss-Black-Infinite",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221745,
+      "name": "2019-20 Donruss - Blue Infinite",
+      "short": "Blue Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221745/2019-20-Donruss-Blue-Infinite",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221746,
+      "name": "2019-20 Donruss - Gold Infinite",
+      "short": "Gold Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221746/2019-20-Donruss-Gold-Infinite",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221747,
+      "name": "2019-20 Donruss - Green Flood",
+      "short": "Green Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221747/2019-20-Donruss-Green-Flood",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221749,
+      "name": "2019-20 Donruss - Holo Green Laser",
+      "short": "Holo Green Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221749/2019-20-Donruss-Holo-Green-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221748,
+      "name": "2019-20 Donruss - Holo Green and Yellow Laser",
+      "short": "Holo Green and Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221748/2019-20-Donruss-Holo-Green-and-Yellow-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221750,
+      "name": "2019-20 Donruss - Holo Orange Laser",
+      "short": "Holo Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221750/2019-20-Donruss-Holo-Orange-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221751,
+      "name": "2019-20 Donruss - Holo Pink Laser",
+      "short": "Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221751/2019-20-Donruss-Holo-Pink-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221753,
+      "name": "2019-20 Donruss - Holo Purple Laser",
+      "short": "Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221753/2019-20-Donruss-Holo-Purple-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221752,
+      "name": "2019-20 Donruss - Holo Purple and Green Laser",
+      "short": "Holo Purple and Green Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221752/2019-20-Donruss-Holo-Purple-and-Green-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221754,
+      "name": "2019-20 Donruss - Holo Red and Blue Laser",
+      "short": "Holo Red and Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221754/2019-20-Donruss-Holo-Red-and-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221755,
+      "name": "2019-20 Donruss - Holo Yellow Laser",
+      "short": "Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221755/2019-20-Donruss-Holo-Yellow-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221756,
+      "name": "2019-20 Donruss - Infinite",
+      "short": "Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221756/2019-20-Donruss-Infinite",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221757,
+      "name": "2019-20 Donruss - Press Proof Black Laser",
+      "short": "Press Proof Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221757/2019-20-Donruss-Press-Proof-Black-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221758,
+      "name": "2019-20 Donruss - Press Proof Blue Laser",
+      "short": "Press Proof Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221758/2019-20-Donruss-Press-Proof-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221759,
+      "name": "2019-20 Donruss - Press Proof Gold Laser",
+      "short": "Press Proof Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221759/2019-20-Donruss-Press-Proof-Gold-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221760,
+      "name": "2019-20 Donruss - Press Proof Purple",
+      "short": "Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221760/2019-20-Donruss-Press-Proof-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221761,
+      "name": "2019-20 Donruss - Press Proof Red Laser",
+      "short": "Press Proof Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221761/2019-20-Donruss-Press-Proof-Red-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221762,
+      "name": "2019-20 Donruss - Press Proof Silver",
+      "short": "Press Proof Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221762/2019-20-Donruss-Press-Proof-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 221763,
+      "name": "2019-20 Donruss - Red Infinite",
+      "short": "Red Infinite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221763/2019-20-Donruss-Red-Infinite",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 13,
+  "imported_this_run": [
+    {
+      "source_set_id": 221763,
+      "name": "Red Infinite",
+      "family_requested": "numbered_low",
+      "cards_with_front": 10,
+      "missing_fronts": 240
+    },
+    {
+      "source_set_id": 221746,
+      "name": "Gold Infinite",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 244
+    },
+    {
+      "source_set_id": 221744,
+      "name": "Black Infinite",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 249
+    },
+    {
+      "source_set_id": 221761,
+      "name": "Press Proof Red Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 31,
+      "missing_fronts": 219
+    },
+    {
+      "source_set_id": 221759,
+      "name": "Press Proof Gold Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 247
+    },
+    {
+      "source_set_id": 221754,
+      "name": "Holo Red and Blue Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 244
+    },
+    {
+      "source_set_id": 221844,
+      "name": "Signature Series",
+      "family_requested": "auto",
+      "cards_with_front": 19,
+      "missing_fronts": 81
+    },
+    {
+      "source_set_id": 221809,
+      "name": "Jersey Kings",
+      "family_requested": "memorabilia",
+      "cards_with_front": 13,
+      "missing_fronts": 47
+    },
+    {
+      "source_set_id": 221811,
+      "name": "Jersey Series",
+      "family_requested": "memorabilia",
+      "cards_with_front": 61,
+      "missing_fronts": 39
+    },
+    {
+      "source_set_id": 221756,
+      "name": "Infinite",
+      "family_requested": "parallel",
+      "cards_with_front": 10,
+      "missing_fronts": 40
+    },
+    {
+      "source_set_id": 221747,
+      "name": "Green Flood",
+      "family_requested": "parallel",
+      "cards_with_front": 62,
+      "missing_fronts": 188
+    },
+    {
+      "source_set_id": 221776,
+      "name": "Craftsmen",
+      "family_requested": "insert",
+      "cards_with_front": 14,
+      "missing_fronts": 1
+    },
+    {
+      "source_set_id": 221779,
+      "name": "Crunch Time",
+      "family_requested": "insert",
+      "cards_with_front": 19,
+      "missing_fronts": 1
+    }
+  ],
+  "import_errors": [],
+  "card_count": 505,
+  "before_tiers": {
+    "base": 200,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 200,
+    "rookie": 50,
+    "numbered": 47,
+    "numbered_low": 10,
+    "auto": 19,
+    "memorabilia": 74,
+    "parallel": 72,
+    "insert": 33
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "numbered": 47,
+    "numbered_low": 10,
+    "auto": 19,
+    "memorabilia": 74,
+    "parallel": 72,
+    "insert": 33
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 200,
+      "available_cards": 200,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 10,
+      "available_cards": 10,
+      "local_images": 10,
+      "source_candidates": 19
+    },
+    "auto": {
+      "status": "available",
+      "records": 19,
+      "available_cards": 19,
+      "local_images": 19,
+      "source_candidates": 24
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 74,
+      "available_cards": 74,
+      "local_images": 74,
+      "source_candidates": 6
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 72,
+      "available_cards": 72,
+      "local_images": 72,
+      "source_candidates": 20
+    },
+    "insert": {
+      "status": "available",
+      "records": 33,
+      "available_cards": 33,
+      "local_images": 33,
+      "source_candidates": 54
+    },
+    "numbered": {
+      "status": "available",
+      "records": 47,
+      "available_cards": 47,
+      "local_images": 47,
+      "source_candidates": 23
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

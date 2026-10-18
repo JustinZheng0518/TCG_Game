@@ -1,0 +1,118 @@
+{
+  "set_id": "BB2013",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2013/1970-71-Topps",
+  "headings": [
+    "Insert Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 25501,
+      "name": "1970-71 Topps - Poster",
+      "short": "Poster",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25501/1970-71-Topps-Poster",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 25501,
+      "name": "Poster",
+      "family_requested": "insert",
+      "cards_with_front": 24,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 183,
+  "before_tiers": {
+    "base": 132,
+    "rookie": 27
+  },
+  "tiers": {
+    "base": 149,
+    "rookie": 27,
+    "insert": 24
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 2,
+    "rookie": 5,
+    "insert": 24
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 149,
+      "available_cards": 149,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 27,
+      "available_cards": 27,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 24,
+      "available_cards": 24,
+      "local_images": 24,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 17
+}

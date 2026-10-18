@@ -1,0 +1,1974 @@
+{
+  "set_id": "BB654042",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/654042/2025-26-Panini-Prizm",
+  "headings": [
+    "Insert Sets (197)",
+    "Parallel Sets (48)"
+  ],
+  "subset_count": 245,
+  "subsets": [
+    {
+      "source_set_id": 687891,
+      "name": "2025-26 Panini Prizm - Autographs Base Prizm",
+      "short": "Autographs Base Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687891/2025-26-Panini-Prizm-Autographs-Base-Prizm",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687892,
+      "name": "2025-26 Panini Prizm - Autographs Base Prizm Black Shimmer FOTL",
+      "short": "Autographs Base Prizm Black Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687892/2025-26-Panini-Prizm-Autographs-Base-Prizm-Black-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687893,
+      "name": "2025-26 Panini Prizm - Autographs Base Prizm Gold",
+      "short": "Autographs Base Prizm Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687893/2025-26-Panini-Prizm-Autographs-Base-Prizm-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687894,
+      "name": "2025-26 Panini Prizm - Autographs Base Prizm Gold Vinyl FOTL",
+      "short": "Autographs Base Prizm Gold Vinyl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687894/2025-26-Panini-Prizm-Autographs-Base-Prizm-Gold-Vinyl-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687895,
+      "name": "2025-26 Panini Prizm - Autographs Base Prizm Green",
+      "short": "Autographs Base Prizm Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687895/2025-26-Panini-Prizm-Autographs-Base-Prizm-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687896,
+      "name": "2025-26 Panini Prizm - Autographs Base Prizm Mojo",
+      "short": "Autographs Base Prizm Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687896/2025-26-Panini-Prizm-Autographs-Base-Prizm-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687928,
+      "name": "2025-26 Panini Prizm - Black Colorblast",
+      "short": "Black Colorblast",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687928/2025-26-Panini-Prizm-Black-Colorblast",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687929,
+      "name": "2025-26 Panini Prizm - Brilliance",
+      "short": "Brilliance",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687929/2025-26-Panini-Prizm-Brilliance",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687930,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Black",
+      "short": "Brilliance Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687930/2025-26-Panini-Prizm-Brilliance-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687931,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Blue Ice",
+      "short": "Brilliance Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687931/2025-26-Panini-Prizm-Brilliance-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687932,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Blue Wave",
+      "short": "Brilliance Prizms Blue Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687932/2025-26-Panini-Prizm-Brilliance-Prizms-Blue-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687933,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Gold",
+      "short": "Brilliance Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687933/2025-26-Panini-Prizm-Brilliance-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687934,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Hyper",
+      "short": "Brilliance Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687934/2025-26-Panini-Prizm-Brilliance-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687935,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Mojo",
+      "short": "Brilliance Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687935/2025-26-Panini-Prizm-Brilliance-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687936,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Orange Pulsar",
+      "short": "Brilliance Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687936/2025-26-Panini-Prizm-Brilliance-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687937,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Pink Scope",
+      "short": "Brilliance Prizms Pink Scope",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687937/2025-26-Panini-Prizm-Brilliance-Prizms-Pink-Scope",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687938,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Purple Ice",
+      "short": "Brilliance Prizms Purple Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687938/2025-26-Panini-Prizm-Brilliance-Prizms-Purple-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687939,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Red Wave",
+      "short": "Brilliance Prizms Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687939/2025-26-Panini-Prizm-Brilliance-Prizms-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687940,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms Silver",
+      "short": "Brilliance Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687940/2025-26-Panini-Prizm-Brilliance-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687941,
+      "name": "2025-26 Panini Prizm - Brilliance Prizms White Lazer",
+      "short": "Brilliance Prizms White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687941/2025-26-Panini-Prizm-Brilliance-Prizms-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687943,
+      "name": "2025-26 Panini Prizm - Collegiate Stars",
+      "short": "Collegiate Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687943/2025-26-Panini-Prizm-Collegiate-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687944,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Black",
+      "short": "Collegiate Stars Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687944/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687945,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Blue Ice",
+      "short": "Collegiate Stars Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687945/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687946,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Blue Wave",
+      "short": "Collegiate Stars Prizms Blue Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687946/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Blue-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687947,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Gold",
+      "short": "Collegiate Stars Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687947/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687948,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Hyper",
+      "short": "Collegiate Stars Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687948/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687949,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Mojo",
+      "short": "Collegiate Stars Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687949/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687950,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Orange Pulsar",
+      "short": "Collegiate Stars Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687950/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687951,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Pink Scope",
+      "short": "Collegiate Stars Prizms Pink Scope",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687951/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Pink-Scope",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687952,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Purple Ice",
+      "short": "Collegiate Stars Prizms Purple Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687952/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Purple-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687953,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Red Wave",
+      "short": "Collegiate Stars Prizms Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687953/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687954,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms Silver",
+      "short": "Collegiate Stars Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687954/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687955,
+      "name": "2025-26 Panini Prizm - Collegiate Stars Prizms White Laser",
+      "short": "Collegiate Stars Prizms White Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687955/2025-26-Panini-Prizm-Collegiate-Stars-Prizms-White-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687942,
+      "name": "2025-26 Panini Prizm - Colorblast",
+      "short": "Colorblast",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687942/2025-26-Panini-Prizm-Colorblast",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686302,
+      "name": "2025-26 Panini Prizm - Deep Space",
+      "short": "Deep Space",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686302/2025-26-Panini-Prizm-Deep-Space",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687956,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Blue Seismic",
+      "short": "Deep Space Prizms Blue Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687956/2025-26-Panini-Prizm-Deep-Space-Prizms-Blue-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686646,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Green Pulsar",
+      "short": "Deep Space Prizms Green Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686646/2025-26-Panini-Prizm-Deep-Space-Prizms-Green-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686647,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Green Seismic",
+      "short": "Deep Space Prizms Green Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686647/2025-26-Panini-Prizm-Deep-Space-Prizms-Green-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686642,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Ice",
+      "short": "Deep Space Prizms Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686642/2025-26-Panini-Prizm-Deep-Space-Prizms-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686643,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Raywave",
+      "short": "Deep Space Prizms Raywave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686643/2025-26-Panini-Prizm-Deep-Space-Prizms-Raywave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686645,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Red Pulsar",
+      "short": "Deep Space Prizms Red Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686645/2025-26-Panini-Prizm-Deep-Space-Prizms-Red-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686648,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Red Seismic",
+      "short": "Deep Space Prizms Red Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686648/2025-26-Panini-Prizm-Deep-Space-Prizms-Red-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686644,
+      "name": "2025-26 Panini Prizm - Deep Space Prizms Silver",
+      "short": "Deep Space Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686644/2025-26-Panini-Prizm-Deep-Space-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686303,
+      "name": "2025-26 Panini Prizm - Fearless",
+      "short": "Fearless",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686303/2025-26-Panini-Prizm-Fearless",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686702,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Blue Seismic",
+      "short": "Fearless Prizms Blue Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686702/2025-26-Panini-Prizm-Fearless-Prizms-Blue-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686699,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Green Pulsar",
+      "short": "Fearless Prizms Green Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686699/2025-26-Panini-Prizm-Fearless-Prizms-Green-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686700,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Green Seismic",
+      "short": "Fearless Prizms Green Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686700/2025-26-Panini-Prizm-Fearless-Prizms-Green-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686690,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Ice",
+      "short": "Fearless Prizms Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686690/2025-26-Panini-Prizm-Fearless-Prizms-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686691,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Raywave",
+      "short": "Fearless Prizms Raywave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686691/2025-26-Panini-Prizm-Fearless-Prizms-Raywave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686698,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Red Pulsar",
+      "short": "Fearless Prizms Red Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686698/2025-26-Panini-Prizm-Fearless-Prizms-Red-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686701,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Red Seismic",
+      "short": "Fearless Prizms Red Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686701/2025-26-Panini-Prizm-Fearless-Prizms-Red-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686695,
+      "name": "2025-26 Panini Prizm - Fearless Prizms Silver",
+      "short": "Fearless Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686695/2025-26-Panini-Prizm-Fearless-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687957,
+      "name": "2025-26 Panini Prizm - Fireworks",
+      "short": "Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687957/2025-26-Panini-Prizm-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687958,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Black",
+      "short": "Fireworks Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687958/2025-26-Panini-Prizm-Fireworks-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687959,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Blue Ice",
+      "short": "Fireworks Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687959/2025-26-Panini-Prizm-Fireworks-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687960,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Blue Wave",
+      "short": "Fireworks Prizms Blue Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687960/2025-26-Panini-Prizm-Fireworks-Prizms-Blue-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687961,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Gold",
+      "short": "Fireworks Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687961/2025-26-Panini-Prizm-Fireworks-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687962,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Hyper",
+      "short": "Fireworks Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687962/2025-26-Panini-Prizm-Fireworks-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687963,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Mojo",
+      "short": "Fireworks Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687963/2025-26-Panini-Prizm-Fireworks-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687964,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Orange Pulsar",
+      "short": "Fireworks Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687964/2025-26-Panini-Prizm-Fireworks-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687965,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Pink Scope",
+      "short": "Fireworks Prizms Pink Scope",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687965/2025-26-Panini-Prizm-Fireworks-Prizms-Pink-Scope",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687966,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Purple Ice",
+      "short": "Fireworks Prizms Purple Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687966/2025-26-Panini-Prizm-Fireworks-Prizms-Purple-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687967,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Red Wave",
+      "short": "Fireworks Prizms Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687967/2025-26-Panini-Prizm-Fireworks-Prizms-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687968,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms Silver",
+      "short": "Fireworks Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687968/2025-26-Panini-Prizm-Fireworks-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687969,
+      "name": "2025-26 Panini Prizm - Fireworks Prizms White Lazer",
+      "short": "Fireworks Prizms White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687969/2025-26-Panini-Prizm-Fireworks-Prizms-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686304,
+      "name": "2025-26 Panini Prizm - Global Reach",
+      "short": "Global Reach",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686304/2025-26-Panini-Prizm-Global-Reach",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686730,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Blue Seismic",
+      "short": "Global Reach Prizms Blue Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686730/2025-26-Panini-Prizm-Global-Reach-Prizms-Blue-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686727,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Green Pulsar",
+      "short": "Global Reach Prizms Green Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686727/2025-26-Panini-Prizm-Global-Reach-Prizms-Green-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686728,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Green Seismic",
+      "short": "Global Reach Prizms Green Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686728/2025-26-Panini-Prizm-Global-Reach-Prizms-Green-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686723,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Ice",
+      "short": "Global Reach Prizms Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686723/2025-26-Panini-Prizm-Global-Reach-Prizms-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686724,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Raywave",
+      "short": "Global Reach Prizms Raywave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686724/2025-26-Panini-Prizm-Global-Reach-Prizms-Raywave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686726,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Red Pulsar",
+      "short": "Global Reach Prizms Red Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686726/2025-26-Panini-Prizm-Global-Reach-Prizms-Red-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686729,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Red Seismic",
+      "short": "Global Reach Prizms Red Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686729/2025-26-Panini-Prizm-Global-Reach-Prizms-Red-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686725,
+      "name": "2025-26 Panini Prizm - Global Reach Prizms Silver",
+      "short": "Global Reach Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686725/2025-26-Panini-Prizm-Global-Reach-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688050,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic",
+      "short": "Kaleidoscopic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688050/2025-26-Panini-Prizm-Kaleidoscopic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688051,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Black",
+      "short": "Kaleidoscopic Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688051/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688052,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Blue Ice",
+      "short": "Kaleidoscopic Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688052/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688053,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Blue Wave",
+      "short": "Kaleidoscopic Prizms Blue Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688053/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Blue-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688054,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Gold",
+      "short": "Kaleidoscopic Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688054/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688055,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Hyper",
+      "short": "Kaleidoscopic Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688055/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688056,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Mojo",
+      "short": "Kaleidoscopic Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688056/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688057,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Orange Pulsar",
+      "short": "Kaleidoscopic Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688057/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688058,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Pink Scope",
+      "short": "Kaleidoscopic Prizms Pink Scope",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688058/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Pink-Scope",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688059,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Purple Ice",
+      "short": "Kaleidoscopic Prizms Purple Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688059/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Purple-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688060,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Red Wave",
+      "short": "Kaleidoscopic Prizms Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688060/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688061,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms Silver",
+      "short": "Kaleidoscopic Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688061/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688062,
+      "name": "2025-26 Panini Prizm - Kaleidoscopic Prizms White Lazer",
+      "short": "Kaleidoscopic Prizms White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688062/2025-26-Panini-Prizm-Kaleidoscopic-Prizms-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688294,
+      "name": "2025-26 Panini Prizm - Legacy Signatures",
+      "short": "Legacy Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688294/2025-26-Panini-Prizm-Legacy-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688295,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Black",
+      "short": "Legacy Signatures Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688295/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688296,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Black Gold",
+      "short": "Legacy Signatures Prizms Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688296/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688297,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Black Shimmer FOTL",
+      "short": "Legacy Signatures Prizms Black Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688297/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Black-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688298,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Blue Ice",
+      "short": "Legacy Signatures Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688298/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688299,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Blue Shimmer FOTL",
+      "short": "Legacy Signatures Prizms Blue Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688299/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Blue-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688300,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Gold",
+      "short": "Legacy Signatures Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688300/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688301,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Gold Shimmer FOTL",
+      "short": "Legacy Signatures Prizms Gold Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688301/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Gold-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688302,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Gold Vinyl FOTL",
+      "short": "Legacy Signatures Prizms Gold Vinyl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688302/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Gold-Vinyl-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688303,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Hyper",
+      "short": "Legacy Signatures Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688303/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688304,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Mojo",
+      "short": "Legacy Signatures Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688304/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688305,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Orange Pulsar",
+      "short": "Legacy Signatures Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688305/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688306,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Red Power",
+      "short": "Legacy Signatures Prizms Red Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688306/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Red-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688307,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms Silver",
+      "short": "Legacy Signatures Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688307/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688308,
+      "name": "2025-26 Panini Prizm - Legacy Signatures Prizms White Lazer",
+      "short": "Legacy Signatures Prizms White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688308/2025-26-Panini-Prizm-Legacy-Signatures-Prizms-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688063,
+      "name": "2025-26 Panini Prizm - Manga",
+      "short": "Manga",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688063/2025-26-Panini-Prizm-Manga",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687912,
+      "name": "2025-26 Panini Prizm - New Recruits",
+      "short": "New Recruits",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687912/2025-26-Panini-Prizm-New-Recruits",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687913,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Blue Seismic",
+      "short": "New Recruits Prizms Blue Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687913/2025-26-Panini-Prizm-New-Recruits-Prizms-Blue-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687914,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Green Pulsar",
+      "short": "New Recruits Prizms Green Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687914/2025-26-Panini-Prizm-New-Recruits-Prizms-Green-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687915,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Green Seismic",
+      "short": "New Recruits Prizms Green Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687915/2025-26-Panini-Prizm-New-Recruits-Prizms-Green-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687918,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Ice",
+      "short": "New Recruits Prizms Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687918/2025-26-Panini-Prizm-New-Recruits-Prizms-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687922,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Raywave",
+      "short": "New Recruits Prizms Raywave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687922/2025-26-Panini-Prizm-New-Recruits-Prizms-Raywave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687925,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Red Pulsar",
+      "short": "New Recruits Prizms Red Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687925/2025-26-Panini-Prizm-New-Recruits-Prizms-Red-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687926,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Red Seismic",
+      "short": "New Recruits Prizms Red Seismic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687926/2025-26-Panini-Prizm-New-Recruits-Prizms-Red-Seismic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687927,
+      "name": "2025-26 Panini Prizm - New Recruits Prizms Silver",
+      "short": "New Recruits Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687927/2025-26-Panini-Prizm-New-Recruits-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 684010,
+      "name": "2025-26 Panini Prizm - Penmanship",
+      "short": "Penmanship",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/684010/2025-26-Panini-Prizm-Penmanship",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688448,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Black",
+      "short": "Penmanship Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688448/2025-26-Panini-Prizm-Penmanship-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688449,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Black Gold",
+      "short": "Penmanship Prizms Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688449/2025-26-Panini-Prizm-Penmanship-Prizms-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688450,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Black Shimmer FOTL",
+      "short": "Penmanship Prizms Black Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688450/2025-26-Panini-Prizm-Penmanship-Prizms-Black-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686095,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Blue Ice",
+      "short": "Penmanship Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686095/2025-26-Panini-Prizm-Penmanship-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688451,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Blue Shimmer FOTL",
+      "short": "Penmanship Prizms Blue Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688451/2025-26-Panini-Prizm-Penmanship-Prizms-Blue-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688452,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Gold",
+      "short": "Penmanship Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688452/2025-26-Panini-Prizm-Penmanship-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688453,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Gold Shimmer FOTL",
+      "short": "Penmanship Prizms Gold Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688453/2025-26-Panini-Prizm-Penmanship-Prizms-Gold-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688454,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Gold Vinyl FOTL",
+      "short": "Penmanship Prizms Gold Vinyl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688454/2025-26-Panini-Prizm-Penmanship-Prizms-Gold-Vinyl-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688455,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Hyper",
+      "short": "Penmanship Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688455/2025-26-Panini-Prizm-Penmanship-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688456,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Mojo",
+      "short": "Penmanship Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688456/2025-26-Panini-Prizm-Penmanship-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 685953,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Orange Pulsar",
+      "short": "Penmanship Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/685953/2025-26-Panini-Prizm-Penmanship-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688457,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Red Power",
+      "short": "Penmanship Prizms Red Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688457/2025-26-Panini-Prizm-Penmanship-Prizms-Red-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688458,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms Silver",
+      "short": "Penmanship Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688458/2025-26-Panini-Prizm-Penmanship-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688459,
+      "name": "2025-26 Panini Prizm - Penmanship Prizms White Lazer",
+      "short": "Penmanship Prizms White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688459/2025-26-Panini-Prizm-Penmanship-Prizms-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687897,
+      "name": "2025-26 Panini Prizm - Prizm Autographs",
+      "short": "Prizm Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687897/2025-26-Panini-Prizm-Prizm-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687898,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Black",
+      "short": "Prizm Autographs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687898/2025-26-Panini-Prizm-Prizm-Autographs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687899,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Black Gold",
+      "short": "Prizm Autographs Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687899/2025-26-Panini-Prizm-Prizm-Autographs-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687900,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Black Shimmer FOTL",
+      "short": "Prizm Autographs Black Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687900/2025-26-Panini-Prizm-Prizm-Autographs-Black-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687901,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Blue Ice",
+      "short": "Prizm Autographs Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687901/2025-26-Panini-Prizm-Prizm-Autographs-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687902,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Blue Shimmer FOTL",
+      "short": "Prizm Autographs Blue Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687902/2025-26-Panini-Prizm-Prizm-Autographs-Blue-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687903,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Gold",
+      "short": "Prizm Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687903/2025-26-Panini-Prizm-Prizm-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687904,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Gold Shimmer FOTL",
+      "short": "Prizm Autographs Gold Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687904/2025-26-Panini-Prizm-Prizm-Autographs-Gold-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687905,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Gold Vinyl FOTL",
+      "short": "Prizm Autographs Gold Vinyl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687905/2025-26-Panini-Prizm-Prizm-Autographs-Gold-Vinyl-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687906,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Hyper",
+      "short": "Prizm Autographs Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687906/2025-26-Panini-Prizm-Prizm-Autographs-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687907,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Mojo",
+      "short": "Prizm Autographs Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687907/2025-26-Panini-Prizm-Prizm-Autographs-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687908,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Orange Pulsar",
+      "short": "Prizm Autographs Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687908/2025-26-Panini-Prizm-Prizm-Autographs-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687909,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Red Power",
+      "short": "Prizm Autographs Red Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687909/2025-26-Panini-Prizm-Prizm-Autographs-Red-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687910,
+      "name": "2025-26 Panini Prizm - Prizm Autographs Silver",
+      "short": "Prizm Autographs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687910/2025-26-Panini-Prizm-Prizm-Autographs-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 687911,
+      "name": "2025-26 Panini Prizm - Prizm Autographs White Lazer",
+      "short": "Prizm Autographs White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/687911/2025-26-Panini-Prizm-Prizm-Autographs-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688064,
+      "name": "2025-26 Panini Prizm - Prizm Break",
+      "short": "Prizm Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688064/2025-26-Panini-Prizm-Prizm-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688065,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Black",
+      "short": "Prizm Break Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688065/2025-26-Panini-Prizm-Prizm-Break-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688066,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Blue Ice",
+      "short": "Prizm Break Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688066/2025-26-Panini-Prizm-Prizm-Break-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688067,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Blue Wave",
+      "short": "Prizm Break Prizms Blue Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688067/2025-26-Panini-Prizm-Prizm-Break-Prizms-Blue-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688068,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Gold",
+      "short": "Prizm Break Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688068/2025-26-Panini-Prizm-Prizm-Break-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688069,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Hyper",
+      "short": "Prizm Break Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688069/2025-26-Panini-Prizm-Prizm-Break-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688070,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Mojo",
+      "short": "Prizm Break Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688070/2025-26-Panini-Prizm-Prizm-Break-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688071,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Orange Pulsar",
+      "short": "Prizm Break Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688071/2025-26-Panini-Prizm-Prizm-Break-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688072,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Pink Scope",
+      "short": "Prizm Break Prizms Pink Scope",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688072/2025-26-Panini-Prizm-Prizm-Break-Prizms-Pink-Scope",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688073,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Purple Ice",
+      "short": "Prizm Break Prizms Purple Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688073/2025-26-Panini-Prizm-Prizm-Break-Prizms-Purple-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688074,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Red Wave",
+      "short": "Prizm Break Prizms Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688074/2025-26-Panini-Prizm-Prizm-Break-Prizms-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688075,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms Silver",
+      "short": "Prizm Break Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688075/2025-26-Panini-Prizm-Prizm-Break-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688076,
+      "name": "2025-26 Panini Prizm - Prizm Break Prizms White Lazer",
+      "short": "Prizm Break Prizms White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688076/2025-26-Panini-Prizm-Prizm-Break-Prizms-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688477,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures",
+      "short": "Prizm Stars Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688477/2025-26-Panini-Prizm-Prizm-Stars-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688478,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Black",
+      "short": "Prizm Stars Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688478/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688479,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Black Gold",
+      "short": "Prizm Stars Signatures Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688479/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688480,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Black Shimmer FOTL",
+      "short": "Prizm Stars Signatures Black Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688480/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Black-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688481,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Blue Ice",
+      "short": "Prizm Stars Signatures Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688481/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688482,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Blue Shimmer FOTL",
+      "short": "Prizm Stars Signatures Blue Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688482/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Blue-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688483,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Gold",
+      "short": "Prizm Stars Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688483/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688484,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Gold Shimmer FOTL",
+      "short": "Prizm Stars Signatures Gold Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688484/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Gold-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688485,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Gold Vinyl FOTL",
+      "short": "Prizm Stars Signatures Gold Vinyl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688485/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Gold-Vinyl-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688486,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Hyper",
+      "short": "Prizm Stars Signatures Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688486/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688487,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Mojo",
+      "short": "Prizm Stars Signatures Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688487/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688488,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Orange Pulsar",
+      "short": "Prizm Stars Signatures Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688488/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688489,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Red Power",
+      "short": "Prizm Stars Signatures Red Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688489/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Red-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688490,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures Silver",
+      "short": "Prizm Stars Signatures Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688490/2025-26-Panini-Prizm-Prizm-Stars-Signatures-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688491,
+      "name": "2025-26 Panini Prizm - Prizm Stars Signatures White Lazer",
+      "short": "Prizm Stars Signatures White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688491/2025-26-Panini-Prizm-Prizm-Stars-Signatures-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688077,
+      "name": "2025-26 Panini Prizm - Prizmania",
+      "short": "Prizmania",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688077/2025-26-Panini-Prizm-Prizmania",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689140,
+      "name": "2025-26 Panini Prizm - Sensational Signatures",
+      "short": "Sensational Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689140/2025-26-Panini-Prizm-Sensational-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689141,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Black",
+      "short": "Sensational Signatures Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689141/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689142,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Black Gold",
+      "short": "Sensational Signatures Prizms Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689142/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689143,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Black Shimmer FOTL",
+      "short": "Sensational Signatures Prizms Black Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689143/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Black-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689144,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Blue Ice",
+      "short": "Sensational Signatures Prizms Blue Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689144/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Blue-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689145,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Blue Shimmer FOTL",
+      "short": "Sensational Signatures Prizms Blue Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689145/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Blue-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689146,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Gold",
+      "short": "Sensational Signatures Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689146/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689147,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Gold Shimmer FOTL",
+      "short": "Sensational Signatures Prizms Gold Shimmer FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689147/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Gold-Shimmer-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689148,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Gold Vinyl FOTL",
+      "short": "Sensational Signatures Prizms Gold Vinyl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689148/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Gold-Vinyl-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689149,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Hyper",
+      "short": "Sensational Signatures Prizms Hyper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689149/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Hyper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689150,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Mojo",
+      "short": "Sensational Signatures Prizms Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689150/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Mojo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689151,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Orange Pulsar",
+      "short": "Sensational Signatures Prizms Orange Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689151/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Orange-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689152,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Red Power",
+      "short": "Sensational Signatures Prizms Red Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689152/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Red-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689153,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms Silver",
+      "short": "Sensational Signatures Prizms Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689153/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689154,
+      "name": "2025-26 Panini Prizm - Sensational Signatures Prizms White Lazer",
+      "short": "Sensational Signatures Prizms White Lazer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689154/2025-26-Panini-Prizm-Sensational-Signatures-Prizms-White-Lazer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689366,
+      "name": "2025-26 Panini Prizm - Signatures",
+      "short": "Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689366/2025-26-Panini-Prizm-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689367,
+      "name": "2025-26 Panini Prizm - Signatures Prizms Black",
+      "short": "Signatures Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689367/2025-26-Panini-Prizm-Signatures-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689368,
+      "name": "2025-26 Panini Prizm - Signatures Prizms Gold",
+      "short": "Signatures Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689368/2025-26-Panini-Prizm-Signatures-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689369,
+      "name": "2025-26 Panini Prizm - Signatures Prizms Green Pulsar",
+      "short": "Signatures Prizms Green Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689369/2025-26-Panini-Prizm-Signatures-Prizms-Green-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689370,
+      "name": "2025-26 Panini Prizm - Signatures Prizms Red Scope",
+      "short": "Signatures Prizms Red Scope",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689370/2025-26-Panini-Prizm-Signatures-Prizms-Red-Scope",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689371,
+      "name": "2025-26 Panini Prizm - Signing Day",
+      "short": "Signing Day",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689371/2025-26-Panini-Prizm-Signing-Day",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689372,
+      "name": "2025-26 Panini Prizm - Signing Day Prizms Black",
+      "short": "Signing Day Prizms Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689372/2025-26-Panini-Prizm-Signing-Day-Prizms-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689373,
+      "name": "2025-26 Panini Prizm - Signing Day Prizms Gold",
+      "short": "Signing Day Prizms Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689373/2025-26-Panini-Prizm-Signing-Day-Prizms-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689374,
+      "name": "2025-26 Panini Prizm - Signing Day Prizms Green Pulsar",
+      "short": "Signing Day Prizms Green Pulsar",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689374/2025-26-Panini-Prizm-Signing-Day-Prizms-Green-Pulsar",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689375,
+      "name": "2025-26 Panini Prizm - Signing Day Prizms Red Scope",
+      "short": "Signing Day Prizms Red Scope",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689375/2025-26-Panini-Prizm-Signing-Day-Prizms-Red-Scope",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688078,
+      "name": "2025-26 Panini Prizm - Uptown",
+      "short": "Uptown",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688078/2025-26-Panini-Prizm-Uptown",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 681915,
+      "name": "2025-26 Panini Prizm - Black Gold Prizm",
+      "short": "Black Gold Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681915/2025-26-Panini-Prizm-Black-Gold-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681925,
+      "name": "2025-26 Panini Prizm - Black Prizm",
+      "short": "Black Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681925/2025-26-Panini-Prizm-Black-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681926,
+      "name": "2025-26 Panini Prizm - Black Shimmer FOTL Prizm",
+      "short": "Black Shimmer FOTL Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681926/2025-26-Panini-Prizm-Black-Shimmer-FOTL-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681899,
+      "name": "2025-26 Panini Prizm - Blue Ice Prizm",
+      "short": "Blue Ice Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681899/2025-26-Panini-Prizm-Blue-Ice-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681892,
+      "name": "2025-26 Panini Prizm - Blue Pulsar Prizm",
+      "short": "Blue Pulsar Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681892/2025-26-Panini-Prizm-Blue-Pulsar-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681884,
+      "name": "2025-26 Panini Prizm - Blue Seismic Prizm",
+      "short": "Blue Seismic Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681884/2025-26-Panini-Prizm-Blue-Seismic-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681904,
+      "name": "2025-26 Panini Prizm - Blue Shimmer FOTL Prizm",
+      "short": "Blue Shimmer FOTL Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681904/2025-26-Panini-Prizm-Blue-Shimmer-FOTL-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 680988,
+      "name": "2025-26 Panini Prizm - Blue Wave Prizm",
+      "short": "Blue Wave Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/680988/2025-26-Panini-Prizm-Blue-Wave-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681903,
+      "name": "2025-26 Panini Prizm - Cherry Blossom Prizm",
+      "short": "Cherry Blossom Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681903/2025-26-Panini-Prizm-Cherry-Blossom-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681909,
+      "name": "2025-26 Panini Prizm - Gold Glitter Prizm",
+      "short": "Gold Glitter Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681909/2025-26-Panini-Prizm-Gold-Glitter-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681908,
+      "name": "2025-26 Panini Prizm - Gold Prizm",
+      "short": "Gold Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681908/2025-26-Panini-Prizm-Gold-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681911,
+      "name": "2025-26 Panini Prizm - Gold Shimmer FOTL Prizm",
+      "short": "Gold Shimmer FOTL Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681911/2025-26-Panini-Prizm-Gold-Shimmer-FOTL-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681917,
+      "name": "2025-26 Panini Prizm - Gold Vinyl FOTL Prizm",
+      "short": "Gold Vinyl FOTL Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681917/2025-26-Panini-Prizm-Gold-Vinyl-FOTL-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681919,
+      "name": "2025-26 Panini Prizm - Green Mojo Prizm",
+      "short": "Green Mojo Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681919/2025-26-Panini-Prizm-Green-Mojo-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681869,
+      "name": "2025-26 Panini Prizm - Green Prizm",
+      "short": "Green Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681869/2025-26-Panini-Prizm-Green-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681901,
+      "name": "2025-26 Panini Prizm - Green Pulsar Prizm",
+      "short": "Green Pulsar Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681901/2025-26-Panini-Prizm-Green-Pulsar-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681912,
+      "name": "2025-26 Panini Prizm - Green Scope Prizm",
+      "short": "Green Scope Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681912/2025-26-Panini-Prizm-Green-Scope-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681900,
+      "name": "2025-26 Panini Prizm - Green Seismic Prizm",
+      "short": "Green Seismic Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681900/2025-26-Panini-Prizm-Green-Seismic-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681870,
+      "name": "2025-26 Panini Prizm - Hyper Prizm",
+      "short": "Hyper Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681870/2025-26-Panini-Prizm-Hyper-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681902,
+      "name": "2025-26 Panini Prizm - Mojo Prizm",
+      "short": "Mojo Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681902/2025-26-Panini-Prizm-Mojo-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681927,
+      "name": "2025-26 Panini Prizm - Nebula Prizm",
+      "short": "Nebula Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681927/2025-26-Panini-Prizm-Nebula-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681871,
+      "name": "2025-26 Panini Prizm - Orange Ice Prizm",
+      "short": "Orange Ice Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681871/2025-26-Panini-Prizm-Orange-Ice-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681887,
+      "name": "2025-26 Panini Prizm - Orange Pulsar Prizm",
+      "short": "Orange Pulsar Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681887/2025-26-Panini-Prizm-Orange-Pulsar-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681897,
+      "name": "2025-26 Panini Prizm - Orange Seismic Prizm",
+      "short": "Orange Seismic Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681897/2025-26-Panini-Prizm-Orange-Seismic-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681885,
+      "name": "2025-26 Panini Prizm - Pink Pulsar Prizm",
+      "short": "Pink Pulsar Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681885/2025-26-Panini-Prizm-Pink-Pulsar-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681890,
+      "name": "2025-26 Panini Prizm - Pink Scope Prizm",
+      "short": "Pink Scope Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681890/2025-26-Panini-Prizm-Pink-Scope-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681893,
+      "name": "2025-26 Panini Prizm - Pink Seismic Prizm",
+      "short": "Pink Seismic Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681893/2025-26-Panini-Prizm-Pink-Seismic-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681914,
+      "name": "2025-26 Panini Prizm - Plum Blossom Prizm",
+      "short": "Plum Blossom Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681914/2025-26-Panini-Prizm-Plum-Blossom-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681872,
+      "name": "2025-26 Panini Prizm - Pulsar Prizm",
+      "short": "Pulsar Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681872/2025-26-Panini-Prizm-Pulsar-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681886,
+      "name": "2025-26 Panini Prizm - Purple Ice Prizm",
+      "short": "Purple Ice Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681886/2025-26-Panini-Prizm-Purple-Ice-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681888,
+      "name": "2025-26 Panini Prizm - Purple Pulsar Prizm",
+      "short": "Purple Pulsar Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681888/2025-26-Panini-Prizm-Purple-Pulsar-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681889,
+      "name": "2025-26 Panini Prizm - Purple Seismic Prizm",
+      "short": "Purple Seismic Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681889/2025-26-Panini-Prizm-Purple-Seismic-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681873,
+      "name": "2025-26 Panini Prizm - Purple Wave Prizm",
+      "short": "Purple Wave Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681873/2025-26-Panini-Prizm-Purple-Wave-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681920,
+      "name": "2025-26 Panini Prizm - Raywave Black Gold Prizm",
+      "short": "Raywave Black Gold Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681920/2025-26-Panini-Prizm-Raywave-Black-Gold-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681905,
+      "name": "2025-26 Panini Prizm - Raywave Blue Prizm",
+      "short": "Raywave Blue Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681905/2025-26-Panini-Prizm-Raywave-Blue-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681874,
+      "name": "2025-26 Panini Prizm - Raywave Prizm",
+      "short": "Raywave Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681874/2025-26-Panini-Prizm-Raywave-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681891,
+      "name": "2025-26 Panini Prizm - Raywave Red Prizm",
+      "short": "Raywave Red Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681891/2025-26-Panini-Prizm-Raywave-Red-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681875,
+      "name": "2025-26 Panini Prizm - Red Ice Prizm",
+      "short": "Red Ice Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681875/2025-26-Panini-Prizm-Red-Ice-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681898,
+      "name": "2025-26 Panini Prizm - Red Power Prizm",
+      "short": "Red Power Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681898/2025-26-Panini-Prizm-Red-Power-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681879,
+      "name": "2025-26 Panini Prizm - Red Pulsar Prizm",
+      "short": "Red Pulsar Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681879/2025-26-Panini-Prizm-Red-Pulsar-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681895,
+      "name": "2025-26 Panini Prizm - Red Scope Prizm",
+      "short": "Red Scope Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681895/2025-26-Panini-Prizm-Red-Scope-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681881,
+      "name": "2025-26 Panini Prizm - Red Seismic Prizm",
+      "short": "Red Seismic Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681881/2025-26-Panini-Prizm-Red-Seismic-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681880,
+      "name": "2025-26 Panini Prizm - Red Wave Prizm",
+      "short": "Red Wave Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681880/2025-26-Panini-Prizm-Red-Wave-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681876,
+      "name": "2025-26 Panini Prizm - Silver Prizm",
+      "short": "Silver Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681876/2025-26-Panini-Prizm-Silver-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681877,
+      "name": "2025-26 Panini Prizm - Snakeskin Prizm",
+      "short": "Snakeskin Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681877/2025-26-Panini-Prizm-Snakeskin-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681883,
+      "name": "2025-26 Panini Prizm - Teal Prizm",
+      "short": "Teal Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681883/2025-26-Panini-Prizm-Teal-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681878,
+      "name": "2025-26 Panini Prizm - Tiger Stripe Prizm",
+      "short": "Tiger Stripe Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681878/2025-26-Panini-Prizm-Tiger-Stripe-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 681894,
+      "name": "2025-26 Panini Prizm - White Lazer Prizm",
+      "short": "White Lazer Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/681894/2025-26-Panini-Prizm-White-Lazer-Prizm",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 11,
+  "imported_this_run": [
+    {
+      "source_set_id": 681908,
+      "name": "Gold Prizm",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 681925,
+      "name": "Black Prizm",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 681875,
+      "name": "Red Ice Prizm",
+      "family_requested": "numbered_low",
+      "cards_with_front": 29,
+      "missing_fronts": 171
+    },
+    {
+      "source_set_id": 681880,
+      "name": "Red Wave Prizm",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 195
+    },
+    {
+      "source_set_id": 681898,
+      "name": "Red Power Prizm",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 198
+    },
+    {
+      "source_set_id": 681895,
+      "name": "Red Scope Prizm",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 684010,
+      "name": "Penmanship",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 49
+    },
+    {
+      "source_set_id": 689366,
+      "name": "Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 50
+    },
+    {
+      "source_set_id": 688294,
+      "name": "Legacy Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 689140,
+      "name": "Sensational Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 49
+    },
+    {
+      "source_set_id": 687897,
+      "name": "Prizm Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 50
+    },
+    {
+      "source_set_id": 688063,
+      "name": "Manga",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 688078,
+      "name": "Uptown",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 30
+    },
+    {
+      "source_set_id": 686303,
+      "name": "Fearless",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 687957,
+      "name": "Fireworks",
+      "family_requested": "insert",
+      "cards_with_front": 2,
+      "missing_fronts": 23
+    },
+    {
+      "source_set_id": 687929,
+      "name": "Brilliance",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 687942,
+      "name": "Colorblast",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 681869,
+      "name": "Green Prizm",
+      "family_requested": "numbered",
+      "cards_with_front": 16,
+      "missing_fronts": 184
+    },
+    {
+      "source_set_id": 681899,
+      "name": "Blue Ice Prizm",
+      "family_requested": "numbered",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 680988,
+      "name": "Blue Wave Prizm",
+      "family_requested": "numbered",
+      "cards_with_front": 2,
+      "missing_fronts": 198
+    },
+    {
+      "source_set_id": 681878,
+      "name": "Tiger Stripe Prizm",
+      "family_requested": "case_hit",
+      "cards_with_front": 0,
+      "missing_fronts": 200
+    }
+  ],
+  "import_errors": [],
+  "card_count": 267,
+  "before_tiers": {
+    "base": 148,
+    "rookie": 52,
+    "auto": 3
+  },
+  "tiers": {
+    "base": 148,
+    "rookie": 52,
+    "auto": 3,
+    "parallel": 45,
+    "numbered": 11,
+    "insert": 8
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 1,
+    "auto": 3,
+    "parallel": 45,
+    "numbered": 11,
+    "insert": 8
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 148,
+      "available_cards": 148,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 52,
+      "available_cards": 52,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 42
+    },
+    "auto": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 86
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 45,
+      "available_cards": 45,
+      "local_images": 45,
+      "source_candidates": 48
+    },
+    "insert": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 8,
+      "source_candidates": 111
+    },
+    "numbered": {
+      "status": "available",
+      "records": 11,
+      "available_cards": 11,
+      "local_images": 11,
+      "source_candidates": 67
+    },
+    "case_hit": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

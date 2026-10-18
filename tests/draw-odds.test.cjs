@@ -16,7 +16,7 @@ test('basketball public odds use the same pools, fallbacks and all-hit exception
  const cards=[nba(1,'base'),nba(2,'rookie'),nba(3,'numbered',{serial_max:10}),nba(4,'auto')],p=product('special',{sport:'basketball'}),m=Odds.analyze(p,cards);
  near(row(m,'TEST:3').chance,.001);near(row(m,'TEST:4').chance,.019);near(row(m,'TEST:2').chance,1-.5**4*(1-.59));near(m.cards.reduce((s,r)=>s+r.expected,0),5);
  const sequence=[0,0,0,0,0,0];assert.equal(Basketball.draw(cards,1,()=>sequence.shift()).at(-1).id,'TEST:3');
- const absent=Odds.analyze(p,cards.filter(c=>c.id!=='TEST:3'));near(row(absent,'TEST:4').chance,.019);assert.match(absent.slots[1].pools[0].note,/缺档/);
+ const absent=Odds.analyze(p,cards.filter(c=>c.id!=='TEST:3'));near(row(absent,'TEST:4').chance,.019);assert.match(absent.slots[1].pools[0].note,/素材尚未收齐/);assert.equal(absent.slots[1].pools[0].chance,0);assert.equal(absent.slots[1].pools[0].cards.length,0);
  const fixed=Odds.analyze(p,[cards[2],cards[3]]);near(fixed.cards[0].chance,1-.5**5);assert.equal(fixed.slots.length,1);
 });
 test('special packs, 60-card decks, weighted event variants and selected rewards disclose their real algorithms',()=>{
@@ -47,4 +47,10 @@ test('grading disclosure sums to one and matches every possible four-condition o
   near(distribution.rows.reduce((sum,r)=>sum+r.chance,0),1);assert.equal(distribution.rows.length,observed.size);for(const r of distribution.rows)near(r.chance,observed.get(`${r.grade}:${r.label}`));
  }
  const bgs=C.gradeDistribution(card,'BGS');near(bgs.rows.find(r=>r.label==='Black Label').chance,.22**4);assert.ok(!C.gradeDistribution({...card,year:1970},'PSA').rows.some(r=>r.grade===10));
+});
+test('basketball missing tiers show zero and no substituted base-card gallery; chase and low-numbered autos use their own tiers',()=>{
+ const cards=[nba(1,'base'),nba(2,'auto',{serial_max:1}),nba(3,'insert',{is_chase:true}),nba(4,'auto'),nba(5,'insert',{draw_available:false})],p=product('special',{sport:'basketball',tier_coverage:{memorabilia:{status:'not_listed'}}}),m=Odds.analyze(p,cards);
+ assert.equal(Basketball.group(cards[1]),'numbered_low');assert.equal(Basketball.group(cards[2]),'case_hit');near(row(m,'TEST:2').chance,.001);near(row(m,'TEST:3').chance,.001);assert.equal(row(m,'TEST:5').chance,0);
+ const missing=m.slots[1].pools.find(p=>p.label==='球衣位');assert.equal(missing.chance,0);assert.deepEqual(missing.cards,[]);assert.match(missing.note,/已查子系列目录未见/);near(m.slots[1].pools.reduce((s,p)=>s+p.chance,0),1);
+ const chase=C.submit(Shop.validate({version:1,counts:{'TEST:3':1}}),cards[2],'PSA','standard',null,()=>.9);assert.equal(chase.shop.collectibles.jobs[0].card.is_chase,true);
 });

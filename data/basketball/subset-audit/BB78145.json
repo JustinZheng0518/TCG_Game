@@ -1,0 +1,283 @@
+{
+  "set_id": "BB78145",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/78145/2012-13-Panini",
+  "headings": [
+    "Insert Sets (14)",
+    "Parallel Sets (3)"
+  ],
+  "subset_count": 17,
+  "subsets": [
+    {
+      "source_set_id": 78810,
+      "name": "2012-13 Panini - All-Panini",
+      "short": "All-Panini",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78810/2012-13-Panini-All-Panini",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78811,
+      "name": "2012-13 Panini - All-Panini Gold",
+      "short": "All-Panini Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78811/2012-13-Panini-All-Panini-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78820,
+      "name": "2012-13 Panini - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78820/2012-13-Panini-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78823,
+      "name": "2012-13 Panini - Dress Code",
+      "short": "Dress Code",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78823/2012-13-Panini-Dress-Code",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 79332,
+      "name": "2012-13 Panini - Game Jerseys",
+      "short": "Game Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/79332/2012-13-Panini-Game-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78821,
+      "name": "2012-13 Panini - Hall of Fame Signatures",
+      "short": "Hall of Fame Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78821/2012-13-Panini-Hall-of-Fame-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78787,
+      "name": "2012-13 Panini - Heroes of the Hall",
+      "short": "Heroes of the Hall",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78787/2012-13-Panini-Heroes-of-the-Hall",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78814,
+      "name": "2012-13 Panini - Knights of the Round",
+      "short": "Knights of the Round",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78814/2012-13-Panini-Knights-of-the-Round",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78817,
+      "name": "2012-13 Panini - Matching Numbers",
+      "short": "Matching Numbers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78817/2012-13-Panini-Matching-Numbers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78815,
+      "name": "2012-13 Panini - Player of the Year",
+      "short": "Player of the Year",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78815/2012-13-Panini-Player-of-the-Year",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78818,
+      "name": "2012-13 Panini - Rated Rookie Signatures",
+      "short": "Rated Rookie Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78818/2012-13-Panini-Rated-Rookie-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78819,
+      "name": "2012-13 Panini - Rookie Signatures",
+      "short": "Rookie Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78819/2012-13-Panini-Rookie-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78816,
+      "name": "2012-13 Panini - Spirit of the Game",
+      "short": "Spirit of the Game",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78816/2012-13-Panini-Spirit-of-the-Game",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78822,
+      "name": "2012-13 Panini - Spokesman Signatures",
+      "short": "Spokesman Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78822/2012-13-Panini-Spokesman-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78813,
+      "name": "2012-13 Panini - Black Knight",
+      "short": "Black Knight",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78813/2012-13-Panini-Black-Knight",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 78812,
+      "name": "2012-13 Panini - Gold Knight",
+      "short": "Gold Knight",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78812/2012-13-Panini-Gold-Knight",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 79333,
+      "name": "2012-13 Panini - Silver Knight",
+      "short": "Silver Knight",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/79333/2012-13-Panini-Silver-Knight",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 7,
+  "imported_this_run": [
+    {
+      "source_set_id": 78812,
+      "name": "Gold Knight",
+      "family_requested": "numbered_low",
+      "cards_with_front": 102,
+      "missing_fronts": 198
+    },
+    {
+      "source_set_id": 78813,
+      "name": "Black Knight",
+      "family_requested": "numbered_low",
+      "cards_with_front": 12,
+      "missing_fronts": 288
+    },
+    {
+      "source_set_id": 78811,
+      "name": "All-Panini Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 8,
+      "missing_fronts": 92
+    },
+    {
+      "source_set_id": 78820,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 6,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 78819,
+      "name": "Rookie Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 14,
+      "missing_fronts": 46
+    },
+    {
+      "source_set_id": 79332,
+      "name": "Game Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 12,
+      "missing_fronts": 38
+    },
+    {
+      "source_set_id": 78810,
+      "name": "All-Panini",
+      "family_requested": "insert",
+      "cards_with_front": 66,
+      "missing_fronts": 34
+    }
+  ],
+  "import_errors": [],
+  "card_count": 520,
+  "before_tiers": {
+    "base": 200,
+    "rookie": 100
+  },
+  "tiers": {
+    "base": 200,
+    "rookie": 100,
+    "parallel": 102,
+    "numbered_low": 12,
+    "numbered": 8,
+    "auto": 20,
+    "memorabilia": 12,
+    "insert": 66
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 5,
+    "parallel": 102,
+    "numbered_low": 12,
+    "numbered": 8,
+    "auto": 20,
+    "memorabilia": 12,
+    "insert": 66
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 200,
+      "available_cards": 200,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 100,
+      "available_cards": 100,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 12,
+      "available_cards": 12,
+      "local_images": 12,
+      "source_candidates": 3
+    },
+    "auto": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 5
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 12,
+      "available_cards": 12,
+      "local_images": 12,
+      "source_candidates": 1
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 102,
+      "available_cards": 102,
+      "local_images": 102,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "available",
+      "records": 66,
+      "available_cards": 66,
+      "local_images": 66,
+      "source_candidates": 8
+    },
+    "numbered": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 8,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

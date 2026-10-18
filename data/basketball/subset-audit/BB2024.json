@@ -1,0 +1,116 @@
+{
+  "set_id": "BB2024",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2024/1975-76-Topps",
+  "headings": [],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 25503,
+      "name": "1975-76 Topps - Team Checklists",
+      "short": "Team Checklists",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25503/1975-76-Topps-Team-Checklists",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 25503,
+      "name": "Team Checklists",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 255,
+  "before_tiers": {
+    "base": 198,
+    "rookie": 57
+  },
+  "tiers": {
+    "base": 273,
+    "rookie": 57,
+    "insert": 25
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 2,
+    "rookie": 5,
+    "insert": 25
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 273,
+      "available_cards": 273,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 57,
+      "available_cards": 57,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 100
+}

@@ -1,0 +1,321 @@
+{
+  "set_id": "BB84419",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/84419/2013-14-Hoops",
+  "headings": [
+    "Insert Sets (17)",
+    "Parallel Sets (6)"
+  ],
+  "subset_count": 23,
+  "subsets": [
+    {
+      "source_set_id": 86623,
+      "name": "2013-14 Hoops - Above the Rim",
+      "short": "Above the Rim",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86623/2013-14-Hoops-Above-the-Rim",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86624,
+      "name": "2013-14 Hoops - Action Shots",
+      "short": "Action Shots",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86624/2013-14-Hoops-Action-Shots",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 287971,
+      "name": "2013-14 Hoops - All-Star Rookies",
+      "short": "All-Star Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/287971/2013-14-Hoops-All-Star-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86625,
+      "name": "2013-14 Hoops - Authentics",
+      "short": "Authentics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86625/2013-14-Hoops-Authentics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86626,
+      "name": "2013-14 Hoops - Authentics Prime",
+      "short": "Authentics Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86626/2013-14-Hoops-Authentics-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86632,
+      "name": "2013-14 Hoops - Board Members",
+      "short": "Board Members",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86632/2013-14-Hoops-Board-Members",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86636,
+      "name": "2013-14 Hoops - Class Action",
+      "short": "Class Action",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86636/2013-14-Hoops-Class-Action",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86637,
+      "name": "2013-14 Hoops - Courtside",
+      "short": "Courtside",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86637/2013-14-Hoops-Courtside",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86638,
+      "name": "2013-14 Hoops - Dreams",
+      "short": "Dreams",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86638/2013-14-Hoops-Dreams",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86639,
+      "name": "2013-14 Hoops - Hall of Fame Heroes",
+      "short": "Hall of Fame Heroes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86639/2013-14-Hoops-Hall-of-Fame-Heroes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86640,
+      "name": "2013-14 Hoops - Highlights",
+      "short": "Highlights",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86640/2013-14-Hoops-Highlights",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86641,
+      "name": "2013-14 Hoops - Kobe All-Rookie Team",
+      "short": "Kobe All-Rookie Team",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86641/2013-14-Hoops-Kobe-All-Rookie-Team",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 346594,
+      "name": "2013-14 Hoops - Rising Stars",
+      "short": "Rising Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/346594/2013-14-Hoops-Rising-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86627,
+      "name": "2013-14 Hoops - Signatures",
+      "short": "Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86627/2013-14-Hoops-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86628,
+      "name": "2013-14 Hoops - Signatures Blue",
+      "short": "Signatures Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86628/2013-14-Hoops-Signatures-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86629,
+      "name": "2013-14 Hoops - Signatures Red",
+      "short": "Signatures Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86629/2013-14-Hoops-Signatures-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86642,
+      "name": "2013-14 Hoops - Spark Plugs",
+      "short": "Spark Plugs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86642/2013-14-Hoops-Spark-Plugs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 86621,
+      "name": "2013-14 Hoops - Artist's Proof",
+      "short": "Artist's Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86621/2013-14-Hoops-Artist-s-Proof",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 86622,
+      "name": "2013-14 Hoops - Artist's Proof Black",
+      "short": "Artist's Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86622/2013-14-Hoops-Artist-s-Proof-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 86631,
+      "name": "2013-14 Hoops - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86631/2013-14-Hoops-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 86619,
+      "name": "2013-14 Hoops - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86619/2013-14-Hoops-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 86618,
+      "name": "2013-14 Hoops - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86618/2013-14-Hoops-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 86620,
+      "name": "2013-14 Hoops - Red Back",
+      "short": "Red Back",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/86620/2013-14-Hoops-Red-Back",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 7,
+  "imported_this_run": [
+    {
+      "source_set_id": 86619,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 300,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 86618,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 126,
+      "missing_fronts": 174
+    },
+    {
+      "source_set_id": 86620,
+      "name": "Red Back",
+      "family_requested": "numbered_low",
+      "cards_with_front": 276,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 86622,
+      "name": "Artist's Proof Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 298
+    },
+    {
+      "source_set_id": 86627,
+      "name": "Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 61,
+      "missing_fronts": 139
+    },
+    {
+      "source_set_id": 86638,
+      "name": "Dreams",
+      "family_requested": "insert",
+      "cards_with_front": 25,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 86631,
+      "name": "Blue",
+      "family_requested": "numbered",
+      "cards_with_front": 54,
+      "missing_fronts": 246
+    }
+  ],
+  "import_errors": [],
+  "card_count": 1144,
+  "before_tiers": {
+    "base": 260,
+    "rookie": 40
+  },
+  "tiers": {
+    "base": 261,
+    "rookie": 40,
+    "parallel": 756,
+    "numbered_low": 2,
+    "auto": 61,
+    "insert": 25
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 2,
+    "parallel": 756,
+    "numbered_low": 2,
+    "auto": 61,
+    "insert": 25
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 261,
+      "available_cards": 261,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 2,
+      "available_cards": 2,
+      "local_images": 2,
+      "source_candidates": 4
+    },
+    "auto": {
+      "status": "available",
+      "records": 61,
+      "available_cards": 61,
+      "local_images": 61,
+      "source_candidates": 3
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 756,
+      "available_cards": 756,
+      "local_images": 756,
+      "source_candidates": 6
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 14
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 4
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

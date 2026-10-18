@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2012-630296.webp"
+    "local_preview": "data/basketball/previews/BB2012-630296.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2012:630297",
@@ -51,7 +53,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2012-630297.webp"
+    "local_preview": "data/basketball/previews/BB2012-630297.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2012:630298",
@@ -78,7 +82,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2012-630298.webp"
+    "local_preview": "data/basketball/previews/BB2012-630298.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2012:630299",
@@ -105,7 +111,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2012-630299.webp"
+    "local_preview": "data/basketball/previews/BB2012-630299.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2012:630300",
@@ -131,7 +139,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630301",
@@ -158,7 +167,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2012-630301.webp"
+    "local_preview": "data/basketball/previews/BB2012-630301.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2012:630302",
@@ -185,7 +196,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2012-630302.webp"
+    "local_preview": "data/basketball/previews/BB2012-630302.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2012:630303",
@@ -211,7 +224,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630304",
@@ -237,7 +251,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630305",
@@ -263,7 +278,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630306",
@@ -289,7 +305,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630307",
@@ -315,7 +332,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630308",
@@ -341,7 +359,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630309",
@@ -367,7 +386,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630310",
@@ -393,7 +413,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630311",
@@ -419,7 +440,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630312",
@@ -445,7 +467,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630313",
@@ -471,7 +494,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630314",
@@ -497,7 +521,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630315",
@@ -523,7 +548,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630316",
@@ -549,7 +575,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630317",
@@ -575,7 +602,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630318",
@@ -601,7 +629,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630319",
@@ -627,7 +656,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630320",
@@ -653,7 +683,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630321",
@@ -679,7 +710,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630322",
@@ -705,7 +737,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630323",
@@ -731,7 +764,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630324",
@@ -757,7 +791,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630325",
@@ -783,7 +818,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630326",
@@ -809,7 +845,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630327",
@@ -835,7 +872,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630328",
@@ -861,7 +899,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630329",
@@ -887,7 +926,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630330",
@@ -913,7 +953,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630331",
@@ -939,7 +980,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630332",
@@ -965,7 +1007,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630333",
@@ -991,7 +1034,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630334",
@@ -1017,7 +1061,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630335",
@@ -1043,7 +1088,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630336",
@@ -1069,7 +1115,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630337",
@@ -1095,7 +1142,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630338",
@@ -1121,7 +1169,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630339",
@@ -1147,7 +1196,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630340",
@@ -1173,7 +1223,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630341",
@@ -1199,7 +1250,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630342",
@@ -1225,7 +1277,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630343",
@@ -1251,7 +1304,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630344",
@@ -1277,7 +1331,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630345",
@@ -1303,7 +1358,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630346",
@@ -1329,7 +1385,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630347",
@@ -1355,7 +1412,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630348",
@@ -1381,7 +1439,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630349",
@@ -1407,7 +1466,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630350",
@@ -1433,7 +1493,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630351",
@@ -1459,7 +1520,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630352",
@@ -1485,7 +1547,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630353",
@@ -1511,7 +1574,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630354",
@@ -1537,7 +1601,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630355",
@@ -1563,7 +1628,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630356",
@@ -1589,7 +1655,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630357",
@@ -1615,7 +1682,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630358",
@@ -1641,7 +1709,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630359",
@@ -1667,7 +1736,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630360",
@@ -1693,7 +1763,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630361",
@@ -1719,7 +1790,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630362",
@@ -1745,7 +1817,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630363",
@@ -1771,7 +1844,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630364",
@@ -1797,7 +1871,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630365",
@@ -1823,7 +1898,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630366",
@@ -1849,7 +1925,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630367",
@@ -1875,7 +1952,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630368",
@@ -1901,7 +1979,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630369",
@@ -1927,7 +2006,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630370",
@@ -1953,7 +2033,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630371",
@@ -1979,7 +2060,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630372",
@@ -2005,7 +2087,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630373",
@@ -2031,7 +2114,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630374",
@@ -2057,7 +2141,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630375",
@@ -2083,7 +2168,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630376",
@@ -2109,7 +2195,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630377",
@@ -2135,7 +2222,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630378",
@@ -2161,7 +2249,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630379",
@@ -2187,7 +2276,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630380",
@@ -2213,7 +2303,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630381",
@@ -2239,7 +2330,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630382",
@@ -2265,7 +2357,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630383",
@@ -2291,7 +2384,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630384",
@@ -2317,7 +2411,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630385",
@@ -2343,7 +2438,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630386",
@@ -2369,7 +2465,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630387",
@@ -2395,7 +2492,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630388",
@@ -2421,7 +2519,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630389",
@@ -2447,7 +2546,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630390",
@@ -2473,7 +2573,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630391",
@@ -2499,7 +2600,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630392",
@@ -2525,7 +2627,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2012:630393",
@@ -2551,6 +2654,701 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB2012:2986894",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "1",
+    "name": "Walt Bellamy",
+    "original_name": "Walt Bellamy",
+    "team": "Detroit Pistons",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986894/1969-70-Topps-Rulers-1-Walt-Bellamy",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986894Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986894Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986894.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986894Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986894.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986895",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "2",
+    "name": "Jerry West",
+    "original_name": "Jerry West",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986895/1969-70-Topps-Rulers-2-Jerry-West",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986895Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986895Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986895.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986895Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986895.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986896",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "3",
+    "name": "Bailey Howell",
+    "original_name": "Bailey Howell",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986896/1969-70-Topps-Rulers-3-Bailey-Howell",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986896Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986896Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986896.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986896Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986896.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986897",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "4",
+    "name": "Elvin Hayes",
+    "original_name": "Elvin Hayes",
+    "team": "San Diego Rockets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986897/1969-70-Topps-Rulers-4-Elvin-Hayes",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986897Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986897Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986897.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986897Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986897.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986899",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "6",
+    "name": "Bob Rule",
+    "original_name": "Bob Rule",
+    "team": "Seattle SuperSonics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986899/1969-70-Topps-Rulers-6-Bob-Rule",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986899Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986899Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986899.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986899Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986899.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986900",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "7",
+    "name": "Gail Goodrich",
+    "original_name": "Gail Goodrich",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986900/1969-70-Topps-Rulers-7-Gail-Goodrich",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986900Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986900Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986900.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986900Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986900.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986901",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "8",
+    "name": "Jeff Mullins",
+    "original_name": "Jeff Mullins",
+    "team": "San Francisco Warriors",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986901/1969-70-Topps-Rulers-8-Jeff-Mullins",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986901Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986901Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986901.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986901Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986901.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986902",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "9",
+    "name": "John Havlicek",
+    "original_name": "John Havlicek",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986902/1969-70-Topps-Rulers-9-John-Havlicek",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986902Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986902Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986902.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986902Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986902.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986903",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "10",
+    "name": "Lew Alcindor",
+    "original_name": "Lew Alcindor",
+    "team": "Milwaukee Bucks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986903/1969-70-Topps-Rulers-10-Lew-Alcindor",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986903Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986903Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986903.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986903Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986903.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986904",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "11",
+    "name": "威尔特·张伯伦",
+    "original_name": "Wilt Chamberlain",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986904/1969-70-Topps-Rulers-11-Wilt-Chamberlain",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986904Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986904Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986904.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986904Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986904.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986905",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "12",
+    "name": "Nate Thurmond",
+    "original_name": "Nate Thurmond",
+    "team": "San Francisco Warriors",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986905/1969-70-Topps-Rulers-12-Nate-Thurmond",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986905Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986905Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986905.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986905Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986905.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986906",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "13",
+    "name": "Hal Greer",
+    "original_name": "Hal Greer",
+    "team": "Philadelphia 76ers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986906/1969-70-Topps-Rulers-13-Hal-Greer",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986906Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986906Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986906.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986906Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986906.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986907",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "14",
+    "name": "Lou Hudson",
+    "original_name": "Lou Hudson",
+    "team": "Atlanta Hawks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986907/1969-70-Topps-Rulers-14-Lou-Hudson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986907Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986907Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986907.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986907Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986907.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986908",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "15",
+    "name": "Jerry Lucas",
+    "original_name": "Jerry Lucas",
+    "team": "Cincinnati Royals",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986908/1969-70-Topps-Rulers-15-Jerry-Lucas",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986908Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986908Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986908.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986908Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986908.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986909",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "16",
+    "name": "Dave Bing",
+    "original_name": "Dave Bing",
+    "team": "Detroit Pistons",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986909/1969-70-Topps-Rulers-16-Dave-Bing",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986909Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986909Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986909.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986909Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986909.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986910",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "17",
+    "name": "Walt Frazier",
+    "original_name": "Walt Frazier",
+    "team": "New York Knicks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986910/1969-70-Topps-Rulers-17-Walt-Frazier",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986910Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986910Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986910.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986910Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986910.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986911",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "18",
+    "name": "Gus Johnson",
+    "original_name": "Gus Johnson",
+    "team": "Baltimore Bullets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986911/1969-70-Topps-Rulers-18-Gus-Johnson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986911Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986911Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986911.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986911Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986911.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986912",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "19",
+    "name": "Willis Reed",
+    "original_name": "Willis Reed",
+    "team": "New York Knicks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986912/1969-70-Topps-Rulers-19-Willis-Reed",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986912Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986912Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986912.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986912Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986912.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986913",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "20",
+    "name": "Earl Monroe",
+    "original_name": "Earl Monroe",
+    "team": "Baltimore Bullets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986913/1969-70-Topps-Rulers-20-Earl-Monroe",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986913Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986913Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986913.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986913Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986913.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986914",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "21",
+    "name": "Billy Cunningham",
+    "original_name": "Billy Cunningham",
+    "team": "Philadelphia 76ers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986914/1969-70-Topps-Rulers-21-Billy-Cunningham",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986914Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986914Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986914.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986914Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986914.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986915",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "22",
+    "name": "Wes Unseld",
+    "original_name": "Wes Unseld",
+    "team": "Baltimore Bullets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986915/1969-70-Topps-Rulers-22-Wes-Unseld",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986915Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986915Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986915.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986915Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986915.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986916",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "23",
+    "name": "Bob Boozer",
+    "original_name": "Bob Boozer",
+    "team": "Chicago Bulls",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986916/1969-70-Topps-Rulers-23-Bob-Boozer",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986916Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986916Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986916.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986916Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986916.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:2986917",
+    "set_id": "BB2012",
+    "source_set_id": 25500,
+    "number": "24",
+    "name": "Oscar Robertson",
+    "original_name": "Oscar Robertson",
+    "team": "Cincinnati Royals",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps - Rulers",
+    "source_notes": "",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/25500/cid/2986917/1969-70-Topps-Rulers-24-Oscar-Robertson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986917Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986917Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2012-2986917.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/25500/25500-2986917Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2012-2986917.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2012:630394",
+    "set_id": "BB2012",
+    "source_set_id": 2012,
+    "number": "99",
+    "name": "Checklist",
+    "original_name": "Checklist",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1969-70 Topps",
+    "source_notes": "CL",
+    "year": 1969,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2012/cid/630394/1969-70-Topps-99-Checklist",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2012/2012-630394Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2012/2012-630394Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2012/2012-630394Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2012/2012-630394Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry"
   }
 ]

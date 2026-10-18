@@ -1,0 +1,129 @@
+{
+  "set_id": "BB67614",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/67614/1996-Fleer-USA",
+  "headings": [
+    "Insert Sets (1)"
+  ],
+  "subset_count": 2,
+  "subsets": [
+    {
+      "source_set_id": 67615,
+      "name": "1996 Fleer USA - Heroes",
+      "short": "Heroes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/67615/1996-Fleer-USA-Heroes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 67616,
+      "name": "1996 Fleer USA - Wrapper Exchange",
+      "short": "Wrapper Exchange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/67616/1996-Fleer-USA-Wrapper-Exchange",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 67615,
+      "name": "Heroes",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 67616,
+      "name": "Wrapper Exchange",
+      "family_requested": "insert",
+      "cards_with_front": 12,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 72,
+  "before_tiers": {
+    "base": 50
+  },
+  "tiers": {
+    "base": 52,
+    "insert": 22
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 7,
+    "insert": 22
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 52,
+      "available_cards": 52,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 2
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 2
+}

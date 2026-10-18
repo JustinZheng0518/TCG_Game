@@ -1,0 +1,281 @@
+{
+  "set_id": "BB3040",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3040/2003-04-E-X",
+  "headings": [
+    "Insert Sets (11)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 13,
+  "subsets": [
+    {
+      "source_set_id": 27900,
+      "name": "2003-04 E-X - Behind the Numbers",
+      "short": "Behind the Numbers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27900/2003-04-E-X-Behind-the-Numbers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27901,
+      "name": "2003-04 E-X - Behind the Numbers Game-Used",
+      "short": "Behind the Numbers Game-Used",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27901/2003-04-E-X-Behind-the-Numbers-Game-Used",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27902,
+      "name": "2003-04 E-X - Behind the Numbers Game-Used Autographs",
+      "short": "Behind the Numbers Game-Used Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27902/2003-04-E-X-Behind-the-Numbers-Game-Used-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27903,
+      "name": "2003-04 E-X - Behind the Numbers Game-Used Gold",
+      "short": "Behind the Numbers Game-Used Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27903/2003-04-E-X-Behind-the-Numbers-Game-Used-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27904,
+      "name": "2003-04 E-X - Buzzer Beaters",
+      "short": "Buzzer Beaters",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27904/2003-04-E-X-Buzzer-Beaters",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27905,
+      "name": "2003-04 E-X - Buzzer Beaters Autographs",
+      "short": "Buzzer Beaters Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27905/2003-04-E-X-Buzzer-Beaters-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 373235,
+      "name": "2003-04 E-X - Checklists",
+      "short": "Checklists",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/373235/2003-04-E-X-Checklists",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27908,
+      "name": "2003-04 E-X - Jambalaya",
+      "short": "Jambalaya",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27908/2003-04-E-X-Jambalaya",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27909,
+      "name": "2003-04 E-X - Net Assets",
+      "short": "Net Assets",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27909/2003-04-E-X-Net-Assets",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27910,
+      "name": "2003-04 E-X - Net Assets Game-Used",
+      "short": "Net Assets Game-Used",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27910/2003-04-E-X-Net-Assets-Game-Used",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27911,
+      "name": "2003-04 E-X - Net Assets Patch",
+      "short": "Net Assets Patch",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27911/2003-04-E-X-Net-Assets-Patch",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27906,
+      "name": "2003-04 E-X - Essential Credentials Future",
+      "short": "Essential Credentials Future",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27906/2003-04-E-X-Essential-Credentials-Future",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27907,
+      "name": "2003-04 E-X - Essential Credentials Now",
+      "short": "Essential Credentials Now",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27907/2003-04-E-X-Essential-Credentials-Now",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 27903,
+      "name": "Behind the Numbers Game-Used Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 27905,
+      "name": "Buzzer Beaters Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 27902,
+      "name": "Behind the Numbers Game-Used Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 4
+    },
+    {
+      "source_set_id": 27911,
+      "name": "Net Assets Patch",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 27907,
+      "name": "Essential Credentials Now",
+      "family_requested": "parallel",
+      "cards_with_front": 16,
+      "missing_fronts": 86
+    },
+    {
+      "source_set_id": 27906,
+      "name": "Essential Credentials Future",
+      "family_requested": "parallel",
+      "cards_with_front": 16,
+      "missing_fronts": 86
+    },
+    {
+      "source_set_id": 27908,
+      "name": "Jambalaya",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 373235,
+      "name": "Checklists",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27909,
+      "name": "Net Assets",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 4
+    },
+    {
+      "source_set_id": 27904,
+      "name": "Buzzer Beaters",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 7
+    },
+    {
+      "source_set_id": 27900,
+      "name": "Behind the Numbers",
+      "family_requested": "insert",
+      "cards_with_front": 4,
+      "missing_fronts": 11
+    }
+  ],
+  "import_errors": [],
+  "card_count": 157,
+  "before_tiers": {
+    "base": 72,
+    "rookie": 22
+  },
+  "tiers": {
+    "base": 72,
+    "rookie": 22,
+    "memorabilia": 7,
+    "auto": 5,
+    "numbered_low": 3,
+    "numbered": 29,
+    "insert": 21
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "memorabilia": 7,
+    "auto": 5,
+    "numbered_low": 3,
+    "numbered": 29,
+    "insert": 21
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 72,
+      "available_cards": 72,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 7,
+      "available_cards": 7,
+      "local_images": 7,
+      "source_candidates": 1
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "insert": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 8
+    },
+    "numbered": {
+      "status": "available",
+      "records": 29,
+      "available_cards": 29,
+      "local_images": 29,
+      "source_candidates": 3
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 2
+}

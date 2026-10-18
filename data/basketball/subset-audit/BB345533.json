@@ -1,0 +1,988 @@
+{
+  "set_id": "BB345533",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/345533/2022-23-Donruss",
+  "headings": [
+    "Insert Sets (88)",
+    "Parallel Sets (23)"
+  ],
+  "subset_count": 111,
+  "subsets": [
+    {
+      "source_set_id": 353634,
+      "name": "2022-23 Donruss - Animation",
+      "short": "Animation",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353634/2022-23-Donruss-Animation",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355599,
+      "name": "2022-23 Donruss - Bomb Squad",
+      "short": "Bomb Squad",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355599/2022-23-Donruss-Bomb-Squad",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355601,
+      "name": "2022-23 Donruss - Bomb Squad Pink",
+      "short": "Bomb Squad Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355601/2022-23-Donruss-Bomb-Squad-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355600,
+      "name": "2022-23 Donruss - Bomb Squad Purple",
+      "short": "Bomb Squad Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355600/2022-23-Donruss-Bomb-Squad-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355603,
+      "name": "2022-23 Donruss - Bomb Squad Red/Blue",
+      "short": "Bomb Squad Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355603/2022-23-Donruss-Bomb-Squad-Red-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355602,
+      "name": "2022-23 Donruss - Bomb Squad Yellow",
+      "short": "Bomb Squad Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355602/2022-23-Donruss-Bomb-Squad-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355604,
+      "name": "2022-23 Donruss - Complete Players",
+      "short": "Complete Players",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355604/2022-23-Donruss-Complete-Players",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355606,
+      "name": "2022-23 Donruss - Complete Players Pink",
+      "short": "Complete Players Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355606/2022-23-Donruss-Complete-Players-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355605,
+      "name": "2022-23 Donruss - Complete Players Purple",
+      "short": "Complete Players Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355605/2022-23-Donruss-Complete-Players-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355608,
+      "name": "2022-23 Donruss - Complete Players Red/Blue",
+      "short": "Complete Players Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355608/2022-23-Donruss-Complete-Players-Red-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355607,
+      "name": "2022-23 Donruss - Complete Players Yellow",
+      "short": "Complete Players Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355607/2022-23-Donruss-Complete-Players-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353635,
+      "name": "2022-23 Donruss - Craftsmen",
+      "short": "Craftsmen",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353635/2022-23-Donruss-Craftsmen",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353640,
+      "name": "2022-23 Donruss - Craftsmen Black Press Proof",
+      "short": "Craftsmen Black Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353640/2022-23-Donruss-Craftsmen-Black-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353636,
+      "name": "2022-23 Donruss - Craftsmen Diamond",
+      "short": "Craftsmen Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353636/2022-23-Donruss-Craftsmen-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353639,
+      "name": "2022-23 Donruss - Craftsmen Gold Press Proof",
+      "short": "Craftsmen Gold Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353639/2022-23-Donruss-Craftsmen-Gold-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353637,
+      "name": "2022-23 Donruss - Craftsmen Press Proof",
+      "short": "Craftsmen Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353637/2022-23-Donruss-Craftsmen-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353638,
+      "name": "2022-23 Donruss - Craftsmen Purple Press Proof",
+      "short": "Craftsmen Purple Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353638/2022-23-Donruss-Craftsmen-Purple-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353641,
+      "name": "2022-23 Donruss - Crunch Time",
+      "short": "Crunch Time",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353641/2022-23-Donruss-Crunch-Time",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353646,
+      "name": "2022-23 Donruss - Crunch Time Black Press Proof",
+      "short": "Crunch Time Black Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353646/2022-23-Donruss-Crunch-Time-Black-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353642,
+      "name": "2022-23 Donruss - Crunch Time Diamond",
+      "short": "Crunch Time Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353642/2022-23-Donruss-Crunch-Time-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353645,
+      "name": "2022-23 Donruss - Crunch Time Gold Press Proof",
+      "short": "Crunch Time Gold Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353645/2022-23-Donruss-Crunch-Time-Gold-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353643,
+      "name": "2022-23 Donruss - Crunch Time Press Proof",
+      "short": "Crunch Time Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353643/2022-23-Donruss-Crunch-Time-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353644,
+      "name": "2022-23 Donruss - Crunch Time Purple Press Proof",
+      "short": "Crunch Time Purple Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353644/2022-23-Donruss-Crunch-Time-Purple-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355610,
+      "name": "2022-23 Donruss - Franchise Features",
+      "short": "Franchise Features",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355610/2022-23-Donruss-Franchise-Features",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355612,
+      "name": "2022-23 Donruss - Franchise Features Pink",
+      "short": "Franchise Features Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355612/2022-23-Donruss-Franchise-Features-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355611,
+      "name": "2022-23 Donruss - Franchise Features Purple",
+      "short": "Franchise Features Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355611/2022-23-Donruss-Franchise-Features-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355614,
+      "name": "2022-23 Donruss - Franchise Features Red/Blue",
+      "short": "Franchise Features Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355614/2022-23-Donruss-Franchise-Features-Red-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355613,
+      "name": "2022-23 Donruss - Franchise Features Yellow",
+      "short": "Franchise Features Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355613/2022-23-Donruss-Franchise-Features-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355936,
+      "name": "2022-23 Donruss - Great X-Pectations",
+      "short": "Great X-Pectations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355936/2022-23-Donruss-Great-X-Pectations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355938,
+      "name": "2022-23 Donruss - Great X-Pectations Pink",
+      "short": "Great X-Pectations Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355938/2022-23-Donruss-Great-X-Pectations-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355937,
+      "name": "2022-23 Donruss - Great X-Pectations Purple",
+      "short": "Great X-Pectations Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355937/2022-23-Donruss-Great-X-Pectations-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355940,
+      "name": "2022-23 Donruss - Great X-Pectations Red/Blue",
+      "short": "Great X-Pectations Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355940/2022-23-Donruss-Great-X-Pectations-Red-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355939,
+      "name": "2022-23 Donruss - Great X-Pectations Yellow",
+      "short": "Great X-Pectations Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355939/2022-23-Donruss-Great-X-Pectations-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355907,
+      "name": "2022-23 Donruss - Magicians",
+      "short": "Magicians",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355907/2022-23-Donruss-Magicians",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355910,
+      "name": "2022-23 Donruss - Magicians Pink",
+      "short": "Magicians Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355910/2022-23-Donruss-Magicians-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355909,
+      "name": "2022-23 Donruss - Magicians Purple",
+      "short": "Magicians Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355909/2022-23-Donruss-Magicians-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355912,
+      "name": "2022-23 Donruss - Magicians Red/Blue",
+      "short": "Magicians Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355912/2022-23-Donruss-Magicians-Red-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355911,
+      "name": "2022-23 Donruss - Magicians Yellow",
+      "short": "Magicians Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355911/2022-23-Donruss-Magicians-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353647,
+      "name": "2022-23 Donruss - Net Marvels",
+      "short": "Net Marvels",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353647/2022-23-Donruss-Net-Marvels",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353652,
+      "name": "2022-23 Donruss - Net Marvels Black Press Proof",
+      "short": "Net Marvels Black Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353652/2022-23-Donruss-Net-Marvels-Black-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353648,
+      "name": "2022-23 Donruss - Net Marvels Diamond",
+      "short": "Net Marvels Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353648/2022-23-Donruss-Net-Marvels-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353651,
+      "name": "2022-23 Donruss - Net Marvels Gold Press Proof",
+      "short": "Net Marvels Gold Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353651/2022-23-Donruss-Net-Marvels-Gold-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353649,
+      "name": "2022-23 Donruss - Net Marvels Press Proof",
+      "short": "Net Marvels Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353649/2022-23-Donruss-Net-Marvels-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353650,
+      "name": "2022-23 Donruss - Net Marvels Purple Press Proof",
+      "short": "Net Marvels Purple Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353650/2022-23-Donruss-Net-Marvels-Purple-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 358975,
+      "name": "2022-23 Donruss - Next Day Autographs",
+      "short": "Next Day Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/358975/2022-23-Donruss-Next-Day-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353653,
+      "name": "2022-23 Donruss - Night Moves",
+      "short": "Night Moves",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353653/2022-23-Donruss-Night-Moves",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353654,
+      "name": "2022-23 Donruss - Production Line",
+      "short": "Production Line",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353654/2022-23-Donruss-Production-Line",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353659,
+      "name": "2022-23 Donruss - Production Line Black Press Proof",
+      "short": "Production Line Black Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353659/2022-23-Donruss-Production-Line-Black-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353655,
+      "name": "2022-23 Donruss - Production Line Diamond",
+      "short": "Production Line Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353655/2022-23-Donruss-Production-Line-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353658,
+      "name": "2022-23 Donruss - Production Line Gold Press Proof",
+      "short": "Production Line Gold Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353658/2022-23-Donruss-Production-Line-Gold-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353656,
+      "name": "2022-23 Donruss - Production Line Press Proof",
+      "short": "Production Line Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353656/2022-23-Donruss-Production-Line-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353657,
+      "name": "2022-23 Donruss - Production Line Purple Press Proof",
+      "short": "Production Line Purple Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353657/2022-23-Donruss-Production-Line-Purple-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362922,
+      "name": "2022-23 Donruss - Rated Rookies Signatures",
+      "short": "Rated Rookies Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362922/2022-23-Donruss-Rated-Rookies-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362923,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Choice",
+      "short": "Rated Rookies Signatures Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362923/2022-23-Donruss-Rated-Rookies-Signatures-Choice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362924,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Choice Black",
+      "short": "Rated Rookies Signatures Choice Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362924/2022-23-Donruss-Rated-Rookies-Signatures-Choice-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362925,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Choice Black Gold",
+      "short": "Rated Rookies Signatures Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362925/2022-23-Donruss-Rated-Rookies-Signatures-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362926,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Choice Blue",
+      "short": "Rated Rookies Signatures Choice Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362926/2022-23-Donruss-Rated-Rookies-Signatures-Choice-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362927,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Choice Gold",
+      "short": "Rated Rookies Signatures Choice Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362927/2022-23-Donruss-Rated-Rookies-Signatures-Choice-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362928,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Choice Red",
+      "short": "Rated Rookies Signatures Choice Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362928/2022-23-Donruss-Rated-Rookies-Signatures-Choice-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362929,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Black Laser",
+      "short": "Rated Rookies Signatures Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362929/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362930,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Blue Laser",
+      "short": "Rated Rookies Signatures Holo Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362930/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362931,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Frame",
+      "short": "Rated Rookies Signatures Holo Frame",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362931/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Frame",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362932,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Gold Laser",
+      "short": "Rated Rookies Signatures Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362932/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362933,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Laser",
+      "short": "Rated Rookies Signatures Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362933/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362934,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Light Blue Laser",
+      "short": "Rated Rookies Signatures Holo Light Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362934/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Light-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362935,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Pink Laser",
+      "short": "Rated Rookies Signatures Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362935/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362936,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Purple Laser",
+      "short": "Rated Rookies Signatures Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362936/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362938,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Red Laser",
+      "short": "Rated Rookies Signatures Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362938/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362937,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Red and Gold Laser",
+      "short": "Rated Rookies Signatures Holo Red and Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362937/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Red-and-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 362939,
+      "name": "2022-23 Donruss - Rated Rookies Signatures Holo Yellow Laser",
+      "short": "Rated Rookies Signatures Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/362939/2022-23-Donruss-Rated-Rookies-Signatures-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355593,
+      "name": "2022-23 Donruss - Retro Series",
+      "short": "Retro Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355593/2022-23-Donruss-Retro-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355598,
+      "name": "2022-23 Donruss - Retro Series Black Press Proof",
+      "short": "Retro Series Black Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355598/2022-23-Donruss-Retro-Series-Black-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355594,
+      "name": "2022-23 Donruss - Retro Series Diamond",
+      "short": "Retro Series Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355594/2022-23-Donruss-Retro-Series-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355597,
+      "name": "2022-23 Donruss - Retro Series Gold Press Proof",
+      "short": "Retro Series Gold Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355597/2022-23-Donruss-Retro-Series-Gold-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355595,
+      "name": "2022-23 Donruss - Retro Series Press Proof",
+      "short": "Retro Series Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355595/2022-23-Donruss-Retro-Series-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355596,
+      "name": "2022-23 Donruss - Retro Series Purple Press Proof",
+      "short": "Retro Series Purple Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355596/2022-23-Donruss-Retro-Series-Purple-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 369875,
+      "name": "2022-23 Donruss - Signature Series",
+      "short": "Signature Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/369875/2022-23-Donruss-Signature-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355942,
+      "name": "2022-23 Donruss - The Rookies",
+      "short": "The Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355942/2022-23-Donruss-The-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355944,
+      "name": "2022-23 Donruss - The Rookies Pink",
+      "short": "The Rookies Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355944/2022-23-Donruss-The-Rookies-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355943,
+      "name": "2022-23 Donruss - The Rookies Purple",
+      "short": "The Rookies Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355943/2022-23-Donruss-The-Rookies-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355946,
+      "name": "2022-23 Donruss - The Rookies Red/Blue",
+      "short": "The Rookies Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355946/2022-23-Donruss-The-Rookies-Red-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 355945,
+      "name": "2022-23 Donruss - The Rookies Yellow",
+      "short": "The Rookies Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/355945/2022-23-Donruss-The-Rookies-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353660,
+      "name": "2022-23 Donruss - Unleashed",
+      "short": "Unleashed",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353660/2022-23-Donruss-Unleashed",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353665,
+      "name": "2022-23 Donruss - Unleashed Black Press Proof",
+      "short": "Unleashed Black Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353665/2022-23-Donruss-Unleashed-Black-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353661,
+      "name": "2022-23 Donruss - Unleashed Diamond",
+      "short": "Unleashed Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353661/2022-23-Donruss-Unleashed-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353664,
+      "name": "2022-23 Donruss - Unleashed Gold Press Proof",
+      "short": "Unleashed Gold Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353664/2022-23-Donruss-Unleashed-Gold-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353662,
+      "name": "2022-23 Donruss - Unleashed Press Proof",
+      "short": "Unleashed Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353662/2022-23-Donruss-Unleashed-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353663,
+      "name": "2022-23 Donruss - Unleashed Purple Press Proof",
+      "short": "Unleashed Purple Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353663/2022-23-Donruss-Unleashed-Purple-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 353615,
+      "name": "2022-23 Donruss - Basketball",
+      "short": "Basketball",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353615/2022-23-Donruss-Basketball",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 391552,
+      "name": "2022-23 Donruss - Choice",
+      "short": "Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/391552/2022-23-Donruss-Choice",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353621,
+      "name": "2022-23 Donruss - Choice Black",
+      "short": "Choice Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353621/2022-23-Donruss-Choice-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353620,
+      "name": "2022-23 Donruss - Choice Black Gold",
+      "short": "Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353620/2022-23-Donruss-Choice-Black-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353618,
+      "name": "2022-23 Donruss - Choice Blue",
+      "short": "Choice Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353618/2022-23-Donruss-Choice-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353616,
+      "name": "2022-23 Donruss - Choice Dragon",
+      "short": "Choice Dragon",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353616/2022-23-Donruss-Choice-Dragon",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353619,
+      "name": "2022-23 Donruss - Choice Gold",
+      "short": "Choice Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353619/2022-23-Donruss-Choice-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353617,
+      "name": "2022-23 Donruss - Choice Red",
+      "short": "Choice Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353617/2022-23-Donruss-Choice-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353624,
+      "name": "2022-23 Donruss - Holo Laser",
+      "short": "Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353624/2022-23-Donruss-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353633,
+      "name": "2022-23 Donruss - Holo Laser Black",
+      "short": "Holo Laser Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353633/2022-23-Donruss-Holo-Laser-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353628,
+      "name": "2022-23 Donruss - Holo Laser Blue",
+      "short": "Holo Laser Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353628/2022-23-Donruss-Holo-Laser-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353632,
+      "name": "2022-23 Donruss - Holo Laser Gold",
+      "short": "Holo Laser Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353632/2022-23-Donruss-Holo-Laser-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353622,
+      "name": "2022-23 Donruss - Holo Laser Green",
+      "short": "Holo Laser Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353622/2022-23-Donruss-Holo-Laser-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353629,
+      "name": "2022-23 Donruss - Holo Laser Light Blue",
+      "short": "Holo Laser Light Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353629/2022-23-Donruss-Holo-Laser-Light-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353627,
+      "name": "2022-23 Donruss - Holo Laser Pink",
+      "short": "Holo Laser Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353627/2022-23-Donruss-Holo-Laser-Pink",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353625,
+      "name": "2022-23 Donruss - Holo Laser Purple",
+      "short": "Holo Laser Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353625/2022-23-Donruss-Holo-Laser-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353626,
+      "name": "2022-23 Donruss - Holo Laser Red",
+      "short": "Holo Laser Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353626/2022-23-Donruss-Holo-Laser-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353631,
+      "name": "2022-23 Donruss - Holo Laser Red/Blue",
+      "short": "Holo Laser Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353631/2022-23-Donruss-Holo-Laser-Red-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353623,
+      "name": "2022-23 Donruss - Holo Laser Red/Gold",
+      "short": "Holo Laser Red/Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353623/2022-23-Donruss-Holo-Laser-Red-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353630,
+      "name": "2022-23 Donruss - Holo Laser Yellow",
+      "short": "Holo Laser Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353630/2022-23-Donruss-Holo-Laser-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353614,
+      "name": "2022-23 Donruss - Purple Press Proof",
+      "short": "Purple Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353614/2022-23-Donruss-Purple-Press-Proof",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353612,
+      "name": "2022-23 Donruss - Silver Press Proof",
+      "short": "Silver Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353612/2022-23-Donruss-Silver-Press-Proof",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 353613,
+      "name": "2022-23 Donruss - Yellow Flood",
+      "short": "Yellow Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/353613/2022-23-Donruss-Yellow-Flood",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 13,
+  "imported_this_run": [
+    {
+      "source_set_id": 353617,
+      "name": "Choice Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 10,
+      "missing_fronts": 240
+    },
+    {
+      "source_set_id": 353619,
+      "name": "Choice Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 7,
+      "missing_fronts": 243
+    },
+    {
+      "source_set_id": 353621,
+      "name": "Choice Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 248
+    },
+    {
+      "source_set_id": 353626,
+      "name": "Holo Laser Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 8,
+      "missing_fronts": 242
+    },
+    {
+      "source_set_id": 353632,
+      "name": "Holo Laser Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 250
+    },
+    {
+      "source_set_id": 353633,
+      "name": "Holo Laser Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 245
+    },
+    {
+      "source_set_id": 369875,
+      "name": "Signature Series",
+      "family_requested": "auto",
+      "cards_with_front": 7,
+      "missing_fronts": 90
+    },
+    {
+      "source_set_id": 358975,
+      "name": "Next Day Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 25,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 391552,
+      "name": "Choice",
+      "family_requested": "parallel",
+      "cards_with_front": 13,
+      "missing_fronts": 37
+    },
+    {
+      "source_set_id": 353615,
+      "name": "Basketball",
+      "family_requested": "parallel",
+      "cards_with_front": 24,
+      "missing_fronts": 226
+    },
+    {
+      "source_set_id": 353624,
+      "name": "Holo Laser",
+      "family_requested": "parallel",
+      "cards_with_front": 46,
+      "missing_fronts": 204
+    },
+    {
+      "source_set_id": 353618,
+      "name": "Choice Blue",
+      "family_requested": "parallel",
+      "cards_with_front": 4,
+      "missing_fronts": 246
+    },
+    {
+      "source_set_id": 353634,
+      "name": "Animation",
+      "family_requested": "insert",
+      "cards_with_front": 5,
+      "missing_fronts": 5
+    },
+    {
+      "source_set_id": 353635,
+      "name": "Craftsmen",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 421,
+  "before_tiers": {
+    "base": 200,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 200,
+    "rookie": 50,
+    "numbered": 92,
+    "numbered_low": 14,
+    "auto": 32,
+    "parallel": 13,
+    "insert": 20
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 2,
+    "numbered": 92,
+    "numbered_low": 14,
+    "auto": 32,
+    "parallel": 13,
+    "insert": 20
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 200,
+      "available_cards": 200,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 14,
+      "available_cards": 14,
+      "local_images": 14,
+      "source_candidates": 27
+    },
+    "auto": {
+      "status": "available",
+      "records": 32,
+      "available_cards": 32,
+      "local_images": 32,
+      "source_candidates": 20
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 13,
+      "available_cards": 13,
+      "local_images": 13,
+      "source_candidates": 23
+    },
+    "insert": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 68
+    },
+    "numbered": {
+      "status": "available",
+      "records": 92,
+      "available_cards": 92,
+      "local_images": 92,
+      "source_candidates": 23
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

@@ -1,0 +1,1277 @@
+{
+  "set_id": "BB277474",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/277474/2020-21-Panini-Mosaic",
+  "headings": [
+    "Insert Sets (117)",
+    "Parallel Sets (37)"
+  ],
+  "subset_count": 154,
+  "subsets": [
+    {
+      "source_set_id": 291794,
+      "name": "2020-21 Panini Mosaic - Autographs Fast Break",
+      "short": "Autographs Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291794/2020-21-Panini-Mosaic-Autographs-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291795,
+      "name": "2020-21 Panini Mosaic - Autographs Fast Break Black",
+      "short": "Autographs Fast Break Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291795/2020-21-Panini-Mosaic-Autographs-Fast-Break-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291796,
+      "name": "2020-21 Panini Mosaic - Autographs Fast Break Gold",
+      "short": "Autographs Fast Break Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291796/2020-21-Panini-Mosaic-Autographs-Fast-Break-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291797,
+      "name": "2020-21 Panini Mosaic - Autographs Mosaic",
+      "short": "Autographs Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291797/2020-21-Panini-Mosaic-Autographs-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291798,
+      "name": "2020-21 Panini Mosaic - Autographs Mosaic Black",
+      "short": "Autographs Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291798/2020-21-Panini-Mosaic-Autographs-Mosaic-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291799,
+      "name": "2020-21 Panini Mosaic - Autographs Mosaic Choice Black Gold",
+      "short": "Autographs Mosaic Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291799/2020-21-Panini-Mosaic-Autographs-Mosaic-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291800,
+      "name": "2020-21 Panini Mosaic - Autographs Mosaic Choice Fusion Red and Yellow",
+      "short": "Autographs Mosaic Choice Fusion Red and Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291800/2020-21-Panini-Mosaic-Autographs-Mosaic-Choice-Fusion-Red-and-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291801,
+      "name": "2020-21 Panini Mosaic - Autographs Mosaic Gold",
+      "short": "Autographs Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291801/2020-21-Panini-Mosaic-Autographs-Mosaic-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291802,
+      "name": "2020-21 Panini Mosaic - Award-Winning Autographs",
+      "short": "Award-Winning Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291802/2020-21-Panini-Mosaic-Award-Winning-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291803,
+      "name": "2020-21 Panini Mosaic - Award-Winning Autographs Gold",
+      "short": "Award-Winning Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291803/2020-21-Panini-Mosaic-Award-Winning-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291804,
+      "name": "2020-21 Panini Mosaic - Award-Winning Autographs Gold Vinyl",
+      "short": "Award-Winning Autographs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291804/2020-21-Panini-Mosaic-Award-Winning-Autographs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291805,
+      "name": "2020-21 Panini Mosaic - Bang!",
+      "short": "Bang!",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291805/2020-21-Panini-Mosaic-Bang-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291806,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic",
+      "short": "Bang! Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291806/2020-21-Panini-Mosaic-Bang-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291807,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic Blue Fluorescent",
+      "short": "Bang! Mosaic Blue Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291807/2020-21-Panini-Mosaic-Bang-Mosaic-Blue-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291808,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic Green",
+      "short": "Bang! Mosaic Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291808/2020-21-Panini-Mosaic-Bang-Mosaic-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291809,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic Green Fluorescent",
+      "short": "Bang! Mosaic Green Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291809/2020-21-Panini-Mosaic-Bang-Mosaic-Green-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291810,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic Orange Fluorescent",
+      "short": "Bang! Mosaic Orange Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291810/2020-21-Panini-Mosaic-Bang-Mosaic-Orange-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291811,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic Pink Fluorescent",
+      "short": "Bang! Mosaic Pink Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291811/2020-21-Panini-Mosaic-Bang-Mosaic-Pink-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291812,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic Reactive Blue",
+      "short": "Bang! Mosaic Reactive Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291812/2020-21-Panini-Mosaic-Bang-Mosaic-Reactive-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291813,
+      "name": "2020-21 Panini Mosaic - Bang! Mosaic Reactive Yellow",
+      "short": "Bang! Mosaic Reactive Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291813/2020-21-Panini-Mosaic-Bang-Mosaic-Reactive-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291814,
+      "name": "2020-21 Panini Mosaic - Blue Chips",
+      "short": "Blue Chips",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291814/2020-21-Panini-Mosaic-Blue-Chips",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291815,
+      "name": "2020-21 Panini Mosaic - Blue Chips Fast Break",
+      "short": "Blue Chips Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291815/2020-21-Panini-Mosaic-Blue-Chips-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291816,
+      "name": "2020-21 Panini Mosaic - Blue Chips Mosaic",
+      "short": "Blue Chips Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291816/2020-21-Panini-Mosaic-Blue-Chips-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291817,
+      "name": "2020-21 Panini Mosaic - Blue Chips Mosaic Black",
+      "short": "Blue Chips Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291817/2020-21-Panini-Mosaic-Blue-Chips-Mosaic-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291818,
+      "name": "2020-21 Panini Mosaic - Blue Chips Mosaic Gold",
+      "short": "Blue Chips Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291818/2020-21-Panini-Mosaic-Blue-Chips-Mosaic-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291819,
+      "name": "2020-21 Panini Mosaic - Blue Chips Mosaic Red",
+      "short": "Blue Chips Mosaic Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291819/2020-21-Panini-Mosaic-Blue-Chips-Mosaic-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291820,
+      "name": "2020-21 Panini Mosaic - Blue Chips Mosaic White",
+      "short": "Blue Chips Mosaic White",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291820/2020-21-Panini-Mosaic-Blue-Chips-Mosaic-White",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291821,
+      "name": "2020-21 Panini Mosaic - Center Stage",
+      "short": "Center Stage",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291821/2020-21-Panini-Mosaic-Center-Stage",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291822,
+      "name": "2020-21 Panini Mosaic - Elevate",
+      "short": "Elevate",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291822/2020-21-Panini-Mosaic-Elevate",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291823,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic",
+      "short": "Elevate Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291823/2020-21-Panini-Mosaic-Elevate-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291824,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic Blue Fluorescent",
+      "short": "Elevate Mosaic Blue Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291824/2020-21-Panini-Mosaic-Elevate-Mosaic-Blue-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291825,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic Green",
+      "short": "Elevate Mosaic Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291825/2020-21-Panini-Mosaic-Elevate-Mosaic-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291835,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic Green Fluorescent",
+      "short": "Elevate Mosaic Green Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291835/2020-21-Panini-Mosaic-Elevate-Mosaic-Green-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291827,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic Orange Fluorescent",
+      "short": "Elevate Mosaic Orange Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291827/2020-21-Panini-Mosaic-Elevate-Mosaic-Orange-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291828,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic Pink Fluorescent",
+      "short": "Elevate Mosaic Pink Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291828/2020-21-Panini-Mosaic-Elevate-Mosaic-Pink-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291829,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic Reactive Blue",
+      "short": "Elevate Mosaic Reactive Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291829/2020-21-Panini-Mosaic-Elevate-Mosaic-Reactive-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291830,
+      "name": "2020-21 Panini Mosaic - Elevate Mosaic Reactive Yellow",
+      "short": "Elevate Mosaic Reactive Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291830/2020-21-Panini-Mosaic-Elevate-Mosaic-Reactive-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291831,
+      "name": "2020-21 Panini Mosaic - HoloFame",
+      "short": "HoloFame",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291831/2020-21-Panini-Mosaic-HoloFame",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291832,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic",
+      "short": "HoloFame Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291832/2020-21-Panini-Mosaic-HoloFame-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291833,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic Blue Fluorescent",
+      "short": "HoloFame Mosaic Blue Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291833/2020-21-Panini-Mosaic-HoloFame-Mosaic-Blue-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291834,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic Green",
+      "short": "HoloFame Mosaic Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291834/2020-21-Panini-Mosaic-HoloFame-Mosaic-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291826,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic Green Fluorescent",
+      "short": "HoloFame Mosaic Green Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291826/2020-21-Panini-Mosaic-HoloFame-Mosaic-Green-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291836,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic Orange Fluorescent",
+      "short": "HoloFame Mosaic Orange Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291836/2020-21-Panini-Mosaic-HoloFame-Mosaic-Orange-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291837,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic Pink Fluorescent",
+      "short": "HoloFame Mosaic Pink Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291837/2020-21-Panini-Mosaic-HoloFame-Mosaic-Pink-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291838,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic Reactive Blue",
+      "short": "HoloFame Mosaic Reactive Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291838/2020-21-Panini-Mosaic-HoloFame-Mosaic-Reactive-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291839,
+      "name": "2020-21 Panini Mosaic - HoloFame Mosaic Reactive Yellow",
+      "short": "HoloFame Mosaic Reactive Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291839/2020-21-Panini-Mosaic-HoloFame-Mosaic-Reactive-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291840,
+      "name": "2020-21 Panini Mosaic - Introductions",
+      "short": "Introductions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291840/2020-21-Panini-Mosaic-Introductions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291841,
+      "name": "2020-21 Panini Mosaic - Introductions Fast Break",
+      "short": "Introductions Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291841/2020-21-Panini-Mosaic-Introductions-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291842,
+      "name": "2020-21 Panini Mosaic - Introductions Mosaic",
+      "short": "Introductions Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291842/2020-21-Panini-Mosaic-Introductions-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291843,
+      "name": "2020-21 Panini Mosaic - Introductions Mosaic Black",
+      "short": "Introductions Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291843/2020-21-Panini-Mosaic-Introductions-Mosaic-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291844,
+      "name": "2020-21 Panini Mosaic - Introductions Mosaic Gold",
+      "short": "Introductions Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291844/2020-21-Panini-Mosaic-Introductions-Mosaic-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291846,
+      "name": "2020-21 Panini Mosaic - Introductions Mosaic White",
+      "short": "Introductions Mosaic White",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291846/2020-21-Panini-Mosaic-Introductions-Mosaic-White",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291847,
+      "name": "2020-21 Panini Mosaic - Jam Masters",
+      "short": "Jam Masters",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291847/2020-21-Panini-Mosaic-Jam-Masters",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291848,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic",
+      "short": "Jam Masters Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291848/2020-21-Panini-Mosaic-Jam-Masters-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291849,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic Blue Fluorescent",
+      "short": "Jam Masters Mosaic Blue Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291849/2020-21-Panini-Mosaic-Jam-Masters-Mosaic-Blue-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291850,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic Green",
+      "short": "Jam Masters Mosaic Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291850/2020-21-Panini-Mosaic-Jam-Masters-Mosaic-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291851,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic Green Fluorescent",
+      "short": "Jam Masters Mosaic Green Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291851/2020-21-Panini-Mosaic-Jam-Masters-Mosaic-Green-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291852,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic Orange Fluorescent",
+      "short": "Jam Masters Mosaic Orange Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291852/2020-21-Panini-Mosaic-Jam-Masters-Mosaic-Orange-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291853,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic Pink Fluorescent",
+      "short": "Jam Masters Mosaic Pink Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291853/2020-21-Panini-Mosaic-Jam-Masters-Mosaic-Pink-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291854,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic Reactive Blue",
+      "short": "Jam Masters Mosaic Reactive Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291854/2020-21-Panini-Mosaic-Jam-Masters-Mosaic-Reactive-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291855,
+      "name": "2020-21 Panini Mosaic - Jam Masters Mosaic Reactive Yellow",
+      "short": "Jam Masters Mosaic Reactive Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291855/2020-21-Panini-Mosaic-Jam-Masters-Mosaic-Reactive-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291856,
+      "name": "2020-21 Panini Mosaic - Men of Mastery",
+      "short": "Men of Mastery",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291856/2020-21-Panini-Mosaic-Men-of-Mastery",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291857,
+      "name": "2020-21 Panini Mosaic - Men of Mastery Fast Break",
+      "short": "Men of Mastery Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291857/2020-21-Panini-Mosaic-Men-of-Mastery-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291858,
+      "name": "2020-21 Panini Mosaic - Men of Mastery Mosaic",
+      "short": "Men of Mastery Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291858/2020-21-Panini-Mosaic-Men-of-Mastery-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291859,
+      "name": "2020-21 Panini Mosaic - Men of Mastery Mosaic Black",
+      "short": "Men of Mastery Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291859/2020-21-Panini-Mosaic-Men-of-Mastery-Mosaic-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291860,
+      "name": "2020-21 Panini Mosaic - Men of Mastery Mosaic Gold",
+      "short": "Men of Mastery Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291860/2020-21-Panini-Mosaic-Men-of-Mastery-Mosaic-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291861,
+      "name": "2020-21 Panini Mosaic - Men of Mastery Mosaic Red",
+      "short": "Men of Mastery Mosaic Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291861/2020-21-Panini-Mosaic-Men-of-Mastery-Mosaic-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291862,
+      "name": "2020-21 Panini Mosaic - Men of Mastery Mosaic White",
+      "short": "Men of Mastery Mosaic White",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291862/2020-21-Panini-Mosaic-Men-of-Mastery-Mosaic-White",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291863,
+      "name": "2020-21 Panini Mosaic - Montage",
+      "short": "Montage",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291863/2020-21-Panini-Mosaic-Montage",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291864,
+      "name": "2020-21 Panini Mosaic - Montage Fast Break",
+      "short": "Montage Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291864/2020-21-Panini-Mosaic-Montage-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291865,
+      "name": "2020-21 Panini Mosaic - Montage Mosaic",
+      "short": "Montage Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291865/2020-21-Panini-Mosaic-Montage-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291866,
+      "name": "2020-21 Panini Mosaic - Montage Mosaic Black",
+      "short": "Montage Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291866/2020-21-Panini-Mosaic-Montage-Mosaic-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291867,
+      "name": "2020-21 Panini Mosaic - Montage Mosaic Gold",
+      "short": "Montage Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291867/2020-21-Panini-Mosaic-Montage-Mosaic-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291868,
+      "name": "2020-21 Panini Mosaic - Montage Mosaic Red",
+      "short": "Montage Mosaic Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291868/2020-21-Panini-Mosaic-Montage-Mosaic-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291869,
+      "name": "2020-21 Panini Mosaic - Montage Mosaic White",
+      "short": "Montage Mosaic White",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291869/2020-21-Panini-Mosaic-Montage-Mosaic-White",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291870,
+      "name": "2020-21 Panini Mosaic - Overdrive",
+      "short": "Overdrive",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291870/2020-21-Panini-Mosaic-Overdrive",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291871,
+      "name": "2020-21 Panini Mosaic - Rookie Autographs Mosaic",
+      "short": "Rookie Autographs Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291871/2020-21-Panini-Mosaic-Rookie-Autographs-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291872,
+      "name": "2020-21 Panini Mosaic - Rookie Autographs Mosaic Black",
+      "short": "Rookie Autographs Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291872/2020-21-Panini-Mosaic-Rookie-Autographs-Mosaic-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291873,
+      "name": "2020-21 Panini Mosaic - Rookie Autographs Mosaic Choice Black Gold",
+      "short": "Rookie Autographs Mosaic Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291873/2020-21-Panini-Mosaic-Rookie-Autographs-Mosaic-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291874,
+      "name": "2020-21 Panini Mosaic - Rookie Autographs Mosaic Choice Fusion Red and Yellow",
+      "short": "Rookie Autographs Mosaic Choice Fusion Red and Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291874/2020-21-Panini-Mosaic-Rookie-Autographs-Mosaic-Choice-Fusion-Red-and-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291875,
+      "name": "2020-21 Panini Mosaic - Rookie Autographs Mosaic Gold",
+      "short": "Rookie Autographs Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291875/2020-21-Panini-Mosaic-Rookie-Autographs-Mosaic-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291876,
+      "name": "2020-21 Panini Mosaic - Rookie Private Signings Association Version",
+      "short": "Rookie Private Signings Association Version",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291876/2020-21-Panini-Mosaic-Rookie-Private-Signings-Association-Version",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291877,
+      "name": "2020-21 Panini Mosaic - Rookie Private Signings Association Version Gold",
+      "short": "Rookie Private Signings Association Version Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291877/2020-21-Panini-Mosaic-Rookie-Private-Signings-Association-Version-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291878,
+      "name": "2020-21 Panini Mosaic - Rookie Private Signings Association Version Platinum",
+      "short": "Rookie Private Signings Association Version Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291878/2020-21-Panini-Mosaic-Rookie-Private-Signings-Association-Version-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 300121,
+      "name": "2020-21 Panini Mosaic - Rookie Private Signings Icon Version",
+      "short": "Rookie Private Signings Icon Version",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/300121/2020-21-Panini-Mosaic-Rookie-Private-Signings-Icon-Version",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291879,
+      "name": "2020-21 Panini Mosaic - Rookie Private Signings Icon Version Gold",
+      "short": "Rookie Private Signings Icon Version Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291879/2020-21-Panini-Mosaic-Rookie-Private-Signings-Icon-Version-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291880,
+      "name": "2020-21 Panini Mosaic - Rookie Private Signings Icon Version Platinum",
+      "short": "Rookie Private Signings Icon Version Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291880/2020-21-Panini-Mosaic-Rookie-Private-Signings-Icon-Version-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291881,
+      "name": "2020-21 Panini Mosaic - Rookie Scripts",
+      "short": "Rookie Scripts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291881/2020-21-Panini-Mosaic-Rookie-Scripts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291882,
+      "name": "2020-21 Panini Mosaic - Rookie Scripts Gold",
+      "short": "Rookie Scripts Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291882/2020-21-Panini-Mosaic-Rookie-Scripts-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291883,
+      "name": "2020-21 Panini Mosaic - Rookie Scripts Green Ice",
+      "short": "Rookie Scripts Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291883/2020-21-Panini-Mosaic-Rookie-Scripts-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291884,
+      "name": "2020-21 Panini Mosaic - Rookie Scripts Orange",
+      "short": "Rookie Scripts Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291884/2020-21-Panini-Mosaic-Rookie-Scripts-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291885,
+      "name": "2020-21 Panini Mosaic - Rookie Scripts Red Wave",
+      "short": "Rookie Scripts Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291885/2020-21-Panini-Mosaic-Rookie-Scripts-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291886,
+      "name": "2020-21 Panini Mosaic - Scripts",
+      "short": "Scripts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291886/2020-21-Panini-Mosaic-Scripts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291887,
+      "name": "2020-21 Panini Mosaic - Scripts Gold",
+      "short": "Scripts Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291887/2020-21-Panini-Mosaic-Scripts-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291888,
+      "name": "2020-21 Panini Mosaic - Scripts Green Ice",
+      "short": "Scripts Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291888/2020-21-Panini-Mosaic-Scripts-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291889,
+      "name": "2020-21 Panini Mosaic - Scripts Orange",
+      "short": "Scripts Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291889/2020-21-Panini-Mosaic-Scripts-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291890,
+      "name": "2020-21 Panini Mosaic - Scripts Red Wave",
+      "short": "Scripts Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291890/2020-21-Panini-Mosaic-Scripts-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291891,
+      "name": "2020-21 Panini Mosaic - Stained Glass",
+      "short": "Stained Glass",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291891/2020-21-Panini-Mosaic-Stained-Glass",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291892,
+      "name": "2020-21 Panini Mosaic - Stare Masters",
+      "short": "Stare Masters",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291892/2020-21-Panini-Mosaic-Stare-Masters",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291893,
+      "name": "2020-21 Panini Mosaic - Stare Masters Fast Break",
+      "short": "Stare Masters Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291893/2020-21-Panini-Mosaic-Stare-Masters-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291894,
+      "name": "2020-21 Panini Mosaic - Stare Masters Mosaic",
+      "short": "Stare Masters Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291894/2020-21-Panini-Mosaic-Stare-Masters-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291895,
+      "name": "2020-21 Panini Mosaic - Stare Masters Mosaic Black",
+      "short": "Stare Masters Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291895/2020-21-Panini-Mosaic-Stare-Masters-Mosaic-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291896,
+      "name": "2020-21 Panini Mosaic - Stare Masters Mosaic Gold",
+      "short": "Stare Masters Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291896/2020-21-Panini-Mosaic-Stare-Masters-Mosaic-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291897,
+      "name": "2020-21 Panini Mosaic - Stare Masters Mosaic Red",
+      "short": "Stare Masters Mosaic Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291897/2020-21-Panini-Mosaic-Stare-Masters-Mosaic-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291898,
+      "name": "2020-21 Panini Mosaic - Stare Masters Mosaic White",
+      "short": "Stare Masters Mosaic White",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291898/2020-21-Panini-Mosaic-Stare-Masters-Mosaic-White",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291899,
+      "name": "2020-21 Panini Mosaic - Straight Fire",
+      "short": "Straight Fire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291899/2020-21-Panini-Mosaic-Straight-Fire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291900,
+      "name": "2020-21 Panini Mosaic - Swagger",
+      "short": "Swagger",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291900/2020-21-Panini-Mosaic-Swagger",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291901,
+      "name": "2020-21 Panini Mosaic - Will to Win",
+      "short": "Will to Win",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291901/2020-21-Panini-Mosaic-Will-to-Win",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291902,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic",
+      "short": "Will to Win Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291902/2020-21-Panini-Mosaic-Will-to-Win-Mosaic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291903,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic Blue Fluorescent",
+      "short": "Will to Win Mosaic Blue Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291903/2020-21-Panini-Mosaic-Will-to-Win-Mosaic-Blue-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291904,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic Green",
+      "short": "Will to Win Mosaic Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291904/2020-21-Panini-Mosaic-Will-to-Win-Mosaic-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291905,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic Green Fluorescent",
+      "short": "Will to Win Mosaic Green Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291905/2020-21-Panini-Mosaic-Will-to-Win-Mosaic-Green-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291906,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic Orange Fluorescent",
+      "short": "Will to Win Mosaic Orange Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291906/2020-21-Panini-Mosaic-Will-to-Win-Mosaic-Orange-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291907,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic Pink Fluorescent",
+      "short": "Will to Win Mosaic Pink Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291907/2020-21-Panini-Mosaic-Will-to-Win-Mosaic-Pink-Fluorescent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291908,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic Reactive Blue",
+      "short": "Will to Win Mosaic Reactive Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291908/2020-21-Panini-Mosaic-Will-to-Win-Mosaic-Reactive-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291909,
+      "name": "2020-21 Panini Mosaic - Will to Win Mosaic Reactive Yellow",
+      "short": "Will to Win Mosaic Reactive Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291909/2020-21-Panini-Mosaic-Will-to-Win-Mosaic-Reactive-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291845,
+      "name": "2020-21 Panini Mosaic - introductions Mosaic Red",
+      "short": "introductions Mosaic Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291845/2020-21-Panini-Mosaic-introductions-Mosaic-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 291756,
+      "name": "2020-21 Panini Mosaic - Mosaic",
+      "short": "Mosaic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291756/2020-21-Panini-Mosaic-Mosaic",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291757,
+      "name": "2020-21 Panini Mosaic - Mosaic Black",
+      "short": "Mosaic Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291757/2020-21-Panini-Mosaic-Mosaic-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291758,
+      "name": "2020-21 Panini Mosaic - Mosaic Blue",
+      "short": "Mosaic Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291758/2020-21-Panini-Mosaic-Mosaic-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291759,
+      "name": "2020-21 Panini Mosaic - Mosaic Blue Fluorescent",
+      "short": "Mosaic Blue Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291759/2020-21-Panini-Mosaic-Mosaic-Blue-Fluorescent",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291760,
+      "name": "2020-21 Panini Mosaic - Mosaic Camo Pink",
+      "short": "Mosaic Camo Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291760/2020-21-Panini-Mosaic-Mosaic-Camo-Pink",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291761,
+      "name": "2020-21 Panini Mosaic - Mosaic Choice Black Gold",
+      "short": "Mosaic Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291761/2020-21-Panini-Mosaic-Mosaic-Choice-Black-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291762,
+      "name": "2020-21 Panini Mosaic - Mosaic Choice Fusion Red and Yellow",
+      "short": "Mosaic Choice Fusion Red and Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291762/2020-21-Panini-Mosaic-Mosaic-Choice-Fusion-Red-and-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291763,
+      "name": "2020-21 Panini Mosaic - Mosaic Choice Nebula",
+      "short": "Mosaic Choice Nebula",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291763/2020-21-Panini-Mosaic-Mosaic-Choice-Nebula",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291764,
+      "name": "2020-21 Panini Mosaic - Mosaic Choice Peacock",
+      "short": "Mosaic Choice Peacock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291764/2020-21-Panini-Mosaic-Mosaic-Choice-Peacock",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291765,
+      "name": "2020-21 Panini Mosaic - Mosaic Choice Red and Green",
+      "short": "Mosaic Choice Red and Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291765/2020-21-Panini-Mosaic-Mosaic-Choice-Red-and-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291766,
+      "name": "2020-21 Panini Mosaic - Mosaic Fast Break Black",
+      "short": "Mosaic Fast Break Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291766/2020-21-Panini-Mosaic-Mosaic-Fast-Break-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291767,
+      "name": "2020-21 Panini Mosaic - Mosaic Fast Break Blue",
+      "short": "Mosaic Fast Break Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291767/2020-21-Panini-Mosaic-Mosaic-Fast-Break-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291768,
+      "name": "2020-21 Panini Mosaic - Mosaic Fast Break Gold",
+      "short": "Mosaic Fast Break Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291768/2020-21-Panini-Mosaic-Mosaic-Fast-Break-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291769,
+      "name": "2020-21 Panini Mosaic - Mosaic Fast Break Pink",
+      "short": "Mosaic Fast Break Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291769/2020-21-Panini-Mosaic-Mosaic-Fast-Break-Pink",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291770,
+      "name": "2020-21 Panini Mosaic - Mosaic Fast Break Purple",
+      "short": "Mosaic Fast Break Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291770/2020-21-Panini-Mosaic-Mosaic-Fast-Break-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291771,
+      "name": "2020-21 Panini Mosaic - Mosaic Fast Break Silver",
+      "short": "Mosaic Fast Break Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291771/2020-21-Panini-Mosaic-Mosaic-Fast-Break-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291772,
+      "name": "2020-21 Panini Mosaic - Mosaic Genesis",
+      "short": "Mosaic Genesis",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291772/2020-21-Panini-Mosaic-Mosaic-Genesis",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291773,
+      "name": "2020-21 Panini Mosaic - Mosaic Gold",
+      "short": "Mosaic Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291773/2020-21-Panini-Mosaic-Mosaic-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291774,
+      "name": "2020-21 Panini Mosaic - Mosaic Gold Wave",
+      "short": "Mosaic Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291774/2020-21-Panini-Mosaic-Mosaic-Gold-Wave",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291775,
+      "name": "2020-21 Panini Mosaic - Mosaic Green",
+      "short": "Mosaic Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291775/2020-21-Panini-Mosaic-Mosaic-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291776,
+      "name": "2020-21 Panini Mosaic - Mosaic Green Fluorescent",
+      "short": "Mosaic Green Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291776/2020-21-Panini-Mosaic-Mosaic-Green-Fluorescent",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291777,
+      "name": "2020-21 Panini Mosaic - Mosaic Green Ice",
+      "short": "Mosaic Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291777/2020-21-Panini-Mosaic-Mosaic-Green-Ice",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291778,
+      "name": "2020-21 Panini Mosaic - Mosaic Green Swirl FOTL",
+      "short": "Mosaic Green Swirl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291778/2020-21-Panini-Mosaic-Mosaic-Green-Swirl-FOTL",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291779,
+      "name": "2020-21 Panini Mosaic - Mosaic Lucky Envelopes",
+      "short": "Mosaic Lucky Envelopes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291779/2020-21-Panini-Mosaic-Mosaic-Lucky-Envelopes",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291780,
+      "name": "2020-21 Panini Mosaic - Mosaic Orange Fluorescent",
+      "short": "Mosaic Orange Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291780/2020-21-Panini-Mosaic-Mosaic-Orange-Fluorescent",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291781,
+      "name": "2020-21 Panini Mosaic - Mosaic Pink Fluorescent",
+      "short": "Mosaic Pink Fluorescent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291781/2020-21-Panini-Mosaic-Mosaic-Pink-Fluorescent",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291782,
+      "name": "2020-21 Panini Mosaic - Mosaic Pink Swirl FOTL",
+      "short": "Mosaic Pink Swirl FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291782/2020-21-Panini-Mosaic-Mosaic-Pink-Swirl-FOTL",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291783,
+      "name": "2020-21 Panini Mosaic - Mosaic Purple",
+      "short": "Mosaic Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291783/2020-21-Panini-Mosaic-Mosaic-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291784,
+      "name": "2020-21 Panini Mosaic - Mosaic Reactive Blue",
+      "short": "Mosaic Reactive Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291784/2020-21-Panini-Mosaic-Mosaic-Reactive-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291785,
+      "name": "2020-21 Panini Mosaic - Mosaic Reactive Green",
+      "short": "Mosaic Reactive Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291785/2020-21-Panini-Mosaic-Mosaic-Reactive-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291786,
+      "name": "2020-21 Panini Mosaic - Mosaic Reactive Orange",
+      "short": "Mosaic Reactive Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291786/2020-21-Panini-Mosaic-Mosaic-Reactive-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291787,
+      "name": "2020-21 Panini Mosaic - Mosaic Reactive Red",
+      "short": "Mosaic Reactive Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291787/2020-21-Panini-Mosaic-Mosaic-Reactive-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291788,
+      "name": "2020-21 Panini Mosaic - Mosaic Reactive Yellow",
+      "short": "Mosaic Reactive Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291788/2020-21-Panini-Mosaic-Mosaic-Reactive-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291789,
+      "name": "2020-21 Panini Mosaic - Mosaic Red",
+      "short": "Mosaic Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291789/2020-21-Panini-Mosaic-Mosaic-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291790,
+      "name": "2020-21 Panini Mosaic - Mosaic Red Wave",
+      "short": "Mosaic Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291790/2020-21-Panini-Mosaic-Mosaic-Red-Wave",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291791,
+      "name": "2020-21 Panini Mosaic - Mosaic White",
+      "short": "Mosaic White",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291791/2020-21-Panini-Mosaic-Mosaic-White",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 291793,
+      "name": "2020-21 Panini Mosaic - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/291793/2020-21-Panini-Mosaic-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 12,
+  "imported_this_run": [
+    {
+      "source_set_id": 291789,
+      "name": "Mosaic Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 182,
+      "missing_fronts": 118
+    },
+    {
+      "source_set_id": 291773,
+      "name": "Mosaic Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 9,
+      "missing_fronts": 291
+    },
+    {
+      "source_set_id": 291757,
+      "name": "Mosaic Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 299
+    },
+    {
+      "source_set_id": 291790,
+      "name": "Mosaic Red Wave",
+      "family_requested": "numbered_low",
+      "cards_with_front": 160,
+      "missing_fronts": 140
+    },
+    {
+      "source_set_id": 291774,
+      "name": "Mosaic Gold Wave",
+      "family_requested": "numbered_low",
+      "cards_with_front": 54,
+      "missing_fronts": 246
+    },
+    {
+      "source_set_id": 291868,
+      "name": "Montage Mosaic Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 291886,
+      "name": "Scripts",
+      "family_requested": "auto",
+      "cards_with_front": 26,
+      "missing_fronts": 34
+    },
+    {
+      "source_set_id": 291805,
+      "name": "Bang!",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 291814,
+      "name": "Blue Chips",
+      "family_requested": "numbered",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 291758,
+      "name": "Mosaic Blue",
+      "family_requested": "numbered",
+      "cards_with_front": 36,
+      "missing_fronts": 264
+    },
+    {
+      "source_set_id": 291891,
+      "name": "Stained Glass",
+      "family_requested": "case_hit",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 291772,
+      "name": "Mosaic Genesis",
+      "family_requested": "case_hit",
+      "cards_with_front": 33,
+      "missing_fronts": 267
+    }
+  ],
+  "import_errors": [],
+  "card_count": 860,
+  "before_tiers": {
+    "base": 269,
+    "rookie": 45
+  },
+  "tiers": {
+    "base": 269,
+    "rookie": 45,
+    "parallel": 396,
+    "numbered_low": 10,
+    "insert": 35,
+    "auto": 26,
+    "numbered": 36,
+    "case_hit": 43
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "parallel": 396,
+    "numbered_low": 10,
+    "insert": 35,
+    "auto": 26,
+    "numbered": 36,
+    "case_hit": 43
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 269,
+      "available_cards": 269,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 45,
+      "available_cards": 45,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 10,
+      "available_cards": 10,
+      "local_images": 10,
+      "source_candidates": 30
+    },
+    "auto": {
+      "status": "available",
+      "records": 26,
+      "available_cards": 26,
+      "local_images": 26,
+      "source_candidates": 26
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 396,
+      "available_cards": 396,
+      "local_images": 396,
+      "source_candidates": 37
+    },
+    "insert": {
+      "status": "available",
+      "records": 35,
+      "available_cards": 35,
+      "local_images": 35,
+      "source_candidates": 90
+    },
+    "numbered": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 36,
+      "source_candidates": 55
+    },
+    "case_hit": {
+      "status": "available",
+      "records": 43,
+      "available_cards": 43,
+      "local_images": 43,
+      "source_candidates": 2
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

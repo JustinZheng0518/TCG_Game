@@ -1,0 +1,234 @@
+{
+  "set_id": "BB62089",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/62089/2011-12-Hoops",
+  "headings": [
+    "Insert Sets (9)",
+    "Parallel Sets (4)"
+  ],
+  "subset_count": 13,
+  "subsets": [
+    {
+      "source_set_id": 68393,
+      "name": "2011-12 Hoops - 89-90 Buyback Autographs",
+      "short": "89-90 Buyback Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68393/2011-12-Hoops-89-90-Buyback-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68394,
+      "name": "2011-12 Hoops - A Night to Remember",
+      "short": "A Night to Remember",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68394/2011-12-Hoops-A-Night-to-Remember",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68395,
+      "name": "2011-12 Hoops - Action Photos",
+      "short": "Action Photos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68395/2011-12-Hoops-Action-Photos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68399,
+      "name": "2011-12 Hoops - Bigs",
+      "short": "Bigs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68399/2011-12-Hoops-Bigs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68400,
+      "name": "2011-12 Hoops - Courtside",
+      "short": "Courtside",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68400/2011-12-Hoops-Courtside",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68403,
+      "name": "2011-12 Hoops - Hall of Fame Heroes",
+      "short": "Hall of Fame Heroes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68403/2011-12-Hoops-Hall-of-Fame-Heroes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68401,
+      "name": "2011-12 Hoops - Hoop Dreams",
+      "short": "Hoop Dreams",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68401/2011-12-Hoops-Hoop-Dreams",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68404,
+      "name": "2011-12 Hoops - Private Signings",
+      "short": "Private Signings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68404/2011-12-Hoops-Private-Signings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68405,
+      "name": "2011-12 Hoops - Slam Dunk Champion",
+      "short": "Slam Dunk Champion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68405/2011-12-Hoops-Slam-Dunk-Champion",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 68396,
+      "name": "2011-12 Hoops - Artist's Proofs",
+      "short": "Artist's Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68396/2011-12-Hoops-Artist-s-Proofs",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 68397,
+      "name": "2011-12 Hoops - Artist's Proofs Black",
+      "short": "Artist's Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68397/2011-12-Hoops-Artist-s-Proofs-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 68398,
+      "name": "2011-12 Hoops - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68398/2011-12-Hoops-Autographs",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 68402,
+      "name": "2011-12 Hoops - Glossy",
+      "short": "Glossy",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/68402/2011-12-Hoops-Glossy",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 5,
+  "imported_this_run": [
+    {
+      "source_set_id": 68397,
+      "name": "Artist's Proofs Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 272
+    },
+    {
+      "source_set_id": 68398,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 169,
+      "missing_fronts": 5
+    },
+    {
+      "source_set_id": 68402,
+      "name": "Glossy",
+      "family_requested": "parallel",
+      "cards_with_front": 278,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 68399,
+      "name": "Bigs",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 68400,
+      "name": "Courtside",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 761,
+  "before_tiers": {
+    "base": 278
+  },
+  "tiers": {
+    "base": 279,
+    "numbered_low": 6,
+    "auto": 169,
+    "parallel": 278,
+    "insert": 30
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "numbered_low": 6,
+    "auto": 169,
+    "parallel": 278,
+    "insert": 30
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 279,
+      "available_cards": 279,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 6,
+      "available_cards": 6,
+      "local_images": 6,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "available",
+      "records": 169,
+      "available_cards": 169,
+      "local_images": 169,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 278,
+      "available_cards": 278,
+      "local_images": 278,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 8
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

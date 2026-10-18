@@ -1,0 +1,221 @@
+{
+  "set_id": "BB2493",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2493/1996-97-Hoops",
+  "headings": [
+    "Insert Sets (12)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 13,
+  "subsets": [
+    {
+      "source_set_id": 347624,
+      "name": "1996-97 Hoops - Autographics Black Ink",
+      "short": "Autographics Black Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/347624/1996-97-Hoops-Autographics-Black-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 347625,
+      "name": "1996-97 Hoops - Autographics Blue Ink",
+      "short": "Autographics Blue Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/347625/1996-97-Hoops-Autographics-Blue-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2494,
+      "name": "1996-97 Hoops - Fly With",
+      "short": "Fly With",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2494/1996-97-Hoops-Fly-With",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 343469,
+      "name": "1996-97 Hoops - Grant Hill Z-Force Preview",
+      "short": "Grant Hill Z-Force Preview",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/343469/1996-97-Hoops-Grant-Hill-Z-Force-Preview",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2495,
+      "name": "1996-97 Hoops - Grant's All-Rookies",
+      "short": "Grant's All-Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2495/1996-97-Hoops-Grant-s-All-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2496,
+      "name": "1996-97 Hoops - Head 2 Head",
+      "short": "Head 2 Head",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2496/1996-97-Hoops-Head-2-Head",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2497,
+      "name": "1996-97 Hoops - Hipnotized",
+      "short": "Hipnotized",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2497/1996-97-Hoops-Hipnotized",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2498,
+      "name": "1996-97 Hoops - Hot List",
+      "short": "Hot List",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2498/1996-97-Hoops-Hot-List",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2499,
+      "name": "1996-97 Hoops - Rookie Headliners",
+      "short": "Rookie Headliners",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2499/1996-97-Hoops-Rookie-Headliners",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2500,
+      "name": "1996-97 Hoops - Rookies",
+      "short": "Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2500/1996-97-Hoops-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2501,
+      "name": "1996-97 Hoops - Starting Five",
+      "short": "Starting Five",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2501/1996-97-Hoops-Starting-Five",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2502,
+      "name": "1996-97 Hoops - Superfeats",
+      "short": "Superfeats",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2502/1996-97-Hoops-Superfeats",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25701,
+      "name": "1996-97 Hoops - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25701/1996-97-Hoops-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 347625,
+      "name": "Autographics Blue Ink",
+      "family_requested": "auto",
+      "cards_with_front": 46,
+      "missing_fronts": 48
+    },
+    {
+      "source_set_id": 25701,
+      "name": "Silver",
+      "family_requested": "parallel",
+      "cards_with_front": 71,
+      "missing_fronts": 28
+    },
+    {
+      "source_set_id": 2500,
+      "name": "Rookies",
+      "family_requested": "insert",
+      "cards_with_front": 30,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 493,
+  "before_tiers": {
+    "base": 303,
+    "rookie": 43
+  },
+  "tiers": {
+    "base": 307,
+    "rookie": 43,
+    "auto": 46,
+    "parallel": 71,
+    "insert": 30
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 5,
+    "auto": 46,
+    "parallel": 71,
+    "insert": 30
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 307,
+      "available_cards": 307,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 43,
+      "available_cards": 43,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 46,
+      "available_cards": 46,
+      "local_images": 46,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 71,
+      "available_cards": 71,
+      "local_images": 71,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 10
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 4
+}

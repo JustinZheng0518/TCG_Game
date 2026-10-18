@@ -1,0 +1,115 @@
+{
+  "set_id": "BB120189",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/120189/2009-Rittenhouse-WNBA-Series-2",
+  "headings": [
+    "Insert Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 153466,
+      "name": "2009 Rittenhouse WNBA Series 2 - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/153466/2009-Rittenhouse-WNBA-Series-2-Autographs",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 153466,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 22,
+  "before_tiers": {
+    "numbered": 17
+  },
+  "tiers": {
+    "numbered": 17,
+    "auto": 5
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "numbered": 17,
+    "auto": 5
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 1
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

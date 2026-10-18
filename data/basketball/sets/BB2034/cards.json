@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2034-2987195.webp"
+    "local_preview": "data/basketball/previews/BB2034-2987195.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2034:2987196",
@@ -51,7 +53,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2034-2987196.webp"
+    "local_preview": "data/basketball/previews/BB2034-2987196.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2034:2987197",
@@ -78,7 +82,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2034-2987197.webp"
+    "local_preview": "data/basketball/previews/BB2034-2987197.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2034:2987198",
@@ -104,7 +110,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987199",
@@ -130,7 +137,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987200",
@@ -156,7 +164,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987201",
@@ -182,7 +191,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987202",
@@ -208,7 +218,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987203",
@@ -234,7 +245,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987204",
@@ -260,7 +272,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987205",
@@ -286,7 +299,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987206",
@@ -312,7 +326,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987207",
@@ -338,7 +353,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987208",
@@ -365,7 +381,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2034-2987208.webp"
+    "local_preview": "data/basketball/previews/BB2034-2987208.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2034:2987209",
@@ -391,7 +409,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987210",
@@ -417,7 +436,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987211",
@@ -443,7 +463,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987212",
@@ -470,7 +491,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2034-2987212.webp"
+    "local_preview": "data/basketball/previews/BB2034-2987212.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2034:2987213",
@@ -496,7 +519,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987214",
@@ -522,7 +546,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987215",
@@ -548,7 +573,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987216",
@@ -574,7 +600,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987217",
@@ -600,7 +627,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987218",
@@ -626,7 +654,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987219",
@@ -652,7 +681,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2034:2987226",
@@ -679,6 +709,170 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2034-2987226.webp"
+    "local_preview": "data/basketball/previews/BB2034-2987226.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2034:2987220",
+    "set_id": "BB2034",
+    "source_set_id": 2034,
+    "number": "26",
+    "name": "All-Star Game MVPs MVP, PR5000",
+    "original_name": "All-Star Game MVPs MVP, PR5000",
+    "team": "Philadelphia 76ers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1983 Star All-Star Game",
+    "source_notes": "",
+    "year": 1983,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2034/cid/2987220/1983-Star-All-Star-Game-26-All-Star-Game-MVPs",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987220Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987220Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987220Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987220Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2034:2987221",
+    "set_id": "BB2034",
+    "source_set_id": 2034,
+    "number": "27",
+    "name": "One Player - Single Game Records, Reggie Theus and Moses Malone PR5000",
+    "original_name": "One Player - Single Game Records, Reggie Theus and Moses Malone PR5000",
+    "team": "Chicago Bulls / Philadelphia 76ers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1983 Star All-Star Game",
+    "source_notes": "",
+    "year": 1983,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2034/cid/2987221/1983-Star-All-Star-Game-27-One-Player---Single-Game-Records,-Reggie-Theus-and-Moses-Malone",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987221Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987221Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987221Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987221Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2034:2987222",
+    "set_id": "BB2034",
+    "source_set_id": 2034,
+    "number": "28",
+    "name": "All-Star All-Time Leaders, The East Coast Line PR5000",
+    "original_name": "All-Star All-Time Leaders, The East Coast Line PR5000",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1983 Star All-Star Game",
+    "source_notes": "",
+    "year": 1983,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2034/cid/2987222/1983-Star-All-Star-Game-28-All-Star-All-Time-Leaders,-The-East-Coast-Line",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987222Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987222Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987222Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987222Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2034:2987223",
+    "set_id": "BB2034",
+    "source_set_id": 2034,
+    "number": "29",
+    "name": "Boston Bombers, East Box Score PR5000",
+    "original_name": "Boston Bombers, East Box Score PR5000",
+    "team": "Boston Celtics",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1983 Star All-Star Game",
+    "source_notes": "",
+    "year": 1983,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2034/cid/2987223/1983-Star-All-Star-Game-29-Boston-Bombers,-East-Box-Score",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987223Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987223Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987223Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987223Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2034:2987224",
+    "set_id": "BB2034",
+    "source_set_id": 2034,
+    "number": "30",
+    "name": "Sidney Soars, West Box Score PR5000",
+    "original_name": "Sidney Soars, West Box Score PR5000",
+    "team": "Milwaukee Bucks",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1983 Star All-Star Game",
+    "source_notes": "",
+    "year": 1983,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2034/cid/2987224/1983-Star-All-Star-Game-30-Sidney-Soars,-West-Box-Score",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987224Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987224Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987224Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987224Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2034:2987225",
+    "set_id": "BB2034",
+    "source_set_id": 2034,
+    "number": "NNO",
+    "name": "Artis Gilmore and Alex English PR5000",
+    "original_name": "Artis Gilmore and Alex English PR5000",
+    "team": "Chicago Bulls / Denver Nuggets",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1983 Star All-Star Game",
+    "source_notes": "",
+    "year": 1983,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2034/cid/2987225/1983-Star-All-Star-Game-NNO-Artis-Gilmore-and-Alex-English",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987225RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987225RepBk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987225RepFr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2034/2034-2987225RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
   }
 ]

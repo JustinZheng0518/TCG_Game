@@ -1,0 +1,908 @@
+{
+  "set_id": "BB103422",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/103422/2014-15-Donruss",
+  "headings": [
+    "Insert Sets (85)",
+    "Parallel Sets (9)"
+  ],
+  "subset_count": 96,
+  "subsets": [
+    {
+      "source_set_id": 107077,
+      "name": "2014-15 Donruss - Court Kings",
+      "short": "Court Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107077/2014-15-Donruss-Court-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108324,
+      "name": "2014-15 Donruss - Court Kings Press Proofs Black",
+      "short": "Court Kings Press Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108324/2014-15-Donruss-Court-Kings-Press-Proofs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108325,
+      "name": "2014-15 Donruss - Court Kings Press Proofs Blue",
+      "short": "Court Kings Press Proofs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108325/2014-15-Donruss-Court-Kings-Press-Proofs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108326,
+      "name": "2014-15 Donruss - Court Kings Press Proofs Gold",
+      "short": "Court Kings Press Proofs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108326/2014-15-Donruss-Court-Kings-Press-Proofs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108327,
+      "name": "2014-15 Donruss - Court Kings Press Proofs Purple",
+      "short": "Court Kings Press Proofs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108327/2014-15-Donruss-Court-Kings-Press-Proofs-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108328,
+      "name": "2014-15 Donruss - Court Kings Press Proofs Silver",
+      "short": "Court Kings Press Proofs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108328/2014-15-Donruss-Court-Kings-Press-Proofs-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108329,
+      "name": "2014-15 Donruss - Court Kings Stat Line Career",
+      "short": "Court Kings Stat Line Career",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108329/2014-15-Donruss-Court-Kings-Stat-Line-Career",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108330,
+      "name": "2014-15 Donruss - Court Kings Stat Line Season",
+      "short": "Court Kings Stat Line Season",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108330/2014-15-Donruss-Court-Kings-Stat-Line-Season",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108331,
+      "name": "2014-15 Donruss - Court Kings Stat Line Years",
+      "short": "Court Kings Stat Line Years",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108331/2014-15-Donruss-Court-Kings-Stat-Line-Years",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107078,
+      "name": "2014-15 Donruss - Elite",
+      "short": "Elite",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107078/2014-15-Donruss-Elite",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108686,
+      "name": "2014-15 Donruss - Elite Black",
+      "short": "Elite Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108686/2014-15-Donruss-Elite-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108683,
+      "name": "2014-15 Donruss - Elite Blue",
+      "short": "Elite Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108683/2014-15-Donruss-Elite-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107079,
+      "name": "2014-15 Donruss - Elite Dominators",
+      "short": "Elite Dominators",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107079/2014-15-Donruss-Elite-Dominators",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107080,
+      "name": "2014-15 Donruss - Elite Dominators Signatures",
+      "short": "Elite Dominators Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107080/2014-15-Donruss-Elite-Dominators-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108685,
+      "name": "2014-15 Donruss - Elite Gold",
+      "short": "Elite Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108685/2014-15-Donruss-Elite-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108688,
+      "name": "2014-15 Donruss - Elite Jersey Number Die Cuts",
+      "short": "Elite Jersey Number Die Cuts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108688/2014-15-Donruss-Elite-Jersey-Number-Die-Cuts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108682,
+      "name": "2014-15 Donruss - Elite Purple",
+      "short": "Elite Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108682/2014-15-Donruss-Elite-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108684,
+      "name": "2014-15 Donruss - Elite Red",
+      "short": "Elite Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108684/2014-15-Donruss-Elite-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108687,
+      "name": "2014-15 Donruss - Elite Status Die Cuts",
+      "short": "Elite Status Die Cuts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108687/2014-15-Donruss-Elite-Status-Die-Cuts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107089,
+      "name": "2014-15 Donruss - Elite Status Signatures",
+      "short": "Elite Status Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107089/2014-15-Donruss-Elite-Status-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 130131,
+      "name": "2014-15 Donruss - Elite Status Signatures Black",
+      "short": "Elite Status Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/130131/2014-15-Donruss-Elite-Status-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 130130,
+      "name": "2014-15 Donruss - Elite Status Signatures Blue",
+      "short": "Elite Status Signatures Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/130130/2014-15-Donruss-Elite-Status-Signatures-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 130132,
+      "name": "2014-15 Donruss - Elite Status Signatures Bronze",
+      "short": "Elite Status Signatures Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/130132/2014-15-Donruss-Elite-Status-Signatures-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 130133,
+      "name": "2014-15 Donruss - Elite Status Signatures Gold",
+      "short": "Elite Status Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/130133/2014-15-Donruss-Elite-Status-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 130129,
+      "name": "2014-15 Donruss - Elite Status Signatures Purple",
+      "short": "Elite Status Signatures Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/130129/2014-15-Donruss-Elite-Status-Signatures-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 127684,
+      "name": "2014-15 Donruss - Elite Status Signatures Red Die Cut",
+      "short": "Elite Status Signatures Red Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/127684/2014-15-Donruss-Elite-Status-Signatures-Red-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107072,
+      "name": "2014-15 Donruss - Game Threads",
+      "short": "Game Threads",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107072/2014-15-Donruss-Game-Threads",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108332,
+      "name": "2014-15 Donruss - Game Threads Prime",
+      "short": "Game Threads Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108332/2014-15-Donruss-Game-Threads-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107081,
+      "name": "2014-15 Donruss - Gamers Jerseys",
+      "short": "Gamers Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107081/2014-15-Donruss-Gamers-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108333,
+      "name": "2014-15 Donruss - Gamers Jerseys Prime",
+      "short": "Gamers Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108333/2014-15-Donruss-Gamers-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107082,
+      "name": "2014-15 Donruss - Jersey Kings",
+      "short": "Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107082/2014-15-Donruss-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107083,
+      "name": "2014-15 Donruss - Jersey Kings Prime",
+      "short": "Jersey Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107083/2014-15-Donruss-Jersey-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107084,
+      "name": "2014-15 Donruss - Production Line Assists",
+      "short": "Production Line Assists",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107084/2014-15-Donruss-Production-Line-Assists",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108334,
+      "name": "2014-15 Donruss - Production Line Assists Press Proofs Black",
+      "short": "Production Line Assists Press Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108334/2014-15-Donruss-Production-Line-Assists-Press-Proofs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108335,
+      "name": "2014-15 Donruss - Production Line Assists Press Proofs Blue",
+      "short": "Production Line Assists Press Proofs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108335/2014-15-Donruss-Production-Line-Assists-Press-Proofs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108336,
+      "name": "2014-15 Donruss - Production Line Assists Press Proofs Gold",
+      "short": "Production Line Assists Press Proofs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108336/2014-15-Donruss-Production-Line-Assists-Press-Proofs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108337,
+      "name": "2014-15 Donruss - Production Line Assists Press Proofs Purple",
+      "short": "Production Line Assists Press Proofs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108337/2014-15-Donruss-Production-Line-Assists-Press-Proofs-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108338,
+      "name": "2014-15 Donruss - Production Line Assists Press Proofs Silver",
+      "short": "Production Line Assists Press Proofs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108338/2014-15-Donruss-Production-Line-Assists-Press-Proofs-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108339,
+      "name": "2014-15 Donruss - Production Line Assists Stat Line Career",
+      "short": "Production Line Assists Stat Line Career",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108339/2014-15-Donruss-Production-Line-Assists-Stat-Line-Career",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108340,
+      "name": "2014-15 Donruss - Production Line Assists Stat Line Season",
+      "short": "Production Line Assists Stat Line Season",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108340/2014-15-Donruss-Production-Line-Assists-Stat-Line-Season",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108341,
+      "name": "2014-15 Donruss - Production Line Assists Swirlorama",
+      "short": "Production Line Assists Swirlorama",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108341/2014-15-Donruss-Production-Line-Assists-Swirlorama",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108342,
+      "name": "2014-15 Donruss - Production Line Rebounds",
+      "short": "Production Line Rebounds",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108342/2014-15-Donruss-Production-Line-Rebounds",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108343,
+      "name": "2014-15 Donruss - Production Line Rebounds Press Proofs Black",
+      "short": "Production Line Rebounds Press Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108343/2014-15-Donruss-Production-Line-Rebounds-Press-Proofs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108344,
+      "name": "2014-15 Donruss - Production Line Rebounds Press Proofs Blue",
+      "short": "Production Line Rebounds Press Proofs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108344/2014-15-Donruss-Production-Line-Rebounds-Press-Proofs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108345,
+      "name": "2014-15 Donruss - Production Line Rebounds Press Proofs Gold",
+      "short": "Production Line Rebounds Press Proofs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108345/2014-15-Donruss-Production-Line-Rebounds-Press-Proofs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108346,
+      "name": "2014-15 Donruss - Production Line Rebounds Press Proofs Purple",
+      "short": "Production Line Rebounds Press Proofs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108346/2014-15-Donruss-Production-Line-Rebounds-Press-Proofs-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108347,
+      "name": "2014-15 Donruss - Production Line Rebounds Press Proofs Silver",
+      "short": "Production Line Rebounds Press Proofs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108347/2014-15-Donruss-Production-Line-Rebounds-Press-Proofs-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108348,
+      "name": "2014-15 Donruss - Production Line Rebounds Stat Line Career",
+      "short": "Production Line Rebounds Stat Line Career",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108348/2014-15-Donruss-Production-Line-Rebounds-Stat-Line-Career",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108349,
+      "name": "2014-15 Donruss - Production Line Rebounds Stat Line Season",
+      "short": "Production Line Rebounds Stat Line Season",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108349/2014-15-Donruss-Production-Line-Rebounds-Stat-Line-Season",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108350,
+      "name": "2014-15 Donruss - Production Line Rebounds Swirlorama",
+      "short": "Production Line Rebounds Swirlorama",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108350/2014-15-Donruss-Production-Line-Rebounds-Swirlorama",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108351,
+      "name": "2014-15 Donruss - Production Line Scoring",
+      "short": "Production Line Scoring",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108351/2014-15-Donruss-Production-Line-Scoring",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108352,
+      "name": "2014-15 Donruss - Production Line Scoring Press Proofs Black",
+      "short": "Production Line Scoring Press Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108352/2014-15-Donruss-Production-Line-Scoring-Press-Proofs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108353,
+      "name": "2014-15 Donruss - Production Line Scoring Press Proofs Blue",
+      "short": "Production Line Scoring Press Proofs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108353/2014-15-Donruss-Production-Line-Scoring-Press-Proofs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108354,
+      "name": "2014-15 Donruss - Production Line Scoring Press Proofs Gold",
+      "short": "Production Line Scoring Press Proofs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108354/2014-15-Donruss-Production-Line-Scoring-Press-Proofs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108355,
+      "name": "2014-15 Donruss - Production Line Scoring Press Proofs Purple",
+      "short": "Production Line Scoring Press Proofs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108355/2014-15-Donruss-Production-Line-Scoring-Press-Proofs-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108356,
+      "name": "2014-15 Donruss - Production Line Scoring Press Proofs Silver",
+      "short": "Production Line Scoring Press Proofs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108356/2014-15-Donruss-Production-Line-Scoring-Press-Proofs-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108357,
+      "name": "2014-15 Donruss - Production Line Scoring Stat Line Career",
+      "short": "Production Line Scoring Stat Line Career",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108357/2014-15-Donruss-Production-Line-Scoring-Stat-Line-Career",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108358,
+      "name": "2014-15 Donruss - Production Line Scoring Stat Line Season",
+      "short": "Production Line Scoring Stat Line Season",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108358/2014-15-Donruss-Production-Line-Scoring-Stat-Line-Season",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108359,
+      "name": "2014-15 Donruss - Production Line Scoring Swirlorama",
+      "short": "Production Line Scoring Swirlorama",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108359/2014-15-Donruss-Production-Line-Scoring-Swirlorama",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107085,
+      "name": "2014-15 Donruss - Rated Rookie Signature Patches",
+      "short": "Rated Rookie Signature Patches",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107085/2014-15-Donruss-Rated-Rookie-Signature-Patches",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108360,
+      "name": "2014-15 Donruss - Rated Rookies Artists Proofs",
+      "short": "Rated Rookies Artists Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108360/2014-15-Donruss-Rated-Rookies-Artists-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108361,
+      "name": "2014-15 Donruss - Rated Rookies Jersey Numbers",
+      "short": "Rated Rookies Jersey Numbers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108361/2014-15-Donruss-Rated-Rookies-Jersey-Numbers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107086,
+      "name": "2014-15 Donruss - Rookie Autographs",
+      "short": "Rookie Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107086/2014-15-Donruss-Rookie-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108362,
+      "name": "2014-15 Donruss - Rookie Autographs Die Cuts",
+      "short": "Rookie Autographs Die Cuts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108362/2014-15-Donruss-Rookie-Autographs-Die-Cuts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107087,
+      "name": "2014-15 Donruss - Scoring Kings",
+      "short": "Scoring Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107087/2014-15-Donruss-Scoring-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108363,
+      "name": "2014-15 Donruss - Scoring Kings Press Proofs Black",
+      "short": "Scoring Kings Press Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108363/2014-15-Donruss-Scoring-Kings-Press-Proofs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108364,
+      "name": "2014-15 Donruss - Scoring Kings Press Proofs Blue",
+      "short": "Scoring Kings Press Proofs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108364/2014-15-Donruss-Scoring-Kings-Press-Proofs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108365,
+      "name": "2014-15 Donruss - Scoring Kings Press Proofs Gold",
+      "short": "Scoring Kings Press Proofs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108365/2014-15-Donruss-Scoring-Kings-Press-Proofs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108366,
+      "name": "2014-15 Donruss - Scoring Kings Press Proofs Purple",
+      "short": "Scoring Kings Press Proofs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108366/2014-15-Donruss-Scoring-Kings-Press-Proofs-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108367,
+      "name": "2014-15 Donruss - Scoring Kings Press Proofs Silver",
+      "short": "Scoring Kings Press Proofs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108367/2014-15-Donruss-Scoring-Kings-Press-Proofs-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108368,
+      "name": "2014-15 Donruss - Scoring Kings Stat Line Career",
+      "short": "Scoring Kings Stat Line Career",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108368/2014-15-Donruss-Scoring-Kings-Stat-Line-Career",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108369,
+      "name": "2014-15 Donruss - Scoring Kings Stat Line Season",
+      "short": "Scoring Kings Stat Line Season",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108369/2014-15-Donruss-Scoring-Kings-Stat-Line-Season",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108370,
+      "name": "2014-15 Donruss - Scoring Kings Stat Line Years",
+      "short": "Scoring Kings Stat Line Years",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108370/2014-15-Donruss-Scoring-Kings-Stat-Line-Years",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107088,
+      "name": "2014-15 Donruss - Signature Stars",
+      "short": "Signature Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107088/2014-15-Donruss-Signature-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107090,
+      "name": "2014-15 Donruss - The Rookies",
+      "short": "The Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107090/2014-15-Donruss-The-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108374,
+      "name": "2014-15 Donruss - The Rookies Artists Proofs",
+      "short": "The Rookies Artists Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108374/2014-15-Donruss-The-Rookies-Artists-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108375,
+      "name": "2014-15 Donruss - The Rookies Jersey Numbers",
+      "short": "The Rookies Jersey Numbers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108375/2014-15-Donruss-The-Rookies-Jersey-Numbers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108376,
+      "name": "2014-15 Donruss - The Rookies Press Proofs Black",
+      "short": "The Rookies Press Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108376/2014-15-Donruss-The-Rookies-Press-Proofs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108377,
+      "name": "2014-15 Donruss - The Rookies Press Proofs Blue",
+      "short": "The Rookies Press Proofs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108377/2014-15-Donruss-The-Rookies-Press-Proofs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108378,
+      "name": "2014-15 Donruss - The Rookies Press Proofs Gold",
+      "short": "The Rookies Press Proofs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108378/2014-15-Donruss-The-Rookies-Press-Proofs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108379,
+      "name": "2014-15 Donruss - The Rookies Press Proofs Purple",
+      "short": "The Rookies Press Proofs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108379/2014-15-Donruss-The-Rookies-Press-Proofs-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108380,
+      "name": "2014-15 Donruss - The Rookies Press Proofs Silver",
+      "short": "The Rookies Press Proofs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108380/2014-15-Donruss-The-Rookies-Press-Proofs-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108381,
+      "name": "2014-15 Donruss - The Rookies Swirlorama",
+      "short": "The Rookies Swirlorama",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108381/2014-15-Donruss-The-Rookies-Swirlorama",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 107091,
+      "name": "2014-15 Donruss - Timeless Treasures Jersey Autographs",
+      "short": "Timeless Treasures Jersey Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/107091/2014-15-Donruss-Timeless-Treasures-Jersey-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108382,
+      "name": "2014-15 Donruss - Timeless Treasures Jersey Autographs Prime",
+      "short": "Timeless Treasures Jersey Autographs Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108382/2014-15-Donruss-Timeless-Treasures-Jersey-Autographs-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 199040,
+      "name": "2014-15 Donruss - All-Star Weekend Wrapper Redemption",
+      "short": "All-Star Weekend Wrapper Redemption",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/199040/2014-15-Donruss-All-Star-Weekend-Wrapper-Redemption",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 323696,
+      "name": "2014-15 Donruss - All-Star Weekend Wrapper Redemption Autographs",
+      "short": "All-Star Weekend Wrapper Redemption Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/323696/2014-15-Donruss-All-Star-Weekend-Wrapper-Redemption-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 108322,
+      "name": "2014-15 Donruss - Press Proofs Black",
+      "short": "Press Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108322/2014-15-Donruss-Press-Proofs-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108319,
+      "name": "2014-15 Donruss - Press Proofs Blue",
+      "short": "Press Proofs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108319/2014-15-Donruss-Press-Proofs-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108321,
+      "name": "2014-15 Donruss - Press Proofs Gold",
+      "short": "Press Proofs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108321/2014-15-Donruss-Press-Proofs-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108318,
+      "name": "2014-15 Donruss - Press Proofs Purple",
+      "short": "Press Proofs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108318/2014-15-Donruss-Press-Proofs-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108320,
+      "name": "2014-15 Donruss - Press Proofs Silver",
+      "short": "Press Proofs Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108320/2014-15-Donruss-Press-Proofs-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108371,
+      "name": "2014-15 Donruss - Stat Line Career",
+      "short": "Stat Line Career",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108371/2014-15-Donruss-Stat-Line-Career",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108372,
+      "name": "2014-15 Donruss - Stat Line Season",
+      "short": "Stat Line Season",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108372/2014-15-Donruss-Stat-Line-Season",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108373,
+      "name": "2014-15 Donruss - Stat Line Years",
+      "short": "Stat Line Years",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108373/2014-15-Donruss-Stat-Line-Years",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 108323,
+      "name": "2014-15 Donruss - Swirlorama",
+      "short": "Swirlorama",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/108323/2014-15-Donruss-Swirlorama",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 15,
+  "imported_this_run": [
+    {
+      "source_set_id": 108684,
+      "name": "Elite Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 9,
+      "missing_fronts": 91
+    },
+    {
+      "source_set_id": 108685,
+      "name": "Elite Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 95
+    },
+    {
+      "source_set_id": 108686,
+      "name": "Elite Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 108321,
+      "name": "Press Proofs Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 235
+    },
+    {
+      "source_set_id": 108322,
+      "name": "Press Proofs Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 237
+    },
+    {
+      "source_set_id": 108326,
+      "name": "Court Kings Press Proofs Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 48
+    },
+    {
+      "source_set_id": 107088,
+      "name": "Signature Stars",
+      "family_requested": "auto",
+      "cards_with_front": 8,
+      "missing_fronts": 23
+    },
+    {
+      "source_set_id": 107086,
+      "name": "Rookie Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 6,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 107089,
+      "name": "Elite Status Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 15,
+      "missing_fronts": 85
+    },
+    {
+      "source_set_id": 107082,
+      "name": "Jersey Kings",
+      "family_requested": "memorabilia",
+      "cards_with_front": 8,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 107081,
+      "name": "Gamers Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 36,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 107085,
+      "name": "Rated Rookie Signature Patches",
+      "family_requested": "auto_patch",
+      "cards_with_front": 6,
+      "missing_fronts": 31
+    },
+    {
+      "source_set_id": 107091,
+      "name": "Timeless Treasures Jersey Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 1,
+      "missing_fronts": 7
+    },
+    {
+      "source_set_id": 108382,
+      "name": "Timeless Treasures Jersey Autographs Prime",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 108323,
+      "name": "Swirlorama",
+      "family_requested": "parallel",
+      "cards_with_front": 229,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 107078,
+      "name": "Elite",
+      "family_requested": "insert",
+      "cards_with_front": 100,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 108683,
+      "name": "Elite Blue",
+      "family_requested": "numbered",
+      "cards_with_front": 14,
+      "missing_fronts": 86
+    }
+  ],
+  "import_errors": [],
+  "card_count": 684,
+  "before_tiers": {
+    "base": 200,
+    "rookie": 39
+  },
+  "tiers": {
+    "base": 200,
+    "rookie": 39,
+    "numbered": 23,
+    "numbered_low": 13,
+    "auto": 29,
+    "memorabilia": 44,
+    "auto_patch": 7,
+    "parallel": 229,
+    "insert": 100
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 2,
+    "numbered": 23,
+    "numbered_low": 13,
+    "auto": 29,
+    "memorabilia": 44,
+    "auto_patch": 7,
+    "parallel": 229,
+    "insert": 100
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 200,
+      "available_cards": 200,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 39,
+      "available_cards": 39,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 13,
+      "available_cards": 13,
+      "local_images": 13,
+      "source_candidates": 17
+    },
+    "auto": {
+      "status": "available",
+      "records": 29,
+      "available_cards": 29,
+      "local_images": 29,
+      "source_candidates": 12
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 44,
+      "available_cards": 44,
+      "local_images": 44,
+      "source_candidates": 7
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 7,
+      "available_cards": 7,
+      "local_images": 7,
+      "source_candidates": 3
+    },
+    "parallel": {
+      "status": "available",
+      "records": 229,
+      "available_cards": 229,
+      "local_images": 229,
+      "source_candidates": 9
+    },
+    "insert": {
+      "status": "available",
+      "records": 100,
+      "available_cards": 100,
+      "local_images": 100,
+      "source_candidates": 65
+    },
+    "numbered": {
+      "status": "available",
+      "records": 23,
+      "available_cards": 23,
+      "local_images": 23,
+      "source_candidates": 19
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

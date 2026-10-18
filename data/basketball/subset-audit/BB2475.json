@@ -1,0 +1,118 @@
+{
+  "set_id": "BB2475",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2475/1996-97-Finest",
+  "headings": [
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 2476,
+      "name": "1996-97 Finest - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2476/1996-97-Finest-Refractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 2476,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 200,
+      "missing_fronts": 89
+    }
+  ],
+  "import_errors": [],
+  "card_count": 490,
+  "before_tiers": {
+    "base": 265,
+    "rookie": 25
+  },
+  "tiers": {
+    "base": 267,
+    "rookie": 25,
+    "parallel": 201
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 2,
+    "rookie": 5,
+    "parallel": 201
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 267,
+      "available_cards": 267,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 201,
+      "available_cards": 201,
+      "local_images": 201,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 3
+}

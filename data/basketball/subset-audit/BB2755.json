@@ -1,0 +1,213 @@
+{
+  "set_id": "BB2755",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2755/1998-Upper-Deck-Hardcourt",
+  "headings": [
+    "Insert Sets (6)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 8,
+  "subsets": [
+    {
+      "source_set_id": 25899,
+      "name": "1998 Upper Deck Hardcourt - High Court",
+      "short": "High Court",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25899/1998-Upper-Deck-Hardcourt-High-Court",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2756,
+      "name": "1998 Upper Deck Hardcourt - Jordan Holding Court Bronze",
+      "short": "Jordan Holding Court Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2756/1998-Upper-Deck-Hardcourt-Jordan-Holding-Court-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25902,
+      "name": "1998 Upper Deck Hardcourt - Jordan Holding Court Gold",
+      "short": "Jordan Holding Court Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25902/1998-Upper-Deck-Hardcourt-Jordan-Holding-Court-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25903,
+      "name": "1998 Upper Deck Hardcourt - Jordan Holding Court Red",
+      "short": "Jordan Holding Court Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25903/1998-Upper-Deck-Hardcourt-Jordan-Holding-Court-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25904,
+      "name": "1998 Upper Deck Hardcourt - Jordan Holding Court Silver",
+      "short": "Jordan Holding Court Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25904/1998-Upper-Deck-Hardcourt-Jordan-Holding-Court-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 306909,
+      "name": "1998 Upper Deck Hardcourt - Michael Jordan Box Topper",
+      "short": "Michael Jordan Box Topper",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/306909/1998-Upper-Deck-Hardcourt-Michael-Jordan-Box-Topper",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25900,
+      "name": "1998 Upper Deck Hardcourt - Home Court Advantage",
+      "short": "Home Court Advantage",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25900/1998-Upper-Deck-Hardcourt-Home-Court-Advantage",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25901,
+      "name": "1998 Upper Deck Hardcourt - Home Court Advantage Plus",
+      "short": "Home Court Advantage Plus",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25901/1998-Upper-Deck-Hardcourt-Home-Court-Advantage-Plus",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 7,
+  "imported_this_run": [
+    {
+      "source_set_id": 25903,
+      "name": "Jordan Holding Court Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25902,
+      "name": "Jordan Holding Court Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25900,
+      "name": "Home Court Advantage",
+      "family_requested": "parallel",
+      "cards_with_front": 90,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25899,
+      "name": "High Court",
+      "family_requested": "insert",
+      "cards_with_front": 30,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 306909,
+      "name": "Michael Jordan Box Topper",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2756,
+      "name": "Jordan Holding Court Bronze",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25904,
+      "name": "Jordan Holding Court Silver",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 213,
+  "before_tiers": {
+    "base": 91
+  },
+  "tiers": {
+    "base": 91,
+    "numbered": 107,
+    "parallel": 90,
+    "insert": 1,
+    "numbered_low": 4
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "numbered": 107,
+    "parallel": 90,
+    "insert": 1,
+    "numbered_low": 4
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 91,
+      "available_cards": 91,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 90,
+      "available_cards": 90,
+      "local_images": 90,
+      "source_candidates": 2
+    },
+    "insert": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 6
+    },
+    "numbered": {
+      "status": "available",
+      "records": 107,
+      "available_cards": 107,
+      "local_images": 107,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 80
+}

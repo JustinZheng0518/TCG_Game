@@ -1,0 +1,207 @@
+{
+  "set_id": "BB2835",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2835/1999-00-Hoops",
+  "headings": [
+    "Insert Sets (9)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 10,
+  "subsets": [
+    {
+      "source_set_id": 26270,
+      "name": "1999-00 Hoops - Build Your Own Card",
+      "short": "Build Your Own Card",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26270/1999-00-Hoops-Build-Your-Own-Card",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 158160,
+      "name": "1999-00 Hoops - Build Your Own Card Redemptions",
+      "short": "Build Your Own Card Redemptions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/158160/1999-00-Hoops-Build-Your-Own-Card-Redemptions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26271,
+      "name": "1999-00 Hoops - Calling Card",
+      "short": "Calling Card",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26271/1999-00-Hoops-Calling-Card",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 378584,
+      "name": "1999-00 Hoops - Checklists",
+      "short": "Checklists",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/378584/1999-00-Hoops-Checklists",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26272,
+      "name": "1999-00 Hoops - Dunk Mob",
+      "short": "Dunk Mob",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26272/1999-00-Hoops-Dunk-Mob",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26273,
+      "name": "1999-00 Hoops - Name Plates",
+      "short": "Name Plates",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26273/1999-00-Hoops-Name-Plates",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26274,
+      "name": "1999-00 Hoops - Pure Players",
+      "short": "Pure Players",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26274/1999-00-Hoops-Pure-Players",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26275,
+      "name": "1999-00 Hoops - Pure Players 100 Percent",
+      "short": "Pure Players 100 Percent",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26275/1999-00-Hoops-Pure-Players-100-Percent",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26277,
+      "name": "1999-00 Hoops - Y2K Corps",
+      "short": "Y2K Corps",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26277/1999-00-Hoops-Y2K-Corps",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26276,
+      "name": "1999-00 Hoops - Starting Five",
+      "short": "Starting Five",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26276/1999-00-Hoops-Starting-Five",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 4,
+  "imported_this_run": [
+    {
+      "source_set_id": 26276,
+      "name": "Starting Five",
+      "family_requested": "parallel",
+      "cards_with_front": 2,
+      "missing_fronts": 183
+    },
+    {
+      "source_set_id": 26272,
+      "name": "Dunk Mob",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 26277,
+      "name": "Y2K Corps",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 158160,
+      "name": "Build Your Own Card Redemptions",
+      "family_requested": "numbered",
+      "cards_with_front": 90,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 297,
+  "before_tiers": {
+    "base": 159,
+    "rookie": 26
+  },
+  "tiers": {
+    "base": 159,
+    "rookie": 26,
+    "numbered_low": 2,
+    "insert": 20,
+    "numbered": 90
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "rookie": 1,
+    "numbered_low": 2,
+    "insert": 20,
+    "numbered": 90
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 159,
+      "available_cards": 159,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 26,
+      "available_cards": 26,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 2,
+      "available_cards": 2,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 9
+    },
+    "numbered": {
+      "status": "available",
+      "records": 90,
+      "available_cards": 90,
+      "local_images": 90,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

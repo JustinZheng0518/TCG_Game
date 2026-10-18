@@ -1,0 +1,118 @@
+{
+  "set_id": "BB2067",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2067/1986-87-Fleer",
+  "headings": [
+    "Insert Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 2068,
+      "name": "1986-87 Fleer - Stickers",
+      "short": "Stickers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2068/1986-87-Fleer-Stickers",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 2068,
+      "name": "Stickers",
+      "family_requested": "insert",
+      "cards_with_front": 11,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 142,
+  "before_tiers": {
+    "base": 70,
+    "rookie": 61
+  },
+  "tiers": {
+    "base": 71,
+    "rookie": 61,
+    "insert": 11
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 3,
+    "insert": 11
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 71,
+      "available_cards": 71,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 61,
+      "available_cards": 61,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 11,
+      "available_cards": 11,
+      "local_images": 11,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

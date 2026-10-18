@@ -1,0 +1,1090 @@
+{
+  "set_id": "BB222141",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/222141/2019-20-Panini-Select",
+  "headings": [
+    "Insert Sets (78)",
+    "Parallel Sets (30)"
+  ],
+  "subset_count": 109,
+  "subsets": [
+    {
+      "source_set_id": 227276,
+      "name": "2019-20 Panini Select - Artistic Selections",
+      "short": "Artistic Selections",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227276/2019-20-Panini-Select-Artistic-Selections",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227277,
+      "name": "2019-20 Panini Select - Autographed Memorabilia",
+      "short": "Autographed Memorabilia",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227277/2019-20-Panini-Select-Autographed-Memorabilia",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227278,
+      "name": "2019-20 Panini Select - Autographed Memorabilia Black",
+      "short": "Autographed Memorabilia Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227278/2019-20-Panini-Select-Autographed-Memorabilia-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227279,
+      "name": "2019-20 Panini Select - Autographed Memorabilia Gold",
+      "short": "Autographed Memorabilia Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227279/2019-20-Panini-Select-Autographed-Memorabilia-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227280,
+      "name": "2019-20 Panini Select - Autographed Memorabilia Purple",
+      "short": "Autographed Memorabilia Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227280/2019-20-Panini-Select-Autographed-Memorabilia-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227281,
+      "name": "2019-20 Panini Select - Autographed Memorabilia Tie-Dye",
+      "short": "Autographed Memorabilia Tie-Dye",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227281/2019-20-Panini-Select-Autographed-Memorabilia-Tie-Dye",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227282,
+      "name": "2019-20 Panini Select - Draft Selections Memorabilia",
+      "short": "Draft Selections Memorabilia",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227282/2019-20-Panini-Select-Draft-Selections-Memorabilia",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227283,
+      "name": "2019-20 Panini Select - Draft Selections Memorabilia Black Prizms",
+      "short": "Draft Selections Memorabilia Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227283/2019-20-Panini-Select-Draft-Selections-Memorabilia-Black-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227284,
+      "name": "2019-20 Panini Select - Draft Selections Memorabilia Copper Prizms",
+      "short": "Draft Selections Memorabilia Copper Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227284/2019-20-Panini-Select-Draft-Selections-Memorabilia-Copper-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227285,
+      "name": "2019-20 Panini Select - Draft Selections Memorabilia Gold Prizms",
+      "short": "Draft Selections Memorabilia Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227285/2019-20-Panini-Select-Draft-Selections-Memorabilia-Gold-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227286,
+      "name": "2019-20 Panini Select - Draft Selections Memorabilia Purple Prizms",
+      "short": "Draft Selections Memorabilia Purple Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227286/2019-20-Panini-Select-Draft-Selections-Memorabilia-Purple-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227287,
+      "name": "2019-20 Panini Select - Draft Selections Memorabilia Tie-Dye Prizms",
+      "short": "Draft Selections Memorabilia Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227287/2019-20-Panini-Select-Draft-Selections-Memorabilia-Tie-Dye-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227288,
+      "name": "2019-20 Panini Select - In Flight Signatures",
+      "short": "In Flight Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227288/2019-20-Panini-Select-In-Flight-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227289,
+      "name": "2019-20 Panini Select - In Flight Signatures Black Prizms",
+      "short": "In Flight Signatures Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227289/2019-20-Panini-Select-In-Flight-Signatures-Black-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227290,
+      "name": "2019-20 Panini Select - In Flight Signatures Gold Prizms",
+      "short": "In Flight Signatures Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227290/2019-20-Panini-Select-In-Flight-Signatures-Gold-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227291,
+      "name": "2019-20 Panini Select - In Flight Signatures Neon Green Prizms",
+      "short": "In Flight Signatures Neon Green Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227291/2019-20-Panini-Select-In-Flight-Signatures-Neon-Green-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227292,
+      "name": "2019-20 Panini Select - In Flight Signatures Neon Orange Pulsar Prizms FOTL",
+      "short": "In Flight Signatures Neon Orange Pulsar Prizms FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227292/2019-20-Panini-Select-In-Flight-Signatures-Neon-Orange-Pulsar-Prizms-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227293,
+      "name": "2019-20 Panini Select - In Flight Signatures Tie-Dye Prizms",
+      "short": "In Flight Signatures Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227293/2019-20-Panini-Select-In-Flight-Signatures-Tie-Dye-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227294,
+      "name": "2019-20 Panini Select - Phenomenon",
+      "short": "Phenomenon",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227294/2019-20-Panini-Select-Phenomenon",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227295,
+      "name": "2019-20 Panini Select - Phenomenon Black",
+      "short": "Phenomenon Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227295/2019-20-Panini-Select-Phenomenon-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227296,
+      "name": "2019-20 Panini Select - Phenomenon Gold",
+      "short": "Phenomenon Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227296/2019-20-Panini-Select-Phenomenon-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227297,
+      "name": "2019-20 Panini Select - Phenomenon Silver",
+      "short": "Phenomenon Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227297/2019-20-Panini-Select-Phenomenon-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227298,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs",
+      "short": "Rookie Jersey Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227298/2019-20-Panini-Select-Rookie-Jersey-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227299,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Black",
+      "short": "Rookie Jersey Autographs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227299/2019-20-Panini-Select-Rookie-Jersey-Autographs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 263403,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Black Disco Prizms",
+      "short": "Rookie Jersey Autographs Black Disco Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/263403/2019-20-Panini-Select-Rookie-Jersey-Autographs-Black-Disco-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 263404,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Disco Prizms",
+      "short": "Rookie Jersey Autographs Disco Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/263404/2019-20-Panini-Select-Rookie-Jersey-Autographs-Disco-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227300,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Gold",
+      "short": "Rookie Jersey Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227300/2019-20-Panini-Select-Rookie-Jersey-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 263405,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Gold Disco Prizms",
+      "short": "Rookie Jersey Autographs Gold Disco Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/263405/2019-20-Panini-Select-Rookie-Jersey-Autographs-Gold-Disco-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227301,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Neon Orange Pulsar Prizms FOTL",
+      "short": "Rookie Jersey Autographs Neon Orange Pulsar Prizms FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227301/2019-20-Panini-Select-Rookie-Jersey-Autographs-Neon-Orange-Pulsar-Prizms-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227302,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Purple",
+      "short": "Rookie Jersey Autographs Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227302/2019-20-Panini-Select-Rookie-Jersey-Autographs-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227303,
+      "name": "2019-20 Panini Select - Rookie Jersey Autographs Tie-Dye",
+      "short": "Rookie Jersey Autographs Tie-Dye",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227303/2019-20-Panini-Select-Rookie-Jersey-Autographs-Tie-Dye",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227304,
+      "name": "2019-20 Panini Select - Rookie Signatures",
+      "short": "Rookie Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227304/2019-20-Panini-Select-Rookie-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227305,
+      "name": "2019-20 Panini Select - Rookie Signatures Black Prizms",
+      "short": "Rookie Signatures Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227305/2019-20-Panini-Select-Rookie-Signatures-Black-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227306,
+      "name": "2019-20 Panini Select - Rookie Signatures Gold Prizms",
+      "short": "Rookie Signatures Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227306/2019-20-Panini-Select-Rookie-Signatures-Gold-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227307,
+      "name": "2019-20 Panini Select - Rookie Signatures Neon Green Prizms",
+      "short": "Rookie Signatures Neon Green Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227307/2019-20-Panini-Select-Rookie-Signatures-Neon-Green-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227308,
+      "name": "2019-20 Panini Select - Rookie Signatures Neon Orange Pulsar Prizms FOTL",
+      "short": "Rookie Signatures Neon Orange Pulsar Prizms FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227308/2019-20-Panini-Select-Rookie-Signatures-Neon-Orange-Pulsar-Prizms-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227309,
+      "name": "2019-20 Panini Select - Rookie Signatures Tie-Dye Prizms",
+      "short": "Rookie Signatures Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227309/2019-20-Panini-Select-Rookie-Signatures-Tie-Dye-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227310,
+      "name": "2019-20 Panini Select - Select Company",
+      "short": "Select Company",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227310/2019-20-Panini-Select-Select-Company",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227311,
+      "name": "2019-20 Panini Select - Select Company Black",
+      "short": "Select Company Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227311/2019-20-Panini-Select-Select-Company-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227312,
+      "name": "2019-20 Panini Select - Select Company Gold",
+      "short": "Select Company Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227312/2019-20-Panini-Select-Select-Company-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227313,
+      "name": "2019-20 Panini Select - Select Company Silver",
+      "short": "Select Company Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227313/2019-20-Panini-Select-Select-Company-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227314,
+      "name": "2019-20 Panini Select - Select Future",
+      "short": "Select Future",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227314/2019-20-Panini-Select-Select-Future",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227315,
+      "name": "2019-20 Panini Select - Select Future Black",
+      "short": "Select Future Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227315/2019-20-Panini-Select-Select-Future-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227316,
+      "name": "2019-20 Panini Select - Select Future Gold",
+      "short": "Select Future Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227316/2019-20-Panini-Select-Select-Future-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227317,
+      "name": "2019-20 Panini Select - Select Future Silver",
+      "short": "Select Future Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227317/2019-20-Panini-Select-Select-Future-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227318,
+      "name": "2019-20 Panini Select - Select Swatches",
+      "short": "Select Swatches",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227318/2019-20-Panini-Select-Select-Swatches",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227319,
+      "name": "2019-20 Panini Select - Select Swatches Black Prizms",
+      "short": "Select Swatches Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227319/2019-20-Panini-Select-Select-Swatches-Black-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227320,
+      "name": "2019-20 Panini Select - Select Swatches Copper Prizms",
+      "short": "Select Swatches Copper Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227320/2019-20-Panini-Select-Select-Swatches-Copper-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227321,
+      "name": "2019-20 Panini Select - Select Swatches Gold Prizms",
+      "short": "Select Swatches Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227321/2019-20-Panini-Select-Select-Swatches-Gold-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227322,
+      "name": "2019-20 Panini Select - Select Swatches Purple Prizms",
+      "short": "Select Swatches Purple Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227322/2019-20-Panini-Select-Select-Swatches-Purple-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227323,
+      "name": "2019-20 Panini Select - Select Swatches Tie-Dye Prizms",
+      "short": "Select Swatches Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227323/2019-20-Panini-Select-Select-Swatches-Tie-Dye-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227324,
+      "name": "2019-20 Panini Select - Signatures",
+      "short": "Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227324/2019-20-Panini-Select-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227325,
+      "name": "2019-20 Panini Select - Signatures Black Prizms",
+      "short": "Signatures Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227325/2019-20-Panini-Select-Signatures-Black-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227326,
+      "name": "2019-20 Panini Select - Signatures Gold Prizms",
+      "short": "Signatures Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227326/2019-20-Panini-Select-Signatures-Gold-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227327,
+      "name": "2019-20 Panini Select - Signatures Neon Green Prizms",
+      "short": "Signatures Neon Green Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227327/2019-20-Panini-Select-Signatures-Neon-Green-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227328,
+      "name": "2019-20 Panini Select - Signatures Neon Orange Pulsar Prizms FOTL",
+      "short": "Signatures Neon Orange Pulsar Prizms FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227328/2019-20-Panini-Select-Signatures-Neon-Orange-Pulsar-Prizms-FOTL",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227329,
+      "name": "2019-20 Panini Select - Signatures Tie-Dye Prizms",
+      "short": "Signatures Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227329/2019-20-Panini-Select-Signatures-Tie-Dye-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227330,
+      "name": "2019-20 Panini Select - Sparks",
+      "short": "Sparks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227330/2019-20-Panini-Select-Sparks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227331,
+      "name": "2019-20 Panini Select - Sparks Black Prizms",
+      "short": "Sparks Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227331/2019-20-Panini-Select-Sparks-Black-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227332,
+      "name": "2019-20 Panini Select - Sparks Copper Prizms",
+      "short": "Sparks Copper Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227332/2019-20-Panini-Select-Sparks-Copper-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227333,
+      "name": "2019-20 Panini Select - Sparks Gold Prizms",
+      "short": "Sparks Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227333/2019-20-Panini-Select-Sparks-Gold-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227334,
+      "name": "2019-20 Panini Select - Sparks Purple Prizms",
+      "short": "Sparks Purple Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227334/2019-20-Panini-Select-Sparks-Purple-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227335,
+      "name": "2019-20 Panini Select - Sparks Tie-Dye Prizms",
+      "short": "Sparks Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227335/2019-20-Panini-Select-Sparks-Tie-Dye-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227336,
+      "name": "2019-20 Panini Select - Throwback Memorabilia",
+      "short": "Throwback Memorabilia",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227336/2019-20-Panini-Select-Throwback-Memorabilia",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227337,
+      "name": "2019-20 Panini Select - Throwback Memorabilia Black Prizms",
+      "short": "Throwback Memorabilia Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227337/2019-20-Panini-Select-Throwback-Memorabilia-Black-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227338,
+      "name": "2019-20 Panini Select - Throwback Memorabilia Copper Prizms",
+      "short": "Throwback Memorabilia Copper Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227338/2019-20-Panini-Select-Throwback-Memorabilia-Copper-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227339,
+      "name": "2019-20 Panini Select - Throwback Memorabilia Gold Prizms",
+      "short": "Throwback Memorabilia Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227339/2019-20-Panini-Select-Throwback-Memorabilia-Gold-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227340,
+      "name": "2019-20 Panini Select - Throwback Memorabilia Purple Prizms",
+      "short": "Throwback Memorabilia Purple Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227340/2019-20-Panini-Select-Throwback-Memorabilia-Purple-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227341,
+      "name": "2019-20 Panini Select - Throwback Memorabilia Tie-Dye Prizms",
+      "short": "Throwback Memorabilia Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227341/2019-20-Panini-Select-Throwback-Memorabilia-Tie-Dye-Prizms",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227342,
+      "name": "2019-20 Panini Select - Top Selections",
+      "short": "Top Selections",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227342/2019-20-Panini-Select-Top-Selections",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227343,
+      "name": "2019-20 Panini Select - Top Selections Black",
+      "short": "Top Selections Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227343/2019-20-Panini-Select-Top-Selections-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227344,
+      "name": "2019-20 Panini Select - Top Selections Gold",
+      "short": "Top Selections Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227344/2019-20-Panini-Select-Top-Selections-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227345,
+      "name": "2019-20 Panini Select - Top Selections Silver",
+      "short": "Top Selections Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227345/2019-20-Panini-Select-Top-Selections-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227346,
+      "name": "2019-20 Panini Select - X-Factor Memorabilia Signatures",
+      "short": "X-Factor Memorabilia Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227346/2019-20-Panini-Select-X-Factor-Memorabilia-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227347,
+      "name": "2019-20 Panini Select - X-Factor Memorabilia Signatures Black",
+      "short": "X-Factor Memorabilia Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227347/2019-20-Panini-Select-X-Factor-Memorabilia-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227348,
+      "name": "2019-20 Panini Select - X-Factor Memorabilia Signatures Gold",
+      "short": "X-Factor Memorabilia Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227348/2019-20-Panini-Select-X-Factor-Memorabilia-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227349,
+      "name": "2019-20 Panini Select - X-Factor Memorabilia Signatures Purple",
+      "short": "X-Factor Memorabilia Signatures Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227349/2019-20-Panini-Select-X-Factor-Memorabilia-Signatures-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227350,
+      "name": "2019-20 Panini Select - X-Factor Memorabilia Signatures Tie-Dye",
+      "short": "X-Factor Memorabilia Signatures Tie-Dye",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227350/2019-20-Panini-Select-X-Factor-Memorabilia-Signatures-Tie-Dye",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227259,
+      "name": "2019-20 Panini Select - Black Prizms",
+      "short": "Black Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227259/2019-20-Panini-Select-Black-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 242684,
+      "name": "2019-20 Panini Select - Black Prizms Die Cut",
+      "short": "Black Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/242684/2019-20-Panini-Select-Black-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227260,
+      "name": "2019-20 Panini Select - Blue Prizms Die Cut",
+      "short": "Blue Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227260/2019-20-Panini-Select-Blue-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 235666,
+      "name": "2019-20 Panini Select - Disco Base Prizm",
+      "short": "Disco Base Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/235666/2019-20-Panini-Select-Disco-Base-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 235665,
+      "name": "2019-20 Panini Select - Disco Black Prizm",
+      "short": "Disco Black Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/235665/2019-20-Panini-Select-Disco-Black-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 235662,
+      "name": "2019-20 Panini Select - Disco Blue Prizm",
+      "short": "Disco Blue Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/235662/2019-20-Panini-Select-Disco-Blue-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 235663,
+      "name": "2019-20 Panini Select - Disco Gold Prizm",
+      "short": "Disco Gold Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/235663/2019-20-Panini-Select-Disco-Gold-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 235664,
+      "name": "2019-20 Panini Select - Disco Green Prizm",
+      "short": "Disco Green Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/235664/2019-20-Panini-Select-Disco-Green-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 235661,
+      "name": "2019-20 Panini Select - Disco Red Prizm",
+      "short": "Disco Red Prizm",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/235661/2019-20-Panini-Select-Disco-Red-Prizm",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227261,
+      "name": "2019-20 Panini Select - Gold Prizms",
+      "short": "Gold Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227261/2019-20-Panini-Select-Gold-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 242682,
+      "name": "2019-20 Panini Select - Gold Prizms Die Cut",
+      "short": "Gold Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/242682/2019-20-Panini-Select-Gold-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 242745,
+      "name": "2019-20 Panini Select - Gold Wave Prizms",
+      "short": "Gold Wave Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/242745/2019-20-Panini-Select-Gold-Wave-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227262,
+      "name": "2019-20 Panini Select - Green Prizms",
+      "short": "Green Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227262/2019-20-Panini-Select-Green-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 242683,
+      "name": "2019-20 Panini Select - Green Prizms Die Cut",
+      "short": "Green Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/242683/2019-20-Panini-Select-Green-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227263,
+      "name": "2019-20 Panini Select - Light Blue Prizms",
+      "short": "Light Blue Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227263/2019-20-Panini-Select-Light-Blue-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 242748,
+      "name": "2019-20 Panini Select - Lucky Envelopes Prizms",
+      "short": "Lucky Envelopes Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/242748/2019-20-Panini-Select-Lucky-Envelopes-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227264,
+      "name": "2019-20 Panini Select - Maroon Prizms Die Cut",
+      "short": "Maroon Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227264/2019-20-Panini-Select-Maroon-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227265,
+      "name": "2019-20 Panini Select - Neon Green Prizms",
+      "short": "Neon Green Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227265/2019-20-Panini-Select-Neon-Green-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227266,
+      "name": "2019-20 Panini Select - Neon Orange Pulsar Prizms FOTL",
+      "short": "Neon Orange Pulsar Prizms FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227266/2019-20-Panini-Select-Neon-Orange-Pulsar-Prizms-FOTL",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227267,
+      "name": "2019-20 Panini Select - Orange Prizms Die Cut",
+      "short": "Orange Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227267/2019-20-Panini-Select-Orange-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227268,
+      "name": "2019-20 Panini Select - Purple Prizms Die Cut",
+      "short": "Purple Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227268/2019-20-Panini-Select-Purple-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227269,
+      "name": "2019-20 Panini Select - Red Prizms",
+      "short": "Red Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227269/2019-20-Panini-Select-Red-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 242746,
+      "name": "2019-20 Panini Select - Red Wave Prizms",
+      "short": "Red Wave Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/242746/2019-20-Panini-Select-Red-Wave-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227270,
+      "name": "2019-20 Panini Select - Scope Prizms",
+      "short": "Scope Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227270/2019-20-Panini-Select-Scope-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227271,
+      "name": "2019-20 Panini Select - Silver Prizms",
+      "short": "Silver Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227271/2019-20-Panini-Select-Silver-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227272,
+      "name": "2019-20 Panini Select - Tie-Dye Prizms",
+      "short": "Tie-Dye Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227272/2019-20-Panini-Select-Tie-Dye-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 242680,
+      "name": "2019-20 Panini Select - Tie-Dye Prizms Die Cut",
+      "short": "Tie-Dye Prizms Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/242680/2019-20-Panini-Select-Tie-Dye-Prizms-Die-Cut",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227273,
+      "name": "2019-20 Panini Select - Tri-Color Prizms",
+      "short": "Tri-Color Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227273/2019-20-Panini-Select-Tri-Color-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227274,
+      "name": "2019-20 Panini Select - White Prizms",
+      "short": "White Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227274/2019-20-Panini-Select-White-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 227275,
+      "name": "2019-20 Panini Select - Zebra Prizms",
+      "short": "Zebra Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227275/2019-20-Panini-Select-Zebra-Prizms",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 656861,
+      "name": "2019-20 Panini Select - Pink Prizms",
+      "short": "Pink Prizms",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/656861/2019-20-Panini-Select-Pink-Prizms",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 24,
+  "imported_this_run": [
+    {
+      "source_set_id": 227269,
+      "name": "Red Prizms",
+      "family_requested": "numbered_low",
+      "cards_with_front": 13,
+      "missing_fronts": 87
+    },
+    {
+      "source_set_id": 227261,
+      "name": "Gold Prizms",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 227259,
+      "name": "Black Prizms",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 199
+    },
+    {
+      "source_set_id": 235661,
+      "name": "Disco Red Prizm",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 294
+    },
+    {
+      "source_set_id": 227296,
+      "name": "Phenomenon Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 39
+    },
+    {
+      "source_set_id": 242746,
+      "name": "Red Wave Prizms",
+      "family_requested": "numbered_low",
+      "cards_with_front": 29,
+      "missing_fronts": 271
+    },
+    {
+      "source_set_id": 227324,
+      "name": "Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 227304,
+      "name": "Rookie Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 36
+    },
+    {
+      "source_set_id": 227288,
+      "name": "In Flight Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 4,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 227326,
+      "name": "Signatures Gold Prizms",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 29
+    },
+    {
+      "source_set_id": 227325,
+      "name": "Signatures Black Prizms",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 29
+    },
+    {
+      "source_set_id": 227329,
+      "name": "Signatures Tie-Dye Prizms",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 28
+    },
+    {
+      "source_set_id": 227318,
+      "name": "Select Swatches",
+      "family_requested": "memorabilia",
+      "cards_with_front": 4,
+      "missing_fronts": 16
+    },
+    {
+      "source_set_id": 227336,
+      "name": "Throwback Memorabilia",
+      "family_requested": "memorabilia",
+      "cards_with_front": 6,
+      "missing_fronts": 34
+    },
+    {
+      "source_set_id": 227282,
+      "name": "Draft Selections Memorabilia",
+      "family_requested": "memorabilia",
+      "cards_with_front": 5,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 227321,
+      "name": "Select Swatches Gold Prizms",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 227319,
+      "name": "Select Swatches Black Prizms",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 227320,
+      "name": "Select Swatches Copper Prizms",
+      "family_requested": "memorabilia",
+      "cards_with_front": 2,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 227277,
+      "name": "Autographed Memorabilia",
+      "family_requested": "auto_patch",
+      "cards_with_front": 4,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 227298,
+      "name": "Rookie Jersey Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 2,
+      "missing_fronts": 38
+    },
+    {
+      "source_set_id": 227280,
+      "name": "Autographed Memorabilia Purple",
+      "family_requested": "auto_patch",
+      "cards_with_front": 3,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 227281,
+      "name": "Autographed Memorabilia Tie-Dye",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 227302,
+      "name": "Rookie Jersey Autographs Purple",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 40
+    },
+    {
+      "source_set_id": 227346,
+      "name": "X-Factor Memorabilia Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 2,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 227330,
+      "name": "Sparks",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 227294,
+      "name": "Phenomenon",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 34
+    },
+    {
+      "source_set_id": 227314,
+      "name": "Select Future",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 227310,
+      "name": "Select Company",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 227342,
+      "name": "Top Selections",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 227297,
+      "name": "Phenomenon Silver",
+      "family_requested": "insert",
+      "cards_with_front": 2,
+      "missing_fronts": 38
+    }
+  ],
+  "import_errors": [],
+  "card_count": 308,
+  "before_tiers": {
+    "rookie": 64,
+    "base": 137
+  },
+  "tiers": {
+    "rookie": 64,
+    "base": 137,
+    "numbered": 19,
+    "numbered_low": 4,
+    "parallel": 29,
+    "auto": 12,
+    "memorabilia": 17,
+    "auto_patch": 11,
+    "insert": 15
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "rookie": 3,
+    "base": 3,
+    "numbered": 19,
+    "numbered_low": 4,
+    "parallel": 29,
+    "auto": 12,
+    "memorabilia": 17,
+    "auto_patch": 11,
+    "insert": 15
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 137,
+      "available_cards": 137,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 64,
+      "available_cards": 64,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 20
+    },
+    "auto": {
+      "status": "available",
+      "records": 12,
+      "available_cards": 12,
+      "local_images": 12,
+      "source_candidates": 18
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 18
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 11,
+      "available_cards": 11,
+      "local_images": 11,
+      "source_candidates": 19
+    },
+    "parallel": {
+      "status": "available",
+      "records": 29,
+      "available_cards": 29,
+      "local_images": 29,
+      "source_candidates": 30
+    },
+    "insert": {
+      "status": "available",
+      "records": 15,
+      "available_cards": 15,
+      "local_images": 15,
+      "source_candidates": 24
+    },
+    "numbered": {
+      "status": "available",
+      "records": 19,
+      "available_cards": 19,
+      "local_images": 19,
+      "source_candidates": 19
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

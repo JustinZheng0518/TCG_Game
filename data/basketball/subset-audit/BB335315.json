@@ -1,0 +1,913 @@
+{
+  "set_id": "BB335315",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/335315/2022-23-Hoops",
+  "headings": [
+    "Insert Sets (81)",
+    "Parallel Sets (22)"
+  ],
+  "subset_count": 103,
+  "subsets": [
+    {
+      "source_set_id": 346207,
+      "name": "2022-23 Hoops - Arriving Now",
+      "short": "Arriving Now",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/346207/2022-23-Hoops-Arriving-Now",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 346208,
+      "name": "2022-23 Hoops - Arriving Now Holo",
+      "short": "Arriving Now Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/346208/2022-23-Hoops-Arriving-Now-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345826,
+      "name": "2022-23 Hoops - City Edition",
+      "short": "City Edition",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345826/2022-23-Hoops-City-Edition",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345829,
+      "name": "2022-23 Hoops - City Edition Holo",
+      "short": "City Edition Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345829/2022-23-Hoops-City-Edition-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345830,
+      "name": "2022-23 Hoops - City Edition Holo Artist Proof",
+      "short": "City Edition Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345830/2022-23-Hoops-City-Edition-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345831,
+      "name": "2022-23 Hoops - City Edition Holo Artist Proof Gold",
+      "short": "City Edition Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345831/2022-23-Hoops-City-Edition-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345832,
+      "name": "2022-23 Hoops - City Edition Hyper Gold",
+      "short": "City Edition Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345832/2022-23-Hoops-City-Edition-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345833,
+      "name": "2022-23 Hoops - City Edition Hyper Green",
+      "short": "City Edition Hyper Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345833/2022-23-Hoops-City-Edition-Hyper-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345834,
+      "name": "2022-23 Hoops - City Edition Hyper Red",
+      "short": "City Edition Hyper Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345834/2022-23-Hoops-City-Edition-Hyper-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345835,
+      "name": "2022-23 Hoops - Class Action",
+      "short": "Class Action",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345835/2022-23-Hoops-Class-Action",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345836,
+      "name": "2022-23 Hoops - Class Action Holo",
+      "short": "Class Action Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345836/2022-23-Hoops-Class-Action-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345837,
+      "name": "2022-23 Hoops - Frequent Flyers",
+      "short": "Frequent Flyers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345837/2022-23-Hoops-Frequent-Flyers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345838,
+      "name": "2022-23 Hoops - Frequent Flyers Holo",
+      "short": "Frequent Flyers Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345838/2022-23-Hoops-Frequent-Flyers-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345841,
+      "name": "2022-23 Hoops - Great SIGnificance",
+      "short": "Great SIGnificance",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345841/2022-23-Hoops-Great-SIGnificance",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345842,
+      "name": "2022-23 Hoops - Great SIGnificance Gold",
+      "short": "Great SIGnificance Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345842/2022-23-Hoops-Great-SIGnificance-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345843,
+      "name": "2022-23 Hoops - Highlights",
+      "short": "Highlights",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345843/2022-23-Hoops-Highlights",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345844,
+      "name": "2022-23 Hoops - Hipnotized",
+      "short": "Hipnotized",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345844/2022-23-Hoops-Hipnotized",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345845,
+      "name": "2022-23 Hoops - Hoopla",
+      "short": "Hoopla",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345845/2022-23-Hoops-Hoopla",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345846,
+      "name": "2022-23 Hoops - Hoopla Holo",
+      "short": "Hoopla Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345846/2022-23-Hoops-Hoopla-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345847,
+      "name": "2022-23 Hoops - Hoopla Holo Artist Proof",
+      "short": "Hoopla Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345847/2022-23-Hoops-Hoopla-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345848,
+      "name": "2022-23 Hoops - Hoopla Holo Artist Proof Gold",
+      "short": "Hoopla Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345848/2022-23-Hoops-Hoopla-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345849,
+      "name": "2022-23 Hoops - Hoopla Hyper Gold",
+      "short": "Hoopla Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345849/2022-23-Hoops-Hoopla-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345850,
+      "name": "2022-23 Hoops - Hoopla Hyper Green",
+      "short": "Hoopla Hyper Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345850/2022-23-Hoops-Hoopla-Hyper-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345851,
+      "name": "2022-23 Hoops - Hoopla Hyper Red",
+      "short": "Hoopla Hyper Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345851/2022-23-Hoops-Hoopla-Hyper-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345852,
+      "name": "2022-23 Hoops - Hoops Art Signatures",
+      "short": "Hoops Art Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345852/2022-23-Hoops-Hoops-Art-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345853,
+      "name": "2022-23 Hoops - Hoops Art Signatures Horizontal",
+      "short": "Hoops Art Signatures Horizontal",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345853/2022-23-Hoops-Hoops-Art-Signatures-Horizontal",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345854,
+      "name": "2022-23 Hoops - Hoops Ink",
+      "short": "Hoops Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345854/2022-23-Hoops-Hoops-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345855,
+      "name": "2022-23 Hoops - Hoops Ink Hyper Gold",
+      "short": "Hoops Ink Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345855/2022-23-Hoops-Hoops-Ink-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345856,
+      "name": "2022-23 Hoops - Hoops Ink Red",
+      "short": "Hoops Ink Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345856/2022-23-Hoops-Hoops-Ink-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345857,
+      "name": "2022-23 Hoops - Hoops Throwback",
+      "short": "Hoops Throwback",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345857/2022-23-Hoops-Hoops-Throwback",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345858,
+      "name": "2022-23 Hoops - Hot Signatures",
+      "short": "Hot Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345858/2022-23-Hoops-Hot-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345859,
+      "name": "2022-23 Hoops - Hot Signatures Hyper Gold",
+      "short": "Hot Signatures Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345859/2022-23-Hoops-Hot-Signatures-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345860,
+      "name": "2022-23 Hoops - Hot Signatures Red",
+      "short": "Hot Signatures Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345860/2022-23-Hoops-Hot-Signatures-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345861,
+      "name": "2022-23 Hoops - Hot Signatures Rookies",
+      "short": "Hot Signatures Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345861/2022-23-Hoops-Hot-Signatures-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345862,
+      "name": "2022-23 Hoops - Hot Signatures Rookies Green",
+      "short": "Hot Signatures Rookies Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345862/2022-23-Hoops-Hot-Signatures-Rookies-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345863,
+      "name": "2022-23 Hoops - Hot Signatures Rookies Hyper Gold",
+      "short": "Hot Signatures Rookies Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345863/2022-23-Hoops-Hot-Signatures-Rookies-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345864,
+      "name": "2022-23 Hoops - Hot Signatures Rookies Red",
+      "short": "Hot Signatures Rookies Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345864/2022-23-Hoops-Hot-Signatures-Rookies-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345865,
+      "name": "2022-23 Hoops - Jam-tastic",
+      "short": "Jam-tastic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345865/2022-23-Hoops-Jam-tastic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345827,
+      "name": "2022-23 Hoops - Now Playing",
+      "short": "Now Playing",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345827/2022-23-Hoops-Now-Playing",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345828,
+      "name": "2022-23 Hoops - Now Playing Holo",
+      "short": "Now Playing Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345828/2022-23-Hoops-Now-Playing-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345866,
+      "name": "2022-23 Hoops - Panini Presents",
+      "short": "Panini Presents",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345866/2022-23-Hoops-Panini-Presents",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345867,
+      "name": "2022-23 Hoops - Panini Presents Holo",
+      "short": "Panini Presents Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345867/2022-23-Hoops-Panini-Presents-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345868,
+      "name": "2022-23 Hoops - Panini Presents Holo Artist Proof",
+      "short": "Panini Presents Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345868/2022-23-Hoops-Panini-Presents-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345869,
+      "name": "2022-23 Hoops - Panini Presents Holo Artist Proof Gold",
+      "short": "Panini Presents Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345869/2022-23-Hoops-Panini-Presents-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345870,
+      "name": "2022-23 Hoops - Panini Presents Hyper Gold",
+      "short": "Panini Presents Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345870/2022-23-Hoops-Panini-Presents-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345871,
+      "name": "2022-23 Hoops - Panini Presents Hyper Green",
+      "short": "Panini Presents Hyper Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345871/2022-23-Hoops-Panini-Presents-Hyper-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345872,
+      "name": "2022-23 Hoops - Panini Presents Hyper Red",
+      "short": "Panini Presents Hyper Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345872/2022-23-Hoops-Panini-Presents-Hyper-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345874,
+      "name": "2022-23 Hoops - Prime Twine",
+      "short": "Prime Twine",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345874/2022-23-Hoops-Prime-Twine",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345875,
+      "name": "2022-23 Hoops - Prime Twine Holo",
+      "short": "Prime Twine Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345875/2022-23-Hoops-Prime-Twine-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345876,
+      "name": "2022-23 Hoops - Prime Twine Holo Artist Proof",
+      "short": "Prime Twine Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345876/2022-23-Hoops-Prime-Twine-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345877,
+      "name": "2022-23 Hoops - Prime Twine Holo Artist Proof Gold",
+      "short": "Prime Twine Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345877/2022-23-Hoops-Prime-Twine-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345878,
+      "name": "2022-23 Hoops - Prime Twine Hyper Gold",
+      "short": "Prime Twine Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345878/2022-23-Hoops-Prime-Twine-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345879,
+      "name": "2022-23 Hoops - Prime Twine Hyper Green",
+      "short": "Prime Twine Hyper Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345879/2022-23-Hoops-Prime-Twine-Hyper-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345880,
+      "name": "2022-23 Hoops - Prime Twine Hyper Red",
+      "short": "Prime Twine Hyper Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345880/2022-23-Hoops-Prime-Twine-Hyper-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345881,
+      "name": "2022-23 Hoops - Pure Players",
+      "short": "Pure Players",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345881/2022-23-Hoops-Pure-Players",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345882,
+      "name": "2022-23 Hoops - Pure Players Holo",
+      "short": "Pure Players Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345882/2022-23-Hoops-Pure-Players-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345885,
+      "name": "2022-23 Hoops - Rise N Shine Memorabilia",
+      "short": "Rise N Shine Memorabilia",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345885/2022-23-Hoops-Rise-N-Shine-Memorabilia",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345886,
+      "name": "2022-23 Hoops - Rise N Shine Memorabilia Prime",
+      "short": "Rise N Shine Memorabilia Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345886/2022-23-Hoops-Rise-N-Shine-Memorabilia-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345889,
+      "name": "2022-23 Hoops - Road to the Finals / NBA Championship",
+      "short": "Road to the Finals / NBA Championship",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345889/2022-23-Hoops-Road-to-the-Finals-NBA-Championship",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345892,
+      "name": "2022-23 Hoops - Rookie Greetings",
+      "short": "Rookie Greetings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345892/2022-23-Hoops-Rookie-Greetings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345893,
+      "name": "2022-23 Hoops - Rookie Greetings Holo",
+      "short": "Rookie Greetings Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345893/2022-23-Hoops-Rookie-Greetings-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345896,
+      "name": "2022-23 Hoops - Rookie Ink",
+      "short": "Rookie Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345896/2022-23-Hoops-Rookie-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345897,
+      "name": "2022-23 Hoops - Rookie Ink Green",
+      "short": "Rookie Ink Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345897/2022-23-Hoops-Rookie-Ink-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345898,
+      "name": "2022-23 Hoops - Rookie Ink Hyper Gold",
+      "short": "Rookie Ink Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345898/2022-23-Hoops-Rookie-Ink-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345899,
+      "name": "2022-23 Hoops - Rookie Ink Red",
+      "short": "Rookie Ink Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345899/2022-23-Hoops-Rookie-Ink-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345900,
+      "name": "2022-23 Hoops - Rookie Remembrance",
+      "short": "Rookie Remembrance",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345900/2022-23-Hoops-Rookie-Remembrance",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345901,
+      "name": "2022-23 Hoops - Rookie Remembrance Prime",
+      "short": "Rookie Remembrance Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345901/2022-23-Hoops-Rookie-Remembrance-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345903,
+      "name": "2022-23 Hoops - Rookie Special",
+      "short": "Rookie Special",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345903/2022-23-Hoops-Rookie-Special",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345904,
+      "name": "2022-23 Hoops - Rookie Special Holo",
+      "short": "Rookie Special Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345904/2022-23-Hoops-Rookie-Special-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345906,
+      "name": "2022-23 Hoops - Skyview",
+      "short": "Skyview",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345906/2022-23-Hoops-Skyview",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345907,
+      "name": "2022-23 Hoops - Skyview Holo",
+      "short": "Skyview Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345907/2022-23-Hoops-Skyview-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345910,
+      "name": "2022-23 Hoops - Spark Plugs",
+      "short": "Spark Plugs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345910/2022-23-Hoops-Spark-Plugs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345911,
+      "name": "2022-23 Hoops - We Got Next",
+      "short": "We Got Next",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345911/2022-23-Hoops-We-Got-Next",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345912,
+      "name": "2022-23 Hoops - We Got Next Holo",
+      "short": "We Got Next Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345912/2022-23-Hoops-We-Got-Next-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345913,
+      "name": "2022-23 Hoops - Zero Gravity",
+      "short": "Zero Gravity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345913/2022-23-Hoops-Zero-Gravity",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345914,
+      "name": "2022-23 Hoops - Zero Gravity Holo",
+      "short": "Zero Gravity Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345914/2022-23-Hoops-Zero-Gravity-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345915,
+      "name": "2022-23 Hoops - Zero Gravity Holo Artist Proof",
+      "short": "Zero Gravity Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345915/2022-23-Hoops-Zero-Gravity-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345916,
+      "name": "2022-23 Hoops - Zero Gravity Holo Artist Proof Gold",
+      "short": "Zero Gravity Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345916/2022-23-Hoops-Zero-Gravity-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345917,
+      "name": "2022-23 Hoops - Zero Gravity Hyper Gold",
+      "short": "Zero Gravity Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345917/2022-23-Hoops-Zero-Gravity-Hyper-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345918,
+      "name": "2022-23 Hoops - Zero Gravity Hyper Green",
+      "short": "Zero Gravity Hyper Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345918/2022-23-Hoops-Zero-Gravity-Hyper-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345919,
+      "name": "2022-23 Hoops - Zero Gravity Hyper Red",
+      "short": "Zero Gravity Hyper Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345919/2022-23-Hoops-Zero-Gravity-Hyper-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 345805,
+      "name": "2022-23 Hoops - Artist Proof",
+      "short": "Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345805/2022-23-Hoops-Artist-Proof",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345806,
+      "name": "2022-23 Hoops - Artist Proof Black",
+      "short": "Artist Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345806/2022-23-Hoops-Artist-Proof-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345807,
+      "name": "2022-23 Hoops - Artist Proof Gold",
+      "short": "Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345807/2022-23-Hoops-Artist-Proof-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345808,
+      "name": "2022-23 Hoops - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345808/2022-23-Hoops-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345809,
+      "name": "2022-23 Hoops - Blue Explosion",
+      "short": "Blue Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345809/2022-23-Hoops-Blue-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345810,
+      "name": "2022-23 Hoops - Gravity",
+      "short": "Gravity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345810/2022-23-Hoops-Gravity",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345811,
+      "name": "2022-23 Hoops - Green",
+      "short": "Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345811/2022-23-Hoops-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345812,
+      "name": "2022-23 Hoops - Hyper Blue",
+      "short": "Hyper Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345812/2022-23-Hoops-Hyper-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345813,
+      "name": "2022-23 Hoops - Hyper Gold",
+      "short": "Hyper Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345813/2022-23-Hoops-Hyper-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345814,
+      "name": "2022-23 Hoops - Hyper Green",
+      "short": "Hyper Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345814/2022-23-Hoops-Hyper-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345815,
+      "name": "2022-23 Hoops - Hyper Red",
+      "short": "Hyper Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345815/2022-23-Hoops-Hyper-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345816,
+      "name": "2022-23 Hoops - Impulse",
+      "short": "Impulse",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345816/2022-23-Hoops-Impulse",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345817,
+      "name": "2022-23 Hoops - Neon Green",
+      "short": "Neon Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345817/2022-23-Hoops-Neon-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345818,
+      "name": "2022-23 Hoops - Orange Explosion",
+      "short": "Orange Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345818/2022-23-Hoops-Orange-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345819,
+      "name": "2022-23 Hoops - Premium Box Set",
+      "short": "Premium Box Set",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345819/2022-23-Hoops-Premium-Box-Set",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345803,
+      "name": "2022-23 Hoops - Purple",
+      "short": "Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345803/2022-23-Hoops-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345821,
+      "name": "2022-23 Hoops - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345821/2022-23-Hoops-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345802,
+      "name": "2022-23 Hoops - Red Backs",
+      "short": "Red Backs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345802/2022-23-Hoops-Red-Backs",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345822,
+      "name": "2022-23 Hoops - Red Explosion",
+      "short": "Red Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345822/2022-23-Hoops-Red-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345804,
+      "name": "2022-23 Hoops - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345804/2022-23-Hoops-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345823,
+      "name": "2022-23 Hoops - Teal Explosion",
+      "short": "Teal Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345823/2022-23-Hoops-Teal-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 345825,
+      "name": "2022-23 Hoops - Yellow",
+      "short": "Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/345825/2022-23-Hoops-Yellow",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 345821,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 12,
+      "missing_fronts": 288
+    },
+    {
+      "source_set_id": 345815,
+      "name": "Hyper Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 297
+    },
+    {
+      "source_set_id": 345802,
+      "name": "Red Backs",
+      "family_requested": "numbered_low",
+      "cards_with_front": 73,
+      "missing_fronts": 227
+    },
+    {
+      "source_set_id": 345813,
+      "name": "Hyper Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 298
+    },
+    {
+      "source_set_id": 345822,
+      "name": "Red Explosion",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 299
+    },
+    {
+      "source_set_id": 345851,
+      "name": "Hoopla Hyper Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 15
+    },
+    {
+      "source_set_id": 345854,
+      "name": "Hoops Ink",
+      "family_requested": "auto",
+      "cards_with_front": 9,
+      "missing_fronts": 41
+    },
+    {
+      "source_set_id": 345896,
+      "name": "Rookie Ink",
+      "family_requested": "auto",
+      "cards_with_front": 11,
+      "missing_fronts": 39
+    },
+    {
+      "source_set_id": 345885,
+      "name": "Rise N Shine Memorabilia",
+      "family_requested": "memorabilia",
+      "cards_with_front": 22,
+      "missing_fronts": 13
+    },
+    {
+      "source_set_id": 345845,
+      "name": "Hoopla",
+      "family_requested": "insert",
+      "cards_with_front": 14,
+      "missing_fronts": 1
+    },
+    {
+      "source_set_id": 345906,
+      "name": "Skyview",
+      "family_requested": "insert",
+      "cards_with_front": 25,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 472,
+  "before_tiers": {
+    "base": 250,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 250,
+    "rookie": 50,
+    "numbered": 16,
+    "parallel": 73,
+    "numbered_low": 2,
+    "auto": 20,
+    "memorabilia": 22,
+    "insert": 39
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 2,
+    "numbered": 16,
+    "parallel": 73,
+    "numbered_low": 2,
+    "auto": 20,
+    "memorabilia": 22,
+    "insert": 39
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 250,
+      "available_cards": 250,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 2,
+      "available_cards": 2,
+      "local_images": 2,
+      "source_candidates": 22
+    },
+    "auto": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 18
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 2
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 73,
+      "available_cards": 73,
+      "local_images": 73,
+      "source_candidates": 22
+    },
+    "insert": {
+      "status": "available",
+      "records": 39,
+      "available_cards": 39,
+      "local_images": 39,
+      "source_candidates": 61
+    },
+    "numbered": {
+      "status": "available",
+      "records": 16,
+      "available_cards": 16,
+      "local_images": 16,
+      "source_candidates": 39
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

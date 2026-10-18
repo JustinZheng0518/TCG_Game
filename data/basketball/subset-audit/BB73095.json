@@ -1,0 +1,164 @@
+{
+  "set_id": "BB73095",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/73095/1996-SkyBox-USA",
+  "headings": [
+    "Insert Sets (7)"
+  ],
+  "subset_count": 7,
+  "subsets": [
+    {
+      "source_set_id": 73134,
+      "name": "1996 SkyBox USA - Bronze",
+      "short": "Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73134/1996-SkyBox-USA-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 73135,
+      "name": "1996 SkyBox USA - Bronze Sparkle",
+      "short": "Bronze Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73135/1996-SkyBox-USA-Bronze-Sparkle",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 73136,
+      "name": "1996 SkyBox USA - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73136/1996-SkyBox-USA-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 73137,
+      "name": "1996 SkyBox USA - Gold Sparkle",
+      "short": "Gold Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73137/1996-SkyBox-USA-Gold-Sparkle",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 73138,
+      "name": "1996 SkyBox USA - Quads",
+      "short": "Quads",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73138/1996-SkyBox-USA-Quads",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 73139,
+      "name": "1996 SkyBox USA - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73139/1996-SkyBox-USA-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 73140,
+      "name": "1996 SkyBox USA - Silver Sparkle",
+      "short": "Silver Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73140/1996-SkyBox-USA-Silver-Sparkle",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 73136,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 9,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 73137,
+      "name": "Gold Sparkle",
+      "family_requested": "numbered_low",
+      "cards_with_front": 9,
+      "missing_fronts": 3
+    }
+  ],
+  "import_errors": [],
+  "card_count": 82,
+  "before_tiers": {
+    "base": 64
+  },
+  "tiers": {
+    "base": 71,
+    "insert": 18
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "insert": 18
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 71,
+      "available_cards": 71,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 18,
+      "available_cards": 18,
+      "local_images": 18,
+      "source_candidates": 7
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 7
+}

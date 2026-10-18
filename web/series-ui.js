@@ -13,10 +13,12 @@ function oddsSummary(){
   try{
     const product=state.products[state.selected.id],model=DrawOdds.recipe(product,state.cards,$('reward-card').value);
     $('probability-summary').textContent=model.chosen?'自选卡面 · 所选 100%':`${model.size} 张 / ${model.unit} · ${model.slots.map(s=>`${s.draws} ${s.label}`).join(' + ')}`;
+    const status=$('basketball-source-status');status.hidden=product.sport!=='basketball';
+    if(product.source_coverage)status.textContent=`实卡资料体验池 · 已查 ${product.source_coverage.subsets_listed} 个子系列，已收录其中 ${product.source_coverage.subsets_imported} 个 · ${product.source_coverage.rare_local_images} 张稀有卡本地图`+((product.source_coverage.status==='partial')?' · 素材仍在补充':'');
     const highlights=$('probability-highlight');highlights.replaceChildren();
     const last=model.slots.at(-1);
     if(product.channel==='booster')highlights.append(text('span',`${model.slots[1].pools[0].label} · 100%`,'probability-chip'));
-    if(last.pools.length>1){highlights.append(text('span',`${last.label}：`,'probability-highlight-label'));for(const p of last.pools)highlights.append(text('span',`${p.label} ${DrawOdds.percent(p.note?0:p.chance)}${p.note?'（缺档）':''}`,'probability-chip'));}
+    if(last.pools.length>1){highlights.append(text('span',`${last.label}：`,'probability-highlight-label'));for(const p of last.pools)highlights.append(text('span',`${p.label} ${DrawOdds.percent(p.note?0:p.chance)}${p.note?'（当前未收录）':''}`,'probability-chip'));}
     else highlights.append(text('span',model.chosen?'所选卡面 100%':`${model.slots.length>1?last.label+'每款命中':`每款每${model.unit}至少 1 张`}：${DrawOdds.percent(DrawOdds.hit(1/last.pools[0].cards.length,last.draws))}${model.slots.length>1?'（仅此卡位）':''}`,'probability-chip'));
     $('probability-shortcut').hidden=state.mode!=='draw';
   }catch{$('probability-summary').textContent='概率暂未读出，请重试读取系列。';}
@@ -60,13 +62,14 @@ function rarePoolGallery(pool){
   more.addEventListener('click',()=>append(8));append(4);section.append(grid,more);return section;
 }
 function renderOddsModel(){
-  const {model}=oddsContext;$('odds-slots').replaceChildren();
+  const {model,product}=oddsContext;$('odds-slots').replaceChildren();
   for(const s of model.slots){
     const item=text('section','','odds-slot');item.append(text('h3',`${s.draws} 张 · ${s.label}`));
     for(const p of s.pools){
       const group=text('div','','odds-pool'),line=text('p','','odds-pool-line');
-      line.append(text('span',`${p.label}${p.note?` · ${p.note}`:''}`),text('strong',DrawOdds.percent(p.chance)),text('small',`池内 ${p.cards.length} 款 · 每款每个该卡位 ${DrawOdds.percent(p.chance/p.cards.length)}`));group.append(line);
-      if(s.pools.length>1&&p.chance>0&&p.chance<=.12&&!p.note&&p.cards.length&&p.label!=='基础卡回落')group.append(rarePoolGallery(p));
+      line.append(text('span',`${p.label}${p.note?` · ${p.note}`:''}`),text('strong',DrawOdds.percent(p.chance)),text('small',p.cards.length?`池内 ${p.cards.length} 款 · 每款每个该卡位 ${DrawOdds.percent(p.chance/p.cards.length)}`:'当前无可抽卡面，不把基础卡当作该档卡面展示'));group.append(line);
+      const basketballRare=product.sport==='basketball'&&p.label!=='新秀位'&&p.label!=='基础卡回落'&&s.label!=='基础位';
+      if(p.chance>0&&!p.note&&p.cards.length&&p.label!=='基础卡回落'&&(basketballRare||s.pools.length>1&&p.chance<=.12))group.append(rarePoolGallery(p));
       item.append(group);
     }
     $('odds-slots').append(item);
@@ -80,7 +83,7 @@ function filterOddsCards(){
 }
 function appendOddsCards(){
   if(!oddsContext)return;const c=oddsContext,batch=c.filtered.slice(c.shown,c.shown+60);
-  for(const row of batch){const item=text('article','','odds-card-row');item.dataset.card=row.card.id;const name=text('div','','odds-card-name');name.append(text('strong',row.card.name),text('span',`${row.card.number} · ${row.card.rarity}`));const chances=text('div','','odds-card-chances');chances.append(text('span',`每${c.model.unit} ${DrawOdds.percent(row.chance)}`),text('span',`十${c.model.unit} ${DrawOdds.percent(row.ten)}`));item.append(name,chances,text('small',row.chance===0?'当前规则不会获得':row.chance===1?'本次必得':`平均约 ${Number((1/row.chance).toFixed(1)).toLocaleString('zh-CN')} ${c.model.unit}命中一次`));$('odds-card-list').append(item);}
+  for(const row of batch){const item=text('article','','odds-card-row');item.dataset.card=row.card.id;const name=text('div','','odds-card-name');name.append(text('strong',row.card.name),text('span',`${row.card.number} · ${row.card.rarity}`));const chances=text('div','','odds-card-chances');chances.append(text('span',`每${c.model.unit} ${DrawOdds.percent(row.chance)}`),text('span',`十${c.model.unit} ${DrawOdds.percent(row.ten)}`));item.append(name,chances,text('small',row.chance===0?(row.card.draw_available===false?'卡面待补，暂不参与抽取':'当前规则不会获得'):row.chance===1?'本次必得':`平均约 ${Number((1/row.chance).toFixed(1)).toLocaleString('zh-CN')} ${c.model.unit}命中一次`));$('odds-card-list').append(item);}
   c.shown+=batch.length;$('odds-card-count').textContent=`${c.filtered.length} 条卡面 · 已展示 ${c.shown} 条`;$('odds-more').hidden=c.shown>=c.filtered.length;
 }
 function renderGradingOdds(card,agency){

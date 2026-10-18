@@ -1,0 +1,630 @@
+{
+  "set_id": "BB9631",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/9631/2009-10-Donruss-Elite",
+  "headings": [
+    "Insert Sets (56)",
+    "Parallel Sets (4)"
+  ],
+  "subset_count": 60,
+  "subsets": [
+    {
+      "source_set_id": 32268,
+      "name": "2009-10 Donruss Elite - ARCeologists",
+      "short": "ARCeologists",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32268/2009-10-Donruss-Elite-ARCeologists",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32269,
+      "name": "2009-10 Donruss Elite - ARCeologists Autographs",
+      "short": "ARCeologists Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32269/2009-10-Donruss-Elite-ARCeologists-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32270,
+      "name": "2009-10 Donruss Elite - ARCeologists Black",
+      "short": "ARCeologists Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32270/2009-10-Donruss-Elite-ARCeologists-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32271,
+      "name": "2009-10 Donruss Elite - ARCeologists Gold",
+      "short": "ARCeologists Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32271/2009-10-Donruss-Elite-ARCeologists-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32272,
+      "name": "2009-10 Donruss Elite - ARCeologists Green",
+      "short": "ARCeologists Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32272/2009-10-Donruss-Elite-ARCeologists-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32273,
+      "name": "2009-10 Donruss Elite - ARCeologists Jerseys",
+      "short": "ARCeologists Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32273/2009-10-Donruss-Elite-ARCeologists-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32274,
+      "name": "2009-10 Donruss Elite - ARCeologists Jerseys Prime",
+      "short": "ARCeologists Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32274/2009-10-Donruss-Elite-ARCeologists-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32275,
+      "name": "2009-10 Donruss Elite - ARCeologists Red",
+      "short": "ARCeologists Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32275/2009-10-Donruss-Elite-ARCeologists-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32276,
+      "name": "2009-10 Donruss Elite - Clutch Performers",
+      "short": "Clutch Performers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32276/2009-10-Donruss-Elite-Clutch-Performers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32277,
+      "name": "2009-10 Donruss Elite - Clutch Performers Black",
+      "short": "Clutch Performers Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32277/2009-10-Donruss-Elite-Clutch-Performers-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32278,
+      "name": "2009-10 Donruss Elite - Clutch Performers Gold",
+      "short": "Clutch Performers Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32278/2009-10-Donruss-Elite-Clutch-Performers-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32279,
+      "name": "2009-10 Donruss Elite - Clutch Performers Green",
+      "short": "Clutch Performers Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32279/2009-10-Donruss-Elite-Clutch-Performers-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32280,
+      "name": "2009-10 Donruss Elite - Clutch Performers Jerseys",
+      "short": "Clutch Performers Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32280/2009-10-Donruss-Elite-Clutch-Performers-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32281,
+      "name": "2009-10 Donruss Elite - Clutch Performers Jerseys Prime",
+      "short": "Clutch Performers Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32281/2009-10-Donruss-Elite-Clutch-Performers-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32282,
+      "name": "2009-10 Donruss Elite - Clutch Performers Red",
+      "short": "Clutch Performers Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32282/2009-10-Donruss-Elite-Clutch-Performers-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32285,
+      "name": "2009-10 Donruss Elite - Die Cut Status Black Autographs",
+      "short": "Die Cut Status Black Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32285/2009-10-Donruss-Elite-Die-Cut-Status-Black-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32287,
+      "name": "2009-10 Donruss Elite - Die Cut Status Gold Autographs",
+      "short": "Die Cut Status Gold Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32287/2009-10-Donruss-Elite-Die-Cut-Status-Gold-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32310,
+      "name": "2009-10 Donruss Elite - Elite Series",
+      "short": "Elite Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32310/2009-10-Donruss-Elite-Elite-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32311,
+      "name": "2009-10 Donruss Elite - Elite Series Black",
+      "short": "Elite Series Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32311/2009-10-Donruss-Elite-Elite-Series-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32312,
+      "name": "2009-10 Donruss Elite - Elite Series Gold",
+      "short": "Elite Series Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32312/2009-10-Donruss-Elite-Elite-Series-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32313,
+      "name": "2009-10 Donruss Elite - Elite Series Green",
+      "short": "Elite Series Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32313/2009-10-Donruss-Elite-Elite-Series-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32314,
+      "name": "2009-10 Donruss Elite - Elite Series Jerseys",
+      "short": "Elite Series Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32314/2009-10-Donruss-Elite-Elite-Series-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32315,
+      "name": "2009-10 Donruss Elite - Elite Series Jerseys Prime",
+      "short": "Elite Series Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32315/2009-10-Donruss-Elite-Elite-Series-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32316,
+      "name": "2009-10 Donruss Elite - Elite Series Red",
+      "short": "Elite Series Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32316/2009-10-Donruss-Elite-Elite-Series-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32288,
+      "name": "2009-10 Donruss Elite - In the Zone",
+      "short": "In the Zone",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32288/2009-10-Donruss-Elite-In-the-Zone",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32289,
+      "name": "2009-10 Donruss Elite - In the Zone Black",
+      "short": "In the Zone Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32289/2009-10-Donruss-Elite-In-the-Zone-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32290,
+      "name": "2009-10 Donruss Elite - In the Zone Gold",
+      "short": "In the Zone Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32290/2009-10-Donruss-Elite-In-the-Zone-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32291,
+      "name": "2009-10 Donruss Elite - In the Zone Green",
+      "short": "In the Zone Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32291/2009-10-Donruss-Elite-In-the-Zone-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32292,
+      "name": "2009-10 Donruss Elite - In the Zone Jerseys",
+      "short": "In the Zone Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32292/2009-10-Donruss-Elite-In-the-Zone-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32293,
+      "name": "2009-10 Donruss Elite - In the Zone Jerseys Prime",
+      "short": "In the Zone Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32293/2009-10-Donruss-Elite-In-the-Zone-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32294,
+      "name": "2009-10 Donruss Elite - In the Zone Red",
+      "short": "In the Zone Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32294/2009-10-Donruss-Elite-In-the-Zone-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32295,
+      "name": "2009-10 Donruss Elite - Jerseys",
+      "short": "Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32295/2009-10-Donruss-Elite-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32296,
+      "name": "2009-10 Donruss Elite - Jerseys Prime",
+      "short": "Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32296/2009-10-Donruss-Elite-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32297,
+      "name": "2009-10 Donruss Elite - Passing the Torch",
+      "short": "Passing the Torch",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32297/2009-10-Donruss-Elite-Passing-the-Torch",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32298,
+      "name": "2009-10 Donruss Elite - Passing the Torch Autographs",
+      "short": "Passing the Torch Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32298/2009-10-Donruss-Elite-Passing-the-Torch-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32299,
+      "name": "2009-10 Donruss Elite - Passing the Torch Black",
+      "short": "Passing the Torch Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32299/2009-10-Donruss-Elite-Passing-the-Torch-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32300,
+      "name": "2009-10 Donruss Elite - Passing the Torch Gold",
+      "short": "Passing the Torch Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32300/2009-10-Donruss-Elite-Passing-the-Torch-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32301,
+      "name": "2009-10 Donruss Elite - Passing the Torch Green",
+      "short": "Passing the Torch Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32301/2009-10-Donruss-Elite-Passing-the-Torch-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32302,
+      "name": "2009-10 Donruss Elite - Passing the Torch Red",
+      "short": "Passing the Torch Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32302/2009-10-Donruss-Elite-Passing-the-Torch-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32303,
+      "name": "2009-10 Donruss Elite - Prime Targets",
+      "short": "Prime Targets",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32303/2009-10-Donruss-Elite-Prime-Targets",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32304,
+      "name": "2009-10 Donruss Elite - Prime Targets Black",
+      "short": "Prime Targets Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32304/2009-10-Donruss-Elite-Prime-Targets-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32305,
+      "name": "2009-10 Donruss Elite - Prime Targets Gold",
+      "short": "Prime Targets Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32305/2009-10-Donruss-Elite-Prime-Targets-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32306,
+      "name": "2009-10 Donruss Elite - Prime Targets Green",
+      "short": "Prime Targets Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32306/2009-10-Donruss-Elite-Prime-Targets-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32307,
+      "name": "2009-10 Donruss Elite - Prime Targets Jerseys",
+      "short": "Prime Targets Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32307/2009-10-Donruss-Elite-Prime-Targets-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32308,
+      "name": "2009-10 Donruss Elite - Prime Targets Jerseys Prime",
+      "short": "Prime Targets Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32308/2009-10-Donruss-Elite-Prime-Targets-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32309,
+      "name": "2009-10 Donruss Elite - Prime Targets Red",
+      "short": "Prime Targets Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32309/2009-10-Donruss-Elite-Prime-Targets-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32317,
+      "name": "2009-10 Donruss Elite - Teamwork Combos",
+      "short": "Teamwork Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32317/2009-10-Donruss-Elite-Teamwork-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32318,
+      "name": "2009-10 Donruss Elite - Teamwork Combos Black",
+      "short": "Teamwork Combos Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32318/2009-10-Donruss-Elite-Teamwork-Combos-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32319,
+      "name": "2009-10 Donruss Elite - Teamwork Combos Gold",
+      "short": "Teamwork Combos Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32319/2009-10-Donruss-Elite-Teamwork-Combos-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32320,
+      "name": "2009-10 Donruss Elite - Teamwork Combos Green",
+      "short": "Teamwork Combos Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32320/2009-10-Donruss-Elite-Teamwork-Combos-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32321,
+      "name": "2009-10 Donruss Elite - Teamwork Combos Red",
+      "short": "Teamwork Combos Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32321/2009-10-Donruss-Elite-Teamwork-Combos-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32322,
+      "name": "2009-10 Donruss Elite - Teamwork Combos Signatures",
+      "short": "Teamwork Combos Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32322/2009-10-Donruss-Elite-Teamwork-Combos-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32323,
+      "name": "2009-10 Donruss Elite - Threads",
+      "short": "Threads",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32323/2009-10-Donruss-Elite-Threads",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32324,
+      "name": "2009-10 Donruss Elite - Threads Autographs",
+      "short": "Threads Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32324/2009-10-Donruss-Elite-Threads-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32325,
+      "name": "2009-10 Donruss Elite - Threads Prime",
+      "short": "Threads Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32325/2009-10-Donruss-Elite-Threads-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32326,
+      "name": "2009-10 Donruss Elite - Threads Prime Autographs",
+      "short": "Threads Prime Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32326/2009-10-Donruss-Elite-Threads-Prime-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32283,
+      "name": "2009-10 Donruss Elite - Die Cut Aspirations",
+      "short": "Die Cut Aspirations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32283/2009-10-Donruss-Elite-Die-Cut-Aspirations",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32284,
+      "name": "2009-10 Donruss Elite - Die Cut Status",
+      "short": "Die Cut Status",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32284/2009-10-Donruss-Elite-Die-Cut-Status",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32286,
+      "name": "2009-10 Donruss Elite - Die Cut Status Gold",
+      "short": "Die Cut Status Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32286/2009-10-Donruss-Elite-Die-Cut-Status-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 99579,
+      "name": "2009-10 Donruss Elite - Retail",
+      "short": "Retail",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/99579/2009-10-Donruss-Elite-Retail",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 14,
+  "imported_this_run": [
+    {
+      "source_set_id": 32294,
+      "name": "In the Zone Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 19,
+      "missing_fronts": 1
+    },
+    {
+      "source_set_id": 32275,
+      "name": "ARCeologists Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 11
+    },
+    {
+      "source_set_id": 32316,
+      "name": "Elite Series Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 10,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 32290,
+      "name": "In the Zone Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 10,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 32271,
+      "name": "ARCeologists Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 32312,
+      "name": "Elite Series Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 8,
+      "missing_fronts": 22
+    },
+    {
+      "source_set_id": 32295,
+      "name": "Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 7,
+      "missing_fronts": 42
+    },
+    {
+      "source_set_id": 32296,
+      "name": "Jerseys Prime",
+      "family_requested": "memorabilia",
+      "cards_with_front": 3,
+      "missing_fronts": 46
+    },
+    {
+      "source_set_id": 32292,
+      "name": "In the Zone Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 2,
+      "missing_fronts": 13
+    },
+    {
+      "source_set_id": 32273,
+      "name": "ARCeologists Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 6
+    },
+    {
+      "source_set_id": 32314,
+      "name": "Elite Series Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 99579,
+      "name": "Retail",
+      "family_requested": "parallel",
+      "cards_with_front": 74,
+      "missing_fronts": 46
+    },
+    {
+      "source_set_id": 32323,
+      "name": "Threads",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 41
+    },
+    {
+      "source_set_id": 32288,
+      "name": "In the Zone",
+      "family_requested": "insert",
+      "cards_with_front": 20,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 366,
+  "before_tiers": {
+    "base": 120,
+    "numbered": 39,
+    "auto": 40
+  },
+  "tiers": {
+    "base": 120,
+    "numbered": 93,
+    "auto": 40,
+    "memorabilia": 19,
+    "parallel": 74,
+    "insert": 20
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 1,
+    "numbered": 93,
+    "auto": 40,
+    "memorabilia": 19,
+    "parallel": 74,
+    "insert": 20
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 120,
+      "available_cards": 120,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 22
+    },
+    "auto": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 40,
+      "source_candidates": 7
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 19,
+      "available_cards": 19,
+      "local_images": 19,
+      "source_candidates": 12
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 74,
+      "available_cards": 74,
+      "local_images": 74,
+      "source_candidates": 4
+    },
+    "insert": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 37
+    },
+    "numbered": {
+      "status": "available",
+      "records": 93,
+      "available_cards": 93,
+      "local_images": 93,
+      "source_candidates": 24
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

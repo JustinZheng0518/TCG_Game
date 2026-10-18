@@ -1,0 +1,311 @@
+{
+  "set_id": "BB3147",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3147/2006-07-Bowman",
+  "headings": [
+    "Insert Sets (9)",
+    "Parallel Sets (6)"
+  ],
+  "subset_count": 15,
+  "subsets": [
+    {
+      "source_set_id": 3150,
+      "name": "2006-07 Bowman - McDonald's All-American Rookie Relics",
+      "short": "McDonald's All-American Rookie Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/3150/2006-07-Bowman-McDonald-s-All-American-Rookie-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30098,
+      "name": "2006-07 Bowman - McDonald's All-American Rookie Relics Autographed",
+      "short": "McDonald's All-American Rookie Relics Autographed",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30098/2006-07-Bowman-McDonald-s-All-American-Rookie-Relics-Autographed",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30099,
+      "name": "2006-07 Bowman - McDonald's All-American Rookie Relics Autographed Super",
+      "short": "McDonald's All-American Rookie Relics Autographed Super",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30099/2006-07-Bowman-McDonald-s-All-American-Rookie-Relics-Autographed-Super",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30100,
+      "name": "2006-07 Bowman - Power of 2 Autographs",
+      "short": "Power of 2 Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30100/2006-07-Bowman-Power-of-2-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30101,
+      "name": "2006-07 Bowman - Power of 3 Autographs",
+      "short": "Power of 3 Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30101/2006-07-Bowman-Power-of-3-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30106,
+      "name": "2006-07 Bowman - Relics",
+      "short": "Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30106/2006-07-Bowman-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30107,
+      "name": "2006-07 Bowman - Relics Dual",
+      "short": "Relics Dual",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30107/2006-07-Bowman-Relics-Dual",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30108,
+      "name": "2006-07 Bowman - Relics Triple",
+      "short": "Relics Triple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30108/2006-07-Bowman-Relics-Triple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30109,
+      "name": "2006-07 Bowman - Rookie Snapshots Relics",
+      "short": "Rookie Snapshots Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30109/2006-07-Bowman-Rookie-Snapshots-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30097,
+      "name": "2006-07 Bowman - Bronze",
+      "short": "Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30097/2006-07-Bowman-Bronze",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30102,
+      "name": "2006-07 Bowman - Press Plates Black",
+      "short": "Press Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30102/2006-07-Bowman-Press-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30103,
+      "name": "2006-07 Bowman - Press Plates Cyan",
+      "short": "Press Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30103/2006-07-Bowman-Press-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30104,
+      "name": "2006-07 Bowman - Press Plates Magenta",
+      "short": "Press Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30104/2006-07-Bowman-Press-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30105,
+      "name": "2006-07 Bowman - Press Plates Yellow",
+      "short": "Press Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30105/2006-07-Bowman-Press-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30110,
+      "name": "2006-07 Bowman - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30110/2006-07-Bowman-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 12,
+  "imported_this_run": [
+    {
+      "source_set_id": 30102,
+      "name": "Press Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 164
+    },
+    {
+      "source_set_id": 30100,
+      "name": "Power of 2 Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 30101,
+      "name": "Power of 3 Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 30106,
+      "name": "Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 25,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 30107,
+      "name": "Relics Dual",
+      "family_requested": "memorabilia",
+      "cards_with_front": 13,
+      "missing_fronts": 37
+    },
+    {
+      "source_set_id": 30108,
+      "name": "Relics Triple",
+      "family_requested": "memorabilia",
+      "cards_with_front": 5,
+      "missing_fronts": 37
+    },
+    {
+      "source_set_id": 30098,
+      "name": "McDonald's All-American Rookie Relics Autographed",
+      "family_requested": "auto_patch",
+      "cards_with_front": 3,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 30099,
+      "name": "McDonald's All-American Rookie Relics Autographed Super",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 6
+    },
+    {
+      "source_set_id": 30110,
+      "name": "Silver",
+      "family_requested": "parallel",
+      "cards_with_front": 70,
+      "missing_fronts": 95
+    },
+    {
+      "source_set_id": 30097,
+      "name": "Bronze",
+      "family_requested": "parallel",
+      "cards_with_front": 12,
+      "missing_fronts": 153
+    },
+    {
+      "source_set_id": 30103,
+      "name": "Press Plates Cyan",
+      "family_requested": "parallel",
+      "cards_with_front": 1,
+      "missing_fronts": 164
+    },
+    {
+      "source_set_id": 30105,
+      "name": "Press Plates Yellow",
+      "family_requested": "parallel",
+      "cards_with_front": 2,
+      "missing_fronts": 163
+    },
+    {
+      "source_set_id": 30104,
+      "name": "Press Plates Magenta",
+      "family_requested": "parallel",
+      "cards_with_front": 1,
+      "missing_fronts": 164
+    }
+  ],
+  "import_errors": [],
+  "card_count": 298,
+  "before_tiers": {
+    "base": 115,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 115,
+    "rookie": 50,
+    "numbered_low": 8,
+    "insert": 25,
+    "memorabilia": 18,
+    "auto_patch": 3,
+    "numbered": 82,
+    "auto": 1
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "rookie": 1,
+    "numbered_low": 8,
+    "insert": 25,
+    "memorabilia": 18,
+    "auto_patch": 3,
+    "numbered": 82,
+    "auto": 1
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 115,
+      "available_cards": 115,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 8,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 18,
+      "available_cards": 18,
+      "local_images": 18,
+      "source_candidates": 5
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 2
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 6
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "available",
+      "records": 82,
+      "available_cards": 82,
+      "local_images": 82,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 4
+}

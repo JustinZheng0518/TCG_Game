@@ -1,0 +1,131 @@
+{
+  "set_id": "BB73939",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/73939/1998-Topps-Golden-Greats",
+  "headings": [
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 2,
+  "subsets": [
+    {
+      "source_set_id": 73940,
+      "name": "1998 Topps Golden Greats - Laser Cuts",
+      "short": "Laser Cuts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/73940/1998-Topps-Golden-Greats-Laser-Cuts",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 215240,
+      "name": "1998 Topps Golden Greats - Pre-Production",
+      "short": "Pre-Production",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/215240/1998-Topps-Golden-Greats-Pre-Production",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 73940,
+      "name": "Laser Cuts",
+      "family_requested": "parallel",
+      "cards_with_front": 6,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 215240,
+      "name": "Pre-Production",
+      "family_requested": "insert",
+      "cards_with_front": 4,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 28,
+  "before_tiers": {
+    "base": 18
+  },
+  "tiers": {
+    "base": 18,
+    "parallel": 6,
+    "insert": 4
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "parallel": 6,
+    "insert": 4
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 18,
+      "available_cards": 18,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 6,
+      "available_cards": 6,
+      "local_images": 6,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

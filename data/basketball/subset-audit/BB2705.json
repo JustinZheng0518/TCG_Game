@@ -1,0 +1,177 @@
+{
+  "set_id": "BB2705",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2705/1997-98-Topps-Chrome",
+  "headings": [
+    "Insert Sets (6)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 7,
+  "subsets": [
+    {
+      "source_set_id": 25823,
+      "name": "1997-98 Topps Chrome - Destiny",
+      "short": "Destiny",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25823/1997-98-Topps-Chrome-Destiny",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25824,
+      "name": "1997-98 Topps Chrome - Destiny Refractors",
+      "short": "Destiny Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25824/1997-98-Topps-Chrome-Destiny-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25826,
+      "name": "1997-98 Topps Chrome - Season's Best",
+      "short": "Season's Best",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25826/1997-98-Topps-Chrome-Season-s-Best",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25827,
+      "name": "1997-98 Topps Chrome - Season's Best Refractors",
+      "short": "Season's Best Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25827/1997-98-Topps-Chrome-Season-s-Best-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25828,
+      "name": "1997-98 Topps Chrome - Topps 40",
+      "short": "Topps 40",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25828/1997-98-Topps-Chrome-Topps-40",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25829,
+      "name": "1997-98 Topps Chrome - Topps 40 Refractors",
+      "short": "Topps 40 Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25829/1997-98-Topps-Chrome-Topps-40-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25825,
+      "name": "1997-98 Topps Chrome - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25825/1997-98-Topps-Chrome-Refractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 25825,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 207,
+      "missing_fronts": 11
+    },
+    {
+      "source_set_id": 25823,
+      "name": "Destiny",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25828,
+      "name": "Topps 40",
+      "family_requested": "insert",
+      "cards_with_front": 39,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 479,
+  "before_tiers": {
+    "base": 191,
+    "rookie": 27
+  },
+  "tiers": {
+    "base": 193,
+    "rookie": 27,
+    "parallel": 209,
+    "insert": 54
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 3,
+    "parallel": 209,
+    "insert": 54
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 193,
+      "available_cards": 193,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 27,
+      "available_cards": 27,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 209,
+      "available_cards": 209,
+      "local_images": 209,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 54,
+      "available_cards": 54,
+      "local_images": 54,
+      "source_candidates": 6
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 4
+}

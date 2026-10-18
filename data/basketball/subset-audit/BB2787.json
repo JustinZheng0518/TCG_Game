@@ -1,0 +1,205 @@
+{
+  "set_id": "BB2787",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2787/1998-99-Topps-Chrome",
+  "headings": [
+    "Insert Sets (10)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 11,
+  "subsets": [
+    {
+      "source_set_id": 2788,
+      "name": "1998-99 Topps Chrome - Apparitions",
+      "short": "Apparitions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2788/1998-99-Topps-Chrome-Apparitions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26031,
+      "name": "1998-99 Topps Chrome - Apparitions Refractors",
+      "short": "Apparitions Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26031/1998-99-Topps-Chrome-Apparitions-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26032,
+      "name": "1998-99 Topps Chrome - Back 2 Back",
+      "short": "Back 2 Back",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26032/1998-99-Topps-Chrome-Back-2-Back",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26033,
+      "name": "1998-99 Topps Chrome - Champion Spirit",
+      "short": "Champion Spirit",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26033/1998-99-Topps-Chrome-Champion-Spirit",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26034,
+      "name": "1998-99 Topps Chrome - Coast to Coast",
+      "short": "Coast to Coast",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26034/1998-99-Topps-Chrome-Coast-to-Coast",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26035,
+      "name": "1998-99 Topps Chrome - Coast to Coast Refractors",
+      "short": "Coast to Coast Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26035/1998-99-Topps-Chrome-Coast-to-Coast-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26036,
+      "name": "1998-99 Topps Chrome - Instant Impact",
+      "short": "Instant Impact",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26036/1998-99-Topps-Chrome-Instant-Impact",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26037,
+      "name": "1998-99 Topps Chrome - Instant Impact Refractors",
+      "short": "Instant Impact Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26037/1998-99-Topps-Chrome-Instant-Impact-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26039,
+      "name": "1998-99 Topps Chrome - Season's Best",
+      "short": "Season's Best",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26039/1998-99-Topps-Chrome-Season-s-Best",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26040,
+      "name": "1998-99 Topps Chrome - Season's Best Refractors",
+      "short": "Season's Best Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26040/1998-99-Topps-Chrome-Season-s-Best-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26038,
+      "name": "1998-99 Topps Chrome - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26038/1998-99-Topps-Chrome-Refractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 26038,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 123,
+      "missing_fronts": 95
+    },
+    {
+      "source_set_id": 2788,
+      "name": "Apparitions",
+      "family_requested": "insert",
+      "cards_with_front": 14,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 26032,
+      "name": "Back 2 Back",
+      "family_requested": "insert",
+      "cards_with_front": 7,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 363,
+  "before_tiers": {
+    "base": 191,
+    "rookie": 28
+  },
+  "tiers": {
+    "base": 193,
+    "rookie": 28,
+    "parallel": 123,
+    "insert": 21
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 3,
+    "parallel": 123,
+    "insert": 21
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 193,
+      "available_cards": 193,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 28,
+      "available_cards": 28,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 123,
+      "available_cards": 123,
+      "local_images": 123,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 10
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 2
+}

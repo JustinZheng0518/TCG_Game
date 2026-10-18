@@ -5,31 +5,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
   <title>小小卡店 · 宝可梦卡牌经营</title>
-  <link rel="stylesheet" href="web/catalog.css?v=rarepools6">
-  <link rel="stylesheet" href="web/shop.css?v=rarepools6">
-  <link rel="stylesheet" href="web/game-scene.css?v=rarepools6">
-  <link rel="stylesheet" href="web/live-shop.css?v=rarepools6">
-  <link rel="stylesheet" href="web/cozy-shop.css?v=rarepools6">
-  <link rel="stylesheet" href="web/shop-experience.css?v=rarepools6">
-  <link rel="stylesheet" href="web/collectibles.css?v=rarepools6">
-  <link rel="stylesheet" href="web/series-ui.css?v=rarepools6">
-  <script src="web/game-core.js?v=rarepools6" defer></script>
-  <script src="web/collectibles-state.js?v=rarepools6" defer></script>
-  <script src="web/basketball-core.js?v=rarepools6" defer></script>
-  <script src="web/shop-core.js?v=rarepools6" defer></script>
-  <script src="web/collectibles-core.js?v=rarepools6" defer></script>
-  <script src="web/draw-odds.js?v=rarepools6" defer></script>
-  <script src="web/pack-opening.js?v=rarepools6" defer></script>
-  <script src="web/market-client.js?v=rarepools6" defer></script>
-  <script src="web/shop-ui.js?v=rarepools6" defer></script>
-  <script src="web/collectibles-ui.js?v=rarepools6" defer></script>
-  <script src="web/series-ui.js?v=rarepools6" defer></script>
-  <script src="web/vendor/three-r160.min.js?v=rarepools6" defer></script>
-  <script src="web/shop-motion.js?v=rarepools6" defer></script>
-  <script src="web/shop-world.js?v=rarepools6" defer></script>
-  <script src="web/shop-business.js?v=rarepools6" defer></script>
-  <script src="web/game-scene.js?v=rarepools6" defer></script>
-  <script src="web/catalog.js?v=rarepools6" defer></script>
+  <link rel="stylesheet" href="web/catalog.css?v=bbaudit7">
+  <link rel="stylesheet" href="web/shop.css?v=bbaudit7">
+  <link rel="stylesheet" href="web/game-scene.css?v=bbaudit7">
+  <link rel="stylesheet" href="web/live-shop.css?v=bbaudit7">
+  <link rel="stylesheet" href="web/cozy-shop.css?v=bbaudit7">
+  <link rel="stylesheet" href="web/shop-experience.css?v=bbaudit7">
+  <link rel="stylesheet" href="web/collectibles.css?v=bbaudit7">
+  <link rel="stylesheet" href="web/series-ui.css?v=bbaudit7">
+  <script src="web/game-core.js?v=bbaudit7" defer></script>
+  <script src="web/collectibles-state.js?v=bbaudit7" defer></script>
+  <script src="web/basketball-core.js?v=bbaudit7" defer></script>
+  <script src="web/shop-core.js?v=bbaudit7" defer></script>
+  <script src="web/collectibles-core.js?v=bbaudit7" defer></script>
+  <script src="web/draw-odds.js?v=bbaudit7" defer></script>
+  <script src="web/pack-opening.js?v=bbaudit7" defer></script>
+  <script src="web/market-client.js?v=bbaudit7" defer></script>
+  <script src="web/shop-ui.js?v=bbaudit7" defer></script>
+  <script src="web/collectibles-ui.js?v=bbaudit7" defer></script>
+  <script src="web/series-ui.js?v=bbaudit7" defer></script>
+  <script src="web/vendor/three-r160.min.js?v=bbaudit7" defer></script>
+  <script src="web/shop-motion.js?v=bbaudit7" defer></script>
+  <script src="web/shop-world.js?v=bbaudit7" defer></script>
+  <script src="web/shop-business.js?v=bbaudit7" defer></script>
+  <script src="web/game-scene.js?v=bbaudit7" defer></script>
+  <script src="web/catalog.js?v=bbaudit7" defer></script>
 </head>
 <body data-mode="shop">
   <svg class="icon-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
@@ -93,7 +93,7 @@
       <section class="game-panel" aria-label="开包与收藏">
         <div class="collection-stats"><span id="owned-stats">已收藏 0 款 · 共 0 张</span><span id="set-progress">本套 0 / — 款</span></div>
         <div id="acquisition-area"><div class="product-showcase"><div id="product-art" class="product-art" aria-label="本套真实卡面预览"></div><div class="product-quick-info"><span id="quick-channel" class="channel-badge"></span><h2 id="quick-title">选择一份新的期待</h2><p id="quick-price"></p><p id="quick-stock"></p></div></div>
-        <div id="probability-shortcut" class="probability-shortcut"><div><strong>封入与概率</strong><p id="probability-summary"></p><div id="probability-highlight" class="probability-highlight"></div></div><button id="open-odds" type="button">查看全部概率 ↗</button></div>
+        <div id="probability-shortcut" class="probability-shortcut"><div><strong>封入与概率</strong><p id="probability-summary"></p><div id="probability-highlight" class="probability-highlight"></div><p id="basketball-source-status" hidden></p></div><button id="open-odds" type="button">查看全部概率 ↗</button></div>
         <details id="bulk-stock"><summary>补货到货架</summary><div id="buy-stock-actions" class="pack-actions"><button id="buy-stock-one" type="button">进货 1 件</button><button id="buy-stock-ten" type="button">进货 10 件</button><p id="stock-available"></p></div></details>
         <div id="special-actions" class="special-actions" hidden><label for="reward-card">选择领取卡面 / 礼盒款式</label><select id="reward-card"></select><button id="acquire-special" type="button">获取卡牌</button><p id="special-cost"></p></div>
         <div id="pack-actions" class="pack-actions">

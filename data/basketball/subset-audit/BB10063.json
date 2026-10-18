@@ -1,0 +1,506 @@
+{
+  "set_id": "BB10063",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/10063/2009-10-Panini-Court-Kings",
+  "headings": [
+    "Insert Sets (39)",
+    "Parallel Sets (3)"
+  ],
+  "subset_count": 42,
+  "subsets": [
+    {
+      "source_set_id": 32550,
+      "name": "2009-10 Panini Court Kings - Artistry",
+      "short": "Artistry",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32550/2009-10-Panini-Court-Kings-Artistry",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32551,
+      "name": "2009-10 Panini Court Kings - Artistry Black",
+      "short": "Artistry Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32551/2009-10-Panini-Court-Kings-Artistry-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32552,
+      "name": "2009-10 Panini Court Kings - Artistry Bronze",
+      "short": "Artistry Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32552/2009-10-Panini-Court-Kings-Artistry-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32553,
+      "name": "2009-10 Panini Court Kings - Artistry Materials",
+      "short": "Artistry Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32553/2009-10-Panini-Court-Kings-Artistry-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32554,
+      "name": "2009-10 Panini Court Kings - Artistry Signatures",
+      "short": "Artistry Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32554/2009-10-Panini-Court-Kings-Artistry-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32555,
+      "name": "2009-10 Panini Court Kings - Artistry Silver",
+      "short": "Artistry Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32555/2009-10-Panini-Court-Kings-Artistry-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32558,
+      "name": "2009-10 Panini Court Kings - Dribble Kings",
+      "short": "Dribble Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32558/2009-10-Panini-Court-Kings-Dribble-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32559,
+      "name": "2009-10 Panini Court Kings - Dribble Kings Black",
+      "short": "Dribble Kings Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32559/2009-10-Panini-Court-Kings-Dribble-Kings-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32560,
+      "name": "2009-10 Panini Court Kings - Dribble Kings Materials",
+      "short": "Dribble Kings Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32560/2009-10-Panini-Court-Kings-Dribble-Kings-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32561,
+      "name": "2009-10 Panini Court Kings - Dribble Kings Signatures",
+      "short": "Dribble Kings Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32561/2009-10-Panini-Court-Kings-Dribble-Kings-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32562,
+      "name": "2009-10 Panini Court Kings - Gallery of Stars",
+      "short": "Gallery of Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32562/2009-10-Panini-Court-Kings-Gallery-of-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32563,
+      "name": "2009-10 Panini Court Kings - Gallery of Stars Black",
+      "short": "Gallery of Stars Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32563/2009-10-Panini-Court-Kings-Gallery-of-Stars-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32564,
+      "name": "2009-10 Panini Court Kings - Gallery of Stars Bronze",
+      "short": "Gallery of Stars Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32564/2009-10-Panini-Court-Kings-Gallery-of-Stars-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32565,
+      "name": "2009-10 Panini Court Kings - Gallery of Stars Materials",
+      "short": "Gallery of Stars Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32565/2009-10-Panini-Court-Kings-Gallery-of-Stars-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32566,
+      "name": "2009-10 Panini Court Kings - Gallery of Stars Signatures",
+      "short": "Gallery of Stars Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32566/2009-10-Panini-Court-Kings-Gallery-of-Stars-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32567,
+      "name": "2009-10 Panini Court Kings - Gallery of Stars Silver",
+      "short": "Gallery of Stars Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32567/2009-10-Panini-Court-Kings-Gallery-of-Stars-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32568,
+      "name": "2009-10 Panini Court Kings - Hardwood Heroes",
+      "short": "Hardwood Heroes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32568/2009-10-Panini-Court-Kings-Hardwood-Heroes",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32569,
+      "name": "2009-10 Panini Court Kings - Hardwood Heroes Black",
+      "short": "Hardwood Heroes Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32569/2009-10-Panini-Court-Kings-Hardwood-Heroes-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32570,
+      "name": "2009-10 Panini Court Kings - Hardwood Heroes Materials",
+      "short": "Hardwood Heroes Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32570/2009-10-Panini-Court-Kings-Hardwood-Heroes-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32571,
+      "name": "2009-10 Panini Court Kings - Hardwood Heroes Signatures",
+      "short": "Hardwood Heroes Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32571/2009-10-Panini-Court-Kings-Hardwood-Heroes-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32572,
+      "name": "2009-10 Panini Court Kings - Jumbo Boxtoppers",
+      "short": "Jumbo Boxtoppers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32572/2009-10-Panini-Court-Kings-Jumbo-Boxtoppers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32573,
+      "name": "2009-10 Panini Court Kings - Jumbo Boxtoppers Autographs",
+      "short": "Jumbo Boxtoppers Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32573/2009-10-Panini-Court-Kings-Jumbo-Boxtoppers-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32574,
+      "name": "2009-10 Panini Court Kings - Kobe Bryant Lithographs",
+      "short": "Kobe Bryant Lithographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32574/2009-10-Panini-Court-Kings-Kobe-Bryant-Lithographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32575,
+      "name": "2009-10 Panini Court Kings - Le Cinque Piu Belle",
+      "short": "Le Cinque Piu Belle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32575/2009-10-Panini-Court-Kings-Le-Cinque-Piu-Belle",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32576,
+      "name": "2009-10 Panini Court Kings - Le Cinque Piu Belle Signatures",
+      "short": "Le Cinque Piu Belle Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32576/2009-10-Panini-Court-Kings-Le-Cinque-Piu-Belle-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32577,
+      "name": "2009-10 Panini Court Kings - Masterpieces",
+      "short": "Masterpieces",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32577/2009-10-Panini-Court-Kings-Masterpieces",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32578,
+      "name": "2009-10 Panini Court Kings - Masterpieces Black",
+      "short": "Masterpieces Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32578/2009-10-Panini-Court-Kings-Masterpieces-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32579,
+      "name": "2009-10 Panini Court Kings - Masterpieces Materials",
+      "short": "Masterpieces Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32579/2009-10-Panini-Court-Kings-Masterpieces-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32580,
+      "name": "2009-10 Panini Court Kings - Masterpieces Signatures",
+      "short": "Masterpieces Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32580/2009-10-Panini-Court-Kings-Masterpieces-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32581,
+      "name": "2009-10 Panini Court Kings - Materials",
+      "short": "Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32581/2009-10-Panini-Court-Kings-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32582,
+      "name": "2009-10 Panini Court Kings - Portraits",
+      "short": "Portraits",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32582/2009-10-Panini-Court-Kings-Portraits",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32583,
+      "name": "2009-10 Panini Court Kings - Portraits Black",
+      "short": "Portraits Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32583/2009-10-Panini-Court-Kings-Portraits-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32584,
+      "name": "2009-10 Panini Court Kings - Portraits Materials",
+      "short": "Portraits Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32584/2009-10-Panini-Court-Kings-Portraits-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32585,
+      "name": "2009-10 Panini Court Kings - Portraits Signatures",
+      "short": "Portraits Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32585/2009-10-Panini-Court-Kings-Portraits-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32586,
+      "name": "2009-10 Panini Court Kings - Signatures",
+      "short": "Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32586/2009-10-Panini-Court-Kings-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32588,
+      "name": "2009-10 Panini Court Kings - Supreme Court",
+      "short": "Supreme Court",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32588/2009-10-Panini-Court-Kings-Supreme-Court",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32589,
+      "name": "2009-10 Panini Court Kings - Supreme Court Black",
+      "short": "Supreme Court Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32589/2009-10-Panini-Court-Kings-Supreme-Court-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32590,
+      "name": "2009-10 Panini Court Kings - Supreme Court Materials",
+      "short": "Supreme Court Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32590/2009-10-Panini-Court-Kings-Supreme-Court-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32591,
+      "name": "2009-10 Panini Court Kings - Supreme Court Signatures",
+      "short": "Supreme Court Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32591/2009-10-Panini-Court-Kings-Supreme-Court-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 32556,
+      "name": "2009-10 Panini Court Kings - Black",
+      "short": "Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32556/2009-10-Panini-Court-Kings-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32557,
+      "name": "2009-10 Panini Court Kings - Bronze",
+      "short": "Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32557/2009-10-Panini-Court-Kings-Bronze",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 32587,
+      "name": "2009-10 Panini Court Kings - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/32587/2009-10-Panini-Court-Kings-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 32556,
+      "name": "Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 120
+    },
+    {
+      "source_set_id": 32551,
+      "name": "Artistry Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 30
+    },
+    {
+      "source_set_id": 32583,
+      "name": "Portraits Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 32578,
+      "name": "Masterpieces Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 32559,
+      "name": "Dribble Kings Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 15
+    },
+    {
+      "source_set_id": 32589,
+      "name": "Supreme Court Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 32581,
+      "name": "Materials",
+      "family_requested": "memorabilia",
+      "cards_with_front": 41,
+      "missing_fronts": 44
+    },
+    {
+      "source_set_id": 32587,
+      "name": "Silver",
+      "family_requested": "parallel",
+      "cards_with_front": 29,
+      "missing_fronts": 91
+    },
+    {
+      "source_set_id": 32557,
+      "name": "Bronze",
+      "family_requested": "parallel",
+      "cards_with_front": 61,
+      "missing_fronts": 59
+    },
+    {
+      "source_set_id": 32550,
+      "name": "Artistry",
+      "family_requested": "insert",
+      "cards_with_front": 8,
+      "missing_fronts": 22
+    },
+    {
+      "source_set_id": 32582,
+      "name": "Portraits",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 32577,
+      "name": "Masterpieces",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 32558,
+      "name": "Dribble Kings",
+      "family_requested": "insert",
+      "cards_with_front": 8,
+      "missing_fronts": 7
+    },
+    {
+      "source_set_id": 32588,
+      "name": "Supreme Court",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 32552,
+      "name": "Artistry Bronze",
+      "family_requested": "insert",
+      "cards_with_front": 9,
+      "missing_fronts": 21
+    }
+  ],
+  "import_errors": [],
+  "card_count": 289,
+  "before_tiers": {
+    "numbered": 91,
+    "auto": 27
+  },
+  "tiers": {
+    "numbered": 218,
+    "auto": 27,
+    "numbered_low": 3,
+    "memorabilia": 41
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "numbered": 218,
+    "auto": 27,
+    "numbered_low": 3,
+    "memorabilia": 41
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 8
+    },
+    "auto": {
+      "status": "available",
+      "records": 27,
+      "available_cards": 27,
+      "local_images": 27,
+      "source_candidates": 10
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 41,
+      "available_cards": 41,
+      "local_images": 41,
+      "source_candidates": 8
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 21
+    },
+    "numbered": {
+      "status": "available",
+      "records": 218,
+      "available_cards": 218,
+      "local_images": 218,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

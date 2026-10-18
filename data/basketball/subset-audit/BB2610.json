@@ -1,0 +1,270 @@
+{
+  "set_id": "BB2610",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2610/1997-98-Bowman-s-Best",
+  "headings": [
+    "Insert Sets (15)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 17,
+  "subsets": [
+    {
+      "source_set_id": 25741,
+      "name": "1997-98 Bowman's Best - Autograph Atomic Refractors",
+      "short": "Autograph Atomic Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25741/1997-98-Bowman-s-Best-Autograph-Atomic-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25742,
+      "name": "1997-98 Bowman's Best - Autograph Refractors",
+      "short": "Autograph Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25742/1997-98-Bowman-s-Best-Autograph-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25743,
+      "name": "1997-98 Bowman's Best - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25743/1997-98-Bowman-s-Best-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2611,
+      "name": "1997-98 Bowman's Best - Best Cuts",
+      "short": "Best Cuts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2611/1997-98-Bowman-s-Best-Best-Cuts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25744,
+      "name": "1997-98 Bowman's Best - Best Cuts Atomic Refractors",
+      "short": "Best Cuts Atomic Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25744/1997-98-Bowman-s-Best-Best-Cuts-Atomic-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25745,
+      "name": "1997-98 Bowman's Best - Best Cuts Refractors",
+      "short": "Best Cuts Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25745/1997-98-Bowman-s-Best-Best-Cuts-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2612,
+      "name": "1997-98 Bowman's Best - Mirror Image",
+      "short": "Mirror Image",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2612/1997-98-Bowman-s-Best-Mirror-Image",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25746,
+      "name": "1997-98 Bowman's Best - Mirror Image Atomic Refractors",
+      "short": "Mirror Image Atomic Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25746/1997-98-Bowman-s-Best-Mirror-Image-Atomic-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25747,
+      "name": "1997-98 Bowman's Best - Mirror Image Refractors",
+      "short": "Mirror Image Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25747/1997-98-Bowman-s-Best-Mirror-Image-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2613,
+      "name": "1997-98 Bowman's Best - Picks",
+      "short": "Picks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2613/1997-98-Bowman-s-Best-Picks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25748,
+      "name": "1997-98 Bowman's Best - Picks Atomic Refractors",
+      "short": "Picks Atomic Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25748/1997-98-Bowman-s-Best-Picks-Atomic-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25749,
+      "name": "1997-98 Bowman's Best - Picks Refractors",
+      "short": "Picks Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25749/1997-98-Bowman-s-Best-Picks-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2614,
+      "name": "1997-98 Bowman's Best - Techniques",
+      "short": "Techniques",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2614/1997-98-Bowman-s-Best-Techniques",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25751,
+      "name": "1997-98 Bowman's Best - Techniques Atomic Refractors",
+      "short": "Techniques Atomic Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25751/1997-98-Bowman-s-Best-Techniques-Atomic-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25752,
+      "name": "1997-98 Bowman's Best - Techniques Refractors",
+      "short": "Techniques Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25752/1997-98-Bowman-s-Best-Techniques-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25740,
+      "name": "1997-98 Bowman's Best - Atomic Refractors",
+      "short": "Atomic Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25740/1997-98-Bowman-s-Best-Atomic-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25750,
+      "name": "1997-98 Bowman's Best - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25750/1997-98-Bowman-s-Best-Refractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 6,
+  "imported_this_run": [
+    {
+      "source_set_id": 25743,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 8,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 25742,
+      "name": "Autograph Refractors",
+      "family_requested": "auto",
+      "cards_with_front": 4,
+      "missing_fronts": 7
+    },
+    {
+      "source_set_id": 25741,
+      "name": "Autograph Atomic Refractors",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 25750,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 108,
+      "missing_fronts": 16
+    },
+    {
+      "source_set_id": 2613,
+      "name": "Picks",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2611,
+      "name": "Best Cuts",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 266,
+  "before_tiers": {
+    "base": 99,
+    "rookie": 25
+  },
+  "tiers": {
+    "base": 100,
+    "rookie": 25,
+    "auto": 14,
+    "parallel": 109,
+    "insert": 20
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 3,
+    "auto": 14,
+    "parallel": 109,
+    "insert": 20
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 100,
+      "available_cards": 100,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 14,
+      "available_cards": 14,
+      "local_images": 14,
+      "source_candidates": 3
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 109,
+      "available_cards": 109,
+      "local_images": 109,
+      "source_candidates": 2
+    },
+    "insert": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 12
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 2
+}

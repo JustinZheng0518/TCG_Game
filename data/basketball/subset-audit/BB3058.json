@@ -1,0 +1,243 @@
+{
+  "set_id": "BB3058",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3058/2003-04-Topps-Chrome",
+  "headings": [
+    "Insert Sets (8)",
+    "Parallel Sets (4)"
+  ],
+  "subset_count": 12,
+  "subsets": [
+    {
+      "source_set_id": 28306,
+      "name": "2003-04 Topps Chrome - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28306/2003-04-Topps-Chrome-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28307,
+      "name": "2003-04 Topps Chrome - Autographs Refractors",
+      "short": "Autographs Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28307/2003-04-Topps-Chrome-Autographs-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28308,
+      "name": "2003-04 Topps Chrome - Bonus Coverage Relics",
+      "short": "Bonus Coverage Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28308/2003-04-Topps-Chrome-Bonus-Coverage-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28309,
+      "name": "2003-04 Topps Chrome - Bonus Coverage Relics Refractors",
+      "short": "Bonus Coverage Relics Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28309/2003-04-Topps-Chrome-Bonus-Coverage-Relics-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28310,
+      "name": "2003-04 Topps Chrome - Cuts Relics",
+      "short": "Cuts Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28310/2003-04-Topps-Chrome-Cuts-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28311,
+      "name": "2003-04 Topps Chrome - Cuts Relics Refractors",
+      "short": "Cuts Relics Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28311/2003-04-Topps-Chrome-Cuts-Relics-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28312,
+      "name": "2003-04 Topps Chrome - Gametime Gear Relics",
+      "short": "Gametime Gear Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28312/2003-04-Topps-Chrome-Gametime-Gear-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28313,
+      "name": "2003-04 Topps Chrome - Gametime Gear Relics Refractors",
+      "short": "Gametime Gear Relics Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28313/2003-04-Topps-Chrome-Gametime-Gear-Relics-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 28314,
+      "name": "2003-04 Topps Chrome - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28314/2003-04-Topps-Chrome-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28315,
+      "name": "2003-04 Topps Chrome - Refractors Black",
+      "short": "Refractors Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28315/2003-04-Topps-Chrome-Refractors-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28316,
+      "name": "2003-04 Topps Chrome - Refractors Gold",
+      "short": "Refractors Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28316/2003-04-Topps-Chrome-Refractors-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 28317,
+      "name": "2003-04 Topps Chrome - X-Fractors",
+      "short": "X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/28317/2003-04-Topps-Chrome-X-Fractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 9,
+  "imported_this_run": [
+    {
+      "source_set_id": 28316,
+      "name": "Refractors Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 19,
+      "missing_fronts": 157
+    },
+    {
+      "source_set_id": 28315,
+      "name": "Refractors Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 54,
+      "missing_fronts": 123
+    },
+    {
+      "source_set_id": 28307,
+      "name": "Autographs Refractors",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 11
+    },
+    {
+      "source_set_id": 28312,
+      "name": "Gametime Gear Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 14,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 28311,
+      "name": "Cuts Relics Refractors",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 23
+    },
+    {
+      "source_set_id": 28313,
+      "name": "Gametime Gear Relics Refractors",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 23
+    }
+  ],
+  "import_errors": [],
+  "card_count": 460,
+  "before_tiers": {
+    "base": 134,
+    "rookie": 43,
+    "parallel": 177,
+    "auto": 4,
+    "insert": 10,
+    "memorabilia": 4
+  },
+  "tiers": {
+    "base": 134,
+    "rookie": 43,
+    "parallel": 177,
+    "auto": 4,
+    "insert": 24,
+    "memorabilia": 5,
+    "numbered": 73
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 1,
+    "rookie": 1,
+    "parallel": 177,
+    "auto": 4,
+    "insert": 24,
+    "memorabilia": 5,
+    "numbered": 73
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 134,
+      "available_cards": 134,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 43,
+      "available_cards": 43,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 6
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 177,
+      "available_cards": 177,
+      "local_images": 177,
+      "source_candidates": 4
+    },
+    "insert": {
+      "status": "available",
+      "records": 24,
+      "available_cards": 24,
+      "local_images": 24,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "available",
+      "records": 73,
+      "available_cards": 73,
+      "local_images": 73,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

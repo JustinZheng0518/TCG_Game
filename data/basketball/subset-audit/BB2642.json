@@ -1,0 +1,230 @@
+{
+  "set_id": "BB2642",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2642/1997-98-Hoops",
+  "headings": [
+    "Insert Sets (15)"
+  ],
+  "subset_count": 15,
+  "subsets": [
+    {
+      "source_set_id": 2643,
+      "name": "1997-98 Hoops - 9-1-1",
+      "short": "9-1-1",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2643/1997-98-Hoops-9-1-1",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2644,
+      "name": "1997-98 Hoops - Chairman of the Boards",
+      "short": "Chairman of the Boards",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2644/1997-98-Hoops-Chairman-of-the-Boards",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 121646,
+      "name": "1997-98 Hoops - Checklist/Redemptions",
+      "short": "Checklist/Redemptions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/121646/1997-98-Hoops-Checklist-Redemptions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25782,
+      "name": "1997-98 Hoops - Chill with Hill",
+      "short": "Chill with Hill",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25782/1997-98-Hoops-Chill-with-Hill",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2645,
+      "name": "1997-98 Hoops - Dish n Swish",
+      "short": "Dish n Swish",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2645/1997-98-Hoops-Dish-n-Swish",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2646,
+      "name": "1997-98 Hoops - Frequent Flyer Club",
+      "short": "Frequent Flyer Club",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2646/1997-98-Hoops-Frequent-Flyer-Club",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25783,
+      "name": "1997-98 Hoops - Frequent Flyer Club First Class Upgrade",
+      "short": "Frequent Flyer Club First Class Upgrade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25783/1997-98-Hoops-Frequent-Flyer-Club-First-Class-Upgrade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2647,
+      "name": "1997-98 Hoops - Great Shots! 5x7",
+      "short": "Great Shots! 5x7",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2647/1997-98-Hoops-Great-Shots-5x7",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2649,
+      "name": "1997-98 Hoops - HOOPerstars",
+      "short": "HOOPerstars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2649/1997-98-Hoops-HOOPerstars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2648,
+      "name": "1997-98 Hoops - High Voltage",
+      "short": "High Voltage",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2648/1997-98-Hoops-High-Voltage",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25784,
+      "name": "1997-98 Hoops - High Voltage 500 Volts",
+      "short": "High Voltage 500 Volts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25784/1997-98-Hoops-High-Voltage-500-Volts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2650,
+      "name": "1997-98 Hoops - Rock the House",
+      "short": "Rock the House",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2650/1997-98-Hoops-Rock-the-House",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2651,
+      "name": "1997-98 Hoops - Rookie Headliners",
+      "short": "Rookie Headliners",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2651/1997-98-Hoops-Rookie-Headliners",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2652,
+      "name": "1997-98 Hoops - Talkin' Hoops",
+      "short": "Talkin' Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2652/1997-98-Hoops-Talkin-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2653,
+      "name": "1997-98 Hoops - Top of the World",
+      "short": "Top of the World",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2653/1997-98-Hoops-Top-of-the-World",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 2643,
+      "name": "9-1-1",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2649,
+      "name": "HOOPerstars",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 121646,
+      "name": "Checklist/Redemptions",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 348,
+  "before_tiers": {
+    "base": 285,
+    "rookie": 43
+  },
+  "tiers": {
+    "base": 287,
+    "rookie": 43,
+    "insert": 25
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 2,
+    "insert": 25
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 287,
+      "available_cards": 287,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 43,
+      "available_cards": 43,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 15
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 7
+}

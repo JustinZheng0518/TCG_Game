@@ -1,0 +1,769 @@
+{
+  "set_id": "BB81580",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/81580/2012-13-Panini-National-Treasures",
+  "headings": [
+    "Insert Sets (65)",
+    "Parallel Sets (7)"
+  ],
+  "subset_count": 72,
+  "subsets": [
+    {
+      "source_set_id": 84046,
+      "name": "2012-13 Panini National Treasures - 11 vs. 12 Signatures",
+      "short": "11 vs. 12 Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84046/2012-13-Panini-National-Treasures-11-vs-12-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84047,
+      "name": "2012-13 Panini National Treasures - 11 vs. 12 Signatures Emerald",
+      "short": "11 vs. 12 Signatures Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84047/2012-13-Panini-National-Treasures-11-vs-12-Signatures-Emerald",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84048,
+      "name": "2012-13 Panini National Treasures - 11 vs. 12 Signatures Gold",
+      "short": "11 vs. 12 Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84048/2012-13-Panini-National-Treasures-11-vs-12-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84049,
+      "name": "2012-13 Panini National Treasures - 11 vs. 12 Signatures Platinum",
+      "short": "11 vs. 12 Signatures Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84049/2012-13-Panini-National-Treasures-11-vs-12-Signatures-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84050,
+      "name": "2012-13 Panini National Treasures - 11 vs. 12 Signatures Silver",
+      "short": "11 vs. 12 Signatures Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84050/2012-13-Panini-National-Treasures-11-vs-12-Signatures-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84051,
+      "name": "2012-13 Panini National Treasures - ABA Legends Signatures",
+      "short": "ABA Legends Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84051/2012-13-Panini-National-Treasures-ABA-Legends-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84052,
+      "name": "2012-13 Panini National Treasures - Champions Signatures",
+      "short": "Champions Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84052/2012-13-Panini-National-Treasures-Champions-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84053,
+      "name": "2012-13 Panini National Treasures - Champions Signatures Combos",
+      "short": "Champions Signatures Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84053/2012-13-Panini-National-Treasures-Champions-Signatures-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84054,
+      "name": "2012-13 Panini National Treasures - Champions Signatures Quads",
+      "short": "Champions Signatures Quads",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84054/2012-13-Panini-National-Treasures-Champions-Signatures-Quads",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84055,
+      "name": "2012-13 Panini National Treasures - Champions Signatures Trios",
+      "short": "Champions Signatures Trios",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84055/2012-13-Panini-National-Treasures-Champions-Signatures-Trios",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84056,
+      "name": "2012-13 Panini National Treasures - Colossal Materials",
+      "short": "Colossal Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84056/2012-13-Panini-National-Treasures-Colossal-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84057,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Number Signatures",
+      "short": "Colossal Materials Jersey Number Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84057/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Number-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84058,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Number Signatures Prime",
+      "short": "Colossal Materials Jersey Number Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84058/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Number-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84059,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Numbers",
+      "short": "Colossal Materials Jersey Numbers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84059/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Numbers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84060,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Numbers Prime",
+      "short": "Colossal Materials Jersey Numbers Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84060/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Numbers-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205907,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Numbers Printing Plates Black",
+      "short": "Colossal Materials Jersey Numbers Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205907/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Numbers-Printing-Plates-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205908,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Numbers Printing Plates Cyan",
+      "short": "Colossal Materials Jersey Numbers Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205908/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Numbers-Printing-Plates-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205909,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Numbers Printing Plates Magenta",
+      "short": "Colossal Materials Jersey Numbers Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205909/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Numbers-Printing-Plates-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205910,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Jersey Numbers Printing Plates Yellow",
+      "short": "Colossal Materials Jersey Numbers Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205910/2012-13-Panini-National-Treasures-Colossal-Materials-Jersey-Numbers-Printing-Plates-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84061,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Prime",
+      "short": "Colossal Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84061/2012-13-Panini-National-Treasures-Colossal-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84062,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Prime Signatures",
+      "short": "Colossal Materials Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84062/2012-13-Panini-National-Treasures-Colossal-Materials-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84063,
+      "name": "2012-13 Panini National Treasures - Colossal Materials Signatures",
+      "short": "Colossal Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84063/2012-13-Panini-National-Treasures-Colossal-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84064,
+      "name": "2012-13 Panini National Treasures - Colossal NBA Logoman",
+      "short": "Colossal NBA Logoman",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84064/2012-13-Panini-National-Treasures-Colossal-NBA-Logoman",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84065,
+      "name": "2012-13 Panini National Treasures - Colossal NBA Logoman Signatures",
+      "short": "Colossal NBA Logoman Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84065/2012-13-Panini-National-Treasures-Colossal-NBA-Logoman-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84067,
+      "name": "2012-13 Panini National Treasures - Gold Proof Autographs",
+      "short": "Gold Proof Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84067/2012-13-Panini-National-Treasures-Gold-Proof-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84068,
+      "name": "2012-13 Panini National Treasures - Jersey Number Autographs",
+      "short": "Jersey Number Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84068/2012-13-Panini-National-Treasures-Jersey-Number-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84069,
+      "name": "2012-13 Panini National Treasures - Matchups Materials",
+      "short": "Matchups Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84069/2012-13-Panini-National-Treasures-Matchups-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84070,
+      "name": "2012-13 Panini National Treasures - Matchups Materials Prime",
+      "short": "Matchups Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84070/2012-13-Panini-National-Treasures-Matchups-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 241137,
+      "name": "2012-13 Panini National Treasures - Matchups Materials Printing Plate Black",
+      "short": "Matchups Materials Printing Plate Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/241137/2012-13-Panini-National-Treasures-Matchups-Materials-Printing-Plate-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 241138,
+      "name": "2012-13 Panini National Treasures - Matchups Materials Printing Plate Cyan",
+      "short": "Matchups Materials Printing Plate Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/241138/2012-13-Panini-National-Treasures-Matchups-Materials-Printing-Plate-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 241139,
+      "name": "2012-13 Panini National Treasures - Matchups Materials Printing Plate Magenta",
+      "short": "Matchups Materials Printing Plate Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/241139/2012-13-Panini-National-Treasures-Matchups-Materials-Printing-Plate-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 241140,
+      "name": "2012-13 Panini National Treasures - Matchups Materials Printing Plate Yellow",
+      "short": "Matchups Materials Printing Plate Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/241140/2012-13-Panini-National-Treasures-Matchups-Materials-Printing-Plate-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84071,
+      "name": "2012-13 Panini National Treasures - Material Treasures",
+      "short": "Material Treasures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84071/2012-13-Panini-National-Treasures-Material-Treasures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84072,
+      "name": "2012-13 Panini National Treasures - Material Treasures Prime",
+      "short": "Material Treasures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84072/2012-13-Panini-National-Treasures-Material-Treasures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 452866,
+      "name": "2012-13 Panini National Treasures - Material Treasures Printing Plates Black",
+      "short": "Material Treasures Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/452866/2012-13-Panini-National-Treasures-Material-Treasures-Printing-Plates-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 452865,
+      "name": "2012-13 Panini National Treasures - Material Treasures Printing Plates Cyan",
+      "short": "Material Treasures Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/452865/2012-13-Panini-National-Treasures-Material-Treasures-Printing-Plates-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 452864,
+      "name": "2012-13 Panini National Treasures - Material Treasures Printing Plates Magenta",
+      "short": "Material Treasures Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/452864/2012-13-Panini-National-Treasures-Material-Treasures-Printing-Plates-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 452867,
+      "name": "2012-13 Panini National Treasures - Material Treasures Printing Plates Yellow",
+      "short": "Material Treasures Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/452867/2012-13-Panini-National-Treasures-Material-Treasures-Printing-Plates-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84073,
+      "name": "2012-13 Panini National Treasures - NBA Gear Dual",
+      "short": "NBA Gear Dual",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84073/2012-13-Panini-National-Treasures-NBA-Gear-Dual",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84074,
+      "name": "2012-13 Panini National Treasures - NBA Gear Dual Prime",
+      "short": "NBA Gear Dual Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84074/2012-13-Panini-National-Treasures-NBA-Gear-Dual-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84075,
+      "name": "2012-13 Panini National Treasures - NBA Gear Dual Prime Signatures",
+      "short": "NBA Gear Dual Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84075/2012-13-Panini-National-Treasures-NBA-Gear-Dual-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84076,
+      "name": "2012-13 Panini National Treasures - NBA Gear Dual Signatures",
+      "short": "NBA Gear Dual Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84076/2012-13-Panini-National-Treasures-NBA-Gear-Dual-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84077,
+      "name": "2012-13 Panini National Treasures - NBA Gear Laundry Tag Combos",
+      "short": "NBA Gear Laundry Tag Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84077/2012-13-Panini-National-Treasures-NBA-Gear-Laundry-Tag-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84078,
+      "name": "2012-13 Panini National Treasures - NBA Gear Laundry Tag Combos Signatures",
+      "short": "NBA Gear Laundry Tag Combos Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84078/2012-13-Panini-National-Treasures-NBA-Gear-Laundry-Tag-Combos-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84079,
+      "name": "2012-13 Panini National Treasures - NBA Gear Trios",
+      "short": "NBA Gear Trios",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84079/2012-13-Panini-National-Treasures-NBA-Gear-Trios",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84080,
+      "name": "2012-13 Panini National Treasures - NBA Gear Trios Prime",
+      "short": "NBA Gear Trios Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84080/2012-13-Panini-National-Treasures-NBA-Gear-Trios-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84081,
+      "name": "2012-13 Panini National Treasures - NBA Gear Trios Prime Signatures",
+      "short": "NBA Gear Trios Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84081/2012-13-Panini-National-Treasures-NBA-Gear-Trios-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84082,
+      "name": "2012-13 Panini National Treasures - NBA Gear Trios Signatures",
+      "short": "NBA Gear Trios Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84082/2012-13-Panini-National-Treasures-NBA-Gear-Trios-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84083,
+      "name": "2012-13 Panini National Treasures - NBA Logoman",
+      "short": "NBA Logoman",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84083/2012-13-Panini-National-Treasures-NBA-Logoman",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84085,
+      "name": "2012-13 Panini National Treasures - NBA Logoman Combos",
+      "short": "NBA Logoman Combos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84085/2012-13-Panini-National-Treasures-NBA-Logoman-Combos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205911,
+      "name": "2012-13 Panini National Treasures - NBA Logoman Combos Printing Plates Black",
+      "short": "NBA Logoman Combos Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205911/2012-13-Panini-National-Treasures-NBA-Logoman-Combos-Printing-Plates-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205912,
+      "name": "2012-13 Panini National Treasures - NBA Logoman Combos Printing Plates Cyan",
+      "short": "NBA Logoman Combos Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205912/2012-13-Panini-National-Treasures-NBA-Logoman-Combos-Printing-Plates-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205913,
+      "name": "2012-13 Panini National Treasures - NBA Logoman Combos Printing Plates Magenta",
+      "short": "NBA Logoman Combos Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205913/2012-13-Panini-National-Treasures-NBA-Logoman-Combos-Printing-Plates-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 205914,
+      "name": "2012-13 Panini National Treasures - NBA Logoman Combos Printing Plates Yellow",
+      "short": "NBA Logoman Combos Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/205914/2012-13-Panini-National-Treasures-NBA-Logoman-Combos-Printing-Plates-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84086,
+      "name": "2012-13 Panini National Treasures - NBA Logoman Signatures",
+      "short": "NBA Logoman Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84086/2012-13-Panini-National-Treasures-NBA-Logoman-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84087,
+      "name": "2012-13 Panini National Treasures - Notable Nicknames",
+      "short": "Notable Nicknames",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84087/2012-13-Panini-National-Treasures-Notable-Nicknames",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84090,
+      "name": "2012-13 Panini National Treasures - Springfield Bound Signatures",
+      "short": "Springfield Bound Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84090/2012-13-Panini-National-Treasures-Springfield-Bound-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84091,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Names",
+      "short": "Timeline Materials Custom Names",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84091/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Names",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84092,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Names Prime",
+      "short": "Timeline Materials Custom Names Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84092/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Names-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84093,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Names Prime Signatures",
+      "short": "Timeline Materials Custom Names Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84093/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Names-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84094,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Names Signatures",
+      "short": "Timeline Materials Custom Names Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84094/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Names-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 227636,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Team Nicknames",
+      "short": "Timeline Materials Custom Team Nicknames",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/227636/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Team-Nicknames",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84096,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Team Nicknames Prime",
+      "short": "Timeline Materials Custom Team Nicknames Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84096/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Team-Nicknames-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84097,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Team Nicknames Prime Signatures",
+      "short": "Timeline Materials Custom Team Nicknames Prime Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84097/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Team-Nicknames-Prime-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84098,
+      "name": "2012-13 Panini National Treasures - Timeline Materials Custom Team Nicknames Signatures",
+      "short": "Timeline Materials Custom Team Nicknames Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84098/2012-13-Panini-National-Treasures-Timeline-Materials-Custom-Team-Nicknames-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 84066,
+      "name": "2012-13 Panini National Treasures - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84066/2012-13-Panini-National-Treasures-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 84088,
+      "name": "2012-13 Panini National Treasures - Platinum",
+      "short": "Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84088/2012-13-Panini-National-Treasures-Platinum",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 220773,
+      "name": "2012-13 Panini National Treasures - Printing Plates Black",
+      "short": "Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/220773/2012-13-Panini-National-Treasures-Printing-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 220774,
+      "name": "2012-13 Panini National Treasures - Printing Plates Cyan",
+      "short": "Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/220774/2012-13-Panini-National-Treasures-Printing-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 220775,
+      "name": "2012-13 Panini National Treasures - Printing Plates Magenta",
+      "short": "Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/220775/2012-13-Panini-National-Treasures-Printing-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 220776,
+      "name": "2012-13 Panini National Treasures - Printing Plates Yellow",
+      "short": "Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/220776/2012-13-Panini-National-Treasures-Printing-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 84089,
+      "name": "2012-13 Panini National Treasures - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/84089/2012-13-Panini-National-Treasures-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 21,
+  "imported_this_run": [
+    {
+      "source_set_id": 84088,
+      "name": "Platinum",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 220773,
+      "name": "Printing Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 452866,
+      "name": "Material Treasures Printing Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 205911,
+      "name": "NBA Logoman Combos Printing Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 84046,
+      "name": "11 vs. 12 Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 84086,
+      "name": "NBA Logoman Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 84076,
+      "name": "NBA Gear Dual Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 49
+    },
+    {
+      "source_set_id": 84082,
+      "name": "NBA Gear Trios Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 84056,
+      "name": "Colossal Materials",
+      "family_requested": "memorabilia",
+      "cards_with_front": 4,
+      "missing_fronts": 16
+    },
+    {
+      "source_set_id": 84069,
+      "name": "Matchups Materials",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 84061,
+      "name": "Colossal Materials Prime",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 84070,
+      "name": "Matchups Materials Prime",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 84091,
+      "name": "Timeline Materials Custom Names",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 84059,
+      "name": "Colossal Materials Jersey Numbers",
+      "family_requested": "memorabilia",
+      "cards_with_front": 2,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 220774,
+      "name": "Printing Plates Cyan",
+      "family_requested": "parallel",
+      "cards_with_front": 0,
+      "missing_fronts": 201
+    },
+    {
+      "source_set_id": 220776,
+      "name": "Printing Plates Yellow",
+      "family_requested": "parallel",
+      "cards_with_front": 0,
+      "missing_fronts": 201
+    },
+    {
+      "source_set_id": 84083,
+      "name": "NBA Logoman",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 74
+    },
+    {
+      "source_set_id": 84073,
+      "name": "NBA Gear Dual",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 44
+    },
+    {
+      "source_set_id": 84079,
+      "name": "NBA Gear Trios",
+      "family_requested": "insert",
+      "cards_with_front": 2,
+      "missing_fronts": 23
+    },
+    {
+      "source_set_id": 84087,
+      "name": "Notable Nicknames",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 84071,
+      "name": "Material Treasures",
+      "family_requested": "insert",
+      "cards_with_front": 14,
+      "missing_fronts": 86
+    },
+    {
+      "source_set_id": 84085,
+      "name": "NBA Logoman Combos",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 135,
+  "before_tiers": {
+    "numbered": 16,
+    "auto_patch": 60,
+    "auto": 11,
+    "numbered_low": 3
+  },
+  "tiers": {
+    "numbered": 16,
+    "auto_patch": 66,
+    "auto": 26,
+    "numbered_low": 11,
+    "memorabilia": 49
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "numbered": 16,
+    "auto_patch": 66,
+    "auto": 26,
+    "numbered_low": 11,
+    "memorabilia": 49
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 11,
+      "available_cards": 11,
+      "local_images": 11,
+      "source_candidates": 5
+    },
+    "auto": {
+      "status": "available",
+      "records": 26,
+      "available_cards": 26,
+      "local_images": 26,
+      "source_candidates": 19
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 49,
+      "available_cards": 49,
+      "local_images": 49,
+      "source_candidates": 18
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 66,
+      "available_cards": 66,
+      "local_images": 66,
+      "source_candidates": 9
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 7
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 19
+    },
+    "numbered": {
+      "status": "available",
+      "records": 16,
+      "available_cards": 16,
+      "local_images": 16,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 33
+}

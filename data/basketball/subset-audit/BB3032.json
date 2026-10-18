@@ -1,0 +1,193 @@
+{
+  "set_id": "BB3032",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3032/2003-Ultra-WNBA",
+  "headings": [
+    "Insert Sets (6)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 7,
+  "subsets": [
+    {
+      "source_set_id": 27867,
+      "name": "2003 Ultra WNBA - All-Star Material",
+      "short": "All-Star Material",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27867/2003-Ultra-WNBA-All-Star-Material",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 3033,
+      "name": "2003 Ultra WNBA - All-Star Material Patches",
+      "short": "All-Star Material Patches",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/3033/2003-Ultra-WNBA-All-Star-Material-Patches",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27866,
+      "name": "2003 Ultra WNBA - All-Star Review",
+      "short": "All-Star Review",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27866/2003-Ultra-WNBA-All-Star-Review",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27869,
+      "name": "2003 Ultra WNBA - Nameplates",
+      "short": "Nameplates",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27869/2003-Ultra-WNBA-Nameplates",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27870,
+      "name": "2003 Ultra WNBA - Who I Am",
+      "short": "Who I Am",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27870/2003-Ultra-WNBA-Who-I-Am",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 3034,
+      "name": "2003 Ultra WNBA - Who I Am Game Used",
+      "short": "Who I Am Game Used",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/3034/2003-Ultra-WNBA-Who-I-Am-Game-Used",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27868,
+      "name": "2003 Ultra WNBA - Gold Medallion",
+      "short": "Gold Medallion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27868/2003-Ultra-WNBA-Gold-Medallion",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 5,
+  "imported_this_run": [
+    {
+      "source_set_id": 27868,
+      "name": "Gold Medallion",
+      "family_requested": "numbered_low",
+      "cards_with_front": 84,
+      "missing_fronts": 36
+    },
+    {
+      "source_set_id": 3033,
+      "name": "All-Star Material Patches",
+      "family_requested": "memorabilia",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 27870,
+      "name": "Who I Am",
+      "family_requested": "insert",
+      "cards_with_front": 14,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27869,
+      "name": "Nameplates",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 27866,
+      "name": "All-Star Review",
+      "family_requested": "insert",
+      "cards_with_front": 19,
+      "missing_fronts": 1
+    }
+  ],
+  "import_errors": [],
+  "card_count": 243,
+  "before_tiers": {
+    "base": 105,
+    "rookie": 15
+  },
+  "tiers": {
+    "base": 105,
+    "rookie": 15,
+    "parallel": 84,
+    "memorabilia": 6,
+    "insert": 33
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 1,
+    "rookie": 6,
+    "parallel": 84,
+    "memorabilia": 6,
+    "insert": 33
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 105,
+      "available_cards": 105,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 15,
+      "available_cards": 15,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 6,
+      "available_cards": 6,
+      "local_images": 6,
+      "source_candidates": 1
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 84,
+      "available_cards": 84,
+      "local_images": 84,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 33,
+      "available_cards": 33,
+      "local_images": 33,
+      "source_candidates": 5
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

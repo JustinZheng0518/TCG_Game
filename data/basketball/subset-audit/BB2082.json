@@ -1,0 +1,211 @@
+{
+  "set_id": "BB2082",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2082/1991-92-Fleer",
+  "headings": [
+    "Insert Sets (7)"
+  ],
+  "subset_count": 12,
+  "subsets": [
+    {
+      "source_set_id": 8828,
+      "name": "1991-92 Fleer - Dikembe Mutombo Limited Edition",
+      "short": "Dikembe Mutombo Limited Edition",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/8828/1991-92-Fleer-Dikembe-Mutombo-Limited-Edition",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 118001,
+      "name": "1991-92 Fleer - Dikembe Mutombo Limited Edition Autographs",
+      "short": "Dikembe Mutombo Limited Edition Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/118001/1991-92-Fleer-Dikembe-Mutombo-Limited-Edition-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 8829,
+      "name": "1991-92 Fleer - Dominique Wilkins Limited Edition",
+      "short": "Dominique Wilkins Limited Edition",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/8829/1991-92-Fleer-Dominique-Wilkins-Limited-Edition",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 118000,
+      "name": "1991-92 Fleer - Dominique Wilkins Limited Edition Autographs",
+      "short": "Dominique Wilkins Limited Edition Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/118000/1991-92-Fleer-Dominique-Wilkins-Limited-Edition-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2085,
+      "name": "1991-92 Fleer - NBA Schoolyard Stars",
+      "short": "NBA Schoolyard Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2085/1991-92-Fleer-NBA-Schoolyard-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2083,
+      "name": "1991-92 Fleer - Pro-Visions",
+      "short": "Pro-Visions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2083/1991-92-Fleer-Pro-Visions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2084,
+      "name": "1991-92 Fleer - Rookie Sensations",
+      "short": "Rookie Sensations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2084/1991-92-Fleer-Rookie-Sensations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 134064,
+      "name": "1991-92 Fleer - 3D Acrylic",
+      "short": "3D Acrylic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/134064/1991-92-Fleer-3D-Acrylic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 302338,
+      "name": "1991-92 Fleer - Collectors Pin/Card",
+      "short": "Collectors Pin/Card",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/302338/1991-92-Fleer-Collectors-Pin-Card",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 266392,
+      "name": "1991-92 Fleer - NBA Schoolyard Stars Promotional Samples",
+      "short": "NBA Schoolyard Stars Promotional Samples",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/266392/1991-92-Fleer-NBA-Schoolyard-Stars-Promotional-Samples",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 280548,
+      "name": "1991-92 Fleer - Promotional Sample Sheet (Perforated)",
+      "short": "Promotional Sample Sheet (Perforated)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/280548/1991-92-Fleer-Promotional-Sample-Sheet-Perforated-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 100800,
+      "name": "1991-92 Fleer - Promotional Sample Sheet Singles (Perforated)",
+      "short": "Promotional Sample Sheet Singles (Perforated)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/100800/1991-92-Fleer-Promotional-Sample-Sheet-Singles-Perforated-",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 118001,
+      "name": "Dikembe Mutombo Limited Edition Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 9,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 118000,
+      "name": "Dominique Wilkins Limited Edition Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 12,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 134064,
+      "name": "3D Acrylic",
+      "family_requested": "insert",
+      "cards_with_front": 89,
+      "missing_fronts": 301
+    }
+  ],
+  "import_errors": [],
+  "card_count": 503,
+  "before_tiers": {
+    "base": 326,
+    "rookie": 67
+  },
+  "tiers": {
+    "base": 336,
+    "rookie": 67,
+    "auto": 21,
+    "insert": 92
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "rookie": 1,
+    "auto": 21,
+    "insert": 92
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 336,
+      "available_cards": 336,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 67,
+      "available_cards": 67,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 92,
+      "available_cards": 92,
+      "local_images": 92,
+      "source_candidates": 10
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 13
+}

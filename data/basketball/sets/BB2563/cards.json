@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-692441.webp"
+    "local_preview": "data/basketball/previews/BB2563-692441.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:692442",
@@ -50,7 +52,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692443",
@@ -76,7 +79,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692444",
@@ -102,7 +106,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692445",
@@ -128,7 +133,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692446",
@@ -154,7 +160,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692447",
@@ -180,7 +187,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692448",
@@ -206,7 +214,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692449",
@@ -232,7 +241,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692450",
@@ -258,7 +268,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692451",
@@ -284,7 +295,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692452",
@@ -310,7 +322,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692453",
@@ -336,7 +349,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692454",
@@ -362,7 +376,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692455",
@@ -388,7 +403,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692456",
@@ -414,7 +430,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692457",
@@ -440,7 +457,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692458",
@@ -466,7 +484,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692459",
@@ -492,7 +511,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692460",
@@ -518,7 +538,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692461",
@@ -544,7 +565,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692462",
@@ -570,7 +592,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692463",
@@ -596,7 +619,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692464",
@@ -622,7 +646,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692465",
@@ -648,7 +673,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692466",
@@ -674,7 +700,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692467",
@@ -700,7 +727,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692468",
@@ -726,7 +754,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692469",
@@ -752,7 +781,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692470",
@@ -778,7 +808,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692471",
@@ -804,7 +835,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692472",
@@ -830,7 +862,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692473",
@@ -856,7 +889,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692474",
@@ -882,7 +916,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692475",
@@ -908,7 +943,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692476",
@@ -934,7 +970,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692477",
@@ -960,7 +997,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692478",
@@ -986,7 +1024,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692479",
@@ -1012,7 +1051,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692480",
@@ -1038,7 +1078,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692481",
@@ -1064,7 +1105,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692482",
@@ -1090,7 +1132,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692483",
@@ -1116,7 +1159,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692484",
@@ -1142,7 +1186,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692485",
@@ -1168,7 +1213,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692486",
@@ -1194,7 +1240,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692487",
@@ -1220,7 +1267,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692488",
@@ -1246,7 +1294,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692489",
@@ -1272,7 +1321,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692490",
@@ -1298,7 +1348,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692491",
@@ -1324,7 +1375,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692492",
@@ -1350,7 +1402,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692493",
@@ -1376,7 +1429,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692494",
@@ -1402,7 +1456,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692495",
@@ -1428,7 +1483,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692496",
@@ -1454,7 +1510,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692497",
@@ -1480,7 +1537,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692498",
@@ -1506,7 +1564,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692499",
@@ -1532,7 +1591,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692500",
@@ -1558,7 +1618,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692501",
@@ -1584,7 +1645,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692502",
@@ -1610,7 +1672,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692503",
@@ -1636,7 +1699,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692504",
@@ -1662,7 +1726,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692505",
@@ -1688,7 +1753,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692506",
@@ -1714,7 +1780,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692507",
@@ -1740,7 +1807,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692508",
@@ -1766,7 +1834,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692509",
@@ -1792,7 +1861,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692510",
@@ -1818,7 +1888,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692511",
@@ -1844,7 +1915,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692513",
@@ -1870,7 +1942,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692514",
@@ -1896,7 +1969,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692515",
@@ -1922,7 +1996,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692516",
@@ -1948,7 +2023,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692517",
@@ -1974,7 +2050,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692518",
@@ -2000,7 +2077,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692519",
@@ -2026,7 +2104,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692520",
@@ -2052,7 +2131,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692521",
@@ -2078,7 +2158,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692522",
@@ -2104,7 +2185,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692523",
@@ -2130,7 +2212,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692524",
@@ -2156,7 +2239,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692525",
@@ -2182,7 +2266,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692526",
@@ -2208,7 +2293,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692527",
@@ -2234,7 +2320,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692528",
@@ -2260,7 +2347,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692529",
@@ -2286,7 +2374,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692530",
@@ -2312,7 +2401,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692531",
@@ -2338,7 +2428,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692532",
@@ -2364,7 +2455,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692533",
@@ -2390,7 +2482,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692534",
@@ -2416,7 +2509,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692535",
@@ -2442,7 +2536,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692536",
@@ -2468,7 +2563,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692537",
@@ -2494,7 +2590,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692538",
@@ -2520,7 +2617,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692539",
@@ -2546,7 +2644,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692540",
@@ -2572,7 +2671,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692541",
@@ -2598,7 +2698,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692542",
@@ -2624,7 +2725,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692543",
@@ -2650,7 +2752,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692544",
@@ -2676,7 +2779,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692545",
@@ -2702,7 +2806,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692546",
@@ -2728,7 +2833,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692547",
@@ -2754,7 +2860,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692548",
@@ -2780,7 +2887,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692549",
@@ -2806,7 +2914,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692550",
@@ -2832,7 +2941,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692552",
@@ -2858,7 +2968,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692553",
@@ -2884,7 +2995,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692554",
@@ -2910,7 +3022,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692555",
@@ -2936,7 +3049,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692556",
@@ -2962,7 +3076,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692557",
@@ -2988,7 +3103,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692558",
@@ -3014,7 +3130,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692559",
@@ -3040,7 +3157,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692560",
@@ -3066,7 +3184,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692561",
@@ -3092,7 +3211,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692562",
@@ -3118,7 +3238,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692563",
@@ -3144,7 +3265,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692564",
@@ -3171,7 +3293,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-692564.webp"
+    "local_preview": "data/basketball/previews/BB2563-692564.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:692565",
@@ -3197,7 +3321,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692566",
@@ -3223,7 +3348,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692567",
@@ -3249,7 +3375,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692568",
@@ -3275,7 +3402,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692569",
@@ -3301,7 +3429,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692570",
@@ -3327,7 +3456,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692571",
@@ -3353,7 +3483,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692572",
@@ -3379,7 +3510,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692573",
@@ -3405,7 +3537,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692574",
@@ -3431,7 +3564,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692575",
@@ -3457,7 +3591,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692576",
@@ -3483,7 +3618,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692577",
@@ -3509,7 +3645,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692578",
@@ -3535,7 +3672,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692579",
@@ -3561,7 +3699,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692580",
@@ -3587,7 +3726,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692581",
@@ -3613,7 +3753,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692582",
@@ -3639,7 +3780,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692583",
@@ -3665,7 +3807,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692584",
@@ -3691,7 +3834,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692585",
@@ -3717,7 +3861,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692586",
@@ -3743,7 +3888,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692587",
@@ -3769,7 +3915,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692588",
@@ -3795,7 +3942,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692589",
@@ -3821,7 +3969,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692590",
@@ -3847,7 +3996,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692591",
@@ -3873,7 +4023,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692592",
@@ -3899,7 +4050,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692593",
@@ -3925,7 +4077,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692594",
@@ -3951,7 +4104,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692595",
@@ -3977,7 +4131,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692596",
@@ -4003,7 +4158,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692597",
@@ -4029,7 +4185,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692598",
@@ -4055,7 +4212,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692599",
@@ -4081,7 +4239,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692600",
@@ -4107,7 +4266,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692601",
@@ -4133,7 +4293,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692602",
@@ -4159,7 +4320,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692603",
@@ -4185,7 +4347,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692604",
@@ -4211,7 +4374,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692605",
@@ -4237,7 +4401,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692606",
@@ -4263,7 +4428,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692607",
@@ -4289,7 +4455,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692608",
@@ -4315,7 +4482,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692609",
@@ -4341,7 +4509,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692610",
@@ -4367,7 +4536,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692611",
@@ -4393,7 +4563,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692612",
@@ -4419,7 +4590,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692613",
@@ -4445,7 +4617,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692614",
@@ -4471,7 +4644,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692615",
@@ -4497,7 +4671,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692616",
@@ -4523,7 +4698,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692617",
@@ -4549,7 +4725,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692618",
@@ -4575,7 +4752,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692619",
@@ -4601,7 +4779,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692620",
@@ -4627,7 +4806,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692621",
@@ -4653,7 +4833,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692622",
@@ -4679,7 +4860,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692623",
@@ -4705,7 +4887,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692624",
@@ -4731,7 +4914,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692625",
@@ -4757,7 +4941,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692626",
@@ -4783,7 +4968,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692627",
@@ -4809,7 +4995,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692628",
@@ -4835,7 +5022,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692629",
@@ -4861,7 +5049,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692630",
@@ -4887,7 +5076,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692631",
@@ -4913,7 +5103,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692632",
@@ -4939,7 +5130,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692633",
@@ -4965,7 +5157,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692634",
@@ -4991,7 +5184,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692635",
@@ -5017,7 +5211,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692636",
@@ -5043,7 +5238,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692637",
@@ -5069,7 +5265,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692638",
@@ -5095,7 +5292,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692639",
@@ -5121,7 +5319,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692640",
@@ -5147,7 +5346,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692641",
@@ -5173,7 +5373,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692642",
@@ -5199,7 +5400,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692643",
@@ -5225,7 +5427,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692644",
@@ -5251,7 +5454,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692645",
@@ -5277,7 +5481,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692646",
@@ -5303,7 +5508,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692647",
@@ -5329,7 +5535,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692648",
@@ -5355,7 +5562,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692649",
@@ -5381,7 +5589,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692650",
@@ -5407,7 +5616,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692651",
@@ -5433,7 +5643,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692652",
@@ -5459,7 +5670,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692653",
@@ -5485,7 +5697,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692654",
@@ -5511,7 +5724,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692655",
@@ -5537,7 +5751,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692656",
@@ -5563,7 +5778,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692657",
@@ -5589,7 +5805,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692658",
@@ -5615,7 +5832,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692659",
@@ -5641,7 +5859,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:692660",
@@ -5667,7 +5886,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2563:3012941",
@@ -5694,7 +5914,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-3012941.webp"
+    "local_preview": "data/basketball/previews/BB2563-3012941.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012942",
@@ -5715,12 +5937,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012942/1996-97-Topps-Chrome-Refractors-4R-Chris-Webber",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012942Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012942Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012942Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012942.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012942Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012942.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012943",
@@ -5741,12 +5966,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012943/1996-97-Topps-Chrome-Refractors-5R-Jason-Kidd",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012943Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012943Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012943Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012943.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012943Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012943.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012947",
@@ -5767,12 +5995,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012947/1996-97-Topps-Chrome-Refractors-9R-Jeff-Hornacek",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012947Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012947Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012947Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012947.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012947Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012947.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012951",
@@ -5793,12 +6024,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012951/1996-97-Topps-Chrome-Refractors-13R-Kendall-Gill",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012951Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012951Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012951Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012951.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012951Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012951.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012952",
@@ -5819,12 +6053,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012952/1996-97-Topps-Chrome-Refractors-14R-Brian-Williams",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012952Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012952Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012952Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012952.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012952Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012952.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012953",
@@ -5845,12 +6082,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012953/1996-97-Topps-Chrome-Refractors-15R-Tom-Gugliotta",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012953Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012953Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012953Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012953.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012953Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012953.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012954",
@@ -5871,12 +6111,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012954/1996-97-Topps-Chrome-Refractors-16R-Ron-Harper",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012954Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012954Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012954Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012954.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012954Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012954.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012960",
@@ -5897,12 +6140,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012960/1996-97-Topps-Chrome-Refractors-22R-Bob-Sura",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012960Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012960Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012960Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012960.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012960Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012960.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012965",
@@ -5923,12 +6169,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012965/1996-97-Topps-Chrome-Refractors-27R-Horace-Grant",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012965Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012965Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012965Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012965.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012965Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012965.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012968",
@@ -5949,12 +6198,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012968/1996-97-Topps-Chrome-Refractors-30R-Antonio-McDyess",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012968Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012968Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012968Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012968.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012968Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012968.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012971",
@@ -5981,7 +6233,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-3012971.webp"
+    "local_preview": "data/basketball/previews/BB2563-3012971.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012972",
@@ -6008,7 +6262,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-3012972.webp"
+    "local_preview": "data/basketball/previews/BB2563-3012972.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012975",
@@ -6029,12 +6285,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012975/1996-97-Topps-Chrome-Refractors-37R-Byron-Scott",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012975Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012975Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012975Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012975.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012975Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012975.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012976",
@@ -6055,12 +6314,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012976/1996-97-Topps-Chrome-Refractors-38R-Arvydas-Sabonis",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012976Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012976Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012976Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012976.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012976Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012976.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012980",
@@ -6081,12 +6343,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012980/1996-97-Topps-Chrome-Refractors-42R-Jerry-Stackhouse",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012980Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012980Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012980Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012980.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012980Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012980.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012983",
@@ -6107,12 +6372,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012983/1996-97-Topps-Chrome-Refractors-45R-Kevin-Garnett",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012983Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012983Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012983Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012983.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012983Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012983.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012988",
@@ -6133,12 +6401,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012988/1996-97-Topps-Chrome-Refractors-50R-Shawn-Kemp",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012988Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012988Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012988Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012988.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012988Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012988.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012993",
@@ -6159,12 +6430,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012993/1996-97-Topps-Chrome-Refractors-55R-Mookie-Blaylock",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012993Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012993Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012993Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012993.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012993Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012993.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012996",
@@ -6185,12 +6459,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012996/1996-97-Topps-Chrome-Refractors-58R-Greg-Ostertag",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012996Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012996Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012996Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012996.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012996Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012996.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012999",
@@ -6211,12 +6488,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3012999/1996-97-Topps-Chrome-Refractors-61R-Doug-West",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012999Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012999Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012999Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012999.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3012999Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012999.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013001",
@@ -6237,12 +6517,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013001/1996-97-Topps-Chrome-Refractors-63R-Randy-Brown",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013001Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013001Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013001Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013001.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013001Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013001.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013003",
@@ -6263,12 +6546,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013003/1996-97-Topps-Chrome-Refractors-65R-John-Stockton",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013003Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013003Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013003Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013003.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013003Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013003.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013006",
@@ -6289,12 +6575,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013006/1996-97-Topps-Chrome-Refractors-68R-Bobby-Phills",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013006Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013006Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013006Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013006.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013006Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013006.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013007",
@@ -6315,12 +6604,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013007/1996-97-Topps-Chrome-Refractors-69R-Chris-Mullin",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013007Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013007Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013007Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013007.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013007Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013007.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013011",
@@ -6341,12 +6633,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013011/1996-97-Topps-Chrome-Refractors-73R-Shawn-Respert",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013011Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013011Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013011Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013011.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013011Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013011.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013012",
@@ -6367,12 +6662,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013012/1996-97-Topps-Chrome-Refractors-74R-Hubert-Davis",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013012Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013012Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013012Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013012.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013012Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013012.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013014",
@@ -6393,12 +6691,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013014/1996-97-Topps-Chrome-Refractors-76R-Olden-Polynice",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013014Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013014Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013014Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013014.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013014Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013014.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013016",
@@ -6419,12 +6720,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013016/1996-97-Topps-Chrome-Refractors-78R-Theo-Ratliff",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013016Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013016Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013016Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013016.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013016Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013016.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013029",
@@ -6445,12 +6749,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013029/1996-97-Topps-Chrome-Refractors-91R-Michael-Cage",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013029Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013029Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013029Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013029.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013029Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013029.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013036",
@@ -6471,12 +6778,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013036/1996-97-Topps-Chrome-Refractors-98R-Muggsy-Bogues",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013036RepFr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013036RepBk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013036RepFr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013036.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013036RepFr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013036.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013038",
@@ -6497,12 +6807,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013038/1996-97-Topps-Chrome-Refractors-100R-Grant-Hill",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013038Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013038Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013038Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013038.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013038Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013038.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013039",
@@ -6523,12 +6836,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013039/1996-97-Topps-Chrome-Refractors-101R-Michael-Finley",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013039Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013039Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013039Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013039.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013039Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013039.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013040",
@@ -6549,12 +6865,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013040/1996-97-Topps-Chrome-Refractors-102R-Isaiah-Rider",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013040Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013040Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013040Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013040.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013040Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013040.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013041",
@@ -6575,12 +6894,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013041/1996-97-Topps-Chrome-Refractors-103R-Bryant-Stith",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013041Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013041Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013041Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013041.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013041Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013041.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013043",
@@ -6601,12 +6923,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013043/1996-97-Topps-Chrome-Refractors-105R-Karl-Malone",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013043Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013043Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013043Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013043.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013043Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013043.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013048",
@@ -6627,12 +6952,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013048/1996-97-Topps-Chrome-Refractors-110R-Anfernee-Hardaway",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013048Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013048Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013048Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013048.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013048Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013048.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013050",
@@ -6653,12 +6981,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013050/1996-97-Topps-Chrome-Refractors-112R-Dikembe-Mutombo",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013050Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013050Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013050Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013050.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013050Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013050.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013051",
@@ -6679,12 +7010,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013051/1996-97-Topps-Chrome-Refractors-113R-Alonzo-Mourning",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013051Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013051Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013051Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013051.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013051Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013051.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013052",
@@ -6705,12 +7039,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013052/1996-97-Topps-Chrome-Refractors-114R-Hubert-Davis",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013052Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013052Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013052Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013052.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013052Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013052.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013061",
@@ -6731,12 +7068,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013061/1996-97-Topps-Chrome-Refractors-123R-John-Stockton",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013061Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013061Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013061Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013061.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013061Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013061.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013069",
@@ -6757,12 +7097,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013069/1996-97-Topps-Chrome-Refractors-131R-Kevin-Garnett",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013069Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013069Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013069Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013069.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013069Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013069.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013076",
@@ -6783,12 +7126,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013076/1996-97-Topps-Chrome-Refractors-138R-Kobe-Bryant",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013076RepFr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013076RepBk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013076RepFr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013076.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013076RepFr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013076.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013077",
@@ -6809,12 +7155,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013077/1996-97-Topps-Chrome-Refractors-139R-Michael-Jordan",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013077Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013077Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013077Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013077.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013077Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013077.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013079",
@@ -6835,12 +7184,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013079/1996-97-Topps-Chrome-Refractors-141R-Rod-Strickland",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013079Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013079Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013079Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013079.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013079Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013079.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013089",
@@ -6861,12 +7213,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013089/1996-97-Topps-Chrome-Refractors-151R-Eddie-Jones",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013089Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013089Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013089Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013089.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013089Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013089.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013095",
@@ -6887,12 +7242,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013095/1996-97-Topps-Chrome-Refractors-157R-Jamal-Mashburn",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013095Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013095Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013095Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013095.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013095Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013095.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013098",
@@ -6913,12 +7271,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013098/1996-97-Topps-Chrome-Refractors-160R-Martin-Muursepp",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013098RepFr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013098RepBk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013098RepFr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013098.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013098RepFr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013098.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013102",
@@ -6939,12 +7300,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013102/1996-97-Topps-Chrome-Refractors-164R-Luc-Longley",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-164Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-164Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-164Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013102.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-164Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013102.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013109",
@@ -6965,12 +7329,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013109/1996-97-Topps-Chrome-Refractors-171R-Allen-Iverson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013109Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013109Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013109Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013109.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013109Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013109.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013110",
@@ -6991,12 +7358,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013110/1996-97-Topps-Chrome-Refractors-172R-Vitaly-Potapenko",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013110Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013110Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013110Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013110.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013110Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013110.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013115",
@@ -7017,12 +7387,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013115/1996-97-Topps-Chrome-Refractors-177R-Stephon-Marbury",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-177Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-177Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-177Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013115.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-177Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013115.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013116",
@@ -7043,12 +7416,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013116/1996-97-Topps-Chrome-Refractors-178R-Karl-Malone",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013116Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013116Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013116Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013116.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013116Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013116.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013117",
@@ -7069,12 +7445,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013117/1996-97-Topps-Chrome-Refractors-179R-Charles-Barkley",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013117Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013117Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013117Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013117.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013117Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013117.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013120",
@@ -7095,12 +7474,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013120/1996-97-Topps-Chrome-Refractors-182R-Steve-Nash",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-182Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-182Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-182Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013120.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-182Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013120.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013121",
@@ -7121,12 +7503,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013121/1996-97-Topps-Chrome-Refractors-183R-Latrell-Sprewell",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013121Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013121Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013121Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013121.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013121Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013121.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013128",
@@ -7147,12 +7532,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013128/1996-97-Topps-Chrome-Refractors-190R-Bryon-Russell",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013128Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013128Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013128Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013128.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013128Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013128.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013131",
@@ -7173,12 +7561,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013131/1996-97-Topps-Chrome-Refractors-193R-Mahmoud-Abdul-Rauf",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013131Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013131Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013131Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013131.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013131Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013131.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013135",
@@ -7199,12 +7590,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013135/1996-97-Topps-Chrome-Refractors-197R-Rodney-Rogers",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013135Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013135Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013135Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013135.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013135Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013135.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013137",
@@ -7225,12 +7619,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013137/1996-97-Topps-Chrome-Refractors-199R-Grant-Hill",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013137Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013137Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013137Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013137.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013137Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013137.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013150",
@@ -7251,12 +7648,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013150/1996-97-Topps-Chrome-Refractors-212R-Gary-Payton",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-212Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-212Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-212Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013150.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-212Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013150.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013157",
@@ -7277,12 +7677,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013157/1996-97-Topps-Chrome-Refractors-219R-Brooks-Thompson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013157Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013157Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013157Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013157.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013157Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013157.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013158",
@@ -7303,12 +7706,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013158/1996-97-Topps-Chrome-Refractors-220R-Shaquille-O'Neal",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013158Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013158Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013158Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013158.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013158Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013158.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012919",
@@ -7329,12 +7735,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012919/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-1-Grant-Hill",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF1Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF1Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF1Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012919.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF1Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012919.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012920",
@@ -7355,12 +7764,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012920/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-2-Shawn-Kemp",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012920Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012920Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012920Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012920.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012920Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012920.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012921",
@@ -7387,7 +7799,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-3012921.webp"
+    "local_preview": "data/basketball/previews/BB2563-3012921.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012922",
@@ -7408,12 +7822,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012922/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-4-Vin-Baker",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012922Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012922Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012922Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012922.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012922Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012922.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012923",
@@ -7434,12 +7851,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012923/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-5-Chris-Webber",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012923Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012923Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012923Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012923.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012923Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012923.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012924",
@@ -7460,12 +7880,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012924/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-6-Joe-Smith",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012924Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012924Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012924Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012924.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012924Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012924.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012925",
@@ -7492,7 +7915,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-3012925.webp"
+    "local_preview": "data/basketball/previews/BB2563-3012925.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012926",
@@ -7513,12 +7938,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012926/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-8-Patrick-Ewing",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012926Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012926Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012926Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012926.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012926Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012926.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012927",
@@ -7545,7 +7973,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-3012927.webp"
+    "local_preview": "data/basketball/previews/BB2563-3012927.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012928",
@@ -7566,12 +7996,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012928/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-10-Damon-Stoudamire",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012928Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012928Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012928Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012928.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012928Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012928.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012929",
@@ -7592,12 +8025,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012929/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-11-Anfernee-Hardaway",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012929Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012929Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012929Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012929.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012929Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012929.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012930",
@@ -7618,12 +8054,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012930/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-12-Juwan-Howard",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012930Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012930Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012930Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012930.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012930Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012930.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012931",
@@ -7644,12 +8083,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012931/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-13-Dikembe-Mutombo",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012931Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012931Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012931Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012931.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012931Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012931.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012932",
@@ -7670,12 +8112,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012932/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-14-Dennis-Rodman",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012932Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012932Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012932Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012932.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012932Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012932.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012933",
@@ -7702,7 +8147,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2563-3012933.webp"
+    "local_preview": "data/basketball/previews/BB2563-3012933.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012934",
@@ -7723,12 +8170,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012934/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-16-Jerry-Stackhouse",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012934Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012934Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012934Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012934.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012934Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012934.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012935",
@@ -7749,12 +8199,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012935/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-17-Alonzo-Mourning",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012935Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012935Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012935Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012935.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012935Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012935.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012936",
@@ -7775,12 +8228,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012936/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-18-Karl-Malone",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012936Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012936Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012936Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012936.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012936Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012936.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012937",
@@ -7801,12 +8257,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012937/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-19-Hakeem-Olajuwon",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012937Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012937Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012937Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012937.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-3012937Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012937.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3012938",
@@ -7827,12 +8286,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2564/cid/3012938/1996-97-Topps-Chrome-ProFiles-by-David-Robinson-PF-20-Gary-Payton",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF20Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF20Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF20Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3012938.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2564/2564-PF20Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3012938.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013159",
@@ -7853,12 +8315,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013159/1996-97-Topps-Chrome-Season-s-Best-1-Michael-Jordan",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB1Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB1Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB1Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013159.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB1Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013159.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013160",
@@ -7879,12 +8344,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013160/1996-97-Topps-Chrome-Season-s-Best-2-Hakeem-Olajuwon",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013160Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013160Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013160Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013160.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013160Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013160.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013161",
@@ -7905,12 +8373,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013161/1996-97-Topps-Chrome-Season-s-Best-3-Shaquille-O'Neal",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013161Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013161Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013161Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013161.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013161Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013161.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013162",
@@ -7931,12 +8402,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013162/1996-97-Topps-Chrome-Season-s-Best-4-Karl-Malone",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013162Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013162Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013162Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013162.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013162Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013162.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013163",
@@ -7957,12 +8431,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013163/1996-97-Topps-Chrome-Season-s-Best-5-David-Robinson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013163Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013163Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013163Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013163.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013163Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013163.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013164",
@@ -7983,12 +8460,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013164/1996-97-Topps-Chrome-Season-s-Best-6-Dennis-Rodman",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013164Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013164Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013164Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013164.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013164Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013164.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013165",
@@ -8009,12 +8489,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013165/1996-97-Topps-Chrome-Season-s-Best-7-David-Robinson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013165Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013165Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013165Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013165.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013165Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013165.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013166",
@@ -8035,12 +8518,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013166/1996-97-Topps-Chrome-Season-s-Best-8-Dikembe-Mutombo",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013166Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013166Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013166Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013166.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013166Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013166.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013167",
@@ -8061,12 +8547,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013167/1996-97-Topps-Chrome-Season-s-Best-9-Charles-Barkley",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB9Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB9Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB9Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013167.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB9Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013167.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013168",
@@ -8087,12 +8576,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013168/1996-97-Topps-Chrome-Season-s-Best-10-Shawn-Kemp",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013168Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013168Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013168Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013168.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013168Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013168.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013169",
@@ -8113,12 +8605,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013169/1996-97-Topps-Chrome-Season-s-Best-11-John-Stockton",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013169Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013169Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013169Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013169.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013169Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013169.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013170",
@@ -8139,12 +8634,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013170/1996-97-Topps-Chrome-Season-s-Best-12-Jason-Kidd",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013170Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013170Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013170Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013170.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013170Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013170.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013171",
@@ -8165,12 +8663,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013171/1996-97-Topps-Chrome-Season-s-Best-13-Avery-Johnson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013171Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013171Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013171Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013171.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013171Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013171.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013172",
@@ -8191,12 +8692,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013172/1996-97-Topps-Chrome-Season-s-Best-14-Rod-Strickland",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013172Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013172Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013172Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013172.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013172Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013172.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013173",
@@ -8217,12 +8721,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013173/1996-97-Topps-Chrome-Season-s-Best-15-Damon-Stoudamire",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013173Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013173Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013173Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013173.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013173Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013173.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013174",
@@ -8243,12 +8750,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013174/1996-97-Topps-Chrome-Season-s-Best-16-Gary-Payton",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB16Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB16Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB16Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013174.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-SB16Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013174.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013175",
@@ -8269,12 +8779,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013175/1996-97-Topps-Chrome-Season-s-Best-17-Mookie-Blaylock",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013175Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013175Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013175Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013175.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013175Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013175.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013176",
@@ -8295,12 +8808,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013176/1996-97-Topps-Chrome-Season-s-Best-18-Michael-Jordan",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013176RepFr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013176RepBk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013176RepFr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013176.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013176RepFr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013176.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013177",
@@ -8321,12 +8837,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013177/1996-97-Topps-Chrome-Season-s-Best-19-Jason-Kidd",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013177Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013177Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013177Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013177.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013177Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013177.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013178",
@@ -8347,12 +8866,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013178/1996-97-Topps-Chrome-Season-s-Best-20-Alvin-Robertson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013178Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013178Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013178Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013178.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013178Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013178.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013179",
@@ -8373,12 +8895,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013179/1996-97-Topps-Chrome-Season-s-Best-21-Dikembe-Mutombo",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013179Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013179Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013179Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013179.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013179Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013179.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013180",
@@ -8399,12 +8924,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013180/1996-97-Topps-Chrome-Season-s-Best-22-Shawn-Bradley",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013180Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013180Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013180Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013180.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013180Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013180.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013181",
@@ -8425,12 +8953,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013181/1996-97-Topps-Chrome-Season-s-Best-23-David-Robinson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013181Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013181Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013181Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013181.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013181Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013181.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013182",
@@ -8451,12 +8982,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013182/1996-97-Topps-Chrome-Season-s-Best-24-Hakeem-Olajuwon",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013182Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013182Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013182Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013182.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013182Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013182.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013183",
@@ -8477,12 +9011,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2566/cid/3013183/1996-97-Topps-Chrome-Season-s-Best-25-Alonzo-Mourning",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013183Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013183Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013183Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013183.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2566/2566-3013183Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013183.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013184",
@@ -8503,12 +9040,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013184/1996-97-Topps-Chrome-Youthquake-YQ1-Allen-Iverson",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013184RepFr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013184RepBk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013184RepFr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013184.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013184RepFr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013184.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013185",
@@ -8529,12 +9069,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013185/1996-97-Topps-Chrome-Youthquake-YQ2-Samaki-Walker",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013185RepFr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013185RepBk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013185RepFr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013185.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013185RepFr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013185.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013186",
@@ -8555,12 +9098,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013186/1996-97-Topps-Chrome-Youthquake-YQ3-Stephon-Marbury",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-YQ3Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-YQ3Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-YQ3Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013186.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-YQ3Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013186.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013187",
@@ -8581,12 +9127,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013187/1996-97-Topps-Chrome-Youthquake-YQ4-Damon-Stoudamire",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013187Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013187Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013187Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013187.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013187Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013187.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013188",
@@ -8607,12 +9156,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013188/1996-97-Topps-Chrome-Youthquake-YQ5-John-Wallace",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013188Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013188Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013188Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013188.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013188Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013188.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013189",
@@ -8633,12 +9185,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013189/1996-97-Topps-Chrome-Youthquake-YQ6-Michael-Finley",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013189Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013189Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013189Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013189.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013189Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013189.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013190",
@@ -8659,12 +9214,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013190/1996-97-Topps-Chrome-Youthquake-YQ7-Marcus-Camby",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013190Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013190Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013190Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013190.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013190Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013190.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013191",
@@ -8685,12 +9243,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013191/1996-97-Topps-Chrome-Youthquake-YQ8-Kerry-Kittles",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013191Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013191Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013191Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013191.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013191Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013191.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013192",
@@ -8711,12 +9272,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013192/1996-97-Topps-Chrome-Youthquake-YQ9-Ray-Allen",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013192Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013192Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013192Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013192.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013192Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013192.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013193",
@@ -8737,12 +9301,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013193/1996-97-Topps-Chrome-Youthquake-YQ10-Jerry-Stackhouse",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013193Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013193Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013193Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013193.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013193Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013193.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013194",
@@ -8763,12 +9330,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013194/1996-97-Topps-Chrome-Youthquake-YQ11-Shareef-Abdur-Rahim",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013194Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013194Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013194Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013194.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013194Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013194.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013195",
@@ -8789,12 +9359,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013195/1996-97-Topps-Chrome-Youthquake-YQ12-Antonio-McDyess",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013195Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013195Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013195Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013195.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013195Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013195.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013196",
@@ -8815,12 +9388,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013196/1996-97-Topps-Chrome-Youthquake-YQ13-Joe-Smith",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013196Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013196Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013196Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013196.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013196Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013196.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013197",
@@ -8841,12 +9417,15 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013197/1996-97-Topps-Chrome-Youthquake-YQ14-Brent-Barry",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013197Fr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013197Bk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013197Fr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013197.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013197Fr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013197.webp",
+    "image_status": "local_verified"
   },
   {
     "id": "BB2563:3013198",
@@ -8867,11 +9446,97 @@
     "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2567/cid/3013198/1996-97-Topps-Chrome-Youthquake-YQ15-Kobe-Bryant",
     "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013198RepFr.jpg",
     "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013198RepBk.jpg",
-    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013198RepFr.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013198.webp",
     "image": "https://www.tcdb.com/Images/Cards/Basketball/2567/2567-3013198RepFr.jpg",
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false,
+    "local_preview": "data/basketball/previews/BB2563-3013198.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB2563:692512",
+    "set_id": "BB2563",
+    "source_set_id": 2563,
+    "number": "72",
+    "name": "Chicago Bulls 72 Wins / Michael Jordan / Scottie Pippen / Dennis Rodman COMM",
+    "original_name": "Chicago Bulls 72 Wins / Michael Jordan / Scottie Pippen / Dennis Rodman COMM",
+    "team": "Chicago Bulls",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Topps Chrome",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2563/cid/692512/1996-97-Topps-Chrome-72-Chicago-Bulls-72-Wins-/-Michael-Jordan-/-Scottie-Pippen-/-Dennis-Rodman",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-72Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-72Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-72Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-72Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2563:692551",
+    "set_id": "BB2563",
+    "source_set_id": 2563,
+    "number": "111",
+    "name": "Checklist (1-220)",
+    "original_name": "Checklist (1-220)",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Topps Chrome",
+    "source_notes": "CL",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2563/cid/692551/1996-97-Topps-Chrome-111-Checklist-(1-220)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-692551Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-692551Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-692551Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2563/2563-692551Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2563:3013010",
+    "set_id": "BB2563",
+    "source_set_id": 2565,
+    "number": "72R",
+    "name": "Chicago Bulls - 72 Wins",
+    "original_name": "Chicago Bulls - 72 Wins",
+    "team": "Chicago Bulls",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1996-97 Topps Chrome - Refractors",
+    "source_notes": "",
+    "year": 1996,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2565/cid/3013010/1996-97-Topps-Chrome-Refractors-72R-Chicago-Bulls---72-Wins",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013010Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013010Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2563-3013010.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2565/2565-3013010Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2563-3013010.webp",
+    "image_status": "local_verified"
   }
 ]

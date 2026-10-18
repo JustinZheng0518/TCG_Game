@@ -12,11 +12,14 @@
     const channel=product.channel;
     if(product.sport==='basketball'){
       const model=Basketball.packModel(cards);
-      if(model.fixed){slots=[slot('全卡池',5,[pool('本套全部卡面',cards)])];notes.push('本套没有普通基础位，5 张均从本套卡面等概率抽取，不适用一般篮球包的收藏位比例。');}
+      if(model.fixed){slots=[slot('全卡池',5,[pool('本套已验证卡面',model.cards)])];notes.push('当前体验池没有普通基础位，5 张均从可用卡面等概率抽取，不适用一般篮球包的收藏位比例；不据此判断实体产品的封入结构。');}
       else{
-        slots=[slot('基础位',4,[pool('基础卡与新秀卡',model.base)]),slot('收藏位',1,[...model.groups.map(g=>pool(g.label,g.cards.length?g.cards:model.base,g.chance,g.cards.length?'':'本套缺档 → 基础卡池')),pool('基础卡回落',model.base,model.baseProbability)])];
-        notes.push('低编收藏位只含类型为限编且 /10 及以下的卡；签字球衣归签字位。基础位本身也会出现新秀。');
+        const missing=model.groups.filter(g=>!g.cards.length),fallback=model.baseProbability+missing.reduce((sum,g)=>sum+g.chance,0);
+        const unavailable=g=>{const status=product.tier_coverage?.[g.kind]?.status;return status==='not_listed'?'已查子系列目录未见该类，当前体验池未收录；缺档权重回落基础池':`该档素材尚未收齐，当前体验池无可用卡面；${percent(g.chance)} 权重回落基础池`;};
+        slots=[slot('基础位',4,[pool('基础卡与新秀卡',model.base)]),slot('收藏位',1,[...model.groups.map(g=>pool(g.label,g.cards,g.cards.length?g.chance:0,g.cards.length?'':unavailable(g))),pool('基础卡回落',model.base,fallback)])];
+        notes.push('/10 及以下限编（包括签字、球衣）优先归低编位；Kaboom、Downtown 等收录为追逐特卡。追逐特卡位的游戏概率为 0.1%，不代表真实箱均封入。基础位本身也会出现新秀。');
       }
+      if(product.source_coverage)notes.push(`已核查 ${product.source_coverage.subsets_listed} 个子系列目录，当前卡表含其中 ${product.source_coverage.subsets_imported} 个；稀有卡本地图片 ${product.source_coverage.rare_local_images} 张。卡库仍是部分收录，不以缺素材推断原系列没有该卡种。`);
     }else if(channel==='booster'){
       const m=Game.packModel(cards);
       slots=[slot('基础位',3,[pool('本套基础卡池',m.base)]),slot('保底位',1,[pool(m.guaranteeLabel,m.guarantee)]),slot('机会位',1,[...m.groups.map(g=>pool(g.label,g.cards,g.probability)),pool('基础卡回落',m.base,m.baseProbability)])];

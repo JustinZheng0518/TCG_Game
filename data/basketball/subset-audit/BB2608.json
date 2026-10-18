@@ -1,0 +1,163 @@
+{
+  "set_id": "BB2608",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2608/1997-Pinnacle-Inside-WNBA",
+  "headings": [
+    "Insert Sets (4)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 6,
+  "subsets": [
+    {
+      "source_set_id": 25732,
+      "name": "1997 Pinnacle Inside WNBA - Cans",
+      "short": "Cans",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25732/1997-Pinnacle-Inside-WNBA-Cans",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25735,
+      "name": "1997 Pinnacle Inside WNBA - My Town",
+      "short": "My Town",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25735/1997-Pinnacle-Inside-WNBA-My-Town",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25736,
+      "name": "1997 Pinnacle Inside WNBA - Team Development",
+      "short": "Team Development",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25736/1997-Pinnacle-Inside-WNBA-Team-Development",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 320466,
+      "name": "1997 Pinnacle Inside WNBA - Trivia Cards",
+      "short": "Trivia Cards",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/320466/1997-Pinnacle-Inside-WNBA-Trivia-Cards",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25733,
+      "name": "1997 Pinnacle Inside WNBA - Court Collection",
+      "short": "Court Collection",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25733/1997-Pinnacle-Inside-WNBA-Court-Collection",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25734,
+      "name": "1997 Pinnacle Inside WNBA - Executive Collection",
+      "short": "Executive Collection",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25734/1997-Pinnacle-Inside-WNBA-Executive-Collection",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 25733,
+      "name": "Court Collection",
+      "family_requested": "parallel",
+      "cards_with_front": 80,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25732,
+      "name": "Cans",
+      "family_requested": "insert",
+      "cards_with_front": 16,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 176,
+  "before_tiers": {
+    "rookie": 56,
+    "base": 24
+  },
+  "tiers": {
+    "rookie": 56,
+    "base": 25,
+    "parallel": 81,
+    "insert": 17
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "rookie": 6,
+    "base": 1,
+    "parallel": 81,
+    "insert": 17
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 56,
+      "available_cards": 56,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 81,
+      "available_cards": 81,
+      "local_images": 81,
+      "source_candidates": 2
+    },
+    "insert": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 4
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 3
+}

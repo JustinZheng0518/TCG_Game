@@ -1,0 +1,710 @@
+{
+  "set_id": "BB33470",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/33470/2010-11-Donruss",
+  "headings": [
+    "Insert Sets (65)",
+    "Parallel Sets (4)"
+  ],
+  "subset_count": 70,
+  "subsets": [
+    {
+      "source_set_id": 58590,
+      "name": "2010-11 Donruss - Craftsmen",
+      "short": "Craftsmen",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58590/2010-11-Donruss-Craftsmen",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58591,
+      "name": "2010-11 Donruss - Craftsmen Die Cuts Emerald",
+      "short": "Craftsmen Die Cuts Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58591/2010-11-Donruss-Craftsmen-Die-Cuts-Emerald",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58592,
+      "name": "2010-11 Donruss - Craftsmen Die Cuts Ruby",
+      "short": "Craftsmen Die Cuts Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58592/2010-11-Donruss-Craftsmen-Die-Cuts-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58593,
+      "name": "2010-11 Donruss - Craftsmen Die Cuts Sapphire",
+      "short": "Craftsmen Die Cuts Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58593/2010-11-Donruss-Craftsmen-Die-Cuts-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58594,
+      "name": "2010-11 Donruss - Craftsmen Materials",
+      "short": "Craftsmen Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58594/2010-11-Donruss-Craftsmen-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58595,
+      "name": "2010-11 Donruss - Craftsmen Materials Prime",
+      "short": "Craftsmen Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58595/2010-11-Donruss-Craftsmen-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58596,
+      "name": "2010-11 Donruss - Craftsmen Materials Signatures",
+      "short": "Craftsmen Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58596/2010-11-Donruss-Craftsmen-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58597,
+      "name": "2010-11 Donruss - Craftsmen Materials Signatures Prime",
+      "short": "Craftsmen Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58597/2010-11-Donruss-Craftsmen-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58598,
+      "name": "2010-11 Donruss - Craftsmen Press Proofs",
+      "short": "Craftsmen Press Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58598/2010-11-Donruss-Craftsmen-Press-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58599,
+      "name": "2010-11 Donruss - Craftsmen Signatures",
+      "short": "Craftsmen Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58599/2010-11-Donruss-Craftsmen-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58600,
+      "name": "2010-11 Donruss - Duos",
+      "short": "Duos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58600/2010-11-Donruss-Duos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58601,
+      "name": "2010-11 Donruss - Gamers",
+      "short": "Gamers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58601/2010-11-Donruss-Gamers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58602,
+      "name": "2010-11 Donruss - Gamers Die Cuts Emerald",
+      "short": "Gamers Die Cuts Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58602/2010-11-Donruss-Gamers-Die-Cuts-Emerald",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58603,
+      "name": "2010-11 Donruss - Gamers Die Cuts Ruby",
+      "short": "Gamers Die Cuts Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58603/2010-11-Donruss-Gamers-Die-Cuts-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58604,
+      "name": "2010-11 Donruss - Gamers Die Cuts Sapphire",
+      "short": "Gamers Die Cuts Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58604/2010-11-Donruss-Gamers-Die-Cuts-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58605,
+      "name": "2010-11 Donruss - Gamers Materials",
+      "short": "Gamers Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58605/2010-11-Donruss-Gamers-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58606,
+      "name": "2010-11 Donruss - Gamers Materials Prime",
+      "short": "Gamers Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58606/2010-11-Donruss-Gamers-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58607,
+      "name": "2010-11 Donruss - Gamers Materials Signatures",
+      "short": "Gamers Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58607/2010-11-Donruss-Gamers-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58608,
+      "name": "2010-11 Donruss - Gamers Materials Signatures Prime",
+      "short": "Gamers Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58608/2010-11-Donruss-Gamers-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58609,
+      "name": "2010-11 Donruss - Gamers Press Proofs",
+      "short": "Gamers Press Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58609/2010-11-Donruss-Gamers-Press-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58610,
+      "name": "2010-11 Donruss - Gamers Signatures",
+      "short": "Gamers Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58610/2010-11-Donruss-Gamers-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58611,
+      "name": "2010-11 Donruss - Jersey Kings",
+      "short": "Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58611/2010-11-Donruss-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58612,
+      "name": "2010-11 Donruss - Jersey Kings Die Cuts Emerald",
+      "short": "Jersey Kings Die Cuts Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58612/2010-11-Donruss-Jersey-Kings-Die-Cuts-Emerald",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58613,
+      "name": "2010-11 Donruss - Jersey Kings Die Cuts Ruby",
+      "short": "Jersey Kings Die Cuts Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58613/2010-11-Donruss-Jersey-Kings-Die-Cuts-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58614,
+      "name": "2010-11 Donruss - Jersey Kings Die Cuts Sapphire",
+      "short": "Jersey Kings Die Cuts Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58614/2010-11-Donruss-Jersey-Kings-Die-Cuts-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58615,
+      "name": "2010-11 Donruss - Jersey Kings Materials",
+      "short": "Jersey Kings Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58615/2010-11-Donruss-Jersey-Kings-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58616,
+      "name": "2010-11 Donruss - Jersey Kings Materials Prime",
+      "short": "Jersey Kings Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58616/2010-11-Donruss-Jersey-Kings-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58617,
+      "name": "2010-11 Donruss - Jersey Kings Materials Signatures",
+      "short": "Jersey Kings Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58617/2010-11-Donruss-Jersey-Kings-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58618,
+      "name": "2010-11 Donruss - Jersey Kings Materials Signatures Prime",
+      "short": "Jersey Kings Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58618/2010-11-Donruss-Jersey-Kings-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58619,
+      "name": "2010-11 Donruss - Jersey Kings Press Proofs",
+      "short": "Jersey Kings Press Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58619/2010-11-Donruss-Jersey-Kings-Press-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58620,
+      "name": "2010-11 Donruss - Jersey Kings Signatures",
+      "short": "Jersey Kings Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58620/2010-11-Donruss-Jersey-Kings-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58621,
+      "name": "2010-11 Donruss - Magicians",
+      "short": "Magicians",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58621/2010-11-Donruss-Magicians",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58622,
+      "name": "2010-11 Donruss - Magicians Die Cuts Emerald",
+      "short": "Magicians Die Cuts Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58622/2010-11-Donruss-Magicians-Die-Cuts-Emerald",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58623,
+      "name": "2010-11 Donruss - Magicians Die Cuts Ruby",
+      "short": "Magicians Die Cuts Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58623/2010-11-Donruss-Magicians-Die-Cuts-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58624,
+      "name": "2010-11 Donruss - Magicians Die Cuts Sapphire",
+      "short": "Magicians Die Cuts Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58624/2010-11-Donruss-Magicians-Die-Cuts-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58625,
+      "name": "2010-11 Donruss - Magicians Materials",
+      "short": "Magicians Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58625/2010-11-Donruss-Magicians-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58626,
+      "name": "2010-11 Donruss - Magicians Materials Prime",
+      "short": "Magicians Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58626/2010-11-Donruss-Magicians-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58627,
+      "name": "2010-11 Donruss - Magicians Materials Signatures",
+      "short": "Magicians Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58627/2010-11-Donruss-Magicians-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58628,
+      "name": "2010-11 Donruss - Magicians Materials Signatures Prime",
+      "short": "Magicians Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58628/2010-11-Donruss-Magicians-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58629,
+      "name": "2010-11 Donruss - Magicians Press Proofs",
+      "short": "Magicians Press Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58629/2010-11-Donruss-Magicians-Press-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58630,
+      "name": "2010-11 Donruss - Magicians Signatures",
+      "short": "Magicians Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58630/2010-11-Donruss-Magicians-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58631,
+      "name": "2010-11 Donruss - Masters",
+      "short": "Masters",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58631/2010-11-Donruss-Masters",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58632,
+      "name": "2010-11 Donruss - Masters Die Cuts Emerald",
+      "short": "Masters Die Cuts Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58632/2010-11-Donruss-Masters-Die-Cuts-Emerald",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58633,
+      "name": "2010-11 Donruss - Masters Die Cuts Ruby",
+      "short": "Masters Die Cuts Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58633/2010-11-Donruss-Masters-Die-Cuts-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58634,
+      "name": "2010-11 Donruss - Masters Die Cuts Sapphire",
+      "short": "Masters Die Cuts Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58634/2010-11-Donruss-Masters-Die-Cuts-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58635,
+      "name": "2010-11 Donruss - Masters Materials",
+      "short": "Masters Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58635/2010-11-Donruss-Masters-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58636,
+      "name": "2010-11 Donruss - Masters Materials Prime",
+      "short": "Masters Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58636/2010-11-Donruss-Masters-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58637,
+      "name": "2010-11 Donruss - Masters Materials Signatures",
+      "short": "Masters Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58637/2010-11-Donruss-Masters-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58638,
+      "name": "2010-11 Donruss - Masters Materials Signatures Prime",
+      "short": "Masters Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58638/2010-11-Donruss-Masters-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58639,
+      "name": "2010-11 Donruss - Masters Press Proofs",
+      "short": "Masters Press Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58639/2010-11-Donruss-Masters-Press-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58640,
+      "name": "2010-11 Donruss - Masters Signatures",
+      "short": "Masters Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58640/2010-11-Donruss-Masters-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58642,
+      "name": "2010-11 Donruss - Production Line",
+      "short": "Production Line",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58642/2010-11-Donruss-Production-Line",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58643,
+      "name": "2010-11 Donruss - Production Line Die Cuts Emerald",
+      "short": "Production Line Die Cuts Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58643/2010-11-Donruss-Production-Line-Die-Cuts-Emerald",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58644,
+      "name": "2010-11 Donruss - Production Line Die Cuts Ruby",
+      "short": "Production Line Die Cuts Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58644/2010-11-Donruss-Production-Line-Die-Cuts-Ruby",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58645,
+      "name": "2010-11 Donruss - Production Line Die Cuts Sapphire",
+      "short": "Production Line Die Cuts Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58645/2010-11-Donruss-Production-Line-Die-Cuts-Sapphire",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58646,
+      "name": "2010-11 Donruss - Production Line Materials",
+      "short": "Production Line Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58646/2010-11-Donruss-Production-Line-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58647,
+      "name": "2010-11 Donruss - Production Line Materials Prime",
+      "short": "Production Line Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58647/2010-11-Donruss-Production-Line-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58648,
+      "name": "2010-11 Donruss - Production Line Materials Signatures",
+      "short": "Production Line Materials Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58648/2010-11-Donruss-Production-Line-Materials-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58649,
+      "name": "2010-11 Donruss - Production Line Materials Signatures Prime",
+      "short": "Production Line Materials Signatures Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58649/2010-11-Donruss-Production-Line-Materials-Signatures-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58650,
+      "name": "2010-11 Donruss - Production Line Press Proofs",
+      "short": "Production Line Press Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58650/2010-11-Donruss-Production-Line-Press-Proofs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58651,
+      "name": "2010-11 Donruss - Production Line Rack Packs",
+      "short": "Production Line Rack Packs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58651/2010-11-Donruss-Production-Line-Rack-Packs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58652,
+      "name": "2010-11 Donruss - Production Line Signatures",
+      "short": "Production Line Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58652/2010-11-Donruss-Production-Line-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58653,
+      "name": "2010-11 Donruss - Production Line Stat Die Cuts Materials",
+      "short": "Production Line Stat Die Cuts Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58653/2010-11-Donruss-Production-Line-Stat-Die-Cuts-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58654,
+      "name": "2010-11 Donruss - Production Line Stat Die Cuts Materials Prime",
+      "short": "Production Line Stat Die Cuts Materials Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58654/2010-11-Donruss-Production-Line-Stat-Die-Cuts-Materials-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 58655,
+      "name": "2010-11 Donruss - Signatures",
+      "short": "Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58655/2010-11-Donruss-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 51490,
+      "name": "2010-11 Donruss - Die Cuts Emerald",
+      "short": "Die Cuts Emerald",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/51490/2010-11-Donruss-Die-Cuts-Emerald",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 51492,
+      "name": "2010-11 Donruss - Die Cuts Ruby",
+      "short": "Die Cuts Ruby",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/51492/2010-11-Donruss-Die-Cuts-Ruby",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 51491,
+      "name": "2010-11 Donruss - Die Cuts Sapphire",
+      "short": "Die Cuts Sapphire",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/51491/2010-11-Donruss-Die-Cuts-Sapphire",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 58641,
+      "name": "2010-11 Donruss - Press Proof",
+      "short": "Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/58641/2010-11-Donruss-Press-Proof",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 136678,
+      "name": "2010-11 Donruss - Starting 5",
+      "short": "Starting 5",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/136678/2010-11-Donruss-Starting-5",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 51490,
+      "name": "Die Cuts Emerald",
+      "family_requested": "numbered_low",
+      "cards_with_front": 65,
+      "missing_fronts": 200
+    },
+    {
+      "source_set_id": 58602,
+      "name": "Gamers Die Cuts Emerald",
+      "family_requested": "numbered_low",
+      "cards_with_front": 22,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 58632,
+      "name": "Masters Die Cuts Emerald",
+      "family_requested": "numbered_low",
+      "cards_with_front": 8,
+      "missing_fronts": 2
+    },
+    {
+      "source_set_id": 58591,
+      "name": "Craftsmen Die Cuts Emerald",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 58622,
+      "name": "Magicians Die Cuts Emerald",
+      "family_requested": "numbered_low",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 58643,
+      "name": "Production Line Die Cuts Emerald",
+      "family_requested": "numbered_low",
+      "cards_with_front": 40,
+      "missing_fronts": 60
+    },
+    {
+      "source_set_id": 58655,
+      "name": "Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 15,
+      "missing_fronts": 99
+    },
+    {
+      "source_set_id": 58610,
+      "name": "Gamers Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 8
+    },
+    {
+      "source_set_id": 58611,
+      "name": "Jersey Kings",
+      "family_requested": "memorabilia",
+      "cards_with_front": 24,
+      "missing_fronts": 1
+    },
+    {
+      "source_set_id": 58620,
+      "name": "Jersey Kings Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 16
+    },
+    {
+      "source_set_id": 58607,
+      "name": "Gamers Materials Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 1,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 58637,
+      "name": "Masters Materials Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 6
+    },
+    {
+      "source_set_id": 58596,
+      "name": "Craftsmen Materials Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 7
+    },
+    {
+      "source_set_id": 58627,
+      "name": "Magicians Materials Signatures",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 2
+    },
+    {
+      "source_set_id": 58608,
+      "name": "Gamers Materials Signatures Prime",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 5
+    }
+  ],
+  "import_errors": [],
+  "card_count": 458,
+  "before_tiers": {
+    "base": 230,
+    "rookie": 35
+  },
+  "tiers": {
+    "base": 260,
+    "rookie": 35,
+    "parallel": 72,
+    "insert": 86,
+    "numbered_low": 1,
+    "auto": 16,
+    "memorabilia": 24,
+    "auto_patch": 1
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "rookie": 1,
+    "parallel": 72,
+    "insert": 86,
+    "numbered_low": 1,
+    "auto": 16,
+    "memorabilia": 24,
+    "auto_patch": 1
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 260,
+      "available_cards": 260,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 35,
+      "available_cards": 35,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 6
+    },
+    "auto": {
+      "status": "available",
+      "records": 16,
+      "available_cards": 16,
+      "local_images": 16,
+      "source_candidates": 6
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 24,
+      "available_cards": 24,
+      "local_images": 24,
+      "source_candidates": 19
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 13
+    },
+    "parallel": {
+      "status": "available",
+      "records": 72,
+      "available_cards": 72,
+      "local_images": 72,
+      "source_candidates": 4
+    },
+    "insert": {
+      "status": "available",
+      "records": 86,
+      "available_cards": 86,
+      "local_images": 86,
+      "source_candidates": 28
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 37
+}

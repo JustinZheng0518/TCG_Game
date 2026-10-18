@@ -1,0 +1,118 @@
+{
+  "set_id": "BB2021",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2021/1973-74-Topps",
+  "headings": [
+    "Insert Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 25502,
+      "name": "1973-74 Topps - Team Stickers",
+      "short": "Team Stickers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25502/1973-74-Topps-Team-Stickers",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 25502,
+      "name": "Team Stickers",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 236,
+  "before_tiers": {
+    "base": 222,
+    "rookie": 14
+  },
+  "tiers": {
+    "base": 250,
+    "rookie": 14,
+    "insert": 33
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 4,
+    "insert": 33
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 250,
+      "available_cards": 250,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 14,
+      "available_cards": 14,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 33,
+      "available_cards": 33,
+      "local_images": 33,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 61
+}

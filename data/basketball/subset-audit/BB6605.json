@@ -1,0 +1,433 @@
+{
+  "set_id": "BB6605",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/6605/2007-08-Bowman",
+  "headings": [
+    "Insert Sets (17)",
+    "Parallel Sets (17)"
+  ],
+  "subset_count": 34,
+  "subsets": [
+    {
+      "source_set_id": 30937,
+      "name": "2007-08 Bowman - Chrome Refractors Rookie Autographs",
+      "short": "Chrome Refractors Rookie Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30937/2007-08-Bowman-Chrome-Refractors-Rookie-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30938,
+      "name": "2007-08 Bowman - Chrome Refractors Rookie Autographs Black",
+      "short": "Chrome Refractors Rookie Autographs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30938/2007-08-Bowman-Chrome-Refractors-Rookie-Autographs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30939,
+      "name": "2007-08 Bowman - Chrome Refractors Rookie Autographs Gold",
+      "short": "Chrome Refractors Rookie Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30939/2007-08-Bowman-Chrome-Refractors-Rookie-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30940,
+      "name": "2007-08 Bowman - Chrome Refractors Rookie Autographs SuperFractors",
+      "short": "Chrome Refractors Rookie Autographs SuperFractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30940/2007-08-Bowman-Chrome-Refractors-Rookie-Autographs-SuperFractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30941,
+      "name": "2007-08 Bowman - Chrome Refractors Rookie Autographs X-Fractors",
+      "short": "Chrome Refractors Rookie Autographs X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30941/2007-08-Bowman-Chrome-Refractors-Rookie-Autographs-X-Fractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 7864,
+      "name": "2007-08 Bowman - Relics",
+      "short": "Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7864/2007-08-Bowman-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30946,
+      "name": "2007-08 Bowman - Relics Bronze",
+      "short": "Relics Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30946/2007-08-Bowman-Relics-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 7865,
+      "name": "2007-08 Bowman - Relics Dual",
+      "short": "Relics Dual",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7865/2007-08-Bowman-Relics-Dual",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30947,
+      "name": "2007-08 Bowman - Relics Dual Bronze",
+      "short": "Relics Dual Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30947/2007-08-Bowman-Relics-Dual-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30948,
+      "name": "2007-08 Bowman - Relics Dual Gold",
+      "short": "Relics Dual Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30948/2007-08-Bowman-Relics-Dual-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30949,
+      "name": "2007-08 Bowman - Relics Dual Silver",
+      "short": "Relics Dual Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30949/2007-08-Bowman-Relics-Dual-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30950,
+      "name": "2007-08 Bowman - Relics Gold",
+      "short": "Relics Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30950/2007-08-Bowman-Relics-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30954,
+      "name": "2007-08 Bowman - Relics Silver",
+      "short": "Relics Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30954/2007-08-Bowman-Relics-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 7866,
+      "name": "2007-08 Bowman - Relics Triple",
+      "short": "Relics Triple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7866/2007-08-Bowman-Relics-Triple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30951,
+      "name": "2007-08 Bowman - Relics Triple Bronze",
+      "short": "Relics Triple Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30951/2007-08-Bowman-Relics-Triple-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30952,
+      "name": "2007-08 Bowman - Relics Triple Gold",
+      "short": "Relics Triple Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30952/2007-08-Bowman-Relics-Triple-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 30953,
+      "name": "2007-08 Bowman - Relics Triple Silver",
+      "short": "Relics Triple Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30953/2007-08-Bowman-Relics-Triple-Silver",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 7855,
+      "name": "2007-08 Bowman - Bronze",
+      "short": "Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7855/2007-08-Bowman-Bronze",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7581,
+      "name": "2007-08 Bowman - Chrome",
+      "short": "Chrome",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7581/2007-08-Bowman-Chrome",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7856,
+      "name": "2007-08 Bowman - Chrome Black Refractor",
+      "short": "Chrome Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7856/2007-08-Bowman-Chrome-Black-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7857,
+      "name": "2007-08 Bowman - Chrome Gold Refractor",
+      "short": "Chrome Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7857/2007-08-Bowman-Chrome-Gold-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30933,
+      "name": "2007-08 Bowman - Chrome Printing Plates Black",
+      "short": "Chrome Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30933/2007-08-Bowman-Chrome-Printing-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30934,
+      "name": "2007-08 Bowman - Chrome Printing Plates Cyan",
+      "short": "Chrome Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30934/2007-08-Bowman-Chrome-Printing-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30935,
+      "name": "2007-08 Bowman - Chrome Printing Plates Magenta",
+      "short": "Chrome Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30935/2007-08-Bowman-Chrome-Printing-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30936,
+      "name": "2007-08 Bowman - Chrome Printing Plates Yellow",
+      "short": "Chrome Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30936/2007-08-Bowman-Chrome-Printing-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7858,
+      "name": "2007-08 Bowman - Chrome Refractor",
+      "short": "Chrome Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7858/2007-08-Bowman-Chrome-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7859,
+      "name": "2007-08 Bowman - Chrome SuperFractor",
+      "short": "Chrome SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7859/2007-08-Bowman-Chrome-SuperFractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7860,
+      "name": "2007-08 Bowman - Chrome X-Fractor",
+      "short": "Chrome X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7860/2007-08-Bowman-Chrome-X-Fractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7861,
+      "name": "2007-08 Bowman - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7861/2007-08-Bowman-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7863,
+      "name": "2007-08 Bowman - Printing Plates Black",
+      "short": "Printing Plates Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7863/2007-08-Bowman-Printing-Plates-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30943,
+      "name": "2007-08 Bowman - Printing Plates Cyan",
+      "short": "Printing Plates Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30943/2007-08-Bowman-Printing-Plates-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30944,
+      "name": "2007-08 Bowman - Printing Plates Magenta",
+      "short": "Printing Plates Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30944/2007-08-Bowman-Printing-Plates-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 30945,
+      "name": "2007-08 Bowman - Printing Plates Yellow",
+      "short": "Printing Plates Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/30945/2007-08-Bowman-Printing-Plates-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 7862,
+      "name": "2007-08 Bowman - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/7862/2007-08-Bowman-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 7861,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 19,
+      "missing_fronts": 141
+    },
+    {
+      "source_set_id": 7859,
+      "name": "Chrome SuperFractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 160
+    },
+    {
+      "source_set_id": 7857,
+      "name": "Chrome Gold Refractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 27,
+      "missing_fronts": 133
+    },
+    {
+      "source_set_id": 7863,
+      "name": "Printing Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 160
+    },
+    {
+      "source_set_id": 7856,
+      "name": "Chrome Black Refractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 27,
+      "missing_fronts": 133
+    },
+    {
+      "source_set_id": 30933,
+      "name": "Chrome Printing Plates Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 159
+    },
+    {
+      "source_set_id": 30937,
+      "name": "Chrome Refractors Rookie Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 13,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 30939,
+      "name": "Chrome Refractors Rookie Autographs Gold",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 35
+    },
+    {
+      "source_set_id": 7864,
+      "name": "Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 30,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 7862,
+      "name": "Silver",
+      "family_requested": "parallel",
+      "cards_with_front": 26,
+      "missing_fronts": 134
+    },
+    {
+      "source_set_id": 7855,
+      "name": "Bronze",
+      "family_requested": "parallel",
+      "cards_with_front": 37,
+      "missing_fronts": 123
+    },
+    {
+      "source_set_id": 7581,
+      "name": "Chrome",
+      "family_requested": "parallel",
+      "cards_with_front": 160,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 505,
+  "before_tiers": {
+    "base": 110,
+    "numbered": 50
+  },
+  "tiers": {
+    "base": 110,
+    "numbered": 236,
+    "numbered_low": 1,
+    "auto": 18,
+    "memorabilia": 30,
+    "parallel": 110
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "numbered": 236,
+    "numbered_low": 1,
+    "auto": 18,
+    "memorabilia": 30,
+    "parallel": 110
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 110,
+      "available_cards": 110,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 6
+    },
+    "auto": {
+      "status": "available",
+      "records": 18,
+      "available_cards": 18,
+      "local_images": 18,
+      "source_candidates": 5
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 12
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 110,
+      "available_cards": 110,
+      "local_images": 110,
+      "source_candidates": 17
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "available",
+      "records": 236,
+      "available_cards": 236,
+      "local_images": 236,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

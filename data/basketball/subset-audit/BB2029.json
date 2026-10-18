@@ -1,0 +1,98 @@
+{
+  "set_id": "BB2029",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2029/1978-79-Topps",
+  "headings": [],
+  "subset_count": 0,
+  "subsets": [],
+  "status": "directory_checked",
+  "imported_subset_count": 0,
+  "imported_this_run": [],
+  "import_errors": [],
+  "card_count": 131,
+  "before_tiers": {
+    "base": 112,
+    "rookie": 19
+  },
+  "tiers": {
+    "base": 113,
+    "rookie": 19
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 2,
+    "rookie": 5
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 113,
+      "available_cards": 113,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 19,
+      "available_cards": 19,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

@@ -1,0 +1,223 @@
+{
+  "set_id": "BB2480",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2480/1996-97-Fleer",
+  "headings": [
+    "Insert Sets (12)"
+  ],
+  "subset_count": 14,
+  "subsets": [
+    {
+      "source_set_id": 2481,
+      "name": "1996-97 Fleer - Decade of Excellence",
+      "short": "Decade of Excellence",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2481/1996-97-Fleer-Decade-of-Excellence",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2482,
+      "name": "1996-97 Fleer - Franchise Future",
+      "short": "Franchise Future",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2482/1996-97-Fleer-Franchise-Future",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2483,
+      "name": "1996-97 Fleer - Game Breakers",
+      "short": "Game Breakers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2483/1996-97-Fleer-Game-Breakers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 193567,
+      "name": "1996-97 Fleer - Lucky 13 Redemptions",
+      "short": "Lucky 13 Redemptions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/193567/1996-97-Fleer-Lucky-13-Redemptions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2485,
+      "name": "1996-97 Fleer - Rookie Rewind",
+      "short": "Rookie Rewind",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2485/1996-97-Fleer-Rookie-Rewind",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2486,
+      "name": "1996-97 Fleer - Rookie Sensations",
+      "short": "Rookie Sensations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2486/1996-97-Fleer-Rookie-Sensations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2487,
+      "name": "1996-97 Fleer - Stackhouse's All-Fleer",
+      "short": "Stackhouse's All-Fleer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2487/1996-97-Fleer-Stackhouse-s-All-Fleer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2488,
+      "name": "1996-97 Fleer - Stackhouse's Scrapbook",
+      "short": "Stackhouse's Scrapbook",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2488/1996-97-Fleer-Stackhouse-s-Scrapbook",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2489,
+      "name": "1996-97 Fleer - Swing Shift",
+      "short": "Swing Shift",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2489/1996-97-Fleer-Swing-Shift",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2490,
+      "name": "1996-97 Fleer - Thrill Seekers",
+      "short": "Thrill Seekers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2490/1996-97-Fleer-Thrill-Seekers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2491,
+      "name": "1996-97 Fleer - Total \"O\"",
+      "short": "Total \"O\"",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2491/1996-97-Fleer-Total-O-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2492,
+      "name": "1996-97 Fleer - Towers of Power",
+      "short": "Towers of Power",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2492/1996-97-Fleer-Towers-of-Power",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2484,
+      "name": "1996-97 Fleer - Lucky 13",
+      "short": "Lucky 13",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2484/1996-97-Fleer-Lucky-13",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218582,
+      "name": "1996-97 Fleer - Swing Shift Jumbo Proofs",
+      "short": "Swing Shift Jumbo Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218582/1996-97-Fleer-Swing-Shift-Jumbo-Proofs",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 3,
+  "imported_this_run": [
+    {
+      "source_set_id": 2484,
+      "name": "Lucky 13",
+      "family_requested": "insert",
+      "cards_with_front": 13,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2491,
+      "name": "Total \"O\"",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 193567,
+      "name": "Lucky 13 Redemptions",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 319,
+  "before_tiers": {
+    "base": 258,
+    "rookie": 38
+  },
+  "tiers": {
+    "base": 262,
+    "rookie": 38,
+    "insert": 35
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 5,
+    "insert": 35
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 262,
+      "available_cards": 262,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 38,
+      "available_cards": 38,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 35,
+      "available_cards": 35,
+      "local_images": 35,
+      "source_candidates": 14
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 16
+}

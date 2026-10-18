@@ -1,0 +1,256 @@
+{
+  "set_id": "BB204836",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/204836/2018-19-Panini-Mosaic-Prizm",
+  "headings": [
+    "Insert Sets (4)",
+    "Parallel Sets (8)"
+  ],
+  "subset_count": 12,
+  "subsets": [
+    {
+      "source_set_id": 204845,
+      "name": "2018-19 Panini Mosaic Prizm - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204845/2018-19-Panini-Mosaic-Prizm-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204846,
+      "name": "2018-19 Panini Mosaic Prizm - Autographs Black",
+      "short": "Autographs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204846/2018-19-Panini-Mosaic-Prizm-Autographs-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204847,
+      "name": "2018-19 Panini Mosaic Prizm - Autographs Gold",
+      "short": "Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204847/2018-19-Panini-Mosaic-Prizm-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204848,
+      "name": "2018-19 Panini Mosaic Prizm - Autographs Green",
+      "short": "Autographs Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204848/2018-19-Panini-Mosaic-Prizm-Autographs-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 204844,
+      "name": "2018-19 Panini Mosaic Prizm - Black",
+      "short": "Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204844/2018-19-Panini-Mosaic-Prizm-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 204837,
+      "name": "2018-19 Panini Mosaic Prizm - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204837/2018-19-Panini-Mosaic-Prizm-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 204842,
+      "name": "2018-19 Panini Mosaic Prizm - Camo",
+      "short": "Camo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204842/2018-19-Panini-Mosaic-Prizm-Camo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 204843,
+      "name": "2018-19 Panini Mosaic Prizm - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204843/2018-19-Panini-Mosaic-Prizm-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 204838,
+      "name": "2018-19 Panini Mosaic Prizm - Green",
+      "short": "Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204838/2018-19-Panini-Mosaic-Prizm-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 204840,
+      "name": "2018-19 Panini Mosaic Prizm - Orange",
+      "short": "Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204840/2018-19-Panini-Mosaic-Prizm-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 204841,
+      "name": "2018-19 Panini Mosaic Prizm - Purple",
+      "short": "Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204841/2018-19-Panini-Mosaic-Prizm-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 204839,
+      "name": "2018-19 Panini Mosaic Prizm - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/204839/2018-19-Panini-Mosaic-Prizm-Red",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 7,
+  "imported_this_run": [
+    {
+      "source_set_id": 204843,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 204844,
+      "name": "Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 99
+    },
+    {
+      "source_set_id": 204839,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 11,
+      "missing_fronts": 89
+    },
+    {
+      "source_set_id": 204845,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 26
+    },
+    {
+      "source_set_id": 204847,
+      "name": "Autographs Gold",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 31
+    },
+    {
+      "source_set_id": 204846,
+      "name": "Autographs Black",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 29
+    },
+    {
+      "source_set_id": 204848,
+      "name": "Autographs Green",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 30
+    },
+    {
+      "source_set_id": 204837,
+      "name": "Blue",
+      "family_requested": "parallel",
+      "cards_with_front": 10,
+      "missing_fronts": 90
+    },
+    {
+      "source_set_id": 204838,
+      "name": "Green",
+      "family_requested": "numbered",
+      "cards_with_front": 19,
+      "missing_fronts": 81
+    }
+  ],
+  "import_errors": [],
+  "card_count": 148,
+  "before_tiers": {
+    "base": 78,
+    "rookie": 22
+  },
+  "tiers": {
+    "base": 78,
+    "rookie": 22,
+    "numbered_low": 3,
+    "parallel": 40,
+    "auto": 5
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "numbered_low": 3,
+    "parallel": 40,
+    "auto": 5
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 78,
+      "available_cards": 78,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 3
+    },
+    "auto": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 4
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 40,
+      "source_candidates": 8
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 4
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

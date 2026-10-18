@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB264067-16591519.webp"
+    "local_preview": "data/basketball/previews/BB264067-16591519.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB264067:16591520",
@@ -51,7 +53,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB264067-16591520.webp"
+    "local_preview": "data/basketball/previews/BB264067-16591520.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB264067:16591521",
@@ -77,7 +81,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591522",
@@ -103,7 +108,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591523",
@@ -130,7 +136,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB264067-16591523.webp"
+    "local_preview": "data/basketball/previews/BB264067-16591523.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB264067:16591524",
@@ -157,7 +165,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB264067-16591524.webp"
+    "local_preview": "data/basketball/previews/BB264067-16591524.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB264067:16591525",
@@ -183,7 +193,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591526",
@@ -209,7 +220,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591527",
@@ -236,7 +248,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB264067-16591527.webp"
+    "local_preview": "data/basketball/previews/BB264067-16591527.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB264067:16591528",
@@ -262,7 +276,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591529",
@@ -289,7 +304,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB264067-16591529.webp"
+    "local_preview": "data/basketball/previews/BB264067-16591529.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB264067:16591530",
@@ -315,7 +332,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591531",
@@ -341,7 +359,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591532",
@@ -367,7 +386,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591533",
@@ -393,7 +413,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591534",
@@ -419,7 +440,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591535",
@@ -445,7 +467,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591536",
@@ -471,7 +494,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591537",
@@ -497,7 +521,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591538",
@@ -523,7 +548,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591539",
@@ -549,7 +575,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591540",
@@ -575,7 +602,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591541",
@@ -601,7 +629,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591542",
@@ -627,7 +656,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591543",
@@ -653,7 +683,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591544",
@@ -679,7 +710,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591545",
@@ -705,7 +737,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591546",
@@ -731,7 +764,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591547",
@@ -758,7 +792,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB264067-16591547.webp"
+    "local_preview": "data/basketball/previews/BB264067-16591547.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB264067:16591548",
@@ -784,7 +820,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591549",
@@ -810,7 +847,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591550",
@@ -836,7 +874,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591551",
@@ -862,7 +901,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591552",
@@ -888,7 +928,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591553",
@@ -914,7 +955,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591554",
@@ -940,7 +982,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591555",
@@ -966,7 +1009,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591556",
@@ -992,7 +1036,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591557",
@@ -1018,7 +1063,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591558",
@@ -1044,7 +1090,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591559",
@@ -1070,7 +1117,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591560",
@@ -1096,7 +1144,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591561",
@@ -1122,7 +1171,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591562",
@@ -1148,7 +1198,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591563",
@@ -1174,7 +1225,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591564",
@@ -1200,7 +1252,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591565",
@@ -1226,7 +1279,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591566",
@@ -1252,7 +1306,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591567",
@@ -1278,7 +1333,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591568",
@@ -1304,7 +1360,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591569",
@@ -1330,7 +1387,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591570",
@@ -1356,7 +1414,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591571",
@@ -1382,7 +1441,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591572",
@@ -1408,7 +1468,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591573",
@@ -1434,7 +1495,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591574",
@@ -1460,7 +1522,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591575",
@@ -1486,7 +1549,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591576",
@@ -1512,7 +1576,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591577",
@@ -1538,7 +1603,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591578",
@@ -1564,7 +1630,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591579",
@@ -1590,7 +1657,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591580",
@@ -1616,7 +1684,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591581",
@@ -1642,7 +1711,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591582",
@@ -1668,7 +1738,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591583",
@@ -1694,7 +1765,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591584",
@@ -1720,7 +1792,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591585",
@@ -1746,7 +1819,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591605",
@@ -1772,7 +1846,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591606",
@@ -1798,7 +1873,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591607",
@@ -1824,7 +1900,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591608",
@@ -1850,7 +1927,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591609",
@@ -1876,7 +1954,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591610",
@@ -1902,7 +1981,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591611",
@@ -1928,7 +2008,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591612",
@@ -1954,7 +2035,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591613",
@@ -1980,7 +2062,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591614",
@@ -2006,7 +2089,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591615",
@@ -2032,7 +2116,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591616",
@@ -2058,7 +2143,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591617",
@@ -2084,7 +2170,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591618",
@@ -2110,7 +2197,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591619",
@@ -2136,7 +2224,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591620",
@@ -2162,7 +2251,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591621",
@@ -2188,7 +2278,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591622",
@@ -2214,7 +2305,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591623",
@@ -2240,7 +2332,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591624",
@@ -2266,7 +2359,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591625",
@@ -2292,7 +2386,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591626",
@@ -2318,7 +2413,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591627",
@@ -2344,7 +2440,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591628",
@@ -2370,7 +2467,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591629",
@@ -2396,7 +2494,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591630",
@@ -2422,7 +2521,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591631",
@@ -2448,7 +2548,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591632",
@@ -2474,7 +2575,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591633",
@@ -2500,7 +2602,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591634",
@@ -2526,7 +2629,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591635",
@@ -2552,7 +2656,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591636",
@@ -2578,7 +2683,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591637",
@@ -2604,7 +2710,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591638",
@@ -2630,7 +2737,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591639",
@@ -2656,7 +2764,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591640",
@@ -2682,7 +2791,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591641",
@@ -2708,7 +2818,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591642",
@@ -2734,7 +2845,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591643",
@@ -2760,7 +2872,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591644",
@@ -2786,7 +2899,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591646",
@@ -2812,7 +2926,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591647",
@@ -2838,7 +2953,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591648",
@@ -2864,7 +2980,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591649",
@@ -2890,7 +3007,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591650",
@@ -2916,7 +3034,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591651",
@@ -2942,7 +3061,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591652",
@@ -2968,7 +3088,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591653",
@@ -2994,7 +3115,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591654",
@@ -3020,7 +3142,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591655",
@@ -3046,7 +3169,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591656",
@@ -3072,7 +3196,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591657",
@@ -3098,7 +3223,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591658",
@@ -3124,7 +3250,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591659",
@@ -3150,7 +3277,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591660",
@@ -3176,7 +3304,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591661",
@@ -3202,7 +3331,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591662",
@@ -3228,7 +3358,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591663",
@@ -3254,7 +3385,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591664",
@@ -3280,7 +3412,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591665",
@@ -3306,7 +3439,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591666",
@@ -3332,7 +3466,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591667",
@@ -3358,7 +3493,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591668",
@@ -3384,7 +3520,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591669",
@@ -3410,7 +3547,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591671",
@@ -3436,7 +3574,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591672",
@@ -3462,7 +3601,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591675",
@@ -3488,7 +3628,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591676",
@@ -3514,7 +3655,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591678",
@@ -3540,7 +3682,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591680",
@@ -3566,7 +3709,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591684",
@@ -3592,7 +3736,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591685",
@@ -3618,7 +3763,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591686",
@@ -3644,7 +3790,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591687",
@@ -3670,7 +3817,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591688",
@@ -3696,7 +3844,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591690",
@@ -3722,7 +3871,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591692",
@@ -3748,7 +3898,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591694",
@@ -3774,7 +3925,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591695",
@@ -3800,7 +3952,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591696",
@@ -3826,7 +3979,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591700",
@@ -3852,7 +4006,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591701",
@@ -3878,7 +4033,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591703",
@@ -3904,7 +4060,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591709",
@@ -3930,7 +4087,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591714",
@@ -3956,7 +4114,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591720",
@@ -3982,7 +4141,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591723",
@@ -4008,7 +4168,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591726",
@@ -4034,7 +4195,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591727",
@@ -4060,7 +4222,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591733",
@@ -4086,7 +4249,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB264067:16591736",
@@ -4112,6 +4276,2298 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB264067:16645376",
+    "set_id": "BB264067",
+    "source_set_id": 271168,
+    "number": "II-CSX",
+    "name": "Collin Sexton",
+    "original_name": "Collin Sexton",
+    "team": "Cleveland Cavaliers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271168/cid/16645376/2020-21-Panini-Court-Kings-Impressionist-Ink-II-CSX-Collin-Sexton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645376Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645376Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645376.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645376Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645376.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645382",
+    "set_id": "BB264067",
+    "source_set_id": 271168,
+    "number": "II-IRI",
+    "name": "Isaiah Rider",
+    "original_name": "Isaiah Rider",
+    "team": "Minnesota Timberwolves",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271168/cid/16645382/2020-21-Panini-Court-Kings-Impressionist-Ink-II-IRI-Isaiah-Rider",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645382Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645382Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645382.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645382Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645382.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645387",
+    "set_id": "BB264067",
+    "source_set_id": 271168,
+    "number": "II-JST",
+    "name": "John Stockton",
+    "original_name": "John Stockton",
+    "team": "Utah Jazz",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 75,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink",
+    "source_notes": "AU, SN75",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271168/cid/16645387/2020-21-Panini-Court-Kings-Impressionist-Ink-II-JST-John-Stockton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645387Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645387Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645387.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645387Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645387.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645388",
+    "set_id": "BB264067",
+    "source_set_id": 271168,
+    "number": "II-KML",
+    "name": "Karl Malone",
+    "original_name": "Karl Malone",
+    "team": "Utah Jazz",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 75,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink",
+    "source_notes": "AU, SN75",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271168/cid/16645388/2020-21-Panini-Court-Kings-Impressionist-Ink-II-KML-Karl-Malone",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645388RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645388RepBk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645388.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645388RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645388.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645392",
+    "set_id": "BB264067",
+    "source_set_id": 271168,
+    "number": "II-LBI",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 75,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink",
+    "source_notes": "AU, SN75",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271168/cid/16645392/2020-21-Panini-Court-Kings-Impressionist-Ink-II-LBI-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645392Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645392Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645392.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645392Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645392.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645397",
+    "set_id": "BB264067",
+    "source_set_id": 271168,
+    "number": "II-TIM",
+    "name": "Tim Legler",
+    "original_name": "Tim Legler",
+    "team": "Dallas Mavericks",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271168/cid/16645397/2020-21-Panini-Court-Kings-Impressionist-Ink-II-TIM-Tim-Legler",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645397Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645397Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645397.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271168/271168-16645397Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645397.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645415",
+    "set_id": "BB264067",
+    "source_set_id": 271169,
+    "number": "II-IRI",
+    "name": "Isaiah Rider",
+    "original_name": "Isaiah Rider",
+    "team": "Minnesota Timberwolves",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink Jade",
+    "source_notes": "AU",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271169/cid/16645415/2020-21-Panini-Court-Kings-Impressionist-Ink-Jade-II-IRI-Isaiah-Rider",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271169/271169-16645415Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271169/271169-16645415Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645415.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271169/271169-16645415Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645415.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645424",
+    "set_id": "BB264067",
+    "source_set_id": 271169,
+    "number": "II-KWL",
+    "name": "Kevin Willis",
+    "original_name": "Kevin Willis",
+    "team": "Atlanta Hawks",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink Jade",
+    "source_notes": "AU",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271169/cid/16645424/2020-21-Panini-Court-Kings-Impressionist-Ink-Jade-II-KWL-Kevin-Willis",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271169/271169-16645424Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271169/271169-16645424Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645424.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271169/271169-16645424Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645424.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16645493",
+    "set_id": "BB264067",
+    "source_set_id": 271171,
+    "number": "II-LBI",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 8,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink Pink",
+    "source_notes": "AU, SN8",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271171/cid/16645493/2020-21-Panini-Court-Kings-Impressionist-Ink-Pink-II-LBI-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271171/271171-16645493Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271171/271171-16645493Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16645493.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271171/271171-16645493Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16645493.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16651732",
+    "set_id": "BB264067",
+    "source_set_id": 271172,
+    "number": "II-BCL",
+    "name": "Brandon Clarke",
+    "original_name": "Brandon Clarke",
+    "team": "Memphis Grizzlies",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 49,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink Ruby",
+    "source_notes": "AU, SN49",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271172/cid/16651732/2020-21-Panini-Court-Kings-Impressionist-Ink-Ruby-II-BCL-Brandon-Clarke",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651732Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651732Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16651732.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651732Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16651732.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16651743",
+    "set_id": "BB264067",
+    "source_set_id": 271172,
+    "number": "II-JJO",
+    "name": "James Johnson",
+    "original_name": "James Johnson",
+    "team": "Dallas Mavericks",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 49,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink Ruby",
+    "source_notes": "AU, SN49",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271172/cid/16651743/2020-21-Panini-Court-Kings-Impressionist-Ink-Ruby-II-JJO-James-Johnson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651743Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651743Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16651743.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651743Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16651743.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16651750",
+    "set_id": "BB264067",
+    "source_set_id": 271172,
+    "number": "II-LBI",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 49,
+    "source_set_name": "2020-21 Panini Court Kings - Impressionist Ink Ruby",
+    "source_notes": "AU, SN49",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271172/cid/16651750/2020-21-Panini-Court-Kings-Impressionist-Ink-Ruby-II-LBI-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651750Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651750Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16651750.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271172/271172-16651750Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16651750.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16675943",
+    "set_id": "BB264067",
+    "source_set_id": 271161,
+    "number": "HC-GOS",
+    "name": "Greg Ostertag",
+    "original_name": "Greg Ostertag",
+    "team": "Utah Jazz",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Holding Court Signatures",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271161/cid/16675943/2020-21-Panini-Court-Kings-Holding-Court-Signatures-HC-GOS-Greg-Ostertag",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675943Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675943Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16675943.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675943Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16675943.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16675944",
+    "set_id": "BB264067",
+    "source_set_id": 271161,
+    "number": "HC-IBO",
+    "name": "Isaac Bonga",
+    "original_name": "Isaac Bonga",
+    "team": "Washington Wizards",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Holding Court Signatures",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271161/cid/16675944/2020-21-Panini-Court-Kings-Holding-Court-Signatures-HC-IBO-Isaac-Bonga",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675944Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675944Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16675944.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675944Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16675944.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16675948",
+    "set_id": "BB264067",
+    "source_set_id": 271161,
+    "number": "HC-KGA",
+    "name": "凯文·加内特",
+    "original_name": "Kevin Garnett",
+    "team": "Minnesota Timberwolves",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Holding Court Signatures",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271161/cid/16675948/2020-21-Panini-Court-Kings-Holding-Court-Signatures-HC-KGA-Kevin-Garnett",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675948Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675948Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16675948.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675948Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16675948.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16675956",
+    "set_id": "BB264067",
+    "source_set_id": 271161,
+    "number": "HC-MRI",
+    "name": "Mitch Richmond",
+    "original_name": "Mitch Richmond",
+    "team": "Golden State Warriors",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Holding Court Signatures",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271161/cid/16675956/2020-21-Panini-Court-Kings-Holding-Court-Signatures-HC-MRI-Mitch-Richmond",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675956Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675956Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16675956.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675956Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16675956.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16675961",
+    "set_id": "BB264067",
+    "source_set_id": 271161,
+    "number": "HC-RHO",
+    "name": "Robert Horry",
+    "original_name": "Robert Horry",
+    "team": "Los Angeles Lakers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Holding Court Signatures",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271161/cid/16675961/2020-21-Panini-Court-Kings-Holding-Court-Signatures-HC-RHO-Robert-Horry",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675961Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675961Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16675961.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675961Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16675961.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16675967",
+    "set_id": "BB264067",
+    "source_set_id": 271161,
+    "number": "HC-SKE",
+    "name": "Shawn Kemp",
+    "original_name": "Shawn Kemp",
+    "team": "Seattle Supersonics",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Holding Court Signatures",
+    "source_notes": "AU, SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271161/cid/16675967/2020-21-Panini-Court-Kings-Holding-Court-Signatures-HC-SKE-Shawn-Kemp",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675967Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675967Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16675967.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271161/271161-16675967Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16675967.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717320",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-AED",
+    "name": "安东尼·爱德华兹",
+    "original_name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717320/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-AED-Anthony-Edwards",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717320Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717320Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717320.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717320Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717320.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717319",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-CJE",
+    "name": "CJ Elleby",
+    "original_name": "CJ Elleby",
+    "team": "Portland Trail Blazers",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717319/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-CJE-CJ-Elleby",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717319Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717319Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717319.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717319Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717319.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717328",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-IQU",
+    "name": "Immanuel Quickley",
+    "original_name": "Immanuel Quickley",
+    "team": "New York Knicks",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717328/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-IQU-Immanuel-Quickley",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717328Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717328Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717328.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717328Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717328.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717330",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-JAH",
+    "name": "Jahmi'us Ramsey",
+    "original_name": "Jahmi'us Ramsey",
+    "team": "Sacramento Kings",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717330/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-JAH-Jahmi'us-Ramsey",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717330Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717330Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717330.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717330Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717330.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717337",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-KLJ",
+    "name": "Kira Lewis Jr.",
+    "original_name": "Kira Lewis Jr.",
+    "team": "New Orleans Pelicans",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717337/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-KLJ-Kira-Lewis-Jr.",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717337Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717337Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717337.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717337Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717337.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717338",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-LMB",
+    "name": "LaMelo Ball",
+    "original_name": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717338/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-LMB-LaMelo-Ball",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717338Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717338Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717338.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717338Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717338.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717345",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-PPR",
+    "name": "Payton Pritchard",
+    "original_name": "Payton Pritchard",
+    "team": "Boston Celtics",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717345/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-PPR-Payton-Pritchard",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717345Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717345Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717345.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717345Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717345.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717346",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-PWL",
+    "name": "Patrick Williams",
+    "original_name": "Patrick Williams",
+    "team": "Chicago Bulls",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717346/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-PWL-Patrick-Williams",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717346Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717346Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717346.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717346Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717346.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717348",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-RW2",
+    "name": "Robert Woodard II",
+    "original_name": "Robert Woodard II",
+    "team": "Sacramento Kings",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717348/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-RW2-Robert-Woodard-II",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717348Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717348Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717348.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717348Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717348.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717352",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-THE",
+    "name": "Theo Maledon",
+    "original_name": "Theo Maledon",
+    "team": "Oklahoma City Thunder",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717352/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-THE-Theo-Maledon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717352Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717352Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717352.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717352Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717352.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717355",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-UDO",
+    "name": "Udoka Azubuike",
+    "original_name": "Udoka Azubuike",
+    "team": "Utah Jazz",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717355/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-UDO-Udoka-Azubuike",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717355Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717355Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717355.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717355Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717355.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717357",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-XAT",
+    "name": "Xavier Tillman",
+    "original_name": "Xavier Tillman",
+    "team": "Memphis Grizzlies",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717357/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-XAT-Xavier-Tillman",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717357Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717357Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717357.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717357Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717357.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16717358",
+    "set_id": "BB264067",
+    "source_set_id": 271197,
+    "number": "RM-ZEK",
+    "name": "Zeke Nnaji",
+    "original_name": "Zeke Nnaji",
+    "team": "Denver Nuggets",
+    "rarity": "球衣卡",
+    "sport": "basketball",
+    "basketball_kind": "memorabilia",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Rookie Expression Memorabilia",
+    "source_notes": "MEM",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271197/cid/16717358/2020-21-Panini-Court-Kings-Rookie-Expression-Memorabilia-RM-ZEK-Zeke-Nnaji",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717358Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717358Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16717358.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271197/271197-16717358Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16717358.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634670",
+    "set_id": "BB264067",
+    "source_set_id": 271111,
+    "number": "5",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2020-21 Panini Court Kings - Jade",
+    "source_notes": "SN25",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271111/cid/16634670/2020-21-Panini-Court-Kings-Jade-5-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634670Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634670Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634670.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634670Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634670.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634702",
+    "set_id": "BB264067",
+    "source_set_id": 271111,
+    "number": "37",
+    "name": "达米安·利拉德",
+    "original_name": "Damian Lillard",
+    "team": "Portland Trail Blazers",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2020-21 Panini Court Kings - Jade",
+    "source_notes": "SN25",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271111/cid/16634702/2020-21-Panini-Court-Kings-Jade-37-Damian-Lillard",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634702Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634702Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634702.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634702Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634702.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634729",
+    "set_id": "BB264067",
+    "source_set_id": 271111,
+    "number": "64",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2020-21 Panini Court Kings - Jade",
+    "source_notes": "SN25",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271111/cid/16634729/2020-21-Panini-Court-Kings-Jade-64-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634729Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634729Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634729.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271111/271111-16634729Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634729.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634810",
+    "set_id": "BB264067",
+    "source_set_id": 271113,
+    "number": "3",
+    "name": "Rudy Gobert",
+    "original_name": "Rudy Gobert",
+    "team": "Utah Jazz",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Pink",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271113/cid/16634810/2020-21-Panini-Court-Kings-Pink-3-Rudy-Gobert",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634810Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634810Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634810.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634810Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634810.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634844",
+    "set_id": "BB264067",
+    "source_set_id": 271113,
+    "number": "37",
+    "name": "达米安·利拉德",
+    "original_name": "Damian Lillard",
+    "team": "Portland Trail Blazers",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Pink",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271113/cid/16634844/2020-21-Panini-Court-Kings-Pink-37-Damian-Lillard",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634844Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634844Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634844.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634844Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634844.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634854",
+    "set_id": "BB264067",
+    "source_set_id": 271113,
+    "number": "47",
+    "name": "拉塞尔·威斯布鲁克",
+    "original_name": "Russell Westbrook",
+    "team": "Washington Wizards",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Pink",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271113/cid/16634854/2020-21-Panini-Court-Kings-Pink-47-Russell-Westbrook",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634854Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634854Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634854.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634854Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634854.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634855",
+    "set_id": "BB264067",
+    "source_set_id": 271113,
+    "number": "48",
+    "name": "勒布朗·詹姆斯",
+    "original_name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Pink",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271113/cid/16634855/2020-21-Panini-Court-Kings-Pink-48-LeBron-James",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634855Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634855Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634855.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634855Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634855.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634871",
+    "set_id": "BB264067",
+    "source_set_id": 271113,
+    "number": "64",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Pink",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271113/cid/16634871/2020-21-Panini-Court-Kings-Pink-64-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634871Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634871Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634871.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271113/271113-16634871Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634871.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634883",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "5",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634883/2020-21-Panini-Court-Kings-Ruby-5-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634883Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634883Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634883.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634883Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634883.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634903",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "25",
+    "name": "John Collins",
+    "original_name": "John Collins",
+    "team": "Atlanta Hawks",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634903/2020-21-Panini-Court-Kings-Ruby-25-John-Collins",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634903Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634903Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634903.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634903Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634903.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634905",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "27",
+    "name": "Jonas Valanciunas",
+    "original_name": "Jonas Valanciunas",
+    "team": "Memphis Grizzlies",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634905/2020-21-Panini-Court-Kings-Ruby-27-Jonas-Valanciunas",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634905Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634905Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634905.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634905Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634905.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634911",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "33",
+    "name": "Khris Middleton",
+    "original_name": "Khris Middleton",
+    "team": "Milwaukee Bucks",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634911/2020-21-Panini-Court-Kings-Ruby-33-Khris-Middleton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634911Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634911Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634911.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634911Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634911.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634927",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "49",
+    "name": "Rui Hachimura",
+    "original_name": "Rui Hachimura",
+    "team": "Washington Wizards",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634927/2020-21-Panini-Court-Kings-Ruby-49-Rui-Hachimura",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634927Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634927Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634927.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634927Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634927.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634930",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "52",
+    "name": "Mitchell Robinson",
+    "original_name": "Mitchell Robinson",
+    "team": "New York Knicks",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634930/2020-21-Panini-Court-Kings-Ruby-52-Mitchell-Robinson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634930Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634930Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634930.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634930Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634930.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634934",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "56",
+    "name": "Brandon Ingram",
+    "original_name": "Brandon Ingram",
+    "team": "New Orleans Pelicans",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634934/2020-21-Panini-Court-Kings-Ruby-56-Brandon-Ingram",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634934Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634934Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634934.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634934Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634934.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634942",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "64",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634942/2020-21-Panini-Court-Kings-Ruby-64-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634942Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634942Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634942.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634942Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634942.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634945",
+    "set_id": "BB264067",
+    "source_set_id": 271114,
+    "number": "67",
+    "name": "Ben Simmons",
+    "original_name": "Ben Simmons",
+    "team": "Philadelphia 76ers",
+    "rarity": "限编 /149",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 149,
+    "source_set_name": "2020-21 Panini Court Kings - Ruby",
+    "source_notes": "SN149",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271114/cid/16634945/2020-21-Panini-Court-Kings-Ruby-67-Ben-Simmons",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634945Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634945Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634945.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271114/271114-16634945Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634945.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16635025",
+    "set_id": "BB264067",
+    "source_set_id": 271116,
+    "number": "5",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /49",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 49,
+    "source_set_name": "2020-21 Panini Court Kings - Violet",
+    "source_notes": "SN49",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271116/cid/16635025/2020-21-Panini-Court-Kings-Violet-5-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635025Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635025Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16635025.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635025Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16635025.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16635052",
+    "set_id": "BB264067",
+    "source_set_id": 271116,
+    "number": "32",
+    "name": "Kelly Oubre Jr.",
+    "original_name": "Kelly Oubre Jr.",
+    "team": "Golden State Warriors",
+    "rarity": "限编 /49",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 49,
+    "source_set_name": "2020-21 Panini Court Kings - Violet",
+    "source_notes": "SN49",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271116/cid/16635052/2020-21-Panini-Court-Kings-Violet-32-Kelly-Oubre-Jr.",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635052Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635052Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16635052.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635052Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16635052.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16635084",
+    "set_id": "BB264067",
+    "source_set_id": 271116,
+    "number": "64",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "限编 /49",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 49,
+    "source_set_name": "2020-21 Panini Court Kings - Violet",
+    "source_notes": "SN49",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271116/cid/16635084/2020-21-Panini-Court-Kings-Violet-64-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635084Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635084Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16635084.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271116/271116-16635084Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16635084.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634597",
+    "set_id": "BB264067",
+    "source_set_id": 271109,
+    "number": "3",
+    "name": "Rudy Gobert",
+    "original_name": "Rudy Gobert",
+    "team": "Utah Jazz",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Amethyst",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271109/cid/16634597/2020-21-Panini-Court-Kings-Amethyst-3-Rudy-Gobert",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634597Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634597Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634597.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634597Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634597.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634599",
+    "set_id": "BB264067",
+    "source_set_id": 271109,
+    "number": "5",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Amethyst",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271109/cid/16634599/2020-21-Panini-Court-Kings-Amethyst-5-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634599Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634599Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634599.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634599Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634599.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634603",
+    "set_id": "BB264067",
+    "source_set_id": 271109,
+    "number": "9",
+    "name": "贾马尔·穆雷",
+    "original_name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Amethyst",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271109/cid/16634603/2020-21-Panini-Court-Kings-Amethyst-9-Jamal-Murray",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634603Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634603Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634603.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634603Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634603.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634640",
+    "set_id": "BB264067",
+    "source_set_id": 271109,
+    "number": "46",
+    "name": "Trae Young",
+    "original_name": "Trae Young",
+    "team": "Atlanta Hawks",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Amethyst",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271109/cid/16634640/2020-21-Panini-Court-Kings-Amethyst-46-Trae-Young",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634640Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634640Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634640.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634640Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634640.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634658",
+    "set_id": "BB264067",
+    "source_set_id": 271109,
+    "number": "64",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2020-21 Panini Court Kings - Amethyst",
+    "source_notes": "SN99",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271109/cid/16634658/2020-21-Panini-Court-Kings-Amethyst-64-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634658Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634658Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634658.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271109/271109-16634658Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634658.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634954",
+    "set_id": "BB264067",
+    "source_set_id": 271115,
+    "number": "5",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2020-21 Panini Court Kings - Sapphire",
+    "source_notes": "SN25",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271115/cid/16634954/2020-21-Panini-Court-Kings-Sapphire-5-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271115/271115-16634954Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271115/271115-16634954Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634954.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271115/271115-16634954Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634954.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16635013",
+    "set_id": "BB264067",
+    "source_set_id": 271115,
+    "number": "64",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2020-21 Panini Court Kings - Sapphire",
+    "source_notes": "SN25",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271115/cid/16635013/2020-21-Panini-Court-Kings-Sapphire-64-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271115/271115-16635013Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271115/271115-16635013Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16635013.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271115/271115-16635013Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16635013.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16633594",
+    "set_id": "BB264067",
+    "source_set_id": 271127,
+    "number": "8",
+    "name": "科怀·伦纳德",
+    "original_name": "Kawhi Leonard",
+    "team": "Los Angeles Clippers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Aurora",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271127/cid/16633594/2020-21-Panini-Court-Kings-Aurora-8-Kawhi-Leonard",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633594Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633594Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16633594.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633594Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16633594.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16633598",
+    "set_id": "BB264067",
+    "source_set_id": 271127,
+    "number": "12",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Aurora",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271127/cid/16633598/2020-21-Panini-Court-Kings-Aurora-12-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633598Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633598Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16633598.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633598Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16633598.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16633603",
+    "set_id": "BB264067",
+    "source_set_id": 271127,
+    "number": "17",
+    "name": "LaMelo Ball",
+    "original_name": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Aurora",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271127/cid/16633603/2020-21-Panini-Court-Kings-Aurora-17-LaMelo-Ball",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633603Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633603Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16633603.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271127/271127-16633603Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16633603.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634314",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "1",
+    "name": "贾马尔·穆雷",
+    "original_name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634314/2020-21-Panini-Court-Kings-Maestros-1-Jamal-Murray",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634314Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634314Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634314.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634314Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634314.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634317",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "4",
+    "name": "詹姆斯·哈登",
+    "original_name": "James Harden",
+    "team": "Brooklyn Nets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634317/2020-21-Panini-Court-Kings-Maestros-4-James-Harden",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634317Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634317Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634317.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634317Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634317.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634318",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "5",
+    "name": "拉塞尔·威斯布鲁克",
+    "original_name": "Russell Westbrook",
+    "team": "Washington Wizards",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634318/2020-21-Panini-Court-Kings-Maestros-5-Russell-Westbrook",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634318Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634318Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634318.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634318Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634318.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634319",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "6",
+    "name": "锡安·威廉森",
+    "original_name": "Zion Williamson",
+    "team": "New Orleans Pelicans",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634319/2020-21-Panini-Court-Kings-Maestros-6-Zion-Williamson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634319Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634319Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634319.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634319Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634319.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634320",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "7",
+    "name": "卢卡·东契奇",
+    "original_name": "Luka Doncic",
+    "team": "Dallas Mavericks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634320/2020-21-Panini-Court-Kings-Maestros-7-Luka-Doncic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634320Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634320Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634320.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634320Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634320.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634321",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "8",
+    "name": "达米安·利拉德",
+    "original_name": "Damian Lillard",
+    "team": "Portland Trail Blazers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634321/2020-21-Panini-Court-Kings-Maestros-8-Damian-Lillard",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634321Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634321Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634321.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634321Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634321.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634322",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "9",
+    "name": "Jimmy Butler",
+    "original_name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634322/2020-21-Panini-Court-Kings-Maestros-9-Jimmy-Butler",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634322Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634322Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634322.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634322Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634322.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634325",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "12",
+    "name": "Karl-Anthony Towns",
+    "original_name": "Karl-Anthony Towns",
+    "team": "Minnesota Timberwolves",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634325/2020-21-Panini-Court-Kings-Maestros-12-Karl-Anthony-Towns",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634325Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634325Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634325.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634325Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634325.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634328",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "15",
+    "name": "安东尼·戴维斯",
+    "original_name": "Anthony Davis",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634328/2020-21-Panini-Court-Kings-Maestros-15-Anthony-Davis",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634328Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634328Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634328.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634328Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634328.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634330",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "17",
+    "name": "扬尼斯·阿德托昆博",
+    "original_name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634330/2020-21-Panini-Court-Kings-Maestros-17-Giannis-Antetokounmpo",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634330Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634330Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634330.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634330Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634330.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634332",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "19",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634332/2020-21-Panini-Court-Kings-Maestros-19-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634332Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634332Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634332.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634332Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634332.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634333",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "20",
+    "name": "Blake Griffin",
+    "original_name": "Blake Griffin",
+    "team": "Detroit Pistons",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634333/2020-21-Panini-Court-Kings-Maestros-20-Blake-Griffin",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634333Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634333Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634333.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634333Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634333.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634335",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "22",
+    "name": "Pascal Siakam",
+    "original_name": "Pascal Siakam",
+    "team": "Toronto Raptors",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634335/2020-21-Panini-Court-Kings-Maestros-22-Pascal-Siakam",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634335Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634335Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634335.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634335Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634335.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634336",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "23",
+    "name": "De'Aaron Fox",
+    "original_name": "De'Aaron Fox",
+    "team": "Sacramento Kings",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634336/2020-21-Panini-Court-Kings-Maestros-23-De'Aaron-Fox",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634336Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634336Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634336.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634336Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634336.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634338",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "25",
+    "name": "杰森·塔图姆",
+    "original_name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634338/2020-21-Panini-Court-Kings-Maestros-25-Jayson-Tatum",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634338Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634338Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634338.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634338Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634338.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634340",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "27",
+    "name": "乔尔·恩比德",
+    "original_name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634340/2020-21-Panini-Court-Kings-Maestros-27-Joel-Embiid",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634340Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634340Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634340.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634340Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634340.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16634341",
+    "set_id": "BB264067",
+    "source_set_id": 271183,
+    "number": "28",
+    "name": "尼古拉·约基奇",
+    "original_name": "Nikola Jokic",
+    "team": "Denver Nuggets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Maestros",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271183/cid/16634341/2020-21-Panini-Court-Kings-Maestros-28-Nikola-Jokic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634341Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634341Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16634341.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271183/271183-16634341Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16634341.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB264067:16633641",
+    "set_id": "BB264067",
+    "source_set_id": 271128,
+    "number": "28",
+    "name": "凯文·加内特",
+    "original_name": "Kevin Garnett",
+    "team": "Minnesota Timberwolves",
+    "rarity": "追逐特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2020-21 Panini Court Kings - Blank Slate",
+    "source_notes": "",
+    "year": 2020,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/271128/cid/16633641/2020-21-Panini-Court-Kings-Blank-Slate-28-Kevin-Garnett",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/271128/271128-16633641Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/271128/271128-16633641Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB264067-16633641.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/271128/271128-16633641Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": true,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB264067-16633641.webp",
+    "image_status": "local_verified"
   }
 ]

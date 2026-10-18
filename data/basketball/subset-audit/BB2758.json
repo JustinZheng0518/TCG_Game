@@ -1,0 +1,235 @@
+{
+  "set_id": "BB2758",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2758/1998-99-Finest",
+  "headings": [
+    "Insert Sets (10)",
+    "Parallel Sets (3)"
+  ],
+  "subset_count": 14,
+  "subsets": [
+    {
+      "source_set_id": 2759,
+      "name": "1998-99 Finest - Arena Stars",
+      "short": "Arena Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2759/1998-99-Finest-Arena-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2760,
+      "name": "1998-99 Finest - Centurions",
+      "short": "Centurions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2760/1998-99-Finest-Centurions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25922,
+      "name": "1998-99 Finest - Centurions Refractors",
+      "short": "Centurions Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25922/1998-99-Finest-Centurions-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25923,
+      "name": "1998-99 Finest - Court Control",
+      "short": "Court Control",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25923/1998-99-Finest-Court-Control",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25924,
+      "name": "1998-99 Finest - Court Control Refractors",
+      "short": "Court Control Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25924/1998-99-Finest-Court-Control-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25925,
+      "name": "1998-99 Finest - Hardwood Honors",
+      "short": "Hardwood Honors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25925/1998-99-Finest-Hardwood-Honors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25929,
+      "name": "1998-99 Finest - Jumbos 3x5",
+      "short": "Jumbos 3x5",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25929/1998-99-Finest-Jumbos-3x5",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25930,
+      "name": "1998-99 Finest - Jumbos Refractors 3x5",
+      "short": "Jumbos Refractors 3x5",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25930/1998-99-Finest-Jumbos-Refractors-3x5",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25926,
+      "name": "1998-99 Finest - Mystery Finest",
+      "short": "Mystery Finest",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25926/1998-99-Finest-Mystery-Finest",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25927,
+      "name": "1998-99 Finest - Mystery Finest Refractors",
+      "short": "Mystery Finest Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25927/1998-99-Finest-Mystery-Finest-Refractors",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25928,
+      "name": "1998-99 Finest - No Protector",
+      "short": "No Protector",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25928/1998-99-Finest-No-Protector",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 2761,
+      "name": "1998-99 Finest - No Protector Refractors",
+      "short": "No Protector Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2761/1998-99-Finest-No-Protector-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 2762,
+      "name": "1998-99 Finest - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2762/1998-99-Finest-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 88802,
+      "name": "1998-99 Finest - Pre-Production",
+      "short": "Pre-Production",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/88802/1998-99-Finest-Pre-Production",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 4,
+  "imported_this_run": [
+    {
+      "source_set_id": 2762,
+      "name": "Refractors",
+      "family_requested": "parallel",
+      "cards_with_front": 101,
+      "missing_fronts": 148
+    },
+    {
+      "source_set_id": 2760,
+      "name": "Centurions",
+      "family_requested": "insert",
+      "cards_with_front": 11,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 25929,
+      "name": "Jumbos 3x5",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 4
+    },
+    {
+      "source_set_id": 2759,
+      "name": "Arena Stars",
+      "family_requested": "insert",
+      "cards_with_front": 20,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 391,
+  "before_tiers": {
+    "base": 224,
+    "rookie": 25
+  },
+  "tiers": {
+    "base": 225,
+    "rookie": 25,
+    "parallel": 101,
+    "numbered": 11,
+    "insert": 30
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "parallel": 101,
+    "numbered": 11,
+    "insert": 30
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 225,
+      "available_cards": 225,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 101,
+      "available_cards": 101,
+      "local_images": 101,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 11
+    },
+    "numbered": {
+      "status": "available",
+      "records": 11,
+      "available_cards": 11,
+      "local_images": 11,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

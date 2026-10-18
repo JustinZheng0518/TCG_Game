@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB589540-33837012.webp"
+    "local_preview": "data/basketball/previews/BB589540-33837012.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB589540:33837013",
@@ -50,7 +52,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837014",
@@ -76,7 +79,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837015",
@@ -102,7 +106,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837016",
@@ -128,7 +133,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837017",
@@ -154,7 +160,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837018",
@@ -180,7 +187,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837019",
@@ -206,7 +214,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837020",
@@ -232,7 +241,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837021",
@@ -258,7 +268,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837022",
@@ -284,7 +295,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837023",
@@ -310,7 +322,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837024",
@@ -336,7 +349,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837025",
@@ -362,7 +376,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837026",
@@ -388,7 +403,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837027",
@@ -414,7 +430,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837028",
@@ -440,7 +457,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837029",
@@ -466,7 +484,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837030",
@@ -492,7 +511,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837031",
@@ -518,7 +538,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837032",
@@ -545,7 +566,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB589540-33837032.webp"
+    "local_preview": "data/basketball/previews/BB589540-33837032.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB589540:33837033",
@@ -571,7 +594,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837034",
@@ -597,7 +621,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837035",
@@ -623,7 +648,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837036",
@@ -649,7 +675,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837037",
@@ -675,7 +702,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837038",
@@ -701,7 +729,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837039",
@@ -727,7 +756,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837040",
@@ -753,7 +783,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837041",
@@ -780,7 +811,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB589540-33837041.webp"
+    "local_preview": "data/basketball/previews/BB589540-33837041.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB589540:33837042",
@@ -806,7 +839,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837043",
@@ -832,7 +866,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837044",
@@ -858,7 +893,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837045",
@@ -884,7 +920,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837046",
@@ -910,7 +947,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837047",
@@ -936,7 +974,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837048",
@@ -962,7 +1001,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837049",
@@ -988,7 +1028,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837050",
@@ -1014,7 +1055,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837051",
@@ -1041,7 +1083,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB589540-33837051.webp"
+    "local_preview": "data/basketball/previews/BB589540-33837051.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB589540:33837052",
@@ -1067,7 +1111,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837053",
@@ -1093,7 +1138,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837054",
@@ -1120,7 +1166,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB589540-33837054.webp"
+    "local_preview": "data/basketball/previews/BB589540-33837054.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB589540:33837055",
@@ -1147,7 +1195,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB589540-33837055.webp"
+    "local_preview": "data/basketball/previews/BB589540-33837055.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB589540:33837056",
@@ -1173,7 +1223,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837057",
@@ -1199,7 +1250,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837058",
@@ -1225,7 +1277,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837059",
@@ -1251,7 +1304,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837060",
@@ -1277,7 +1331,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837061",
@@ -1303,7 +1358,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837062",
@@ -1329,7 +1385,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837063",
@@ -1355,7 +1412,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837064",
@@ -1382,7 +1440,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB589540-33837064.webp"
+    "local_preview": "data/basketball/previews/BB589540-33837064.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB589540:33837065",
@@ -1408,7 +1468,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837066",
@@ -1434,7 +1495,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837067",
@@ -1460,7 +1522,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837068",
@@ -1486,7 +1549,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837069",
@@ -1512,7 +1576,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837070",
@@ -1538,7 +1603,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837071",
@@ -1564,7 +1630,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837072",
@@ -1590,7 +1657,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837073",
@@ -1616,7 +1684,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837074",
@@ -1642,7 +1711,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837075",
@@ -1668,7 +1738,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837076",
@@ -1694,7 +1765,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837077",
@@ -1720,7 +1792,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837078",
@@ -1746,7 +1819,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837079",
@@ -1772,7 +1846,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837080",
@@ -1798,7 +1873,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837081",
@@ -1824,7 +1900,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837082",
@@ -1850,7 +1927,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837083",
@@ -1876,7 +1954,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837084",
@@ -1902,7 +1981,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837085",
@@ -1928,7 +2008,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837086",
@@ -1954,7 +2035,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837087",
@@ -1980,7 +2062,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837088",
@@ -2006,7 +2089,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837089",
@@ -2032,7 +2116,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837090",
@@ -2058,7 +2143,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837091",
@@ -2084,7 +2170,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837092",
@@ -2110,7 +2197,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837093",
@@ -2136,7 +2224,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837094",
@@ -2162,7 +2251,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837095",
@@ -2188,7 +2278,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837096",
@@ -2214,7 +2305,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837097",
@@ -2240,7 +2332,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837098",
@@ -2266,7 +2359,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837099",
@@ -2292,7 +2386,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837100",
@@ -2318,7 +2413,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837101",
@@ -2344,7 +2440,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837102",
@@ -2370,7 +2467,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837103",
@@ -2396,7 +2494,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837104",
@@ -2422,7 +2521,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837105",
@@ -2448,7 +2548,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837106",
@@ -2474,7 +2575,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837107",
@@ -2500,7 +2602,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837108",
@@ -2526,7 +2629,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837109",
@@ -2552,7 +2656,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837110",
@@ -2578,7 +2683,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837111",
@@ -2604,7 +2710,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837112",
@@ -2630,7 +2737,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837113",
@@ -2656,7 +2764,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837114",
@@ -2682,7 +2791,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837115",
@@ -2708,7 +2818,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837116",
@@ -2734,7 +2845,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837117",
@@ -2760,7 +2872,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837118",
@@ -2786,7 +2899,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837119",
@@ -2812,7 +2926,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837120",
@@ -2838,7 +2953,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837121",
@@ -2864,7 +2980,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837122",
@@ -2890,7 +3007,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837123",
@@ -2916,7 +3034,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837124",
@@ -2942,7 +3061,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837125",
@@ -2968,7 +3088,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837126",
@@ -2994,7 +3115,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837127",
@@ -3020,7 +3142,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837128",
@@ -3046,7 +3169,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837129",
@@ -3072,7 +3196,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837130",
@@ -3098,7 +3223,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837131",
@@ -3124,7 +3250,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837132",
@@ -3150,7 +3277,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837133",
@@ -3176,7 +3304,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837134",
@@ -3202,7 +3331,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837135",
@@ -3228,7 +3358,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837136",
@@ -3254,7 +3385,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837137",
@@ -3280,7 +3412,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837138",
@@ -3306,7 +3439,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837139",
@@ -3332,7 +3466,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837140",
@@ -3358,7 +3493,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837141",
@@ -3384,7 +3520,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837142",
@@ -3410,7 +3547,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837143",
@@ -3436,7 +3574,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837144",
@@ -3462,7 +3601,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837145",
@@ -3488,7 +3628,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837146",
@@ -3514,7 +3655,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837147",
@@ -3540,7 +3682,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837148",
@@ -3566,7 +3709,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837149",
@@ -3592,7 +3736,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837150",
@@ -3618,7 +3763,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837151",
@@ -3644,7 +3790,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837152",
@@ -3670,7 +3817,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837153",
@@ -3696,7 +3844,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837154",
@@ -3722,7 +3871,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837155",
@@ -3748,7 +3898,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837156",
@@ -3774,7 +3925,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837157",
@@ -3800,7 +3952,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837158",
@@ -3826,7 +3979,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837159",
@@ -3852,7 +4006,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837160",
@@ -3878,7 +4033,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837161",
@@ -3904,7 +4060,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837162",
@@ -3930,7 +4087,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837163",
@@ -3956,7 +4114,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837164",
@@ -3982,7 +4141,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837165",
@@ -4008,7 +4168,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837166",
@@ -4034,7 +4195,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837167",
@@ -4060,7 +4222,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837168",
@@ -4086,7 +4249,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837169",
@@ -4112,7 +4276,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837170",
@@ -4138,7 +4303,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837171",
@@ -4164,7 +4330,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837172",
@@ -4190,7 +4357,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837173",
@@ -4216,7 +4384,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837174",
@@ -4242,7 +4411,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837175",
@@ -4268,7 +4438,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837176",
@@ -4294,7 +4465,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837177",
@@ -4320,7 +4492,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837178",
@@ -4346,7 +4519,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837179",
@@ -4372,7 +4546,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837180",
@@ -4398,7 +4573,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837181",
@@ -4424,7 +4600,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837182",
@@ -4450,7 +4627,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837183",
@@ -4476,7 +4654,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837184",
@@ -4502,7 +4681,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837185",
@@ -4528,7 +4708,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837186",
@@ -4554,7 +4735,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837187",
@@ -4580,7 +4762,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837188",
@@ -4606,7 +4789,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837189",
@@ -4632,7 +4816,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837190",
@@ -4658,7 +4843,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837191",
@@ -4684,7 +4870,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837192",
@@ -4710,7 +4897,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837193",
@@ -4736,7 +4924,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837194",
@@ -4762,7 +4951,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837195",
@@ -4788,7 +4978,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837196",
@@ -4814,7 +5005,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837197",
@@ -4840,7 +5032,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837198",
@@ -4866,7 +5059,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837199",
@@ -4892,7 +5086,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837200",
@@ -4918,7 +5113,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837201",
@@ -4944,7 +5140,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837202",
@@ -4970,7 +5167,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837203",
@@ -4996,7 +5194,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837204",
@@ -5022,7 +5221,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837205",
@@ -5048,7 +5248,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837206",
@@ -5074,7 +5275,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837207",
@@ -5100,7 +5302,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837208",
@@ -5126,7 +5329,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837209",
@@ -5152,7 +5356,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837210",
@@ -5178,7 +5383,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837211",
@@ -5204,7 +5410,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837212",
@@ -5230,7 +5437,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837213",
@@ -5256,7 +5464,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837234",
@@ -5282,7 +5491,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837238",
@@ -5308,7 +5518,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837253",
@@ -5334,7 +5545,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837263",
@@ -5360,7 +5572,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837275",
@@ -5386,7 +5599,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837299",
@@ -5412,7 +5626,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB589540:33837307",
@@ -5438,6 +5653,3023 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB589540:33841624",
+    "set_id": "BB589540",
+    "source_set_id": 599919,
+    "number": "30",
+    "name": "乔尔·恩比德",
+    "original_name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "rarity": "限编 /10",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 10,
+    "source_set_name": "2025-26 Finest - Red Refractor",
+    "source_notes": "SN10",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599919/cid/33841624/2025-26-Finest-Red-Refractor-30-Joel-Embiid",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841624Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841624Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33841624.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841624Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33841624.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33841658",
+    "set_id": "BB589540",
+    "source_set_id": 599919,
+    "number": "64",
+    "name": "Naz Reid",
+    "original_name": "Naz Reid",
+    "team": "Minnesota Timberwolves",
+    "rarity": "限编 /10",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 10,
+    "source_set_name": "2025-26 Finest - Red Refractor",
+    "source_notes": "SN10",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599919/cid/33841658/2025-26-Finest-Red-Refractor-64-Naz-Reid",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841658Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841658Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33841658.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841658Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33841658.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33841689",
+    "set_id": "BB589540",
+    "source_set_id": 599919,
+    "number": "95",
+    "name": "Desmond Bane",
+    "original_name": "Desmond Bane",
+    "team": "Memphis Grizzlies",
+    "rarity": "限编 /10",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 10,
+    "source_set_name": "2025-26 Finest - Red Refractor",
+    "source_notes": "SN10",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599919/cid/33841689/2025-26-Finest-Red-Refractor-95-Desmond-Bane",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841689Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841689Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33841689.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841689Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33841689.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33841783",
+    "set_id": "BB589540",
+    "source_set_id": 599919,
+    "number": "189",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "rarity": "限编 /5",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 5,
+    "source_set_name": "2025-26 Finest - Red Refractor",
+    "source_notes": "SN5",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599919/cid/33841783/2025-26-Finest-Red-Refractor-189-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841783Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841783Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33841783.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599919/599919-33841783Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33841783.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838901",
+    "set_id": "BB589540",
+    "source_set_id": 599908,
+    "number": "43",
+    "name": "扬尼斯·阿德托昆博",
+    "original_name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "rarity": "限编 /1",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 1,
+    "source_set_name": "2025-26 Finest - SuperFractor",
+    "source_notes": "SN1",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599908/cid/33838901/2025-26-Finest-SuperFractor-43-Giannis-Antetokounmpo",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599908/599908-33838901Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599908/599908-33838901Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838901.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599908/599908-33838901Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838901.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839055",
+    "set_id": "BB589540",
+    "source_set_id": 599908,
+    "number": "197",
+    "name": "Carmelo Anthony",
+    "original_name": "Carmelo Anthony",
+    "team": "New York Knicks",
+    "rarity": "限编 /1",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 1,
+    "source_set_name": "2025-26 Finest - SuperFractor",
+    "source_notes": "SN1",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599908/cid/33839055/2025-26-Finest-SuperFractor-197-Carmelo-Anthony",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599908/599908-33839055Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599908/599908-33839055Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839055.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599908/599908-33839055Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839055.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840699",
+    "set_id": "BB589540",
+    "source_set_id": 599916,
+    "number": "17",
+    "name": "Joan Beringer",
+    "original_name": "Joan Beringer",
+    "team": "Minnesota Timberwolves",
+    "rarity": "限编 /50",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 50,
+    "source_set_name": "2025-26 Finest - Gold Refractor",
+    "source_notes": "SN50",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599916/cid/33840699/2025-26-Finest-Gold-Refractor-17-Joan-Beringer",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840699Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840699Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840699.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840699Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840699.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840764",
+    "set_id": "BB589540",
+    "source_set_id": 599916,
+    "number": "82",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /50",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 50,
+    "source_set_name": "2025-26 Finest - Gold Refractor",
+    "source_notes": "SN50",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599916/cid/33840764/2025-26-Finest-Gold-Refractor-82-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840764Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840764Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840764.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840764Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840764.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840825",
+    "set_id": "BB589540",
+    "source_set_id": 599916,
+    "number": "143",
+    "name": "Coby White",
+    "original_name": "Coby White",
+    "team": "Chicago Bulls",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2025-26 Finest - Gold Refractor",
+    "source_notes": "SN25",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599916/cid/33840825/2025-26-Finest-Gold-Refractor-143-Coby-White",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840825Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840825Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840825.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840825Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840825.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840848",
+    "set_id": "BB589540",
+    "source_set_id": 599916,
+    "number": "166",
+    "name": "Bronny James Jr.",
+    "original_name": "Bronny James Jr.",
+    "team": "Los Angeles Lakers",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2025-26 Finest - Gold Refractor",
+    "source_notes": "SN25",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599916/cid/33840848/2025-26-Finest-Gold-Refractor-166-Bronny-James-Jr.",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840848Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840848Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840848.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840848Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840848.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840869",
+    "set_id": "BB589540",
+    "source_set_id": 599916,
+    "number": "187",
+    "name": "Scoot Henderson",
+    "original_name": "Scoot Henderson",
+    "team": "Portland Trail Blazers",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2025-26 Finest - Gold Refractor",
+    "source_notes": "SN25",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599916/cid/33840869/2025-26-Finest-Gold-Refractor-187-Scoot-Henderson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840869Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840869Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840869.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840869Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840869.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840874",
+    "set_id": "BB589540",
+    "source_set_id": 599916,
+    "number": "192",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2025-26 Finest - Gold Refractor",
+    "source_notes": "SN25",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599916/cid/33840874/2025-26-Finest-Gold-Refractor-192-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840874Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840874Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840874.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840874Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840874.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840875",
+    "set_id": "BB589540",
+    "source_set_id": 599916,
+    "number": "193",
+    "name": "魔术师约翰逊",
+    "original_name": "Magic Johnson",
+    "team": "Los Angeles Lakers",
+    "rarity": "限编 /25",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 25,
+    "source_set_name": "2025-26 Finest - Gold Refractor",
+    "source_notes": "SN25",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599916/cid/33840875/2025-26-Finest-Gold-Refractor-193-Magic-Johnson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840875Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840875Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840875.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599916/599916-33840875Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840875.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839169",
+    "set_id": "BB589540",
+    "source_set_id": 599918,
+    "number": "7",
+    "name": "Jeremiah Fears",
+    "original_name": "Jeremiah Fears",
+    "team": "New Orleans Pelicans",
+    "rarity": "限编 /15",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 15,
+    "source_set_name": "2025-26 Finest - Black Refractor",
+    "source_notes": "SN15",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599918/cid/33839169/2025-26-Finest-Black-Refractor-7-Jeremiah-Fears",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839169Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839169Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839169.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839169Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839169.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839188",
+    "set_id": "BB589540",
+    "source_set_id": 599918,
+    "number": "26",
+    "name": "Jalen Brunson",
+    "original_name": "Jalen Brunson",
+    "team": "New York Knicks",
+    "rarity": "限编 /15",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 15,
+    "source_set_name": "2025-26 Finest - Black Refractor",
+    "source_notes": "SN15",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599918/cid/33839188/2025-26-Finest-Black-Refractor-26-Jalen-Brunson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839188Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839188Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839188.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839188Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839188.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839354",
+    "set_id": "BB589540",
+    "source_set_id": 599918,
+    "number": "192",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "限编 /10",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 10,
+    "source_set_name": "2025-26 Finest - Black Refractor",
+    "source_notes": "SN10",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599918/cid/33839354/2025-26-Finest-Black-Refractor-192-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839354Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839354Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839354.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839354Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839354.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839385",
+    "set_id": "BB589540",
+    "source_set_id": 599918,
+    "number": "223",
+    "name": "Derrick White",
+    "original_name": "Derrick White",
+    "team": "Boston Celtics",
+    "rarity": "限编 /5",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 5,
+    "source_set_name": "2025-26 Finest - Black Refractor",
+    "source_notes": "SN5",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599918/cid/33839385/2025-26-Finest-Black-Refractor-223-Derrick-White",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839385Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839385Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839385.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839385Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839385.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839454",
+    "set_id": "BB589540",
+    "source_set_id": 599918,
+    "number": "292",
+    "name": "Alperen Sengun",
+    "original_name": "Alperen Sengun",
+    "team": "Houston Rockets",
+    "rarity": "限编 /5",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 5,
+    "source_set_name": "2025-26 Finest - Black Refractor",
+    "source_notes": "SN5",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599918/cid/33839454/2025-26-Finest-Black-Refractor-292-Alperen-Sengun",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839454Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839454Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839454.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599918/599918-33839454Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839454.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33843695",
+    "set_id": "BB589540",
+    "source_set_id": 599925,
+    "number": "FAU-DG",
+    "name": "Daniel Gafford",
+    "original_name": "Daniel Gafford",
+    "team": "Dallas Mavericks",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599925/cid/33843695/2025-26-Finest-Finest-Autographs-FAU-DG-Daniel-Gafford",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843695Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843695Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33843695.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843695Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33843695.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33843698",
+    "set_id": "BB589540",
+    "source_set_id": 599925,
+    "number": "FAU-DR",
+    "name": "Duncan Robinson",
+    "original_name": "Duncan Robinson",
+    "team": "Miami Heat",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599925/cid/33843698/2025-26-Finest-Finest-Autographs-FAU-DR-Duncan-Robinson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843698Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843698Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33843698.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843698Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33843698.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33843715",
+    "set_id": "BB589540",
+    "source_set_id": 599925,
+    "number": "FAU-KM",
+    "name": "Kris Murray",
+    "original_name": "Kris Murray",
+    "team": "Portland Trail Blazers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599925/cid/33843715/2025-26-Finest-Finest-Autographs-FAU-KM-Kris-Murray",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843715Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843715Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33843715.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843715Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33843715.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33843717",
+    "set_id": "BB589540",
+    "source_set_id": 599925,
+    "number": "FAU-KW",
+    "name": "Kel'el Ware",
+    "original_name": "Kel'el Ware",
+    "team": "Miami Heat",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599925/cid/33843717/2025-26-Finest-Finest-Autographs-FAU-KW-Kel'el-Ware",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843717Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843717Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33843717.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843717Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33843717.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33843721",
+    "set_id": "BB589540",
+    "source_set_id": 599925,
+    "number": "FAU-OI",
+    "name": "Oso Ighodaro",
+    "original_name": "Oso Ighodaro",
+    "team": "Phoenix Suns",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599925/cid/33843721/2025-26-Finest-Finest-Autographs-FAU-OI-Oso-Ighodaro",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843721Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843721Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33843721.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599925/599925-33843721Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33843721.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33895655",
+    "set_id": "BB589540",
+    "source_set_id": 600335,
+    "number": "MA-KM",
+    "name": "Khaman Maluach",
+    "original_name": "Khaman Maluach",
+    "team": "Phoenix Suns",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Masters Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600335/cid/33895655/2025-26-Finest-Masters-Autographs-MA-KM-Khaman-Maluach",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600335/600335-33895655Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600335/600335-33895655Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33895655.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600335/600335-33895655Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33895655.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33845114",
+    "set_id": "BB589540",
+    "source_set_id": 599955,
+    "number": "BA-JR",
+    "name": "Jase Richardson",
+    "original_name": "Jase Richardson",
+    "team": "Orlando Magic",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Baseline Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599955/cid/33845114/2025-26-Finest-Baseline-Autographs-BA-JR-Jase-Richardson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599955/599955-33845114Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599955/599955-33845114Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33845114.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599955/599955-33845114Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33845114.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33845135",
+    "set_id": "BB589540",
+    "source_set_id": 599955,
+    "number": "BA-RH",
+    "name": "Robert Horry",
+    "original_name": "Robert Horry",
+    "team": "Los Angeles Lakers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Baseline Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599955/cid/33845135/2025-26-Finest-Baseline-Autographs-BA-RH-Robert-Horry",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599955/599955-33845135Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599955/599955-33845135Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33845135.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599955/599955-33845135Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33845135.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33846344",
+    "set_id": "BB589540",
+    "source_set_id": 599979,
+    "number": "ESG-BB",
+    "name": "Brooks Barnhizer",
+    "original_name": "Brooks Barnhizer",
+    "team": "Oklahoma City Thunder",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Electrifying Signatures",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599979/cid/33846344/2025-26-Finest-Electrifying-Signatures-ESG-BB-Brooks-Barnhizer",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599979/599979-33846344Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599979/599979-33846344Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33846344.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599979/599979-33846344Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33846344.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33846371",
+    "set_id": "BB589540",
+    "source_set_id": 599979,
+    "number": "ESG-LM",
+    "name": "Lauri Markkanen",
+    "original_name": "Lauri Markkanen",
+    "team": "Utah Jazz",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Electrifying Signatures",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599979/cid/33846371/2025-26-Finest-Electrifying-Signatures-ESG-LM-Lauri-Markkanen",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599979/599979-33846371Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599979/599979-33846371Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33846371.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599979/599979-33846371Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33846371.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33844466",
+    "set_id": "BB589540",
+    "source_set_id": 599940,
+    "number": "RFA-AM",
+    "name": "Alijah Martin",
+    "original_name": "Alijah Martin",
+    "team": "Toronto Raptors",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Rookie Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599940/cid/33844466/2025-26-Finest-Rookie-Finest-Autographs-RFA-AM-Alijah-Martin",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844466Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844466Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33844466.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844466Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33844466.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33844477",
+    "set_id": "BB589540",
+    "source_set_id": 599940,
+    "number": "RFA-DP",
+    "name": "Drake Powell",
+    "original_name": "Drake Powell",
+    "team": "Brooklyn Nets",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Rookie Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599940/cid/33844477/2025-26-Finest-Rookie-Finest-Autographs-RFA-DP-Drake-Powell",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844477Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844477Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33844477.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844477Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33844477.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33844483",
+    "set_id": "BB589540",
+    "source_set_id": 599940,
+    "number": "RFA-JW",
+    "name": "Jamir Watkins",
+    "original_name": "Jamir Watkins",
+    "team": "Washington Wizards",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Rookie Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599940/cid/33844483/2025-26-Finest-Rookie-Finest-Autographs-RFA-JW-Jamir-Watkins",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844483Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844483Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33844483.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844483Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33844483.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33844488",
+    "set_id": "BB589540",
+    "source_set_id": 599940,
+    "number": "RFA-KO",
+    "name": "Kam Jones",
+    "original_name": "Kam Jones",
+    "team": "Indiana Pacers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Rookie Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599940/cid/33844488/2025-26-Finest-Rookie-Finest-Autographs-RFA-KO-Kam-Jones",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844488Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844488Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33844488.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844488Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33844488.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33844496",
+    "set_id": "BB589540",
+    "source_set_id": 599940,
+    "number": "RFA-RF",
+    "name": "Rasheer Fleming",
+    "original_name": "Rasheer Fleming",
+    "team": "Phoenix Suns",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Rookie Finest Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599940/cid/33844496/2025-26-Finest-Rookie-Finest-Autographs-RFA-RF-Rasheer-Fleming",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844496Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844496Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33844496.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599940/599940-33844496Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33844496.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33845882",
+    "set_id": "BB589540",
+    "source_set_id": 599970,
+    "number": "CS-AO",
+    "name": "Adem Bona",
+    "original_name": "Adem Bona",
+    "team": "Philadelphia 76ers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Colossal Shots Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599970/cid/33845882/2025-26-Finest-Colossal-Shots-Autographs-CS-AO-Adem-Bona",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599970/599970-33845882Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599970/599970-33845882Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33845882.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599970/599970-33845882Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33845882.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33845903",
+    "set_id": "BB589540",
+    "source_set_id": 599970,
+    "number": "CS-HJ",
+    "name": "Herb Jones",
+    "original_name": "Herb Jones",
+    "team": "New Orleans Pelicans",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Colossal Shots Autographs",
+    "source_notes": "AU",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599970/cid/33845903/2025-26-Finest-Colossal-Shots-Autographs-CS-HJ-Herb-Jones",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599970/599970-33845903Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599970/599970-33845903Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33845903.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599970/599970-33845903Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33845903.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33837939",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "17",
+    "name": "Joan Beringer",
+    "original_name": "Joan Beringer",
+    "team": "Minnesota Timberwolves",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33837939/2025-26-Finest-Refractor-17-Joan-Beringer",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837939Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837939Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33837939.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837939Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33837939.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33837982",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "60",
+    "name": "Nikola Jokić",
+    "original_name": "Nikola Jokić",
+    "team": "Denver Nuggets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33837982/2025-26-Finest-Refractor-60-Nikola-Jokić",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837982Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837982Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33837982.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837982Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33837982.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33837985",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "63",
+    "name": "安东尼·爱德华兹",
+    "original_name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33837985/2025-26-Finest-Refractor-63-Anthony-Edwards",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837985Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837985Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33837985.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33837985Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33837985.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838003",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "81",
+    "name": "卢卡·东契奇",
+    "original_name": "Luka Doncic",
+    "team": "Los Angeles Lakers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838003/2025-26-Finest-Refractor-81-Luka-Doncic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838003Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838003Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838003.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838003Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838003.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838005",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "83",
+    "name": "凯文·杜兰特",
+    "original_name": "Kevin Durant",
+    "team": "Houston Rockets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838005/2025-26-Finest-Refractor-83-Kevin-Durant",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838005Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838005Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838005.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838005Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838005.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838080",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "158",
+    "name": "安东尼·爱德华兹",
+    "original_name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838080/2025-26-Finest-Refractor-158-Anthony-Edwards",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838080Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838080Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838080.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838080Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838080.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838111",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "189",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838111/2025-26-Finest-Refractor-189-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838111Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838111Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838111.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838111Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838111.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838114",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "192",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838114/2025-26-Finest-Refractor-192-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838114Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838114Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838114.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838114Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838114.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838116",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "194",
+    "name": "沙奎尔·奥尼尔",
+    "original_name": "Shaquille O'Neal",
+    "team": "Los Angeles Lakers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838116/2025-26-Finest-Refractor-194-Shaquille-O'Neal",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838116Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838116Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838116.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838116Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838116.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838138",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "216",
+    "name": "Yang Hansen",
+    "original_name": "Yang Hansen",
+    "team": "Portland Trail Blazers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838138/2025-26-Finest-Refractor-216-Yang-Hansen",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838138Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838138Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838138.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838138Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838138.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838183",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "261",
+    "name": "贾马尔·穆雷",
+    "original_name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838183/2025-26-Finest-Refractor-261-Jamal-Murray",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838183Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838183Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838183.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838183Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838183.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838204",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "282",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838204/2025-26-Finest-Refractor-282-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838204Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838204Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838204.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838204Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838204.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838218",
+    "set_id": "BB589540",
+    "source_set_id": 599904,
+    "number": "296",
+    "name": "凯文·加内特",
+    "original_name": "Kevin Garnett",
+    "team": "Boston Celtics",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Refractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599904/cid/33838218/2025-26-Finest-Refractor-296-Kevin-Garnett",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838218Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838218Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838218.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599904/599904-33838218Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838218.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838225",
+    "set_id": "BB589540",
+    "source_set_id": 599906,
+    "number": "1",
+    "name": "Cooper Flagg",
+    "original_name": "Cooper Flagg",
+    "team": "Dallas Mavericks",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - X-Fractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599906/cid/33838225/2025-26-Finest-X-Fractor-1-Cooper-Flagg",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838225Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838225Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838225.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838225Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838225.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838306",
+    "set_id": "BB589540",
+    "source_set_id": 599906,
+    "number": "82",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - X-Fractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599906/cid/33838306/2025-26-Finest-X-Fractor-82-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838306Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838306Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838306.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838306Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838306.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838336",
+    "set_id": "BB589540",
+    "source_set_id": 599906,
+    "number": "112",
+    "name": "Asa Newell",
+    "original_name": "Asa Newell",
+    "team": "Atlanta Hawks",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - X-Fractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599906/cid/33838336/2025-26-Finest-X-Fractor-112-Asa-Newell",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838336Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838336Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838336.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838336Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838336.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838391",
+    "set_id": "BB589540",
+    "source_set_id": 599906,
+    "number": "167",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - X-Fractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599906/cid/33838391/2025-26-Finest-X-Fractor-167-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838391Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838391Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838391.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838391Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838391.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838416",
+    "set_id": "BB589540",
+    "source_set_id": 599906,
+    "number": "192",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - X-Fractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599906/cid/33838416/2025-26-Finest-X-Fractor-192-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838416Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838416Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838416.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838416Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838416.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838418",
+    "set_id": "BB589540",
+    "source_set_id": 599906,
+    "number": "194",
+    "name": "沙奎尔·奥尼尔",
+    "original_name": "Shaquille O'Neal",
+    "team": "Los Angeles Lakers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - X-Fractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599906/cid/33838418/2025-26-Finest-X-Fractor-194-Shaquille-O'Neal",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838418Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838418Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838418.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838418Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838418.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33838520",
+    "set_id": "BB589540",
+    "source_set_id": 599906,
+    "number": "296",
+    "name": "凯文·加内特",
+    "original_name": "Kevin Garnett",
+    "team": "Boston Celtics",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - X-Fractor",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599906/cid/33838520/2025-26-Finest-X-Fractor-296-Kevin-Garnett",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838520Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838520Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33838520.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599906/599906-33838520Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33838520.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33897090",
+    "set_id": "BB589540",
+    "source_set_id": 600368,
+    "number": "AU-1",
+    "name": "斯蒂芬·库里",
+    "original_name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Aura",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600368/cid/33897090/2025-26-Finest-Aura-AU-1-Stephen-Curry",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897090Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897090Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33897090.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897090Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33897090.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33897091",
+    "set_id": "BB589540",
+    "source_set_id": 600368,
+    "number": "AU-2",
+    "name": "杰森·塔图姆",
+    "original_name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Aura",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600368/cid/33897091/2025-26-Finest-Aura-AU-2-Jayson-Tatum",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897091Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897091Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33897091.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897091Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33897091.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33897092",
+    "set_id": "BB589540",
+    "source_set_id": 600368,
+    "number": "AU-3",
+    "name": "维克托·文班亚马",
+    "original_name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Aura",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600368/cid/33897092/2025-26-Finest-Aura-AU-3-Victor-Wembanyama",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897092Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897092Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33897092.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897092Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33897092.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33897095",
+    "set_id": "BB589540",
+    "source_set_id": 600368,
+    "number": "AU-6",
+    "name": "扬尼斯·阿德托昆博",
+    "original_name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Aura",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600368/cid/33897095/2025-26-Finest-Aura-AU-6-Giannis-Antetokounmpo",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897095Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897095Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33897095.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897095Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33897095.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33897098",
+    "set_id": "BB589540",
+    "source_set_id": 600368,
+    "number": "AU-9",
+    "name": "安东尼·爱德华兹",
+    "original_name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Aura",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600368/cid/33897098/2025-26-Finest-Aura-AU-9-Anthony-Edwards",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897098Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897098Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33897098.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897098Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33897098.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33897107",
+    "set_id": "BB589540",
+    "source_set_id": 600368,
+    "number": "AU-18",
+    "name": "VJ Edgecombe",
+    "original_name": "VJ Edgecombe",
+    "team": "Philadelphia 76ers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Aura",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600368/cid/33897107/2025-26-Finest-Aura-AU-18-VJ-Edgecombe",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897107Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897107Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33897107.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600368/600368-33897107Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33897107.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898307",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-1",
+    "name": "阿伦·艾弗森",
+    "original_name": "Allen Iverson",
+    "team": "Philadelphia 76ers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898307/2025-26-Finest-Muse-M-1-Allen-Iverson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898307Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898307Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898307.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898307Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898307.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898308",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-2",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898308/2025-26-Finest-Muse-M-2-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898308Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898308Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898308.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898308Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898308.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898309",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-3",
+    "name": "魔术师约翰逊",
+    "original_name": "Magic Johnson",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898309/2025-26-Finest-Muse-M-3-Magic-Johnson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898309Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898309Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898309.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898309Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898309.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898310",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-4",
+    "name": "沙奎尔·奥尼尔",
+    "original_name": "Shaquille O'Neal",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898310/2025-26-Finest-Muse-M-4-Shaquille-O'Neal",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898310Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898310Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898310.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898310Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898310.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898311",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-5",
+    "name": "德克·诺维茨基",
+    "original_name": "Dirk Nowitzki",
+    "team": "Dallas Mavericks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898311/2025-26-Finest-Muse-M-5-Dirk-Nowitzki",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898311Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898311Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898311.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898311Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898311.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898312",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-6",
+    "name": "凯文·加内特",
+    "original_name": "Kevin Garnett",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898312/2025-26-Finest-Muse-M-6-Kevin-Garnett",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898312Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898312Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898312.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898312Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898312.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898313",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-7",
+    "name": "Carmelo Anthony",
+    "original_name": "Carmelo Anthony",
+    "team": "New York Knicks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898313/2025-26-Finest-Muse-M-7-Carmelo-Anthony",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898313Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898313Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898313.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898313Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898313.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898314",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-8",
+    "name": "德维恩·韦德",
+    "original_name": "Dwyane Wade",
+    "team": "Miami Heat",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898314/2025-26-Finest-Muse-M-8-Dwyane-Wade",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898314Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898314Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898314.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898314Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898314.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898315",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-9",
+    "name": "特雷西·麦克格雷迪",
+    "original_name": "Tracy McGrady",
+    "team": "Orlando Magic",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898315/2025-26-Finest-Muse-M-9-Tracy-McGrady",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898315Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898315Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898315.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898315Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898315.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898316",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-10",
+    "name": "John Stockton",
+    "original_name": "John Stockton",
+    "team": "Utah Jazz",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898316/2025-26-Finest-Muse-M-10-John-Stockton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898316Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898316Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898316.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898316Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898316.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898317",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-11",
+    "name": "雷·阿伦",
+    "original_name": "Ray Allen",
+    "team": "Seattle Supersonics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898317/2025-26-Finest-Muse-M-11-Ray-Allen",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898317Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898317Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898317.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898317Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898317.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898318",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-12",
+    "name": "Dwight Howard",
+    "original_name": "Dwight Howard",
+    "team": "Orlando Magic",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898318/2025-26-Finest-Muse-M-12-Dwight-Howard",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898318Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898318Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898318.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898318Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898318.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898319",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-13",
+    "name": "Grant Hill",
+    "original_name": "Grant Hill",
+    "team": "Detroit Pistons",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898319/2025-26-Finest-Muse-M-13-Grant-Hill",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898319Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898319Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898319.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898319Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898319.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898320",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-14",
+    "name": "Paul Pierce",
+    "original_name": "Paul Pierce",
+    "team": "Boston Celtics",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898320/2025-26-Finest-Muse-M-14-Paul-Pierce",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898320Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898320Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898320.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898320Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898320.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898321",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-15",
+    "name": "Pau Gasol",
+    "original_name": "Pau Gasol",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898321/2025-26-Finest-Muse-M-15-Pau-Gasol",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898321Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898321Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898321.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898321Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898321.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898322",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-16",
+    "name": "Jason Kidd",
+    "original_name": "Jason Kidd",
+    "team": "New Jersey Nets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898322/2025-26-Finest-Muse-M-16-Jason-Kidd",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898322Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898322Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898322.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898322Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898322.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898323",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-17",
+    "name": "Hakeem Olajuwon",
+    "original_name": "Hakeem Olajuwon",
+    "team": "Houston Rockets",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898323/2025-26-Finest-Muse-M-17-Hakeem-Olajuwon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898323Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898323Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898323.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898323Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898323.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898324",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-18",
+    "name": "Dennis Rodman",
+    "original_name": "Dennis Rodman",
+    "team": "Chicago Bulls",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898324/2025-26-Finest-Muse-M-18-Dennis-Rodman",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898324Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898324Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898324.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898324Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898324.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898325",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-19",
+    "name": "David Robinson",
+    "original_name": "David Robinson",
+    "team": "San Antonio Spurs",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898325/2025-26-Finest-Muse-M-19-David-Robinson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898325Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898325Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898325.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898325Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898325.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898326",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-20",
+    "name": "文斯·卡特",
+    "original_name": "Vince Carter",
+    "team": "Toronto Raptors",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898326/2025-26-Finest-Muse-M-20-Vince-Carter",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898326Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898326Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898326.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898326Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898326.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898327",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-21",
+    "name": "Dominique Wilkins",
+    "original_name": "Dominique Wilkins",
+    "team": "Atlanta Hawks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898327/2025-26-Finest-Muse-M-21-Dominique-Wilkins",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898327Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898327Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898327.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898327Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898327.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898328",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-22",
+    "name": "Clyde Drexler",
+    "original_name": "Clyde Drexler",
+    "team": "Portland Trail Blazers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898328/2025-26-Finest-Muse-M-22-Clyde-Drexler",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898328Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898328Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898328.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898328Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898328.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898329",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-23",
+    "name": "Rip Hamilton",
+    "original_name": "Rip Hamilton",
+    "team": "Detroit Pistons",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898329/2025-26-Finest-Muse-M-23-Rip-Hamilton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898329Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898329Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898329.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898329Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898329.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898330",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-24",
+    "name": "Deron Williams",
+    "original_name": "Deron Williams",
+    "team": "Utah Jazz",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898330/2025-26-Finest-Muse-M-24-Deron-Williams",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898330Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898330Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898330.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898330Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898330.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898331",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-25",
+    "name": "Robert Horry",
+    "original_name": "Robert Horry",
+    "team": "Los Angeles Lakers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898331/2025-26-Finest-Muse-M-25-Robert-Horry",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898331Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898331Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898331.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898331Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898331.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898332",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-26",
+    "name": "Peja Stojakovic",
+    "original_name": "Peja Stojakovic",
+    "team": "Sacramento Kings",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898332/2025-26-Finest-Muse-M-26-Peja-Stojakovic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898332Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898332Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898332.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898332Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898332.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898333",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-27",
+    "name": "Chris Bosh",
+    "original_name": "Chris Bosh",
+    "team": "Miami Heat",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898333/2025-26-Finest-Muse-M-27-Chris-Bosh",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898333Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898333Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898333.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898333Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898333.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898334",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-28",
+    "name": "Joe Johnson",
+    "original_name": "Joe Johnson",
+    "team": "Atlanta Hawks",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898334/2025-26-Finest-Muse-M-28-Joe-Johnson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898334Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898334Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898334.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898334Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898334.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898335",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-29",
+    "name": "Elton Brand",
+    "original_name": "Elton Brand",
+    "team": "Los Angeles Clippers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898335/2025-26-Finest-Muse-M-29-Elton-Brand",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898335Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898335Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898335.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898335Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898335.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33898336",
+    "set_id": "BB589540",
+    "source_set_id": 600410,
+    "number": "M-30",
+    "name": "Brandon Roy",
+    "original_name": "Brandon Roy",
+    "team": "Portland Trail Blazers",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2025-26 Finest - Muse",
+    "source_notes": "",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/600410/cid/33898336/2025-26-Finest-Muse-M-30-Brandon-Roy",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898336Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898336Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33898336.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/600410/600410-33898336Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33898336.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839820",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "50",
+    "name": "Tyler Herro",
+    "original_name": "Tyler Herro",
+    "team": "Miami Heat",
+    "rarity": "限编 /200",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 200,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN200",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839820/2025-26-Finest-Blue-Refractor-50-Tyler-Herro",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839820Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839820Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839820.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839820Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839820.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839822",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "52",
+    "name": "Bam Adebayo",
+    "original_name": "Bam Adebayo",
+    "team": "Miami Heat",
+    "rarity": "限编 /200",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 200,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN200",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839822/2025-26-Finest-Blue-Refractor-52-Bam-Adebayo",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839822Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839822Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839822.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839822Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839822.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839852",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "82",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /200",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 200,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN200",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839852/2025-26-Finest-Blue-Refractor-82-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839852Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839852Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839852.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839852Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839852.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839876",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "106",
+    "name": "Tre Johnson III",
+    "original_name": "Tre Johnson III",
+    "team": "Washington Wizards",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839876/2025-26-Finest-Blue-Refractor-106-Tre-Johnson-III",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839876Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839876Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839876.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839876Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839876.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839891",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "121",
+    "name": "Noah Penda",
+    "original_name": "Noah Penda",
+    "team": "Orlando Magic",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839891/2025-26-Finest-Blue-Refractor-121-Noah-Penda",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839891Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839891Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839891.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839891Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839891.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839926",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "156",
+    "name": "Bub Carrington",
+    "original_name": "Bub Carrington",
+    "team": "Washington Wizards",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839926/2025-26-Finest-Blue-Refractor-156-Bub-Carrington",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839926Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839926Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839926.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839926Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839926.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839937",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "167",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839937/2025-26-Finest-Blue-Refractor-167-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839937Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839937Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839937.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839937Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839937.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839962",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "192",
+    "name": "拉里·伯德",
+    "original_name": "Larry Bird",
+    "team": "Boston Celtics",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839962/2025-26-Finest-Blue-Refractor-192-Larry-Bird",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839962Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839962Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839962.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839962Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839962.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839963",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "193",
+    "name": "魔术师约翰逊",
+    "original_name": "Magic Johnson",
+    "team": "Los Angeles Lakers",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839963/2025-26-Finest-Blue-Refractor-193-Magic-Johnson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839963RepFr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839963RepBk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839963.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839963RepFr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839963.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839966",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "196",
+    "name": "凯文·加内特",
+    "original_name": "Kevin Garnett",
+    "team": "Boston Celtics",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839966/2025-26-Finest-Blue-Refractor-196-Kevin-Garnett",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839966Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839966Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839966.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839966Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839966.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33839970",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "200",
+    "name": "雷·阿伦",
+    "original_name": "Ray Allen",
+    "team": "Seattle Supersonics",
+    "rarity": "限编 /150",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 150,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN150",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33839970/2025-26-Finest-Blue-Refractor-200-Ray-Allen",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839970Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839970Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33839970.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33839970Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33839970.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840049",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "279",
+    "name": "勒布朗·詹姆斯",
+    "original_name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN99",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33840049/2025-26-Finest-Blue-Refractor-279-LeBron-James",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33840049Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33840049Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840049.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33840049Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840049.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB589540:33840066",
+    "set_id": "BB589540",
+    "source_set_id": 599912,
+    "number": "296",
+    "name": "凯文·加内特",
+    "original_name": "Kevin Garnett",
+    "team": "Boston Celtics",
+    "rarity": "限编 /99",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 99,
+    "source_set_name": "2025-26 Finest - Blue Refractor",
+    "source_notes": "SN99",
+    "year": 2025,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/599912/cid/33840066/2025-26-Finest-Blue-Refractor-296-Kevin-Garnett",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33840066Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33840066Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB589540-33840066.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/599912/599912-33840066Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB589540-33840066.webp",
+    "image_status": "local_verified"
   }
 ]

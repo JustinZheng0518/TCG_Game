@@ -11,7 +11,7 @@
   for(const key of ['source_url','source_page','thumbnail','image','local_preview'])if(value[key]){const u=str(value[key],1600);if(!/^https:\/\//.test(u)&&!/^data\/(pokemon|basketball|images)\/[A-Za-z0-9_./%-]+$/.test(u))throw Error('卡面地址无效。');c[key]=u;}
   if(value.year!==undefined)c.year=integer(value.year,1800,2100);
   if(value.serial_max!=null)c.serial_max=integer(value.serial_max,1,10000000);
-  c.is_rookie=!!value.is_rookie;return c;
+  c.is_rookie=!!value.is_rookie;if(value.is_chase)c.is_chase=true;return c;
  }
  const empty=()=>({version:1,nextId:0,jobs:[],slabs:[],show:{day:1,entered:false,used:[],sold:0}});
  function validate(value){

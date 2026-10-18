@@ -1,0 +1,259 @@
+{
+  "set_id": "BB3119",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3119/2005-06-Bowman",
+  "headings": [
+    "Insert Sets (8)",
+    "Parallel Sets (6)"
+  ],
+  "subset_count": 14,
+  "subsets": [
+    {
+      "source_set_id": 29513,
+      "name": "2005-06 Bowman - Back to the Future Autographs",
+      "short": "Back to the Future Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29513/2005-06-Bowman-Back-to-the-Future-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29514,
+      "name": "2005-06 Bowman - Beginnings Relics",
+      "short": "Beginnings Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29514/2005-06-Bowman-Beginnings-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29515,
+      "name": "2005-06 Bowman - Bravo Relics",
+      "short": "Bravo Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29515/2005-06-Bowman-Bravo-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29516,
+      "name": "2005-06 Bowman - Bravo Relics Autographs",
+      "short": "Bravo Relics Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29516/2005-06-Bowman-Bravo-Relics-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29523,
+      "name": "2005-06 Bowman - Signs of the Future",
+      "short": "Signs of the Future",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29523/2005-06-Bowman-Signs-of-the-Future",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29524,
+      "name": "2005-06 Bowman - Skills Nation Relics",
+      "short": "Skills Nation Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29524/2005-06-Bowman-Skills-Nation-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29525,
+      "name": "2005-06 Bowman - Welcome to the Show Relics",
+      "short": "Welcome to the Show Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29525/2005-06-Bowman-Welcome-to-the-Show-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29526,
+      "name": "2005-06 Bowman - Welcome to the Show Relics Autographs",
+      "short": "Welcome to the Show Relics Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29526/2005-06-Bowman-Welcome-to-the-Show-Relics-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 29517,
+      "name": "2005-06 Bowman - Chrome",
+      "short": "Chrome",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29517/2005-06-Bowman-Chrome",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 29518,
+      "name": "2005-06 Bowman - Chrome Refractors",
+      "short": "Chrome Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29518/2005-06-Bowman-Chrome-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 29519,
+      "name": "2005-06 Bowman - Chrome Refractors Gold",
+      "short": "Chrome Refractors Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29519/2005-06-Bowman-Chrome-Refractors-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 29520,
+      "name": "2005-06 Bowman - Chrome Super-Fractors",
+      "short": "Chrome Super-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29520/2005-06-Bowman-Chrome-Super-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 29521,
+      "name": "2005-06 Bowman - Chrome X-Fractors",
+      "short": "Chrome X-Fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29521/2005-06-Bowman-Chrome-X-Fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 29522,
+      "name": "2005-06 Bowman - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/29522/2005-06-Bowman-Gold",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 5,
+  "imported_this_run": [
+    {
+      "source_set_id": 29522,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 161,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 29519,
+      "name": "Chrome Refractors Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 13,
+      "missing_fronts": 148
+    },
+    {
+      "source_set_id": 29513,
+      "name": "Back to the Future Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 4,
+      "missing_fronts": 6
+    },
+    {
+      "source_set_id": 29515,
+      "name": "Bravo Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 21,
+      "missing_fronts": 6
+    },
+    {
+      "source_set_id": 29516,
+      "name": "Bravo Relics Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 6
+    },
+    {
+      "source_set_id": 29526,
+      "name": "Welcome to the Show Relics Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 29523,
+      "name": "Signs of the Future",
+      "family_requested": "insert",
+      "cards_with_front": 8,
+      "missing_fronts": 13
+    }
+  ],
+  "import_errors": [],
+  "card_count": 368,
+  "before_tiers": {
+    "base": 115,
+    "rookie": 36,
+    "auto": 10
+  },
+  "tiers": {
+    "base": 115,
+    "rookie": 36,
+    "auto": 23,
+    "parallel": 161,
+    "numbered": 12,
+    "memorabilia": 21
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 1,
+    "auto": 23,
+    "parallel": 161,
+    "numbered": 12,
+    "memorabilia": 21
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 115,
+      "available_cards": 115,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "available",
+      "records": 23,
+      "available_cards": 23,
+      "local_images": 23,
+      "source_candidates": 1
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 4
+    },
+    "auto_patch": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "parallel": {
+      "status": "available",
+      "records": 161,
+      "available_cards": 161,
+      "local_images": 161,
+      "source_candidates": 6
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "available",
+      "records": 12,
+      "available_cards": 12,
+      "local_images": 12,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

@@ -1,0 +1,1597 @@
+{
+  "set_id": "BB615262",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/615262/2025-26-Hoops",
+  "headings": [
+    "Insert Sets (163)",
+    "Parallel Sets (29)"
+  ],
+  "subset_count": 192,
+  "subsets": [
+    {
+      "source_set_id": 643038,
+      "name": "2025-26 Hoops - 1989 Hoops Signatures",
+      "short": "1989 Hoops Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643038/2025-26-Hoops-1989-Hoops-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 643039,
+      "name": "2025-26 Hoops - 1989 Hoops Signatures Green",
+      "short": "1989 Hoops Signatures Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643039/2025-26-Hoops-1989-Hoops-Signatures-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 643040,
+      "name": "2025-26 Hoops - 1989 Hoops Signatures Light Burst",
+      "short": "1989 Hoops Signatures Light Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643040/2025-26-Hoops-1989-Hoops-Signatures-Light-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 643041,
+      "name": "2025-26 Hoops - 1989 Hoops Signatures Pixel Burst Black",
+      "short": "1989 Hoops Signatures Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643041/2025-26-Hoops-1989-Hoops-Signatures-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 643043,
+      "name": "2025-26 Hoops - 1989 Hoops Signatures Pixel Burst Platinum",
+      "short": "1989 Hoops Signatures Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643043/2025-26-Hoops-1989-Hoops-Signatures-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 643042,
+      "name": "2025-26 Hoops - 1989 Hoops Signatures Pixel Burst Red",
+      "short": "1989 Hoops Signatures Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643042/2025-26-Hoops-1989-Hoops-Signatures-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638620,
+      "name": "2025-26 Hoops - Block By Block",
+      "short": "Block By Block",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638620/2025-26-Hoops-Block-By-Block",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638621,
+      "name": "2025-26 Hoops - Block By Block Platinum",
+      "short": "Block By Block Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638621/2025-26-Hoops-Block-By-Block-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638622,
+      "name": "2025-26 Hoops - Boom Shaka Laka",
+      "short": "Boom Shaka Laka",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638622/2025-26-Hoops-Boom-Shaka-Laka",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638623,
+      "name": "2025-26 Hoops - Boom Shaka Laka Platinum",
+      "short": "Boom Shaka Laka Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638623/2025-26-Hoops-Boom-Shaka-Laka-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 641013,
+      "name": "2025-26 Hoops - Bounce House",
+      "short": "Bounce House",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/641013/2025-26-Hoops-Bounce-House",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670528,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst",
+      "short": "Bounce House Pixel Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670528/2025-26-Hoops-Bounce-House-Pixel-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670533,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst Black",
+      "short": "Bounce House Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670533/2025-26-Hoops-Bounce-House-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670531,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst Gold",
+      "short": "Bounce House Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670531/2025-26-Hoops-Bounce-House-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670530,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst Green",
+      "short": "Bounce House Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670530/2025-26-Hoops-Bounce-House-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670532,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst Orange",
+      "short": "Bounce House Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670532/2025-26-Hoops-Bounce-House-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670535,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst Platinum",
+      "short": "Bounce House Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670535/2025-26-Hoops-Bounce-House-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670529,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst Purple",
+      "short": "Bounce House Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670529/2025-26-Hoops-Bounce-House-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670534,
+      "name": "2025-26 Hoops - Bounce House Pixel Burst Red",
+      "short": "Bounce House Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670534/2025-26-Hoops-Bounce-House-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670527,
+      "name": "2025-26 Hoops - Bounce House Rainbow",
+      "short": "Bounce House Rainbow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670527/2025-26-Hoops-Bounce-House-Rainbow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 653479,
+      "name": "2025-26 Hoops - Checkmate",
+      "short": "Checkmate",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/653479/2025-26-Hoops-Checkmate",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670037,
+      "name": "2025-26 Hoops - Checkmate Platinum",
+      "short": "Checkmate Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670037/2025-26-Hoops-Checkmate-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639857,
+      "name": "2025-26 Hoops - Dunk-umentory",
+      "short": "Dunk-umentory",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639857/2025-26-Hoops-Dunk-umentory",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639860,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst",
+      "short": "Dunk-umentory Pixel Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639860/2025-26-Hoops-Dunk-umentory-Pixel-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670525,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst Black",
+      "short": "Dunk-umentory Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670525/2025-26-Hoops-Dunk-umentory-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670523,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst Gold",
+      "short": "Dunk-umentory Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670523/2025-26-Hoops-Dunk-umentory-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670522,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst Green",
+      "short": "Dunk-umentory Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670522/2025-26-Hoops-Dunk-umentory-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670524,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst Orange",
+      "short": "Dunk-umentory Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670524/2025-26-Hoops-Dunk-umentory-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639862,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst Platinum",
+      "short": "Dunk-umentory Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639862/2025-26-Hoops-Dunk-umentory-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639861,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst Purple",
+      "short": "Dunk-umentory Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639861/2025-26-Hoops-Dunk-umentory-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670526,
+      "name": "2025-26 Hoops - Dunk-umentory Pixel Burst Red",
+      "short": "Dunk-umentory Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670526/2025-26-Hoops-Dunk-umentory-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639859,
+      "name": "2025-26 Hoops - Dunk-umentory Rainbow",
+      "short": "Dunk-umentory Rainbow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639859/2025-26-Hoops-Dunk-umentory-Rainbow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639625,
+      "name": "2025-26 Hoops - Finals Pursuit Finals MVP",
+      "short": "Finals Pursuit Finals MVP",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639625/2025-26-Hoops-Finals-Pursuit-Finals-MVP",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639619,
+      "name": "2025-26 Hoops - Finals Pursuit First Round",
+      "short": "Finals Pursuit First Round",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639619/2025-26-Hoops-Finals-Pursuit-First-Round",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639622,
+      "name": "2025-26 Hoops - Finals Pursuit NBA Champion Players",
+      "short": "Finals Pursuit NBA Champion Players",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639622/2025-26-Hoops-Finals-Pursuit-NBA-Champion-Players",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639626,
+      "name": "2025-26 Hoops - Finals Pursuit NBA Champions Team",
+      "short": "Finals Pursuit NBA Champions Team",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639626/2025-26-Hoops-Finals-Pursuit-NBA-Champions-Team",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639620,
+      "name": "2025-26 Hoops - Finals Pursuit Second Round",
+      "short": "Finals Pursuit Second Round",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639620/2025-26-Hoops-Finals-Pursuit-Second-Round",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639621,
+      "name": "2025-26 Hoops - Finals Pursuit Semifinals Round",
+      "short": "Finals Pursuit Semifinals Round",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639621/2025-26-Hoops-Finals-Pursuit-Semifinals-Round",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639623,
+      "name": "2025-26 Hoops - Finals Pursuit The Finals",
+      "short": "Finals Pursuit The Finals",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639623/2025-26-Hoops-Finals-Pursuit-The-Finals",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 640638,
+      "name": "2025-26 Hoops - Hard Wired",
+      "short": "Hard Wired",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/640638/2025-26-Hoops-Hard-Wired",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 641751,
+      "name": "2025-26 Hoops - Hard Wired Green Hoops",
+      "short": "Hard Wired Green Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/641751/2025-26-Hoops-Hard-Wired-Green-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650176,
+      "name": "2025-26 Hoops - Hard Wired Light Burst",
+      "short": "Hard Wired Light Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650176/2025-26-Hoops-Hard-Wired-Light-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650181,
+      "name": "2025-26 Hoops - Hard Wired Light Burst Black",
+      "short": "Hard Wired Light Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650181/2025-26-Hoops-Hard-Wired-Light-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650179,
+      "name": "2025-26 Hoops - Hard Wired Light Burst Gold",
+      "short": "Hard Wired Light Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650179/2025-26-Hoops-Hard-Wired-Light-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650178,
+      "name": "2025-26 Hoops - Hard Wired Light Burst Green",
+      "short": "Hard Wired Light Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650178/2025-26-Hoops-Hard-Wired-Light-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650180,
+      "name": "2025-26 Hoops - Hard Wired Light Burst Orange",
+      "short": "Hard Wired Light Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650180/2025-26-Hoops-Hard-Wired-Light-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650183,
+      "name": "2025-26 Hoops - Hard Wired Light Burst Platinum",
+      "short": "Hard Wired Light Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650183/2025-26-Hoops-Hard-Wired-Light-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650177,
+      "name": "2025-26 Hoops - Hard Wired Light Burst Purple",
+      "short": "Hard Wired Light Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650177/2025-26-Hoops-Hard-Wired-Light-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 650182,
+      "name": "2025-26 Hoops - Hard Wired Light Burst Red",
+      "short": "Hard Wired Light Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/650182/2025-26-Hoops-Hard-Wired-Light-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 648355,
+      "name": "2025-26 Hoops - Hard Wired Orange Hoops",
+      "short": "Hard Wired Orange Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/648355/2025-26-Hoops-Hard-Wired-Orange-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 648495,
+      "name": "2025-26 Hoops - Hoopers",
+      "short": "Hoopers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/648495/2025-26-Hoops-Hoopers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670043,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst",
+      "short": "Hoopers Pixel Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670043/2025-26-Hoops-Hoopers-Pixel-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670049,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst Black",
+      "short": "Hoopers Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670049/2025-26-Hoops-Hoopers-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670047,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst Gold",
+      "short": "Hoopers Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670047/2025-26-Hoops-Hoopers-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670046,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst Green",
+      "short": "Hoopers Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670046/2025-26-Hoops-Hoopers-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670048,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst Orange",
+      "short": "Hoopers Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670048/2025-26-Hoops-Hoopers-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670050,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst Platinum",
+      "short": "Hoopers Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670050/2025-26-Hoops-Hoopers-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670044,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst Purple",
+      "short": "Hoopers Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670044/2025-26-Hoops-Hoopers-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670045,
+      "name": "2025-26 Hoops - Hoopers Pixel Burst Red",
+      "short": "Hoopers Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670045/2025-26-Hoops-Hoopers-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670042,
+      "name": "2025-26 Hoops - Hoopers Rainbow",
+      "short": "Hoopers Rainbow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670042/2025-26-Hoops-Hoopers-Rainbow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670040,
+      "name": "2025-26 Hoops - Hoopnotic",
+      "short": "Hoopnotic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670040/2025-26-Hoops-Hoopnotic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670041,
+      "name": "2025-26 Hoops - Hoopnotic Platinum",
+      "short": "Hoopnotic Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670041/2025-26-Hoops-Hoopnotic-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 649466,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures",
+      "short": "Hoops Hyper Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/649466/2025-26-Hoops-Hoops-Hyper-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670580,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures Pixel Burst Black",
+      "short": "Hoops Hyper Signatures Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670580/2025-26-Hoops-Hoops-Hyper-Signatures-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670577,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures Pixel Burst Gold",
+      "short": "Hoops Hyper Signatures Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670577/2025-26-Hoops-Hoops-Hyper-Signatures-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670576,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures Pixel Burst Green",
+      "short": "Hoops Hyper Signatures Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670576/2025-26-Hoops-Hoops-Hyper-Signatures-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670578,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures Pixel Burst Orange",
+      "short": "Hoops Hyper Signatures Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670578/2025-26-Hoops-Hoops-Hyper-Signatures-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670581,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures Pixel Burst Platinum",
+      "short": "Hoops Hyper Signatures Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670581/2025-26-Hoops-Hoops-Hyper-Signatures-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670575,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures Pixel Burst Purple",
+      "short": "Hoops Hyper Signatures Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670575/2025-26-Hoops-Hoops-Hyper-Signatures-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670579,
+      "name": "2025-26 Hoops - Hoops Hyper Signatures Pixel Burst Red",
+      "short": "Hoops Hyper Signatures Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670579/2025-26-Hoops-Hoops-Hyper-Signatures-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670746,
+      "name": "2025-26 Hoops - Hoops Rookie Duals Autographs",
+      "short": "Hoops Rookie Duals Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670746/2025-26-Hoops-Hoops-Rookie-Duals-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670747,
+      "name": "2025-26 Hoops - Hoops Rookie Duals Autographs Pixel Burst Black",
+      "short": "Hoops Rookie Duals Autographs Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670747/2025-26-Hoops-Hoops-Rookie-Duals-Autographs-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670749,
+      "name": "2025-26 Hoops - Hoops Rookie Duals Autographs Pixel Burst Platinum",
+      "short": "Hoops Rookie Duals Autographs Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670749/2025-26-Hoops-Hoops-Rookie-Duals-Autographs-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670748,
+      "name": "2025-26 Hoops - Hoops Rookie Duals Autographs Pixel Burst Red",
+      "short": "Hoops Rookie Duals Autographs Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670748/2025-26-Hoops-Hoops-Rookie-Duals-Autographs-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 641752,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs",
+      "short": "Hoops Rookie First Signs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/641752/2025-26-Hoops-Hoops-Rookie-First-Signs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670408,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs Light Burst Black",
+      "short": "Hoops Rookie First Signs Light Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670408/2025-26-Hoops-Hoops-Rookie-First-Signs-Light-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670406,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs Light Burst Gold",
+      "short": "Hoops Rookie First Signs Light Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670406/2025-26-Hoops-Hoops-Rookie-First-Signs-Light-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670405,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs Light Burst Green",
+      "short": "Hoops Rookie First Signs Light Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670405/2025-26-Hoops-Hoops-Rookie-First-Signs-Light-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670407,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs Light Burst Orange",
+      "short": "Hoops Rookie First Signs Light Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670407/2025-26-Hoops-Hoops-Rookie-First-Signs-Light-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670410,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs Light Burst Platinum",
+      "short": "Hoops Rookie First Signs Light Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670410/2025-26-Hoops-Hoops-Rookie-First-Signs-Light-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670404,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs Light Burst Purple",
+      "short": "Hoops Rookie First Signs Light Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670404/2025-26-Hoops-Hoops-Rookie-First-Signs-Light-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670409,
+      "name": "2025-26 Hoops - Hoops Rookie First Signs Light Burst Red",
+      "short": "Hoops Rookie First Signs Light Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670409/2025-26-Hoops-Hoops-Rookie-First-Signs-Light-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 661559,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures",
+      "short": "Hoops Rookie Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/661559/2025-26-Hoops-Hoops-Rookie-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670307,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures Pixel Burst Black",
+      "short": "Hoops Rookie Signatures Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670307/2025-26-Hoops-Hoops-Rookie-Signatures-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670305,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures Pixel Burst Gold",
+      "short": "Hoops Rookie Signatures Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670305/2025-26-Hoops-Hoops-Rookie-Signatures-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670304,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures Pixel Burst Green",
+      "short": "Hoops Rookie Signatures Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670304/2025-26-Hoops-Hoops-Rookie-Signatures-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670306,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures Pixel Burst Orange",
+      "short": "Hoops Rookie Signatures Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670306/2025-26-Hoops-Hoops-Rookie-Signatures-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670309,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures Pixel Burst Platinum",
+      "short": "Hoops Rookie Signatures Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670309/2025-26-Hoops-Hoops-Rookie-Signatures-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670303,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures Pixel Burst Purple",
+      "short": "Hoops Rookie Signatures Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670303/2025-26-Hoops-Hoops-Rookie-Signatures-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670308,
+      "name": "2025-26 Hoops - Hoops Rookie Signatures Pixel Burst Red",
+      "short": "Hoops Rookie Signatures Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670308/2025-26-Hoops-Hoops-Rookie-Signatures-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670750,
+      "name": "2025-26 Hoops - Hoops Rookie Triples Autographs",
+      "short": "Hoops Rookie Triples Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670750/2025-26-Hoops-Hoops-Rookie-Triples-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670751,
+      "name": "2025-26 Hoops - Hoops Rookie Triples Autographs Pixel Burst Black",
+      "short": "Hoops Rookie Triples Autographs Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670751/2025-26-Hoops-Hoops-Rookie-Triples-Autographs-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670753,
+      "name": "2025-26 Hoops - Hoops Rookie Triples Autographs Pixel Burst Platinum",
+      "short": "Hoops Rookie Triples Autographs Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670753/2025-26-Hoops-Hoops-Rookie-Triples-Autographs-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670752,
+      "name": "2025-26 Hoops - Hoops Rookie Triples Autographs Pixel Burst Red",
+      "short": "Hoops Rookie Triples Autographs Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670752/2025-26-Hoops-Hoops-Rookie-Triples-Autographs-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670754,
+      "name": "2025-26 Hoops - Hoops Rookie Veteran Duals Autographs",
+      "short": "Hoops Rookie Veteran Duals Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670754/2025-26-Hoops-Hoops-Rookie-Veteran-Duals-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670755,
+      "name": "2025-26 Hoops - Hoops Rookie Veteran Duals Autographs Pixel Burst Black",
+      "short": "Hoops Rookie Veteran Duals Autographs Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670755/2025-26-Hoops-Hoops-Rookie-Veteran-Duals-Autographs-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670757,
+      "name": "2025-26 Hoops - Hoops Rookie Veteran Duals Autographs Pixel Burst Platinum",
+      "short": "Hoops Rookie Veteran Duals Autographs Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670757/2025-26-Hoops-Hoops-Rookie-Veteran-Duals-Autographs-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670756,
+      "name": "2025-26 Hoops - Hoops Rookie Veteran Duals Autographs Pixel Burst Red",
+      "short": "Hoops Rookie Veteran Duals Autographs Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670756/2025-26-Hoops-Hoops-Rookie-Veteran-Duals-Autographs-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 661561,
+      "name": "2025-26 Hoops - Hoops Signs",
+      "short": "Hoops Signs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/661561/2025-26-Hoops-Hoops-Signs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670572,
+      "name": "2025-26 Hoops - Hoops Signs Pixel Burst Black",
+      "short": "Hoops Signs Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670572/2025-26-Hoops-Hoops-Signs-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670570,
+      "name": "2025-26 Hoops - Hoops Signs Pixel Burst Gold",
+      "short": "Hoops Signs Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670570/2025-26-Hoops-Hoops-Signs-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670569,
+      "name": "2025-26 Hoops - Hoops Signs Pixel Burst Green",
+      "short": "Hoops Signs Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670569/2025-26-Hoops-Hoops-Signs-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670571,
+      "name": "2025-26 Hoops - Hoops Signs Pixel Burst Orange",
+      "short": "Hoops Signs Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670571/2025-26-Hoops-Hoops-Signs-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670574,
+      "name": "2025-26 Hoops - Hoops Signs Pixel Burst Platinum",
+      "short": "Hoops Signs Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670574/2025-26-Hoops-Hoops-Signs-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670568,
+      "name": "2025-26 Hoops - Hoops Signs Pixel Burst Purple",
+      "short": "Hoops Signs Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670568/2025-26-Hoops-Hoops-Signs-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670573,
+      "name": "2025-26 Hoops - Hoops Signs Pixel Burst Red",
+      "short": "Hoops Signs Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670573/2025-26-Hoops-Hoops-Signs-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638609,
+      "name": "2025-26 Hoops - Jam Packed",
+      "short": "Jam Packed",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638609/2025-26-Hoops-Jam-Packed",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638610,
+      "name": "2025-26 Hoops - Jam Packed Green Hoops",
+      "short": "Jam Packed Green Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638610/2025-26-Hoops-Jam-Packed-Green-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638612,
+      "name": "2025-26 Hoops - Jam Packed Light Burst",
+      "short": "Jam Packed Light Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638612/2025-26-Hoops-Jam-Packed-Light-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638617,
+      "name": "2025-26 Hoops - Jam Packed Light Burst Black",
+      "short": "Jam Packed Light Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638617/2025-26-Hoops-Jam-Packed-Light-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638615,
+      "name": "2025-26 Hoops - Jam Packed Light Burst Gold",
+      "short": "Jam Packed Light Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638615/2025-26-Hoops-Jam-Packed-Light-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638614,
+      "name": "2025-26 Hoops - Jam Packed Light Burst Green",
+      "short": "Jam Packed Light Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638614/2025-26-Hoops-Jam-Packed-Light-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638616,
+      "name": "2025-26 Hoops - Jam Packed Light Burst Orange",
+      "short": "Jam Packed Light Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638616/2025-26-Hoops-Jam-Packed-Light-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638619,
+      "name": "2025-26 Hoops - Jam Packed Light Burst Platinum",
+      "short": "Jam Packed Light Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638619/2025-26-Hoops-Jam-Packed-Light-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638613,
+      "name": "2025-26 Hoops - Jam Packed Light Burst Purple",
+      "short": "Jam Packed Light Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638613/2025-26-Hoops-Jam-Packed-Light-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638618,
+      "name": "2025-26 Hoops - Jam Packed Light Burst Red",
+      "short": "Jam Packed Light Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638618/2025-26-Hoops-Jam-Packed-Light-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638611,
+      "name": "2025-26 Hoops - Jam Packed Orange Hoops",
+      "short": "Jam Packed Orange Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638611/2025-26-Hoops-Jam-Packed-Orange-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639866,
+      "name": "2025-26 Hoops - Joy",
+      "short": "Joy",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639866/2025-26-Hoops-Joy",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639867,
+      "name": "2025-26 Hoops - Joy Platinum",
+      "short": "Joy Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639867/2025-26-Hoops-Joy-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638592,
+      "name": "2025-26 Hoops - Net 2 Net",
+      "short": "Net 2 Net",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638592/2025-26-Hoops-Net-2-Net",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638593,
+      "name": "2025-26 Hoops - Net 2 Net Green Hoops",
+      "short": "Net 2 Net Green Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638593/2025-26-Hoops-Net-2-Net-Green-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638595,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst",
+      "short": "Net 2 Net Light Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638595/2025-26-Hoops-Net-2-Net-Light-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639890,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst Black",
+      "short": "Net 2 Net Light Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639890/2025-26-Hoops-Net-2-Net-Light-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639886,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst Gold",
+      "short": "Net 2 Net Light Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639886/2025-26-Hoops-Net-2-Net-Light-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639884,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst Green",
+      "short": "Net 2 Net Light Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639884/2025-26-Hoops-Net-2-Net-Light-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638599,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst Orange",
+      "short": "Net 2 Net Light Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638599/2025-26-Hoops-Net-2-Net-Light-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639885,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst Platinum",
+      "short": "Net 2 Net Light Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639885/2025-26-Hoops-Net-2-Net-Light-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638597,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst Purple",
+      "short": "Net 2 Net Light Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638597/2025-26-Hoops-Net-2-Net-Light-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639889,
+      "name": "2025-26 Hoops - Net 2 Net Light Burst Red",
+      "short": "Net 2 Net Light Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639889/2025-26-Hoops-Net-2-Net-Light-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638594,
+      "name": "2025-26 Hoops - Net 2 Net Orange Hoops",
+      "short": "Net 2 Net Orange Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638594/2025-26-Hoops-Net-2-Net-Orange-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639856,
+      "name": "2025-26 Hoops - Next Episode",
+      "short": "Next Episode",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639856/2025-26-Hoops-Next-Episode",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670513,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst",
+      "short": "Next Episode Pixel Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670513/2025-26-Hoops-Next-Episode-Pixel-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670518,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst Black",
+      "short": "Next Episode Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670518/2025-26-Hoops-Next-Episode-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670516,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst Gold",
+      "short": "Next Episode Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670516/2025-26-Hoops-Next-Episode-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670515,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst Green",
+      "short": "Next Episode Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670515/2025-26-Hoops-Next-Episode-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670517,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst Orange",
+      "short": "Next Episode Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670517/2025-26-Hoops-Next-Episode-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670520,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst Platinum",
+      "short": "Next Episode Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670520/2025-26-Hoops-Next-Episode-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670514,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst Purple",
+      "short": "Next Episode Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670514/2025-26-Hoops-Next-Episode-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670519,
+      "name": "2025-26 Hoops - Next Episode Pixel Burst Red",
+      "short": "Next Episode Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670519/2025-26-Hoops-Next-Episode-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670512,
+      "name": "2025-26 Hoops - Next Episode Rainbow",
+      "short": "Next Episode Rainbow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670512/2025-26-Hoops-Next-Episode-Rainbow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670038,
+      "name": "2025-26 Hoops - Oasis",
+      "short": "Oasis",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670038/2025-26-Hoops-Oasis",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670039,
+      "name": "2025-26 Hoops - Oasis Platinum",
+      "short": "Oasis Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670039/2025-26-Hoops-Oasis-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639863,
+      "name": "2025-26 Hoops - Pay Attention",
+      "short": "Pay Attention",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639863/2025-26-Hoops-Pay-Attention",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639865,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst",
+      "short": "Pay Attention Pixel Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639865/2025-26-Hoops-Pay-Attention-Pixel-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670314,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst Black",
+      "short": "Pay Attention Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670314/2025-26-Hoops-Pay-Attention-Pixel-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670312,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst Gold",
+      "short": "Pay Attention Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670312/2025-26-Hoops-Pay-Attention-Pixel-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670311,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst Green",
+      "short": "Pay Attention Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670311/2025-26-Hoops-Pay-Attention-Pixel-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670313,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst Orange",
+      "short": "Pay Attention Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670313/2025-26-Hoops-Pay-Attention-Pixel-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670316,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst Platinum",
+      "short": "Pay Attention Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670316/2025-26-Hoops-Pay-Attention-Pixel-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670310,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst Purple",
+      "short": "Pay Attention Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670310/2025-26-Hoops-Pay-Attention-Pixel-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 670315,
+      "name": "2025-26 Hoops - Pay Attention Pixel Burst Red",
+      "short": "Pay Attention Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670315/2025-26-Hoops-Pay-Attention-Pixel-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639864,
+      "name": "2025-26 Hoops - Pay Attention Rainbow",
+      "short": "Pay Attention Rainbow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639864/2025-26-Hoops-Pay-Attention-Rainbow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638601,
+      "name": "2025-26 Hoops - The Buzz",
+      "short": "The Buzz",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638601/2025-26-Hoops-The-Buzz",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638603,
+      "name": "2025-26 Hoops - The Buzz Green Hoops",
+      "short": "The Buzz Green Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638603/2025-26-Hoops-The-Buzz-Green-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638604,
+      "name": "2025-26 Hoops - The Buzz Light Burst",
+      "short": "The Buzz Light Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638604/2025-26-Hoops-The-Buzz-Light-Burst",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638605,
+      "name": "2025-26 Hoops - The Buzz Light Burst Black",
+      "short": "The Buzz Light Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638605/2025-26-Hoops-The-Buzz-Light-Burst-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639893,
+      "name": "2025-26 Hoops - The Buzz Light Burst Gold",
+      "short": "The Buzz Light Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639893/2025-26-Hoops-The-Buzz-Light-Burst-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639896,
+      "name": "2025-26 Hoops - The Buzz Light Burst Green",
+      "short": "The Buzz Light Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639896/2025-26-Hoops-The-Buzz-Light-Burst-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639898,
+      "name": "2025-26 Hoops - The Buzz Light Burst Orange",
+      "short": "The Buzz Light Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639898/2025-26-Hoops-The-Buzz-Light-Burst-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639892,
+      "name": "2025-26 Hoops - The Buzz Light Burst Platinum",
+      "short": "The Buzz Light Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639892/2025-26-Hoops-The-Buzz-Light-Burst-Platinum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639897,
+      "name": "2025-26 Hoops - The Buzz Light Burst Purple",
+      "short": "The Buzz Light Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639897/2025-26-Hoops-The-Buzz-Light-Burst-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639895,
+      "name": "2025-26 Hoops - The Buzz Light Burst Red",
+      "short": "The Buzz Light Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639895/2025-26-Hoops-The-Buzz-Light-Burst-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 638607,
+      "name": "2025-26 Hoops - The Buzz Orange Hoops",
+      "short": "The Buzz Orange Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/638607/2025-26-Hoops-The-Buzz-Orange-Hoops",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 639852,
+      "name": "2025-26 Hoops - Fanatics",
+      "short": "Fanatics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639852/2025-26-Hoops-Fanatics",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639850,
+      "name": "2025-26 Hoops - Green Hoops",
+      "short": "Green Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639850/2025-26-Hoops-Green-Hoops",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639848,
+      "name": "2025-26 Hoops - Light Burst",
+      "short": "Light Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639848/2025-26-Hoops-Light-Burst",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 643046,
+      "name": "2025-26 Hoops - Light Burst Black",
+      "short": "Light Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643046/2025-26-Hoops-Light-Burst-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 640636,
+      "name": "2025-26 Hoops - Light Burst Blue",
+      "short": "Light Burst Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/640636/2025-26-Hoops-Light-Burst-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 643044,
+      "name": "2025-26 Hoops - Light Burst Gold",
+      "short": "Light Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643044/2025-26-Hoops-Light-Burst-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 642188,
+      "name": "2025-26 Hoops - Light Burst Green",
+      "short": "Light Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/642188/2025-26-Hoops-Light-Burst-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 643045,
+      "name": "2025-26 Hoops - Light Burst Orange",
+      "short": "Light Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643045/2025-26-Hoops-Light-Burst-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 643048,
+      "name": "2025-26 Hoops - Light Burst Platinum",
+      "short": "Light Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643048/2025-26-Hoops-Light-Burst-Platinum",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 640637,
+      "name": "2025-26 Hoops - Light Burst Purple",
+      "short": "Light Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/640637/2025-26-Hoops-Light-Burst-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 643047,
+      "name": "2025-26 Hoops - Light Burst Red",
+      "short": "Light Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/643047/2025-26-Hoops-Light-Burst-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639851,
+      "name": "2025-26 Hoops - Orange Hoops",
+      "short": "Orange Hoops",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639851/2025-26-Hoops-Orange-Hoops",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639849,
+      "name": "2025-26 Hoops - Pixel Burst",
+      "short": "Pixel Burst",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639849/2025-26-Hoops-Pixel-Burst",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670480,
+      "name": "2025-26 Hoops - Pixel Burst Black",
+      "short": "Pixel Burst Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670480/2025-26-Hoops-Pixel-Burst-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670370,
+      "name": "2025-26 Hoops - Pixel Burst Blue",
+      "short": "Pixel Burst Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670370/2025-26-Hoops-Pixel-Burst-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670478,
+      "name": "2025-26 Hoops - Pixel Burst Gold",
+      "short": "Pixel Burst Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670478/2025-26-Hoops-Pixel-Burst-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670477,
+      "name": "2025-26 Hoops - Pixel Burst Green",
+      "short": "Pixel Burst Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670477/2025-26-Hoops-Pixel-Burst-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670479,
+      "name": "2025-26 Hoops - Pixel Burst Orange",
+      "short": "Pixel Burst Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670479/2025-26-Hoops-Pixel-Burst-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670483,
+      "name": "2025-26 Hoops - Pixel Burst Platinum",
+      "short": "Pixel Burst Platinum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670483/2025-26-Hoops-Pixel-Burst-Platinum",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670476,
+      "name": "2025-26 Hoops - Pixel Burst Purple",
+      "short": "Pixel Burst Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670476/2025-26-Hoops-Pixel-Burst-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670482,
+      "name": "2025-26 Hoops - Pixel Burst Red",
+      "short": "Pixel Burst Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670482/2025-26-Hoops-Pixel-Burst-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639847,
+      "name": "2025-26 Hoops - Rainbow",
+      "short": "Rainbow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639847/2025-26-Hoops-Rainbow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639855,
+      "name": "2025-26 Hoops - Rainbow Blue and Yellow",
+      "short": "Rainbow Blue and Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639855/2025-26-Hoops-Rainbow-Blue-and-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 656863,
+      "name": "2025-26 Hoops - Rainbow Gold and Green",
+      "short": "Rainbow Gold and Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/656863/2025-26-Hoops-Rainbow-Gold-and-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 670401,
+      "name": "2025-26 Hoops - Rainbow Green and Blue",
+      "short": "Rainbow Green and Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/670401/2025-26-Hoops-Rainbow-Green-and-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 647344,
+      "name": "2025-26 Hoops - Rainbow Purple and Blue",
+      "short": "Rainbow Purple and Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/647344/2025-26-Hoops-Rainbow-Purple-and-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 641750,
+      "name": "2025-26 Hoops - Rainbow Red and Orange",
+      "short": "Rainbow Red and Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/641750/2025-26-Hoops-Rainbow-Red-and-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639853,
+      "name": "2025-26 Hoops - Rainbow Teal",
+      "short": "Rainbow Teal",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639853/2025-26-Hoops-Rainbow-Teal",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 639854,
+      "name": "2025-26 Hoops - Rainbow Yellow",
+      "short": "Rainbow Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/639854/2025-26-Hoops-Rainbow-Yellow",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 12,
+  "imported_this_run": [
+    {
+      "source_set_id": 639867,
+      "name": "Joy Platinum",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 670039,
+      "name": "Oasis Platinum",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 643047,
+      "name": "Light Burst Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 300
+    },
+    {
+      "source_set_id": 670482,
+      "name": "Pixel Burst Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 300
+    },
+    {
+      "source_set_id": 643044,
+      "name": "Light Burst Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 298
+    },
+    {
+      "source_set_id": 670478,
+      "name": "Pixel Burst Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 299
+    },
+    {
+      "source_set_id": 643038,
+      "name": "1989 Hoops Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 60
+    },
+    {
+      "source_set_id": 661559,
+      "name": "Hoops Rookie Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 39
+    },
+    {
+      "source_set_id": 670746,
+      "name": "Hoops Rookie Duals Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 670750,
+      "name": "Hoops Rookie Triples Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 643040,
+      "name": "1989 Hoops Signatures Light Burst",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 60
+    },
+    {
+      "source_set_id": 670754,
+      "name": "Hoops Rookie Veteran Duals Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 639847,
+      "name": "Rainbow",
+      "family_requested": "parallel",
+      "cards_with_front": 52,
+      "missing_fronts": 248
+    },
+    {
+      "source_set_id": 639866,
+      "name": "Joy",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 670038,
+      "name": "Oasis",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 648495,
+      "name": "Hoopers",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 638601,
+      "name": "The Buzz",
+      "family_requested": "insert",
+      "cards_with_front": 16,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 640638,
+      "name": "Hard Wired",
+      "family_requested": "numbered",
+      "cards_with_front": 15,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 639850,
+      "name": "Green Hoops",
+      "family_requested": "numbered",
+      "cards_with_front": 98,
+      "missing_fronts": 202
+    },
+    {
+      "source_set_id": 640636,
+      "name": "Light Burst Blue",
+      "family_requested": "numbered",
+      "cards_with_front": 3,
+      "missing_fronts": 297
+    }
+  ],
+  "import_errors": [],
+  "card_count": 494,
+  "before_tiers": {
+    "base": 254,
+    "rookie": 46
+  },
+  "tiers": {
+    "base": 254,
+    "rookie": 46,
+    "numbered_low": 1,
+    "numbered": 6,
+    "auto": 1,
+    "parallel": 150,
+    "insert": 36
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 7,
+    "rookie": 1,
+    "numbered_low": 1,
+    "numbered": 6,
+    "auto": 1,
+    "parallel": 150,
+    "insert": 36
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 254,
+      "available_cards": 254,
+      "local_images": 7,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 46,
+      "available_cards": 46,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 60
+    },
+    "auto": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 34
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 150,
+      "available_cards": 150,
+      "local_images": 150,
+      "source_candidates": 29
+    },
+    "insert": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 36,
+      "source_candidates": 129
+    },
+    "numbered": {
+      "status": "available",
+      "records": 6,
+      "available_cards": 6,
+      "local_images": 6,
+      "source_candidates": 58
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

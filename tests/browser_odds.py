@@ -19,12 +19,12 @@ def open_odds(p):
  p.locator('#open-odds').click();p.locator('.odds-card-row').first.wait_for();assert p.locator('#odds-dialog').is_visible()
 def close_odds(p):p.locator('#odds-dialog [data-close-dialog]').click()
 def check_previews(p):
- expected=p.evaluate('oddsContext.model.slots.flatMap(s=>s.pools.length>1?s.pools.filter(p=>p.chance>0&&p.chance<=.12&&!p.note&&p.cards.length&&p.label!=="基础卡回落").map(p=>({label:p.label,ids:p.cards.map(c=>c.id)})):[])')
+ expected=p.evaluate('oddsContext.model.slots.flatMap(s=>s.pools.filter(p=>p.chance>0&&!p.note&&p.cards.length&&p.label!=="基础卡回落"&&(oddsContext.product.sport==="basketball"&&p.label!=="新秀位"&&s.label!=="基础位"||s.pools.length>1&&p.chance<=.12)).map(p=>({label:p.label,ids:p.cards.map(c=>c.id)})))')
  previews=p.locator('.odds-rare-preview');assert previews.count()==len(expected)
  for i,pool in enumerate(expected):
   preview=previews.nth(i);assert preview.get_attribute('data-pool')==pool['label']
   assert preview.locator('.odds-rare-card').evaluate_all('(xs)=>xs.map(x=>x.dataset.card)')==pool['ids'][:4]
-  assert '缺档' not in preview.locator('..').locator('.odds-pool-line').inner_text()
+  assert '素材尚未收齐' not in preview.locator('..').locator('.odds-pool-line').inner_text()
   if len(pool['ids'])>4:
    preview.locator('.odds-rare-more').click()
    assert preview.locator('.odds-rare-card').evaluate_all('(xs)=>xs.map(x=>x.dataset.card)')==pool['ids'][:12]

@@ -1,0 +1,421 @@
+{
+  "set_id": "BB2792",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2792/1998-99-Upper-Deck",
+  "headings": [
+    "Insert Sets (30)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 34,
+  "subsets": [
+    {
+      "source_set_id": 269208,
+      "name": "1998-99 Upper Deck - 1998-99 SPx Finite Rookie Update",
+      "short": "1998-99 SPx Finite Rookie Update",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/269208/1998-99-Upper-Deck-1998-99-SPx-Finite-Rookie-Update",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 269210,
+      "name": "1998-99 Upper Deck - 1998-99 SPx Finite Rookie Update Radiance",
+      "short": "1998-99 SPx Finite Rookie Update Radiance",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/269210/1998-99-Upper-Deck-1998-99-SPx-Finite-Rookie-Update-Radiance",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 269211,
+      "name": "1998-99 Upper Deck - 1998-99 SPx Finite Rookie Update Spectrum",
+      "short": "1998-99 SPx Finite Rookie Update Spectrum",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/269211/1998-99-Upper-Deck-1998-99-SPx-Finite-Rookie-Update-Spectrum",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26059,
+      "name": "1998-99 Upper Deck - Aerodynamics",
+      "short": "Aerodynamics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26059/1998-99-Upper-Deck-Aerodynamics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26060,
+      "name": "1998-99 Upper Deck - Aerodynamics Tier 1 (Quantum Bronze)",
+      "short": "Aerodynamics Tier 1 (Quantum Bronze)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26060/1998-99-Upper-Deck-Aerodynamics-Tier-1-Quantum-Bronze-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26062,
+      "name": "1998-99 Upper Deck - Aerodynamics Tier 2 (Quantum Silver)",
+      "short": "Aerodynamics Tier 2 (Quantum Silver)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26062/1998-99-Upper-Deck-Aerodynamics-Tier-2-Quantum-Silver-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26061,
+      "name": "1998-99 Upper Deck - Aerodynamics Tier 3 (Quantum Gold)",
+      "short": "Aerodynamics Tier 3 (Quantum Gold)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26061/1998-99-Upper-Deck-Aerodynamics-Tier-3-Quantum-Gold-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26064,
+      "name": "1998-99 Upper Deck - Forces",
+      "short": "Forces",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26064/1998-99-Upper-Deck-Forces",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26065,
+      "name": "1998-99 Upper Deck - Forces Tier 1 (Quantum Bronze)",
+      "short": "Forces Tier 1 (Quantum Bronze)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26065/1998-99-Upper-Deck-Forces-Tier-1-Quantum-Bronze-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26067,
+      "name": "1998-99 Upper Deck - Forces Tier 2 (Quantum Silver)",
+      "short": "Forces Tier 2 (Quantum Silver)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26067/1998-99-Upper-Deck-Forces-Tier-2-Quantum-Silver-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26066,
+      "name": "1998-99 Upper Deck - Forces Tier 3 (Quantum Gold)",
+      "short": "Forces Tier 3 (Quantum Gold)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26066/1998-99-Upper-Deck-Forces-Tier-3-Quantum-Gold-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2798,
+      "name": "1998-99 Upper Deck - Game Worn Jerseys / Rookie Jerseys",
+      "short": "Game Worn Jerseys / Rookie Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2798/1998-99-Upper-Deck-Game-Worn-Jerseys-Rookie-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26070,
+      "name": "1998-99 Upper Deck - Intensity",
+      "short": "Intensity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26070/1998-99-Upper-Deck-Intensity",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26071,
+      "name": "1998-99 Upper Deck - Intensity Tier 1 (Quantum Bronze)",
+      "short": "Intensity Tier 1 (Quantum Bronze)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26071/1998-99-Upper-Deck-Intensity-Tier-1-Quantum-Bronze-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26073,
+      "name": "1998-99 Upper Deck - Intensity Tier 2 (Quantum Silver)",
+      "short": "Intensity Tier 2 (Quantum Silver)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26073/1998-99-Upper-Deck-Intensity-Tier-2-Quantum-Silver-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26072,
+      "name": "1998-99 Upper Deck - Intensity Tier 3 (Quantum Gold)",
+      "short": "Intensity Tier 3 (Quantum Gold)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26072/1998-99-Upper-Deck-Intensity-Tier-3-Quantum-Gold-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2803,
+      "name": "1998-99 Upper Deck - MJ23",
+      "short": "MJ23",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2803/1998-99-Upper-Deck-MJ23",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26075,
+      "name": "1998-99 Upper Deck - MJ23 Tier 1 (Quantum Bronze)",
+      "short": "MJ23 Tier 1 (Quantum Bronze)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26075/1998-99-Upper-Deck-MJ23-Tier-1-Quantum-Bronze-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26077,
+      "name": "1998-99 Upper Deck - MJ23 Tier 2 (Quantum Silver)",
+      "short": "MJ23 Tier 2 (Quantum Silver)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26077/1998-99-Upper-Deck-MJ23-Tier-2-Quantum-Silver-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26076,
+      "name": "1998-99 Upper Deck - MJ23 Tier 3 (Quantum Gold)",
+      "short": "MJ23 Tier 3 (Quantum Gold)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26076/1998-99-Upper-Deck-MJ23-Tier-3-Quantum-Gold-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26074,
+      "name": "1998-99 Upper Deck - Michael Jordan Autographed Game Jersey",
+      "short": "Michael Jordan Autographed Game Jersey",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26074/1998-99-Upper-Deck-Michael-Jordan-Autographed-Game-Jersey",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26078,
+      "name": "1998-99 Upper Deck - Next Wave",
+      "short": "Next Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26078/1998-99-Upper-Deck-Next-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26079,
+      "name": "1998-99 Upper Deck - Next Wave Tier 1 (Quantum Bronze)",
+      "short": "Next Wave Tier 1 (Quantum Bronze)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26079/1998-99-Upper-Deck-Next-Wave-Tier-1-Quantum-Bronze-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26081,
+      "name": "1998-99 Upper Deck - Next Wave Tier 2 (Quantum Silver)",
+      "short": "Next Wave Tier 2 (Quantum Silver)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26081/1998-99-Upper-Deck-Next-Wave-Tier-2-Quantum-Silver-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26080,
+      "name": "1998-99 Upper Deck - Next Wave Tier 3 (Quantum Gold)",
+      "short": "Next Wave Tier 3 (Quantum Gold)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26080/1998-99-Upper-Deck-Next-Wave-Tier-3-Quantum-Gold-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26082,
+      "name": "1998-99 Upper Deck - Super Powers",
+      "short": "Super Powers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26082/1998-99-Upper-Deck-Super-Powers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26083,
+      "name": "1998-99 Upper Deck - Super Powers Quantum Bronze (Tier 1)",
+      "short": "Super Powers Quantum Bronze (Tier 1)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26083/1998-99-Upper-Deck-Super-Powers-Quantum-Bronze-Tier-1-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26084,
+      "name": "1998-99 Upper Deck - Super Powers Quantum Gold (Tier 3)",
+      "short": "Super Powers Quantum Gold (Tier 3)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26084/1998-99-Upper-Deck-Super-Powers-Quantum-Gold-Tier-3-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26085,
+      "name": "1998-99 Upper Deck - Super Powers Quantum Silver (Tier 2)",
+      "short": "Super Powers Quantum Silver (Tier 2)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26085/1998-99-Upper-Deck-Super-Powers-Quantum-Silver-Tier-2-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 453131,
+      "name": "1998-99 Upper Deck - UD Extra! Michael Jordan Retires!",
+      "short": "UD Extra! Michael Jordan Retires!",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/453131/1998-99-Upper-Deck-UD-Extra-Michael-Jordan-Retires-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 26063,
+      "name": "1998-99 Upper Deck - UD Exclusives Bronze",
+      "short": "UD Exclusives Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26063/1998-99-Upper-Deck-UD-Exclusives-Bronze",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 26069,
+      "name": "1998-99 Upper Deck - UD Exclusives Gold",
+      "short": "UD Exclusives Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/26069/1998-99-Upper-Deck-UD-Exclusives-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 453126,
+      "name": "1998-99 Upper Deck - Promotional Sample",
+      "short": "Promotional Sample",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/453126/1998-99-Upper-Deck-Promotional-Sample",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 453127,
+      "name": "1998-99 Upper Deck - Sample",
+      "short": "Sample",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/453127/1998-99-Upper-Deck-Sample",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 9,
+  "imported_this_run": [
+    {
+      "source_set_id": 26069,
+      "name": "UD Exclusives Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 322
+    },
+    {
+      "source_set_id": 26076,
+      "name": "MJ23 Tier 3 (Quantum Gold)",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 30
+    },
+    {
+      "source_set_id": 26066,
+      "name": "Forces Tier 3 (Quantum Gold)",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 26072,
+      "name": "Intensity Tier 3 (Quantum Gold)",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 29
+    },
+    {
+      "source_set_id": 26080,
+      "name": "Next Wave Tier 3 (Quantum Gold)",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 26
+    },
+    {
+      "source_set_id": 26061,
+      "name": "Aerodynamics Tier 3 (Quantum Gold)",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 27
+    },
+    {
+      "source_set_id": 2798,
+      "name": "Game Worn Jerseys / Rookie Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 49,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 26074,
+      "name": "Michael Jordan Autographed Game Jersey",
+      "family_requested": "auto_patch",
+      "cards_with_front": 2,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 26063,
+      "name": "UD Exclusives Bronze",
+      "family_requested": "parallel",
+      "cards_with_front": 104,
+      "missing_fronts": 222
+    },
+    {
+      "source_set_id": 2803,
+      "name": "MJ23",
+      "family_requested": "insert",
+      "cards_with_front": 30,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 526,
+  "before_tiers": {
+    "base": 303,
+    "rookie": 23
+  },
+  "tiers": {
+    "base": 332,
+    "rookie": 23,
+    "numbered_low": 5,
+    "numbered": 123,
+    "memorabilia": 49,
+    "auto_patch": 2,
+    "insert": 30
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "numbered_low": 5,
+    "numbered": 123,
+    "memorabilia": 49,
+    "auto_patch": 2,
+    "insert": 30
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 332,
+      "available_cards": 332,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 23,
+      "available_cards": 23,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 7
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 49,
+      "available_cards": 49,
+      "local_images": 49,
+      "source_candidates": 1
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 2,
+      "available_cards": 2,
+      "local_images": 2,
+      "source_candidates": 1
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "insert": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 30
+    },
+    "numbered": {
+      "status": "available",
+      "records": 123,
+      "available_cards": 123,
+      "local_images": 123,
+      "source_candidates": 8
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 38
+}

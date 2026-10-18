@@ -1,0 +1,825 @@
+{
+  "set_id": "BB206591",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/206591/2018-19-Panini-Contenders-Optic",
+  "headings": [
+    "Insert Sets (75)",
+    "Parallel Sets (10)"
+  ],
+  "subset_count": 85,
+  "subsets": [
+    {
+      "source_set_id": 210870,
+      "name": "2018-19 Panini Contenders Optic - Class Acts",
+      "short": "Class Acts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210870/2018-19-Panini-Contenders-Optic-Class-Acts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210873,
+      "name": "2018-19 Panini Contenders Optic - Class Acts Blue Cracked Ice",
+      "short": "Class Acts Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210873/2018-19-Panini-Contenders-Optic-Class-Acts-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210871,
+      "name": "2018-19 Panini Contenders Optic - Class Acts Gold",
+      "short": "Class Acts Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210871/2018-19-Panini-Contenders-Optic-Class-Acts-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210872,
+      "name": "2018-19 Panini Contenders Optic - Class Acts Gold Vinyl",
+      "short": "Class Acts Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210872/2018-19-Panini-Contenders-Optic-Class-Acts-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210874,
+      "name": "2018-19 Panini Contenders Optic - Class Acts Red Cracked Ice",
+      "short": "Class Acts Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210874/2018-19-Panini-Contenders-Optic-Class-Acts-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210856,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 1981",
+      "short": "Contenders Tribute Autographs 1981",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210856/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-1981",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210857,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 1981 Gold Vinyl",
+      "short": "Contenders Tribute Autographs 1981 Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210857/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-1981-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 211140,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 1998",
+      "short": "Contenders Tribute Autographs 1998",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/211140/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-1998",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 211141,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 1998 Gold Vinyl",
+      "short": "Contenders Tribute Autographs 1998 Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/211141/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-1998-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 211142,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 2003",
+      "short": "Contenders Tribute Autographs 2003",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/211142/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-2003",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 211143,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 2003 Gold Vinyl",
+      "short": "Contenders Tribute Autographs 2003 Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/211143/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-2003-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 211144,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 2007",
+      "short": "Contenders Tribute Autographs 2007",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/211144/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-2007",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 211145,
+      "name": "2018-19 Panini Contenders Optic - Contenders Tribute Autographs 2007 Gold Vinyl",
+      "short": "Contenders Tribute Autographs 2007 Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/211145/2018-19-Panini-Contenders-Optic-Contenders-Tribute-Autographs-2007-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210875,
+      "name": "2018-19 Panini Contenders Optic - Front Row Seat",
+      "short": "Front Row Seat",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210875/2018-19-Panini-Contenders-Optic-Front-Row-Seat",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210878,
+      "name": "2018-19 Panini Contenders Optic - Front Row Seat Blue Cracked Ice",
+      "short": "Front Row Seat Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210878/2018-19-Panini-Contenders-Optic-Front-Row-Seat-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210876,
+      "name": "2018-19 Panini Contenders Optic - Front Row Seat Gold",
+      "short": "Front Row Seat Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210876/2018-19-Panini-Contenders-Optic-Front-Row-Seat-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210877,
+      "name": "2018-19 Panini Contenders Optic - Front Row Seat Gold Vinyl",
+      "short": "Front Row Seat Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210877/2018-19-Panini-Contenders-Optic-Front-Row-Seat-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210879,
+      "name": "2018-19 Panini Contenders Optic - Front Row Seat Red Cracked Ice",
+      "short": "Front Row Seat Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210879/2018-19-Panini-Contenders-Optic-Front-Row-Seat-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210880,
+      "name": "2018-19 Panini Contenders Optic - Hall of Fame Contenders",
+      "short": "Hall of Fame Contenders",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210880/2018-19-Panini-Contenders-Optic-Hall-of-Fame-Contenders",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210883,
+      "name": "2018-19 Panini Contenders Optic - Hall of Fame Contenders Blue Cracked Ice",
+      "short": "Hall of Fame Contenders Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210883/2018-19-Panini-Contenders-Optic-Hall-of-Fame-Contenders-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210881,
+      "name": "2018-19 Panini Contenders Optic - Hall of Fame Contenders Gold",
+      "short": "Hall of Fame Contenders Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210881/2018-19-Panini-Contenders-Optic-Hall-of-Fame-Contenders-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210882,
+      "name": "2018-19 Panini Contenders Optic - Hall of Fame Contenders Gold Vinyl",
+      "short": "Hall of Fame Contenders Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210882/2018-19-Panini-Contenders-Optic-Hall-of-Fame-Contenders-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210884,
+      "name": "2018-19 Panini Contenders Optic - Hall of Fame Contenders Red Cracked Ice",
+      "short": "Hall of Fame Contenders Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210884/2018-19-Panini-Contenders-Optic-Hall-of-Fame-Contenders-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210885,
+      "name": "2018-19 Panini Contenders Optic - Historic MVPs",
+      "short": "Historic MVPs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210885/2018-19-Panini-Contenders-Optic-Historic-MVPs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210889,
+      "name": "2018-19 Panini Contenders Optic - Historic MVPs Blue Cracked Ice",
+      "short": "Historic MVPs Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210889/2018-19-Panini-Contenders-Optic-Historic-MVPs-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210886,
+      "name": "2018-19 Panini Contenders Optic - Historic MVPs Gold",
+      "short": "Historic MVPs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210886/2018-19-Panini-Contenders-Optic-Historic-MVPs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210887,
+      "name": "2018-19 Panini Contenders Optic - Historic MVPs Gold Vinyl",
+      "short": "Historic MVPs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210887/2018-19-Panini-Contenders-Optic-Historic-MVPs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210888,
+      "name": "2018-19 Panini Contenders Optic - Historic MVPs Red Cracked Ice",
+      "short": "Historic MVPs Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210888/2018-19-Panini-Contenders-Optic-Historic-MVPs-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210890,
+      "name": "2018-19 Panini Contenders Optic - Historic Rookie of the Year",
+      "short": "Historic Rookie of the Year",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210890/2018-19-Panini-Contenders-Optic-Historic-Rookie-of-the-Year",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210893,
+      "name": "2018-19 Panini Contenders Optic - Historic Rookie of the Year Blue Cracked Ice",
+      "short": "Historic Rookie of the Year Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210893/2018-19-Panini-Contenders-Optic-Historic-Rookie-of-the-Year-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210891,
+      "name": "2018-19 Panini Contenders Optic - Historic Rookie of the Year Gold",
+      "short": "Historic Rookie of the Year Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210891/2018-19-Panini-Contenders-Optic-Historic-Rookie-of-the-Year-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210892,
+      "name": "2018-19 Panini Contenders Optic - Historic Rookie of the Year Gold Vinyl",
+      "short": "Historic Rookie of the Year Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210892/2018-19-Panini-Contenders-Optic-Historic-Rookie-of-the-Year-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210894,
+      "name": "2018-19 Panini Contenders Optic - Historic Rookie of the Year Red Cracked Ice",
+      "short": "Historic Rookie of the Year Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210894/2018-19-Panini-Contenders-Optic-Historic-Rookie-of-the-Year-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210858,
+      "name": "2018-19 Panini Contenders Optic - Legendary Contenders Autographs",
+      "short": "Legendary Contenders Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210858/2018-19-Panini-Contenders-Optic-Legendary-Contenders-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210859,
+      "name": "2018-19 Panini Contenders Optic - Legendary Contenders Autographs Gold",
+      "short": "Legendary Contenders Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210859/2018-19-Panini-Contenders-Optic-Legendary-Contenders-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210860,
+      "name": "2018-19 Panini Contenders Optic - Legendary Contenders Autographs Gold Vinyl",
+      "short": "Legendary Contenders Autographs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210860/2018-19-Panini-Contenders-Optic-Legendary-Contenders-Autographs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210895,
+      "name": "2018-19 Panini Contenders Optic - Lottery Ticket",
+      "short": "Lottery Ticket",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210895/2018-19-Panini-Contenders-Optic-Lottery-Ticket",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210898,
+      "name": "2018-19 Panini Contenders Optic - Lottery Ticket Blue Cracked Ice",
+      "short": "Lottery Ticket Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210898/2018-19-Panini-Contenders-Optic-Lottery-Ticket-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210896,
+      "name": "2018-19 Panini Contenders Optic - Lottery Ticket Gold",
+      "short": "Lottery Ticket Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210896/2018-19-Panini-Contenders-Optic-Lottery-Ticket-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210897,
+      "name": "2018-19 Panini Contenders Optic - Lottery Ticket Gold Vinyl",
+      "short": "Lottery Ticket Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210897/2018-19-Panini-Contenders-Optic-Lottery-Ticket-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210899,
+      "name": "2018-19 Panini Contenders Optic - Lottery Ticket Red Cracked Ice",
+      "short": "Lottery Ticket Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210899/2018-19-Panini-Contenders-Optic-Lottery-Ticket-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210862,
+      "name": "2018-19 Panini Contenders Optic - NBA Ink",
+      "short": "NBA Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210862/2018-19-Panini-Contenders-Optic-NBA-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210861,
+      "name": "2018-19 Panini Contenders Optic - NBA Ink Gold",
+      "short": "NBA Ink Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210861/2018-19-Panini-Contenders-Optic-NBA-Ink-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210863,
+      "name": "2018-19 Panini Contenders Optic - NBA Ink Gold Vinyl",
+      "short": "NBA Ink Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210863/2018-19-Panini-Contenders-Optic-NBA-Ink-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210900,
+      "name": "2018-19 Panini Contenders Optic - Playing the Numbers Game",
+      "short": "Playing the Numbers Game",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210900/2018-19-Panini-Contenders-Optic-Playing-the-Numbers-Game",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210903,
+      "name": "2018-19 Panini Contenders Optic - Playing the Numbers Game Blue Cracked Ice",
+      "short": "Playing the Numbers Game Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210903/2018-19-Panini-Contenders-Optic-Playing-the-Numbers-Game-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210901,
+      "name": "2018-19 Panini Contenders Optic - Playing the Numbers Game Gold",
+      "short": "Playing the Numbers Game Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210901/2018-19-Panini-Contenders-Optic-Playing-the-Numbers-Game-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210902,
+      "name": "2018-19 Panini Contenders Optic - Playing the Numbers Game Gold Vinyl",
+      "short": "Playing the Numbers Game Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210902/2018-19-Panini-Contenders-Optic-Playing-the-Numbers-Game-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210904,
+      "name": "2018-19 Panini Contenders Optic - Playing the Numbers Game Red Cracked Ice",
+      "short": "Playing the Numbers Game Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210904/2018-19-Panini-Contenders-Optic-Playing-the-Numbers-Game-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210864,
+      "name": "2018-19 Panini Contenders Optic - Sophomore Contenders Autographs",
+      "short": "Sophomore Contenders Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210864/2018-19-Panini-Contenders-Optic-Sophomore-Contenders-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210865,
+      "name": "2018-19 Panini Contenders Optic - Sophomore Contenders Autographs Gold",
+      "short": "Sophomore Contenders Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210865/2018-19-Panini-Contenders-Optic-Sophomore-Contenders-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210866,
+      "name": "2018-19 Panini Contenders Optic - Sophomore Contenders Autographs Gold Vinyl",
+      "short": "Sophomore Contenders Autographs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210866/2018-19-Panini-Contenders-Optic-Sophomore-Contenders-Autographs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210905,
+      "name": "2018-19 Panini Contenders Optic - Superstar Die Cuts",
+      "short": "Superstar Die Cuts",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210905/2018-19-Panini-Contenders-Optic-Superstar-Die-Cuts",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210908,
+      "name": "2018-19 Panini Contenders Optic - Superstar Die Cuts Blue Cracked Ice",
+      "short": "Superstar Die Cuts Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210908/2018-19-Panini-Contenders-Optic-Superstar-Die-Cuts-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210906,
+      "name": "2018-19 Panini Contenders Optic - Superstar Die Cuts Gold",
+      "short": "Superstar Die Cuts Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210906/2018-19-Panini-Contenders-Optic-Superstar-Die-Cuts-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210907,
+      "name": "2018-19 Panini Contenders Optic - Superstar Die Cuts Gold Vinyl",
+      "short": "Superstar Die Cuts Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210907/2018-19-Panini-Contenders-Optic-Superstar-Die-Cuts-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210909,
+      "name": "2018-19 Panini Contenders Optic - Superstar Die Cuts Red Cracked Ice",
+      "short": "Superstar Die Cuts Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210909/2018-19-Panini-Contenders-Optic-Superstar-Die-Cuts-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210867,
+      "name": "2018-19 Panini Contenders Optic - Up and Coming Contenders Autographs",
+      "short": "Up and Coming Contenders Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210867/2018-19-Panini-Contenders-Optic-Up-and-Coming-Contenders-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210868,
+      "name": "2018-19 Panini Contenders Optic - Up and Coming Contenders Autographs Gold",
+      "short": "Up and Coming Contenders Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210868/2018-19-Panini-Contenders-Optic-Up-and-Coming-Contenders-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210869,
+      "name": "2018-19 Panini Contenders Optic - Up and Coming Contenders Autographs Gold Vinyl",
+      "short": "Up and Coming Contenders Autographs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210869/2018-19-Panini-Contenders-Optic-Up-and-Coming-Contenders-Autographs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210846,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs",
+      "short": "Veteran Season Ticket Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210846/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210848,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Blue",
+      "short": "Veteran Season Ticket Autographs Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210848/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210850,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Gold",
+      "short": "Veteran Season Ticket Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210850/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210851,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Gold Vinyl",
+      "short": "Veteran Season Ticket Autographs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210851/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210849,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Orange",
+      "short": "Veteran Season Ticket Autographs Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210849/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Orange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210852,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Printing Plate Black",
+      "short": "Veteran Season Ticket Autographs Printing Plate Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210852/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Printing-Plate-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210853,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Printing Plate Cyan",
+      "short": "Veteran Season Ticket Autographs Printing Plate Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210853/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Printing-Plate-Cyan",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210855,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Printing Plate Magenta",
+      "short": "Veteran Season Ticket Autographs Printing Plate Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210855/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Printing-Plate-Magenta",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210854,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Printing Plate Yellow",
+      "short": "Veteran Season Ticket Autographs Printing Plate Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210854/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Printing-Plate-Yellow",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210847,
+      "name": "2018-19 Panini Contenders Optic - Veteran Season Ticket Autographs Red",
+      "short": "Veteran Season Ticket Autographs Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210847/2018-19-Panini-Contenders-Optic-Veteran-Season-Ticket-Autographs-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210910,
+      "name": "2018-19 Panini Contenders Optic - Winning Tickets",
+      "short": "Winning Tickets",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210910/2018-19-Panini-Contenders-Optic-Winning-Tickets",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210913,
+      "name": "2018-19 Panini Contenders Optic - Winning Tickets Blue Cracked Ice",
+      "short": "Winning Tickets Blue Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210913/2018-19-Panini-Contenders-Optic-Winning-Tickets-Blue-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210911,
+      "name": "2018-19 Panini Contenders Optic - Winning Tickets Gold",
+      "short": "Winning Tickets Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210911/2018-19-Panini-Contenders-Optic-Winning-Tickets-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210912,
+      "name": "2018-19 Panini Contenders Optic - Winning Tickets Gold Vinyl",
+      "short": "Winning Tickets Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210912/2018-19-Panini-Contenders-Optic-Winning-Tickets-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210914,
+      "name": "2018-19 Panini Contenders Optic - Winning Tickets Red Cracked Ice",
+      "short": "Winning Tickets Red Cracked Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210914/2018-19-Panini-Contenders-Optic-Winning-Tickets-Red-Cracked-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 210838,
+      "name": "2018-19 Panini Contenders Optic - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210838/2018-19-Panini-Contenders-Optic-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210840,
+      "name": "2018-19 Panini Contenders Optic - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210840/2018-19-Panini-Contenders-Optic-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210841,
+      "name": "2018-19 Panini Contenders Optic - Gold Vinyl",
+      "short": "Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210841/2018-19-Panini-Contenders-Optic-Gold-Vinyl",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210839,
+      "name": "2018-19 Panini Contenders Optic - Orange",
+      "short": "Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210839/2018-19-Panini-Contenders-Optic-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210842,
+      "name": "2018-19 Panini Contenders Optic - Printing Plate Black",
+      "short": "Printing Plate Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210842/2018-19-Panini-Contenders-Optic-Printing-Plate-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210844,
+      "name": "2018-19 Panini Contenders Optic - Printing Plate Cyan",
+      "short": "Printing Plate Cyan",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210844/2018-19-Panini-Contenders-Optic-Printing-Plate-Cyan",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210845,
+      "name": "2018-19 Panini Contenders Optic - Printing Plate Magenta",
+      "short": "Printing Plate Magenta",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210845/2018-19-Panini-Contenders-Optic-Printing-Plate-Magenta",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210843,
+      "name": "2018-19 Panini Contenders Optic - Printing Plate Yellow",
+      "short": "Printing Plate Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210843/2018-19-Panini-Contenders-Optic-Printing-Plate-Yellow",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210837,
+      "name": "2018-19 Panini Contenders Optic - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210837/2018-19-Panini-Contenders-Optic-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 210836,
+      "name": "2018-19 Panini Contenders Optic - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/210836/2018-19-Panini-Contenders-Optic-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 14,
+  "imported_this_run": [
+    {
+      "source_set_id": 210840,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 157
+    },
+    {
+      "source_set_id": 210837,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 18,
+      "missing_fronts": 128
+    },
+    {
+      "source_set_id": 210841,
+      "name": "Gold Vinyl",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 159
+    },
+    {
+      "source_set_id": 210871,
+      "name": "Class Acts Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 28
+    },
+    {
+      "source_set_id": 210886,
+      "name": "Historic MVPs Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 210876,
+      "name": "Front Row Seat Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 28
+    },
+    {
+      "source_set_id": 210862,
+      "name": "NBA Ink",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 28
+    },
+    {
+      "source_set_id": 210858,
+      "name": "Legendary Contenders Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 38
+    },
+    {
+      "source_set_id": 210864,
+      "name": "Sophomore Contenders Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 4
+    },
+    {
+      "source_set_id": 210846,
+      "name": "Veteran Season Ticket Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 26
+    },
+    {
+      "source_set_id": 210836,
+      "name": "Silver",
+      "family_requested": "parallel",
+      "cards_with_front": 39,
+      "missing_fronts": 61
+    },
+    {
+      "source_set_id": 210870,
+      "name": "Class Acts",
+      "family_requested": "insert",
+      "cards_with_front": 4,
+      "missing_fronts": 24
+    },
+    {
+      "source_set_id": 210885,
+      "name": "Historic MVPs",
+      "family_requested": "insert",
+      "cards_with_front": 2,
+      "missing_fronts": 8
+    },
+    {
+      "source_set_id": 210875,
+      "name": "Front Row Seat",
+      "family_requested": "insert",
+      "cards_with_front": 5,
+      "missing_fronts": 25
+    },
+    {
+      "source_set_id": 210895,
+      "name": "Lottery Ticket",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 11
+    },
+    {
+      "source_set_id": 210910,
+      "name": "Winning Tickets",
+      "family_requested": "insert",
+      "cards_with_front": 14,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 210838,
+      "name": "Blue",
+      "family_requested": "numbered",
+      "cards_with_front": 17,
+      "missing_fronts": 139
+    }
+  ],
+  "import_errors": [],
+  "card_count": 165,
+  "before_tiers": {
+    "base": 44,
+    "auto": 7
+  },
+  "tiers": {
+    "base": 44,
+    "auto": 21,
+    "numbered_low": 6,
+    "parallel": 53,
+    "insert": 28,
+    "numbered": 13
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "auto": 21,
+    "numbered_low": 6,
+    "parallel": 53,
+    "insert": 28,
+    "numbered": 13
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 44,
+      "available_cards": 44,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 6,
+      "available_cards": 6,
+      "local_images": 6,
+      "source_candidates": 31
+    },
+    "auto": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 30
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 53,
+      "available_cards": 53,
+      "local_images": 53,
+      "source_candidates": 10
+    },
+    "insert": {
+      "status": "available",
+      "records": 28,
+      "available_cards": 28,
+      "local_images": 28,
+      "source_candidates": 45
+    },
+    "numbered": {
+      "status": "available",
+      "records": 13,
+      "available_cards": 13,
+      "local_images": 13,
+      "source_candidates": 40
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

@@ -1,0 +1,118 @@
+{
+  "set_id": "BB2027",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2027/1977-78-Topps",
+  "headings": [
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 1,
+  "subsets": [
+    {
+      "source_set_id": 116092,
+      "name": "1977-78 Topps - White Backs",
+      "short": "White Backs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/116092/1977-78-Topps-White-Backs",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 1,
+  "imported_this_run": [
+    {
+      "source_set_id": 116092,
+      "name": "White Backs",
+      "family_requested": "parallel",
+      "cards_with_front": 131,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 262,
+  "before_tiers": {
+    "base": 110,
+    "rookie": 21
+  },
+  "tiers": {
+    "base": 111,
+    "rookie": 21,
+    "parallel": 132
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 1,
+    "rookie": 5,
+    "parallel": 132
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 111,
+      "available_cards": 111,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 132,
+      "available_cards": 132,
+      "local_images": 132,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 2
+}

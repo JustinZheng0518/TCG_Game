@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075425.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075425.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075426",
@@ -50,7 +52,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075427",
@@ -76,7 +79,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075428",
@@ -103,7 +107,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075428.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075428.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075429",
@@ -129,7 +135,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075430",
@@ -155,7 +162,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075431",
@@ -181,7 +189,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075432",
@@ -207,7 +216,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075433",
@@ -233,7 +243,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075434",
@@ -260,7 +271,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075434.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075434.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075435",
@@ -286,7 +299,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075436",
@@ -312,7 +326,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075437",
@@ -339,7 +354,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075437.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075437.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075438",
@@ -366,7 +383,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075438.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075438.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075439",
@@ -392,7 +411,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075440",
@@ -418,7 +438,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075441",
@@ -444,7 +465,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075442",
@@ -470,7 +492,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075443",
@@ -496,7 +519,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075444",
@@ -522,7 +546,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075445",
@@ -548,7 +573,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075446",
@@ -574,7 +600,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075447",
@@ -601,7 +628,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075447.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075447.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075448",
@@ -627,7 +656,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075449",
@@ -653,7 +683,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075450",
@@ -679,7 +710,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075451",
@@ -705,7 +737,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075452",
@@ -731,7 +764,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075453",
@@ -757,7 +791,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075454",
@@ -783,7 +818,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075455",
@@ -809,7 +845,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075456",
@@ -835,7 +872,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075457",
@@ -861,7 +899,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075458",
@@ -887,7 +926,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075459",
@@ -913,7 +953,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075460",
@@ -939,7 +980,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075461",
@@ -965,7 +1007,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075462",
@@ -991,7 +1034,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075463",
@@ -1017,7 +1061,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075464",
@@ -1043,7 +1088,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075465",
@@ -1069,7 +1115,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075466",
@@ -1095,7 +1142,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075467",
@@ -1121,7 +1169,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075468",
@@ -1147,7 +1196,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075469",
@@ -1173,7 +1223,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075470",
@@ -1199,7 +1250,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075471",
@@ -1225,7 +1277,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075472",
@@ -1251,7 +1304,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075473",
@@ -1277,7 +1331,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075474",
@@ -1303,7 +1358,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075475",
@@ -1329,7 +1385,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075476",
@@ -1355,7 +1412,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075477",
@@ -1381,7 +1439,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075478",
@@ -1407,7 +1466,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075479",
@@ -1433,7 +1493,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075480",
@@ -1459,7 +1520,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075481",
@@ -1485,7 +1547,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075482",
@@ -1511,7 +1574,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075483",
@@ -1537,7 +1601,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075484",
@@ -1563,7 +1628,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075485",
@@ -1589,7 +1655,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075486",
@@ -1615,7 +1682,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075487",
@@ -1641,7 +1709,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075488",
@@ -1667,7 +1736,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075489",
@@ -1693,7 +1763,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075490",
@@ -1719,7 +1790,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075491",
@@ -1745,7 +1817,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075492",
@@ -1772,7 +1845,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075492.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075492.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075493",
@@ -1798,7 +1873,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075494",
@@ -1824,7 +1900,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075495",
@@ -1850,7 +1927,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075496",
@@ -1876,7 +1954,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075497",
@@ -1902,7 +1981,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075498",
@@ -1928,7 +2008,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075499",
@@ -1954,7 +2035,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075500",
@@ -1980,7 +2062,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075501",
@@ -2006,7 +2089,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075502",
@@ -2032,7 +2116,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075503",
@@ -2058,7 +2143,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075504",
@@ -2084,7 +2170,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075505",
@@ -2110,7 +2197,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075506",
@@ -2136,7 +2224,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075507",
@@ -2162,7 +2251,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075508",
@@ -2188,7 +2278,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075509",
@@ -2214,7 +2305,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075510",
@@ -2240,7 +2332,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075511",
@@ -2266,7 +2359,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075512",
@@ -2292,7 +2386,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075513",
@@ -2319,7 +2414,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB204836-13075513.webp"
+    "local_preview": "data/basketball/previews/BB204836-13075513.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB204836:13075514",
@@ -2345,7 +2442,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075515",
@@ -2371,7 +2469,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075516",
@@ -2397,7 +2496,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075517",
@@ -2423,7 +2523,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075518",
@@ -2449,7 +2550,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075519",
@@ -2475,7 +2577,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075520",
@@ -2501,7 +2604,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075521",
@@ -2527,7 +2631,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075522",
@@ -2553,7 +2658,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075523",
@@ -2579,7 +2685,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB204836:13075524",
@@ -2605,6 +2712,1399 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB204836:13075701",
+    "set_id": "BB204836",
+    "source_set_id": 204844,
+    "number": "34",
+    "name": "Hassan Whiteside",
+    "original_name": "Hassan Whiteside",
+    "team": "Miami Heat",
+    "rarity": "限编 /1",
+    "sport": "basketball",
+    "basketball_kind": "numbered",
+    "is_rookie": false,
+    "serial_max": 1,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Black",
+    "source_notes": "SN1",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204844/cid/13075701/2018-19-Panini-Mosaic-Prizm-Black-34-Hassan-Whiteside",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204844/204844-13075701Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204844/204844-13075701Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075701.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204844/204844-13075701Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075701.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076396",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "1",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076396/2018-19-Panini-Mosaic-Prizm-Red-1-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076396Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076396Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076396.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076396Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076396.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076405",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "10",
+    "name": "克里斯·保罗",
+    "original_name": "Chris Paul",
+    "team": "Houston Rockets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076405/2018-19-Panini-Mosaic-Prizm-Red-10-Chris-Paul",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076405Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076405Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076405.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076405Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076405.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076417",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "22",
+    "name": "Derrick Rose",
+    "original_name": "Derrick Rose",
+    "team": "Minnesota Timberwolves",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076417/2018-19-Panini-Mosaic-Prizm-Red-22-Derrick-Rose",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076417Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076417Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076417.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076417Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076417.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076418",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "23",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076418/2018-19-Panini-Mosaic-Prizm-Red-23-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076418Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076418Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076418.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076418Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076418.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076444",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "49",
+    "name": "Jusuf Nurkic",
+    "original_name": "Jusuf Nurkic",
+    "team": "Portland Trail Blazers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076444/2018-19-Panini-Mosaic-Prizm-Red-49-Jusuf-Nurkic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076444Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076444Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076444.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076444Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076444.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076448",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "53",
+    "name": "凯文·杜兰特",
+    "original_name": "Kevin Durant",
+    "team": "Golden State Warriors",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076448/2018-19-Panini-Mosaic-Prizm-Red-53-Kevin-Durant",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076448Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076448Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076448.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076448Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076448.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076451",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "56",
+    "name": "Kevin Love",
+    "original_name": "Kevin Love",
+    "team": "Cleveland Cavaliers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076451/2018-19-Panini-Mosaic-Prizm-Red-56-Kevin-Love",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076451Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076451Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076451.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076451Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076451.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076452",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "57",
+    "name": "Klay Thompson",
+    "original_name": "Klay Thompson",
+    "team": "Golden State Warriors",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076452/2018-19-Panini-Mosaic-Prizm-Red-57-Klay-Thompson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076452Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076452Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076452.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076452Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076452.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076486",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "91",
+    "name": "Steven Adams",
+    "original_name": "Steven Adams",
+    "team": "Oklahoma City Thunder",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076486/2018-19-Panini-Mosaic-Prizm-Red-91-Steven-Adams",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076486Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076486Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076486.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076486Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076486.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076490",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "95",
+    "name": "Troy Brown Jr.",
+    "original_name": "Troy Brown Jr.",
+    "team": "Washington Wizards",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076490/2018-19-Panini-Mosaic-Prizm-Red-95-Troy-Brown-Jr.",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076490Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076490Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076490.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076490Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076490.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076492",
+    "set_id": "BB204836",
+    "source_set_id": 204839,
+    "number": "97",
+    "name": "文斯·卡特",
+    "original_name": "Vince Carter",
+    "team": "Atlanta Hawks",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Red",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204839/cid/13076492/2018-19-Panini-Mosaic-Prizm-Red-97-Vince-Carter",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076492Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076492Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076492.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204839/204839-13076492Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076492.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075531",
+    "set_id": "BB204836",
+    "source_set_id": 204845,
+    "number": "MO-CS",
+    "name": "Collin Sexton",
+    "original_name": "Collin Sexton",
+    "team": "Cleveland Cavaliers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Autographs",
+    "source_notes": "AU",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204845/cid/13075531/2018-19-Panini-Mosaic-Prizm-Autographs-MO-CS-Collin-Sexton",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075531Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075531Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075531.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075531Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075531.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075539",
+    "set_id": "BB204836",
+    "source_set_id": 204845,
+    "number": "MO-JT",
+    "name": "杰森·塔图姆",
+    "original_name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Autographs",
+    "source_notes": "AU",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204845/cid/13075539/2018-19-Panini-Mosaic-Prizm-Autographs-MO-JT-Jayson-Tatum",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075539Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075539Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075539.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075539Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075539.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075545",
+    "set_id": "BB204836",
+    "source_set_id": 204845,
+    "number": "MO-KB",
+    "name": "科比·布莱恩特",
+    "original_name": "Kobe Bryant",
+    "team": "Los Angeles Lakers",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Autographs",
+    "source_notes": "AU",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204845/cid/13075545/2018-19-Panini-Mosaic-Prizm-Autographs-MO-KB-Kobe-Bryant",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075545Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075545Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075545.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075545Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075545.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075546",
+    "set_id": "BB204836",
+    "source_set_id": 204845,
+    "number": "MO-KP",
+    "name": "Kristaps Porzingis",
+    "original_name": "Kristaps Porzingis",
+    "team": "New York Knicks",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Autographs",
+    "source_notes": "AU",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204845/cid/13075546/2018-19-Panini-Mosaic-Prizm-Autographs-MO-KP-Kristaps-Porzingis",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075546Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075546Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075546.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075546Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075546.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075553",
+    "set_id": "BB204836",
+    "source_set_id": 204845,
+    "number": "MO-MOB",
+    "name": "Mo Bamba",
+    "original_name": "Mo Bamba",
+    "team": "Orlando Magic",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Autographs",
+    "source_notes": "AU",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204845/cid/13075553/2018-19-Panini-Mosaic-Prizm-Autographs-MO-MOB-Mo-Bamba",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075553Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075553Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075553.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204845/204845-13075553Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075553.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075586",
+    "set_id": "BB204836",
+    "source_set_id": 204846,
+    "number": "MO-MIB",
+    "name": "Mikal Bridges",
+    "original_name": "Mikal Bridges",
+    "team": "Phoenix Suns",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 1,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Autographs Black",
+    "source_notes": "AU, SN1",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204846/cid/13075586/2018-19-Panini-Mosaic-Prizm-Autographs-Black-MO-MIB-Mikal-Bridges",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204846/204846-13075586Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204846/204846-13075586Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075586.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204846/204846-13075586Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075586.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075653",
+    "set_id": "BB204836",
+    "source_set_id": 204848,
+    "number": "MO-LD",
+    "name": "卢卡·东契奇",
+    "original_name": "Luka Doncic",
+    "team": "Dallas Mavericks",
+    "rarity": "签字卡",
+    "sport": "basketball",
+    "basketball_kind": "auto",
+    "is_rookie": false,
+    "serial_max": 5,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Autographs Green",
+    "source_notes": "AU, SN5",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204848/cid/13075653/2018-19-Panini-Mosaic-Prizm-Autographs-Green-MO-LD-Luka-Doncic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204848/204848-13075653Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204848/204848-13075653Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075653.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204848/204848-13075653Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075653.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075772",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "1",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075772/2018-19-Panini-Mosaic-Prizm-Blue-1-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075772Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075772Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075772.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075772Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075772.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075773",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "2",
+    "name": "Andre Drummond",
+    "original_name": "Andre Drummond",
+    "team": "Detroit Pistons",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075773/2018-19-Panini-Mosaic-Prizm-Blue-2-Andre-Drummond",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075773Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075773Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075773.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075773Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075773.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075777",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "6",
+    "name": "Blake Griffin",
+    "original_name": "Blake Griffin",
+    "team": "Detroit Pistons",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075777/2018-19-Panini-Mosaic-Prizm-Blue-6-Blake-Griffin",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075777Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075777Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075777.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075777Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075777.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075782",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "11",
+    "name": "CJ McCollum",
+    "original_name": "CJ McCollum",
+    "team": "Portland Trail Blazers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075782/2018-19-Panini-Mosaic-Prizm-Blue-11-CJ-McCollum",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075782Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075782Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075782.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075782Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075782.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075806",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "35",
+    "name": "贾马尔·穆雷",
+    "original_name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075806/2018-19-Panini-Mosaic-Prizm-Blue-35-Jamal-Murray",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075806Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075806Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075806.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075806Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075806.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075819",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "48",
+    "name": "Jrue Holiday",
+    "original_name": "Jrue Holiday",
+    "team": "New Orleans Pelicans",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075819/2018-19-Panini-Mosaic-Prizm-Blue-48-Jrue-Holiday",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075819Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075819Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075819.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075819Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075819.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075827",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "56",
+    "name": "Kevin Love",
+    "original_name": "Kevin Love",
+    "team": "Cleveland Cavaliers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075827/2018-19-Panini-Mosaic-Prizm-Blue-56-Kevin-Love",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075827Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075827Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075827.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075827Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075827.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075828",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "57",
+    "name": "Klay Thompson",
+    "original_name": "Klay Thompson",
+    "team": "Golden State Warriors",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075828/2018-19-Panini-Mosaic-Prizm-Blue-57-Klay-Thompson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075828Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075828Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075828.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075828Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075828.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075845",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "74",
+    "name": "Mikal Bridges",
+    "original_name": "Mikal Bridges",
+    "team": "Phoenix Suns",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075845/2018-19-Panini-Mosaic-Prizm-Blue-74-Mikal-Bridges",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075845Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075845Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075845.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075845Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075845.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13075858",
+    "set_id": "BB204836",
+    "source_set_id": 204837,
+    "number": "87",
+    "name": "Rudy Gobert",
+    "original_name": "Rudy Gobert",
+    "team": "Utah Jazz",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Blue",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204837/cid/13075858/2018-19-Panini-Mosaic-Prizm-Blue-87-Rudy-Gobert",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075858Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075858Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13075858.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204837/204837-13075858Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13075858.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076084",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "1",
+    "name": "Aaron Gordon",
+    "original_name": "Aaron Gordon",
+    "team": "Orlando Magic",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076084/2018-19-Panini-Mosaic-Prizm-Green-1-Aaron-Gordon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076084Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076084Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076084.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076084Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076084.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076091",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "8",
+    "name": "Buddy Hield",
+    "original_name": "Buddy Hield",
+    "team": "Sacramento Kings",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076091/2018-19-Panini-Mosaic-Prizm-Green-8-Buddy-Hield",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076091Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076091Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076091.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076091Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076091.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076094",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "11",
+    "name": "CJ McCollum",
+    "original_name": "CJ McCollum",
+    "team": "Portland Trail Blazers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076094/2018-19-Panini-Mosaic-Prizm-Green-11-CJ-McCollum",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076094Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076094Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076094.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076094Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076094.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076095",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "12",
+    "name": "Clint Capela",
+    "original_name": "Clint Capela",
+    "team": "Houston Rockets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076095/2018-19-Panini-Mosaic-Prizm-Green-12-Clint-Capela",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076095Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076095Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076095.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076095Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076095.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076106",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "23",
+    "name": "德文·布克",
+    "original_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076106/2018-19-Panini-Mosaic-Prizm-Green-23-Devin-Booker",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076106Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076106Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076106.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076106Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076106.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076109",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "26",
+    "name": "Donte DiVincenzo",
+    "original_name": "Donte DiVincenzo",
+    "team": "Milwaukee Bucks",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076109/2018-19-Panini-Mosaic-Prizm-Green-26-Donte-DiVincenzo",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076109Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076109Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076109.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076109Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076109.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076112",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "29",
+    "name": "Enes Kanter",
+    "original_name": "Enes Kanter",
+    "team": "Portland Trail Blazers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076112/2018-19-Panini-Mosaic-Prizm-Green-29-Enes-Kanter",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076112Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076112Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076112.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076112Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076112.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076114",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "31",
+    "name": "Goran Dragic",
+    "original_name": "Goran Dragic",
+    "team": "Miami Heat",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076114/2018-19-Panini-Mosaic-Prizm-Green-31-Goran-Dragic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076114Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076114Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076114.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076114Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076114.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076132",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "49",
+    "name": "Jusuf Nurkic",
+    "original_name": "Jusuf Nurkic",
+    "team": "Portland Trail Blazers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076132/2018-19-Panini-Mosaic-Prizm-Green-49-Jusuf-Nurkic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076132Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076132Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076132.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076132Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076132.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076133",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "50",
+    "name": "Karl-Anthony Towns",
+    "original_name": "Karl-Anthony Towns",
+    "team": "Minnesota Timberwolves",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076133/2018-19-Panini-Mosaic-Prizm-Green-50-Karl-Anthony-Towns",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076133Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076133Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076133.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076133Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076133.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076137",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "54",
+    "name": "Kevin Huerter",
+    "original_name": "Kevin Huerter",
+    "team": "Atlanta Hawks",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076137/2018-19-Panini-Mosaic-Prizm-Green-54-Kevin-Huerter",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076137Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076137Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076137.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076137Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076137.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076140",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "57",
+    "name": "Klay Thompson",
+    "original_name": "Klay Thompson",
+    "team": "Golden State Warriors",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076140/2018-19-Panini-Mosaic-Prizm-Green-57-Klay-Thompson",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076140Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076140Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076140.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076140Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076140.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076146",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "63",
+    "name": "Landry Shamet",
+    "original_name": "Landry Shamet",
+    "team": "Los Angeles Clippers",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076146/2018-19-Panini-Mosaic-Prizm-Green-63-Landry-Shamet",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076146Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076146Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076146.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076146Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076146.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076149",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "66",
+    "name": "Lonnie Walker IV",
+    "original_name": "Lonnie Walker IV",
+    "team": "San Antonio Spurs",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076149/2018-19-Panini-Mosaic-Prizm-Green-66-Lonnie-Walker-IV",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076149Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076149Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076149.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076149Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076149.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076152",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "69",
+    "name": "Malcolm Brogdon",
+    "original_name": "Malcolm Brogdon",
+    "team": "Milwaukee Bucks",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076152/2018-19-Panini-Mosaic-Prizm-Green-69-Malcolm-Brogdon",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076152Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076152Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076152.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076152Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076152.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076159",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "76",
+    "name": "Miles Bridges",
+    "original_name": "Miles Bridges",
+    "team": "Charlotte Hornets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076159/2018-19-Panini-Mosaic-Prizm-Green-76-Miles-Bridges",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076159Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076159Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076159.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076159Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076159.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076163",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "80",
+    "name": "尼古拉·约基奇",
+    "original_name": "Nikola Jokic",
+    "team": "Denver Nuggets",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076163/2018-19-Panini-Mosaic-Prizm-Green-80-Nikola-Jokic",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076163Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076163Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076163.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076163Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076163.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076166",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "83",
+    "name": "Pascal Siakam",
+    "original_name": "Pascal Siakam",
+    "team": "Toronto Raptors",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076166/2018-19-Panini-Mosaic-Prizm-Green-83-Pascal-Siakam",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076166Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076166Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076166.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076166Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076166.webp",
+    "image_status": "local_verified"
+  },
+  {
+    "id": "BB204836:13076174",
+    "set_id": "BB204836",
+    "source_set_id": 204838,
+    "number": "91",
+    "name": "Steven Adams",
+    "original_name": "Steven Adams",
+    "team": "Oklahoma City Thunder",
+    "rarity": "平行卡",
+    "sport": "basketball",
+    "basketball_kind": "parallel",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "2018-19 Panini Mosaic Prizm - Green",
+    "source_notes": "",
+    "year": 2018,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/204838/cid/13076174/2018-19-Panini-Mosaic-Prizm-Green-91-Steven-Adams",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076174Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076174Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB204836-13076174.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/204838/204838-13076174Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB204836-13076174.webp",
+    "image_status": "local_verified"
   }
 ]

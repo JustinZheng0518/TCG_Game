@@ -22,7 +22,7 @@
     return RARITY_GROUPS.findIndex((entry) => entry.rarities.includes(rarity(card)));
   }
   function tier(card) {
-    if (card.sport === "basketball") return ["auto", "auto_patch", "memorabilia"].includes(card.basketball_kind) || card.serial_max <= 10 && card.serial_max > 0 ? 3 : ["parallel", "insert", "numbered"].includes(card.basketball_kind) ? 2 : card.is_rookie ? 1 : 0;
+    if (card.sport === "basketball") return card.is_chase || ["auto", "auto_patch", "memorabilia"].includes(card.basketball_kind) || card.serial_max <= 10 && card.serial_max > 0 ? 3 : ["parallel", "insert", "numbered"].includes(card.basketball_kind) ? 2 : card.is_rookie ? 1 : 0;
     const rank = group(card);
     if (rank >= 2) return 3;
     if (rank >= 0) return 2;

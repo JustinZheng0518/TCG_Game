@@ -1,0 +1,1681 @@
+{
+  "set_id": "BB354999",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/354999/2022-23-Donruss-Optic",
+  "headings": [
+    "Insert Sets (169)",
+    "Parallel Sets (46)"
+  ],
+  "subset_count": 215,
+  "subsets": [
+    {
+      "source_set_id": 365599,
+      "name": "2022-23 Donruss Optic - All-Stars",
+      "short": "All-Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365599/2022-23-Donruss-Optic-All-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365601,
+      "name": "2022-23 Donruss Optic - All-Stars Blue",
+      "short": "All-Stars Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365601/2022-23-Donruss-Optic-All-Stars-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365602,
+      "name": "2022-23 Donruss Optic - All-Stars Gold",
+      "short": "All-Stars Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365602/2022-23-Donruss-Optic-All-Stars-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365604,
+      "name": "2022-23 Donruss Optic - All-Stars Gold Vinyl",
+      "short": "All-Stars Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365604/2022-23-Donruss-Optic-All-Stars-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365606,
+      "name": "2022-23 Donruss Optic - All-Stars Gold Wave",
+      "short": "All-Stars Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365606/2022-23-Donruss-Optic-All-Stars-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365607,
+      "name": "2022-23 Donruss Optic - All-Stars Green",
+      "short": "All-Stars Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365607/2022-23-Donruss-Optic-All-Stars-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365608,
+      "name": "2022-23 Donruss Optic - All-Stars Holo",
+      "short": "All-Stars Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365608/2022-23-Donruss-Optic-All-Stars-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365609,
+      "name": "2022-23 Donruss Optic - All-Stars Holo Fast Break",
+      "short": "All-Stars Holo Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365609/2022-23-Donruss-Optic-All-Stars-Holo-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365610,
+      "name": "2022-23 Donruss Optic - All-Stars Red",
+      "short": "All-Stars Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365610/2022-23-Donruss-Optic-All-Stars-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365612,
+      "name": "2022-23 Donruss Optic - All-Stars Red & Gold Wave",
+      "short": "All-Stars Red & Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365612/2022-23-Donruss-Optic-All-Stars-Red-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365613,
+      "name": "2022-23 Donruss Optic - All-Stars Red Wave",
+      "short": "All-Stars Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365613/2022-23-Donruss-Optic-All-Stars-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365821,
+      "name": "2022-23 Donruss Optic - Dominators Signatures",
+      "short": "Dominators Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365821/2022-23-Donruss-Optic-Dominators-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365822,
+      "name": "2022-23 Donruss Optic - Dominators Signatures Gold",
+      "short": "Dominators Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365822/2022-23-Donruss-Optic-Dominators-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365823,
+      "name": "2022-23 Donruss Optic - Dominators Signatures Gold Vinyl",
+      "short": "Dominators Signatures Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365823/2022-23-Donruss-Optic-Dominators-Signatures-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365712,
+      "name": "2022-23 Donruss Optic - Elite Dominators",
+      "short": "Elite Dominators",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365712/2022-23-Donruss-Optic-Elite-Dominators",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365713,
+      "name": "2022-23 Donruss Optic - Elite Dominators Blue",
+      "short": "Elite Dominators Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365713/2022-23-Donruss-Optic-Elite-Dominators-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365714,
+      "name": "2022-23 Donruss Optic - Elite Dominators Gold",
+      "short": "Elite Dominators Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365714/2022-23-Donruss-Optic-Elite-Dominators-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365715,
+      "name": "2022-23 Donruss Optic - Elite Dominators Gold Vinyl",
+      "short": "Elite Dominators Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365715/2022-23-Donruss-Optic-Elite-Dominators-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365716,
+      "name": "2022-23 Donruss Optic - Elite Dominators Gold Wave",
+      "short": "Elite Dominators Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365716/2022-23-Donruss-Optic-Elite-Dominators-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365717,
+      "name": "2022-23 Donruss Optic - Elite Dominators Green",
+      "short": "Elite Dominators Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365717/2022-23-Donruss-Optic-Elite-Dominators-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365718,
+      "name": "2022-23 Donruss Optic - Elite Dominators Holo",
+      "short": "Elite Dominators Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365718/2022-23-Donruss-Optic-Elite-Dominators-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365719,
+      "name": "2022-23 Donruss Optic - Elite Dominators Holo Fast Break",
+      "short": "Elite Dominators Holo Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365719/2022-23-Donruss-Optic-Elite-Dominators-Holo-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365720,
+      "name": "2022-23 Donruss Optic - Elite Dominators Red",
+      "short": "Elite Dominators Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365720/2022-23-Donruss-Optic-Elite-Dominators-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365721,
+      "name": "2022-23 Donruss Optic - Elite Dominators Red & Gold Wave",
+      "short": "Elite Dominators Red & Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365721/2022-23-Donruss-Optic-Elite-Dominators-Red-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365722,
+      "name": "2022-23 Donruss Optic - Elite Dominators Red Wave",
+      "short": "Elite Dominators Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365722/2022-23-Donruss-Optic-Elite-Dominators-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365824,
+      "name": "2022-23 Donruss Optic - Express Lane",
+      "short": "Express Lane",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365824/2022-23-Donruss-Optic-Express-Lane",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365825,
+      "name": "2022-23 Donruss Optic - Express Lane Black",
+      "short": "Express Lane Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365825/2022-23-Donruss-Optic-Express-Lane-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365826,
+      "name": "2022-23 Donruss Optic - Express Lane Blue",
+      "short": "Express Lane Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365826/2022-23-Donruss-Optic-Express-Lane-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365827,
+      "name": "2022-23 Donruss Optic - Express Lane Gold",
+      "short": "Express Lane Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365827/2022-23-Donruss-Optic-Express-Lane-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365828,
+      "name": "2022-23 Donruss Optic - Express Lane Green Shock",
+      "short": "Express Lane Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365828/2022-23-Donruss-Optic-Express-Lane-Green-Shock",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365829,
+      "name": "2022-23 Donruss Optic - Express Lane Holo",
+      "short": "Express Lane Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365829/2022-23-Donruss-Optic-Express-Lane-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365830,
+      "name": "2022-23 Donruss Optic - Express Lane Lime Green",
+      "short": "Express Lane Lime Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365830/2022-23-Donruss-Optic-Express-Lane-Lime-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365831,
+      "name": "2022-23 Donruss Optic - Express Lane Purple",
+      "short": "Express Lane Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365831/2022-23-Donruss-Optic-Express-Lane-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365832,
+      "name": "2022-23 Donruss Optic - Fast Break Signatures",
+      "short": "Fast Break Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365832/2022-23-Donruss-Optic-Fast-Break-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365833,
+      "name": "2022-23 Donruss Optic - Fast Break Signatures Black",
+      "short": "Fast Break Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365833/2022-23-Donruss-Optic-Fast-Break-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365834,
+      "name": "2022-23 Donruss Optic - Fast Break Signatures Gold",
+      "short": "Fast Break Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365834/2022-23-Donruss-Optic-Fast-Break-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365835,
+      "name": "2022-23 Donruss Optic - Lights Out",
+      "short": "Lights Out",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365835/2022-23-Donruss-Optic-Lights-Out",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365836,
+      "name": "2022-23 Donruss Optic - Lights Out Blue",
+      "short": "Lights Out Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365836/2022-23-Donruss-Optic-Lights-Out-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365837,
+      "name": "2022-23 Donruss Optic - Lights Out Gold",
+      "short": "Lights Out Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365837/2022-23-Donruss-Optic-Lights-Out-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365838,
+      "name": "2022-23 Donruss Optic - Lights Out Gold Vinyl",
+      "short": "Lights Out Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365838/2022-23-Donruss-Optic-Lights-Out-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365839,
+      "name": "2022-23 Donruss Optic - Lights Out Gold Wave",
+      "short": "Lights Out Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365839/2022-23-Donruss-Optic-Lights-Out-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365840,
+      "name": "2022-23 Donruss Optic - Lights Out Green",
+      "short": "Lights Out Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365840/2022-23-Donruss-Optic-Lights-Out-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365841,
+      "name": "2022-23 Donruss Optic - Lights Out Holo",
+      "short": "Lights Out Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365841/2022-23-Donruss-Optic-Lights-Out-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365842,
+      "name": "2022-23 Donruss Optic - Lights Out Holo Fast Break",
+      "short": "Lights Out Holo Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365842/2022-23-Donruss-Optic-Lights-Out-Holo-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365843,
+      "name": "2022-23 Donruss Optic - Lights Out Red",
+      "short": "Lights Out Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365843/2022-23-Donruss-Optic-Lights-Out-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365845,
+      "name": "2022-23 Donruss Optic - Lights Out Red Wave",
+      "short": "Lights Out Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365845/2022-23-Donruss-Optic-Lights-Out-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365844,
+      "name": "2022-23 Donruss Optic - Lights Out Red and Gold Wave",
+      "short": "Lights Out Red and Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365844/2022-23-Donruss-Optic-Lights-Out-Red-and-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365846,
+      "name": "2022-23 Donruss Optic - My House",
+      "short": "My House",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365846/2022-23-Donruss-Optic-My-House",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365847,
+      "name": "2022-23 Donruss Optic - My House Black",
+      "short": "My House Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365847/2022-23-Donruss-Optic-My-House-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365848,
+      "name": "2022-23 Donruss Optic - My House Blue",
+      "short": "My House Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365848/2022-23-Donruss-Optic-My-House-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365849,
+      "name": "2022-23 Donruss Optic - My House Gold",
+      "short": "My House Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365849/2022-23-Donruss-Optic-My-House-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365850,
+      "name": "2022-23 Donruss Optic - My House Green Shock",
+      "short": "My House Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365850/2022-23-Donruss-Optic-My-House-Green-Shock",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365851,
+      "name": "2022-23 Donruss Optic - My House Holo",
+      "short": "My House Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365851/2022-23-Donruss-Optic-My-House-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365852,
+      "name": "2022-23 Donruss Optic - My House Lime Green",
+      "short": "My House Lime Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365852/2022-23-Donruss-Optic-My-House-Lime-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365853,
+      "name": "2022-23 Donruss Optic - My House Purple",
+      "short": "My House Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365853/2022-23-Donruss-Optic-My-House-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365862,
+      "name": "2022-23 Donruss Optic - Opti-Graphs",
+      "short": "Opti-Graphs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365862/2022-23-Donruss-Optic-Opti-Graphs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365863,
+      "name": "2022-23 Donruss Optic - Opti-Graphs Choice",
+      "short": "Opti-Graphs Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365863/2022-23-Donruss-Optic-Opti-Graphs-Choice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365864,
+      "name": "2022-23 Donruss Optic - Opti-Graphs Choice Black Gold",
+      "short": "Opti-Graphs Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365864/2022-23-Donruss-Optic-Opti-Graphs-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365865,
+      "name": "2022-23 Donruss Optic - Opti-Graphs Gold",
+      "short": "Opti-Graphs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365865/2022-23-Donruss-Optic-Opti-Graphs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365866,
+      "name": "2022-23 Donruss Optic - Opti-Graphs Gold Vinyl",
+      "short": "Opti-Graphs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365866/2022-23-Donruss-Optic-Opti-Graphs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365867,
+      "name": "2022-23 Donruss Optic - Opti-Graphs Green Wave",
+      "short": "Opti-Graphs Green Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365867/2022-23-Donruss-Optic-Opti-Graphs-Green-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365854,
+      "name": "2022-23 Donruss Optic - Optical Illusions",
+      "short": "Optical Illusions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365854/2022-23-Donruss-Optic-Optical-Illusions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365855,
+      "name": "2022-23 Donruss Optic - Optical Illusions Black",
+      "short": "Optical Illusions Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365855/2022-23-Donruss-Optic-Optical-Illusions-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365856,
+      "name": "2022-23 Donruss Optic - Optical Illusions Blue",
+      "short": "Optical Illusions Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365856/2022-23-Donruss-Optic-Optical-Illusions-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365857,
+      "name": "2022-23 Donruss Optic - Optical Illusions Gold",
+      "short": "Optical Illusions Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365857/2022-23-Donruss-Optic-Optical-Illusions-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365858,
+      "name": "2022-23 Donruss Optic - Optical Illusions Green Shock",
+      "short": "Optical Illusions Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365858/2022-23-Donruss-Optic-Optical-Illusions-Green-Shock",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365859,
+      "name": "2022-23 Donruss Optic - Optical Illusions Holo",
+      "short": "Optical Illusions Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365859/2022-23-Donruss-Optic-Optical-Illusions-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365860,
+      "name": "2022-23 Donruss Optic - Optical Illusions Lime Green",
+      "short": "Optical Illusions Lime Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365860/2022-23-Donruss-Optic-Optical-Illusions-Lime-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365861,
+      "name": "2022-23 Donruss Optic - Optical Illusions Purple",
+      "short": "Optical Illusions Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365861/2022-23-Donruss-Optic-Optical-Illusions-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365868,
+      "name": "2022-23 Donruss Optic - Raining 3s",
+      "short": "Raining 3s",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365868/2022-23-Donruss-Optic-Raining-3s",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365869,
+      "name": "2022-23 Donruss Optic - Raining 3s Blue",
+      "short": "Raining 3s Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365869/2022-23-Donruss-Optic-Raining-3s-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365870,
+      "name": "2022-23 Donruss Optic - Raining 3s Gold",
+      "short": "Raining 3s Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365870/2022-23-Donruss-Optic-Raining-3s-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365871,
+      "name": "2022-23 Donruss Optic - Raining 3s Gold Vinyl",
+      "short": "Raining 3s Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365871/2022-23-Donruss-Optic-Raining-3s-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365872,
+      "name": "2022-23 Donruss Optic - Raining 3s Gold Wave",
+      "short": "Raining 3s Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365872/2022-23-Donruss-Optic-Raining-3s-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365873,
+      "name": "2022-23 Donruss Optic - Raining 3s Green",
+      "short": "Raining 3s Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365873/2022-23-Donruss-Optic-Raining-3s-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365874,
+      "name": "2022-23 Donruss Optic - Raining 3s Holo",
+      "short": "Raining 3s Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365874/2022-23-Donruss-Optic-Raining-3s-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365875,
+      "name": "2022-23 Donruss Optic - Raining 3s Holo Fast Break",
+      "short": "Raining 3s Holo Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365875/2022-23-Donruss-Optic-Raining-3s-Holo-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365876,
+      "name": "2022-23 Donruss Optic - Raining 3s Red",
+      "short": "Raining 3s Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365876/2022-23-Donruss-Optic-Raining-3s-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365878,
+      "name": "2022-23 Donruss Optic - Raining 3s Red Wave",
+      "short": "Raining 3s Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365878/2022-23-Donruss-Optic-Raining-3s-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365877,
+      "name": "2022-23 Donruss Optic - Raining 3s Red and Gold Wave",
+      "short": "Raining 3s Red and Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365877/2022-23-Donruss-Optic-Raining-3s-Red-and-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365885,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures",
+      "short": "Rated Rookies Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365885/2022-23-Donruss-Optic-Rated-Rookies-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365879,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Black",
+      "short": "Rated Rookies Signatures Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365879/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365886,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Black Pandora",
+      "short": "Rated Rookies Signatures Black Pandora",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365886/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Black-Pandora",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365887,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Blue",
+      "short": "Rated Rookies Signatures Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365887/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365880,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Checkerboard",
+      "short": "Rated Rookies Signatures Checkerboard",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365880/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Checkerboard",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365888,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Choice",
+      "short": "Rated Rookies Signatures Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365888/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Choice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365889,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Choice Black Gold",
+      "short": "Rated Rookies Signatures Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365889/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365881,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Fast Break",
+      "short": "Rated Rookies Signatures Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365881/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365882,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Fast Break Black",
+      "short": "Rated Rookies Signatures Fast Break Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365882/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Fast-Break-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365883,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Fast Break Pink",
+      "short": "Rated Rookies Signatures Fast Break Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365883/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Fast-Break-Pink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365890,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Gold",
+      "short": "Rated Rookies Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365890/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365891,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Gold Vinyl",
+      "short": "Rated Rookies Signatures Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365891/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365892,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Green",
+      "short": "Rated Rookies Signatures Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365892/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365893,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Holo",
+      "short": "Rated Rookies Signatures Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365893/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365894,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Premium Box Set",
+      "short": "Rated Rookies Signatures Premium Box Set",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365894/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Premium-Box-Set",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365884,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Purple",
+      "short": "Rated Rookies Signatures Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365884/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365895,
+      "name": "2022-23 Donruss Optic - Rated Rookies Signatures Purple Stars",
+      "short": "Rated Rookies Signatures Purple Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365895/2022-23-Donruss-Optic-Rated-Rookies-Signatures-Purple-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365896,
+      "name": "2022-23 Donruss Optic - Retro Series Signatures",
+      "short": "Retro Series Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365896/2022-23-Donruss-Optic-Retro-Series-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365897,
+      "name": "2022-23 Donruss Optic - Retro Series Signatures Choice",
+      "short": "Retro Series Signatures Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365897/2022-23-Donruss-Optic-Retro-Series-Signatures-Choice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365898,
+      "name": "2022-23 Donruss Optic - Retro Series Signatures Choice Black Gold",
+      "short": "Retro Series Signatures Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365898/2022-23-Donruss-Optic-Retro-Series-Signatures-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365899,
+      "name": "2022-23 Donruss Optic - Retro Series Signatures Gold",
+      "short": "Retro Series Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365899/2022-23-Donruss-Optic-Retro-Series-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365900,
+      "name": "2022-23 Donruss Optic - Retro Series Signatures Gold Vinyl",
+      "short": "Retro Series Signatures Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365900/2022-23-Donruss-Optic-Retro-Series-Signatures-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365901,
+      "name": "2022-23 Donruss Optic - Retro Series Signatures Green Wave",
+      "short": "Retro Series Signatures Green Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365901/2022-23-Donruss-Optic-Retro-Series-Signatures-Green-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365902,
+      "name": "2022-23 Donruss Optic - Rookie Dominators Signatures",
+      "short": "Rookie Dominators Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365902/2022-23-Donruss-Optic-Rookie-Dominators-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365903,
+      "name": "2022-23 Donruss Optic - Rookie Dominators Signatures Gold",
+      "short": "Rookie Dominators Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365903/2022-23-Donruss-Optic-Rookie-Dominators-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365904,
+      "name": "2022-23 Donruss Optic - Rookie Dominators Signatures Gold Vinyl",
+      "short": "Rookie Dominators Signatures Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365904/2022-23-Donruss-Optic-Rookie-Dominators-Signatures-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365905,
+      "name": "2022-23 Donruss Optic - Rookie Optics Autographs",
+      "short": "Rookie Optics Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365905/2022-23-Donruss-Optic-Rookie-Optics-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365906,
+      "name": "2022-23 Donruss Optic - Rookie Optics Autographs Choice",
+      "short": "Rookie Optics Autographs Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365906/2022-23-Donruss-Optic-Rookie-Optics-Autographs-Choice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365907,
+      "name": "2022-23 Donruss Optic - Rookie Optics Autographs Choice Black Gold",
+      "short": "Rookie Optics Autographs Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365907/2022-23-Donruss-Optic-Rookie-Optics-Autographs-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365908,
+      "name": "2022-23 Donruss Optic - Rookie Optics Autographs Gold",
+      "short": "Rookie Optics Autographs Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365908/2022-23-Donruss-Optic-Rookie-Optics-Autographs-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365909,
+      "name": "2022-23 Donruss Optic - Rookie Optics Autographs Gold Vinyl",
+      "short": "Rookie Optics Autographs Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365909/2022-23-Donruss-Optic-Rookie-Optics-Autographs-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365910,
+      "name": "2022-23 Donruss Optic - Rookie Optics Autographs Green Wave",
+      "short": "Rookie Optics Autographs Green Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365910/2022-23-Donruss-Optic-Rookie-Optics-Autographs-Green-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365911,
+      "name": "2022-23 Donruss Optic - Signature Series",
+      "short": "Signature Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365911/2022-23-Donruss-Optic-Signature-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365912,
+      "name": "2022-23 Donruss Optic - Signature Series Black",
+      "short": "Signature Series Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365912/2022-23-Donruss-Optic-Signature-Series-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365913,
+      "name": "2022-23 Donruss Optic - Signature Series Blue",
+      "short": "Signature Series Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365913/2022-23-Donruss-Optic-Signature-Series-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365914,
+      "name": "2022-23 Donruss Optic - Signature Series Checkerboard",
+      "short": "Signature Series Checkerboard",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365914/2022-23-Donruss-Optic-Signature-Series-Checkerboard",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365915,
+      "name": "2022-23 Donruss Optic - Signature Series Gold",
+      "short": "Signature Series Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365915/2022-23-Donruss-Optic-Signature-Series-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365916,
+      "name": "2022-23 Donruss Optic - Signature Series Green",
+      "short": "Signature Series Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365916/2022-23-Donruss-Optic-Signature-Series-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365917,
+      "name": "2022-23 Donruss Optic - Signature Series Green Shock",
+      "short": "Signature Series Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365917/2022-23-Donruss-Optic-Signature-Series-Green-Shock",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365918,
+      "name": "2022-23 Donruss Optic - Signature Series Holo",
+      "short": "Signature Series Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365918/2022-23-Donruss-Optic-Signature-Series-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365919,
+      "name": "2022-23 Donruss Optic - Splash!",
+      "short": "Splash!",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365919/2022-23-Donruss-Optic-Splash-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365920,
+      "name": "2022-23 Donruss Optic - Splash! Black",
+      "short": "Splash! Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365920/2022-23-Donruss-Optic-Splash-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365921,
+      "name": "2022-23 Donruss Optic - Splash! Blue",
+      "short": "Splash! Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365921/2022-23-Donruss-Optic-Splash-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365922,
+      "name": "2022-23 Donruss Optic - Splash! Gold",
+      "short": "Splash! Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365922/2022-23-Donruss-Optic-Splash-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365923,
+      "name": "2022-23 Donruss Optic - Splash! Green Shock",
+      "short": "Splash! Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365923/2022-23-Donruss-Optic-Splash-Green-Shock",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365924,
+      "name": "2022-23 Donruss Optic - Splash! Holo",
+      "short": "Splash! Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365924/2022-23-Donruss-Optic-Splash-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365925,
+      "name": "2022-23 Donruss Optic - Splash! Lime Green",
+      "short": "Splash! Lime Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365925/2022-23-Donruss-Optic-Splash-Lime-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365926,
+      "name": "2022-23 Donruss Optic - Splash! Purple",
+      "short": "Splash! Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365926/2022-23-Donruss-Optic-Splash-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365927,
+      "name": "2022-23 Donruss Optic - Star Gazing",
+      "short": "Star Gazing",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365927/2022-23-Donruss-Optic-Star-Gazing",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365928,
+      "name": "2022-23 Donruss Optic - Star Gazing Blue",
+      "short": "Star Gazing Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365928/2022-23-Donruss-Optic-Star-Gazing-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365929,
+      "name": "2022-23 Donruss Optic - Star Gazing Gold",
+      "short": "Star Gazing Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365929/2022-23-Donruss-Optic-Star-Gazing-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365930,
+      "name": "2022-23 Donruss Optic - Star Gazing Gold Vinyl",
+      "short": "Star Gazing Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365930/2022-23-Donruss-Optic-Star-Gazing-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365931,
+      "name": "2022-23 Donruss Optic - Star Gazing Gold Wave",
+      "short": "Star Gazing Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365931/2022-23-Donruss-Optic-Star-Gazing-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365932,
+      "name": "2022-23 Donruss Optic - Star Gazing Green",
+      "short": "Star Gazing Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365932/2022-23-Donruss-Optic-Star-Gazing-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365933,
+      "name": "2022-23 Donruss Optic - Star Gazing Holo",
+      "short": "Star Gazing Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365933/2022-23-Donruss-Optic-Star-Gazing-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365934,
+      "name": "2022-23 Donruss Optic - Star Gazing Holo Fast Break",
+      "short": "Star Gazing Holo Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365934/2022-23-Donruss-Optic-Star-Gazing-Holo-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365935,
+      "name": "2022-23 Donruss Optic - Star Gazing Red",
+      "short": "Star Gazing Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365935/2022-23-Donruss-Optic-Star-Gazing-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365937,
+      "name": "2022-23 Donruss Optic - Star Gazing Red Wave",
+      "short": "Star Gazing Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365937/2022-23-Donruss-Optic-Star-Gazing-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365936,
+      "name": "2022-23 Donruss Optic - Star Gazing Red and Gold Wave",
+      "short": "Star Gazing Red and Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365936/2022-23-Donruss-Optic-Star-Gazing-Red-and-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365952,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1...",
+      "short": "T-Minus 3...2...1...",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365952/2022-23-Donruss-Optic-T-Minus-3-2-1-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365953,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1... Black",
+      "short": "T-Minus 3...2...1... Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365953/2022-23-Donruss-Optic-T-Minus-3-2-1-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365954,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1... Blue",
+      "short": "T-Minus 3...2...1... Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365954/2022-23-Donruss-Optic-T-Minus-3-2-1-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365955,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1... Gold",
+      "short": "T-Minus 3...2...1... Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365955/2022-23-Donruss-Optic-T-Minus-3-2-1-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365959,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1... Green Shock",
+      "short": "T-Minus 3...2...1... Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365959/2022-23-Donruss-Optic-T-Minus-3-2-1-Green-Shock",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365956,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1... Holo",
+      "short": "T-Minus 3...2...1... Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365956/2022-23-Donruss-Optic-T-Minus-3-2-1-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365957,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1... Lime Green",
+      "short": "T-Minus 3...2...1... Lime Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365957/2022-23-Donruss-Optic-T-Minus-3-2-1-Lime-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365958,
+      "name": "2022-23 Donruss Optic - T-Minus 3...2...1... Purple",
+      "short": "T-Minus 3...2...1... Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365958/2022-23-Donruss-Optic-T-Minus-3-2-1-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365938,
+      "name": "2022-23 Donruss Optic - The Elite Series Signatures",
+      "short": "The Elite Series Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365938/2022-23-Donruss-Optic-The-Elite-Series-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365939,
+      "name": "2022-23 Donruss Optic - The Elite Series Signatures Gold",
+      "short": "The Elite Series Signatures Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365939/2022-23-Donruss-Optic-The-Elite-Series-Signatures-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365940,
+      "name": "2022-23 Donruss Optic - The Elite Series Signatures Gold Vinyl",
+      "short": "The Elite Series Signatures Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365940/2022-23-Donruss-Optic-The-Elite-Series-Signatures-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365941,
+      "name": "2022-23 Donruss Optic - The Rookies",
+      "short": "The Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365941/2022-23-Donruss-Optic-The-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365942,
+      "name": "2022-23 Donruss Optic - The Rookies Blue",
+      "short": "The Rookies Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365942/2022-23-Donruss-Optic-The-Rookies-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365943,
+      "name": "2022-23 Donruss Optic - The Rookies Gold",
+      "short": "The Rookies Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365943/2022-23-Donruss-Optic-The-Rookies-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365944,
+      "name": "2022-23 Donruss Optic - The Rookies Gold Vinyl",
+      "short": "The Rookies Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365944/2022-23-Donruss-Optic-The-Rookies-Gold-Vinyl",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365945,
+      "name": "2022-23 Donruss Optic - The Rookies Gold Wave",
+      "short": "The Rookies Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365945/2022-23-Donruss-Optic-The-Rookies-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365946,
+      "name": "2022-23 Donruss Optic - The Rookies Green",
+      "short": "The Rookies Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365946/2022-23-Donruss-Optic-The-Rookies-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365947,
+      "name": "2022-23 Donruss Optic - The Rookies Holo",
+      "short": "The Rookies Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365947/2022-23-Donruss-Optic-The-Rookies-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365948,
+      "name": "2022-23 Donruss Optic - The Rookies Holo Fast Break",
+      "short": "The Rookies Holo Fast Break",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365948/2022-23-Donruss-Optic-The-Rookies-Holo-Fast-Break",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365949,
+      "name": "2022-23 Donruss Optic - The Rookies Red",
+      "short": "The Rookies Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365949/2022-23-Donruss-Optic-The-Rookies-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365951,
+      "name": "2022-23 Donruss Optic - The Rookies Red Wave",
+      "short": "The Rookies Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365951/2022-23-Donruss-Optic-The-Rookies-Red-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365950,
+      "name": "2022-23 Donruss Optic - The Rookies Red and Gold Wave",
+      "short": "The Rookies Red and Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365950/2022-23-Donruss-Optic-The-Rookies-Red-and-Gold-Wave",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365960,
+      "name": "2022-23 Donruss Optic - Winner Stays",
+      "short": "Winner Stays",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365960/2022-23-Donruss-Optic-Winner-Stays",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365961,
+      "name": "2022-23 Donruss Optic - Winner Stays Black",
+      "short": "Winner Stays Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365961/2022-23-Donruss-Optic-Winner-Stays-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365962,
+      "name": "2022-23 Donruss Optic - Winner Stays Blue",
+      "short": "Winner Stays Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365962/2022-23-Donruss-Optic-Winner-Stays-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365963,
+      "name": "2022-23 Donruss Optic - Winner Stays Gold",
+      "short": "Winner Stays Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365963/2022-23-Donruss-Optic-Winner-Stays-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365964,
+      "name": "2022-23 Donruss Optic - Winner Stays Green Shock",
+      "short": "Winner Stays Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365964/2022-23-Donruss-Optic-Winner-Stays-Green-Shock",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365965,
+      "name": "2022-23 Donruss Optic - Winner Stays Holo",
+      "short": "Winner Stays Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365965/2022-23-Donruss-Optic-Winner-Stays-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365966,
+      "name": "2022-23 Donruss Optic - Winner Stays Lime Green",
+      "short": "Winner Stays Lime Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365966/2022-23-Donruss-Optic-Winner-Stays-Lime-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365967,
+      "name": "2022-23 Donruss Optic - Winner Stays Purple",
+      "short": "Winner Stays Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365967/2022-23-Donruss-Optic-Winner-Stays-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 365624,
+      "name": "2022-23 Donruss Optic - Basketball",
+      "short": "Basketball",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365624/2022-23-Donruss-Optic-Basketball",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365642,
+      "name": "2022-23 Donruss Optic - Black",
+      "short": "Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365642/2022-23-Donruss-Optic-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365643,
+      "name": "2022-23 Donruss Optic - Black Velocity",
+      "short": "Black Velocity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365643/2022-23-Donruss-Optic-Black-Velocity",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365644,
+      "name": "2022-23 Donruss Optic - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365644/2022-23-Donruss-Optic-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365645,
+      "name": "2022-23 Donruss Optic - Blue Sparkle",
+      "short": "Blue Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365645/2022-23-Donruss-Optic-Blue-Sparkle",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365641,
+      "name": "2022-23 Donruss Optic - Checkerboard",
+      "short": "Checkerboard",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365641/2022-23-Donruss-Optic-Checkerboard",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365655,
+      "name": "2022-23 Donruss Optic - Choice",
+      "short": "Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365655/2022-23-Donruss-Optic-Choice",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365654,
+      "name": "2022-23 Donruss Optic - Choice Black Gold",
+      "short": "Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365654/2022-23-Donruss-Optic-Choice-Black-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365656,
+      "name": "2022-23 Donruss Optic - Choice Blue Mojo",
+      "short": "Choice Blue Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365656/2022-23-Donruss-Optic-Choice-Blue-Mojo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365657,
+      "name": "2022-23 Donruss Optic - Choice Dragon",
+      "short": "Choice Dragon",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365657/2022-23-Donruss-Optic-Choice-Dragon",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365658,
+      "name": "2022-23 Donruss Optic - Choice Nebula",
+      "short": "Choice Nebula",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365658/2022-23-Donruss-Optic-Choice-Nebula",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365659,
+      "name": "2022-23 Donruss Optic - Choice Red",
+      "short": "Choice Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365659/2022-23-Donruss-Optic-Choice-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365660,
+      "name": "2022-23 Donruss Optic - Choice Red & Green",
+      "short": "Choice Red & Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365660/2022-23-Donruss-Optic-Choice-Red-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365661,
+      "name": "2022-23 Donruss Optic - Copper Glitter",
+      "short": "Copper Glitter",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365661/2022-23-Donruss-Optic-Copper-Glitter",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365662,
+      "name": "2022-23 Donruss Optic - Fast Break Black",
+      "short": "Fast Break Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365662/2022-23-Donruss-Optic-Fast-Break-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365663,
+      "name": "2022-23 Donruss Optic - Fast Break Blue",
+      "short": "Fast Break Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365663/2022-23-Donruss-Optic-Fast-Break-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365664,
+      "name": "2022-23 Donruss Optic - Fast Break Gold",
+      "short": "Fast Break Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365664/2022-23-Donruss-Optic-Fast-Break-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365665,
+      "name": "2022-23 Donruss Optic - Fast Break Holo",
+      "short": "Fast Break Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365665/2022-23-Donruss-Optic-Fast-Break-Holo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365666,
+      "name": "2022-23 Donruss Optic - Fast Break Pink",
+      "short": "Fast Break Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365666/2022-23-Donruss-Optic-Fast-Break-Pink",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365667,
+      "name": "2022-23 Donruss Optic - Fast Break Purple",
+      "short": "Fast Break Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365667/2022-23-Donruss-Optic-Fast-Break-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365668,
+      "name": "2022-23 Donruss Optic - Fast Break Red",
+      "short": "Fast Break Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365668/2022-23-Donruss-Optic-Fast-Break-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365669,
+      "name": "2022-23 Donruss Optic - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365669/2022-23-Donruss-Optic-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365671,
+      "name": "2022-23 Donruss Optic - Gold Sparkle",
+      "short": "Gold Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365671/2022-23-Donruss-Optic-Gold-Sparkle",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365670,
+      "name": "2022-23 Donruss Optic - Gold Vinyl",
+      "short": "Gold Vinyl",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365670/2022-23-Donruss-Optic-Gold-Vinyl",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365672,
+      "name": "2022-23 Donruss Optic - Gold Wave",
+      "short": "Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365672/2022-23-Donruss-Optic-Gold-Wave",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365679,
+      "name": "2022-23 Donruss Optic - Green",
+      "short": "Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365679/2022-23-Donruss-Optic-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365680,
+      "name": "2022-23 Donruss Optic - Green Shock",
+      "short": "Green Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365680/2022-23-Donruss-Optic-Green-Shock",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365681,
+      "name": "2022-23 Donruss Optic - Green Sparkle",
+      "short": "Green Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365681/2022-23-Donruss-Optic-Green-Sparkle",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365682,
+      "name": "2022-23 Donruss Optic - Holo",
+      "short": "Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365682/2022-23-Donruss-Optic-Holo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365683,
+      "name": "2022-23 Donruss Optic - Hyper Green",
+      "short": "Hyper Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365683/2022-23-Donruss-Optic-Hyper-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365684,
+      "name": "2022-23 Donruss Optic - Hyper Pink",
+      "short": "Hyper Pink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365684/2022-23-Donruss-Optic-Hyper-Pink",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365685,
+      "name": "2022-23 Donruss Optic - Lime Green",
+      "short": "Lime Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365685/2022-23-Donruss-Optic-Lime-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365686,
+      "name": "2022-23 Donruss Optic - Lucky Envelopes",
+      "short": "Lucky Envelopes",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365686/2022-23-Donruss-Optic-Lucky-Envelopes",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365687,
+      "name": "2022-23 Donruss Optic - Orange",
+      "short": "Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365687/2022-23-Donruss-Optic-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365688,
+      "name": "2022-23 Donruss Optic - Photon",
+      "short": "Photon",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365688/2022-23-Donruss-Optic-Photon",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365689,
+      "name": "2022-23 Donruss Optic - Pink Velocity",
+      "short": "Pink Velocity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365689/2022-23-Donruss-Optic-Pink-Velocity",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365691,
+      "name": "2022-23 Donruss Optic - Premium",
+      "short": "Premium",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365691/2022-23-Donruss-Optic-Premium",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365692,
+      "name": "2022-23 Donruss Optic - Purple",
+      "short": "Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365692/2022-23-Donruss-Optic-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365693,
+      "name": "2022-23 Donruss Optic - Purple Shock",
+      "short": "Purple Shock",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365693/2022-23-Donruss-Optic-Purple-Shock",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365694,
+      "name": "2022-23 Donruss Optic - Purple Stars",
+      "short": "Purple Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365694/2022-23-Donruss-Optic-Purple-Stars",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365695,
+      "name": "2022-23 Donruss Optic - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365695/2022-23-Donruss-Optic-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365696,
+      "name": "2022-23 Donruss Optic - Red & Gold Wave",
+      "short": "Red & Gold Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365696/2022-23-Donruss-Optic-Red-Gold-Wave",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365697,
+      "name": "2022-23 Donruss Optic - Red Sparkle",
+      "short": "Red Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365697/2022-23-Donruss-Optic-Red-Sparkle",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365698,
+      "name": "2022-23 Donruss Optic - Red Wave",
+      "short": "Red Wave",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365698/2022-23-Donruss-Optic-Red-Wave",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365699,
+      "name": "2022-23 Donruss Optic - Two Tone",
+      "short": "Two Tone",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365699/2022-23-Donruss-Optic-Two-Tone",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 365700,
+      "name": "2022-23 Donruss Optic - White Sparkle",
+      "short": "White Sparkle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/365700/2022-23-Donruss-Optic-White-Sparkle",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 9,
+  "imported_this_run": [
+    {
+      "source_set_id": 365669,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 9,
+      "missing_fronts": 241
+    },
+    {
+      "source_set_id": 365642,
+      "name": "Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 248
+    },
+    {
+      "source_set_id": 365695,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 13,
+      "missing_fronts": 237
+    },
+    {
+      "source_set_id": 365698,
+      "name": "Red Wave",
+      "family_requested": "numbered_low",
+      "cards_with_front": 36,
+      "missing_fronts": 214
+    },
+    {
+      "source_set_id": 365672,
+      "name": "Gold Wave",
+      "family_requested": "numbered_low",
+      "cards_with_front": 6,
+      "missing_fronts": 244
+    },
+    {
+      "source_set_id": 365911,
+      "name": "Signature Series",
+      "family_requested": "auto",
+      "cards_with_front": 16,
+      "missing_fronts": 82
+    },
+    {
+      "source_set_id": 365919,
+      "name": "Splash!",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 365846,
+      "name": "My House",
+      "family_requested": "insert",
+      "cards_with_front": 20,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 365644,
+      "name": "Blue",
+      "family_requested": "numbered",
+      "cards_with_front": 11,
+      "missing_fronts": 239
+    }
+  ],
+  "import_errors": [],
+  "card_count": 378,
+  "before_tiers": {
+    "base": 200,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 200,
+    "rookie": 50,
+    "numbered_low": 17,
+    "numbered": 24,
+    "parallel": 36,
+    "auto": 16,
+    "insert": 35
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "numbered_low": 17,
+    "numbered": 24,
+    "parallel": 36,
+    "auto": 16,
+    "insert": 35
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 200,
+      "available_cards": 200,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 67
+    },
+    "auto": {
+      "status": "available",
+      "records": 16,
+      "available_cards": 16,
+      "local_images": 16,
+      "source_candidates": 49
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 36,
+      "source_candidates": 46
+    },
+    "insert": {
+      "status": "available",
+      "records": 35,
+      "available_cards": 35,
+      "local_images": 35,
+      "source_candidates": 120
+    },
+    "numbered": {
+      "status": "available",
+      "records": 24,
+      "available_cards": 24,
+      "local_images": 24,
+      "source_candidates": 98
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

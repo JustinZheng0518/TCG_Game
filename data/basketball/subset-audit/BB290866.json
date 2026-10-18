@@ -1,0 +1,1123 @@
+{
+  "set_id": "BB290866",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/290866/2021-22-Donruss",
+  "headings": [
+    "Insert Sets (100)",
+    "Parallel Sets (27)"
+  ],
+  "subset_count": 127,
+  "subsets": [
+    {
+      "source_set_id": 301908,
+      "name": "2021-22 Donruss - Complete Players",
+      "short": "Complete Players",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301908/2021-22-Donruss-Complete-Players",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301909,
+      "name": "2021-22 Donruss - Complete Players Holo Green Ice",
+      "short": "Complete Players Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301909/2021-22-Donruss-Complete-Players-Holo-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301910,
+      "name": "2021-22 Donruss - Complete Players Holo Pink Laser",
+      "short": "Complete Players Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301910/2021-22-Donruss-Complete-Players-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301911,
+      "name": "2021-22 Donruss - Complete Players Holo Purple Laser",
+      "short": "Complete Players Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301911/2021-22-Donruss-Complete-Players-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301912,
+      "name": "2021-22 Donruss - Complete Players Holo Red Laser",
+      "short": "Complete Players Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301912/2021-22-Donruss-Complete-Players-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301913,
+      "name": "2021-22 Donruss - Complete Players Holo Teal Laser",
+      "short": "Complete Players Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301913/2021-22-Donruss-Complete-Players-Holo-Teal-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301914,
+      "name": "2021-22 Donruss - Complete Players Holo Yellow Laser",
+      "short": "Complete Players Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301914/2021-22-Donruss-Complete-Players-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301645,
+      "name": "2021-22 Donruss - Craftsmen",
+      "short": "Craftsmen",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301645/2021-22-Donruss-Craftsmen",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301649,
+      "name": "2021-22 Donruss - Craftsmen Press Proof",
+      "short": "Craftsmen Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301649/2021-22-Donruss-Craftsmen-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301652,
+      "name": "2021-22 Donruss - Craftsmen Press Proof Black",
+      "short": "Craftsmen Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301652/2021-22-Donruss-Craftsmen-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301651,
+      "name": "2021-22 Donruss - Craftsmen Press Proof Gold",
+      "short": "Craftsmen Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301651/2021-22-Donruss-Craftsmen-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301650,
+      "name": "2021-22 Donruss - Craftsmen Press Proof Purple",
+      "short": "Craftsmen Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301650/2021-22-Donruss-Craftsmen-Press-Proof-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301915,
+      "name": "2021-22 Donruss - Crunch Time",
+      "short": "Crunch Time",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301915/2021-22-Donruss-Crunch-Time",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301916,
+      "name": "2021-22 Donruss - Crunch Time Press Proof",
+      "short": "Crunch Time Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301916/2021-22-Donruss-Crunch-Time-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301917,
+      "name": "2021-22 Donruss - Crunch Time Press Proof Black",
+      "short": "Crunch Time Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301917/2021-22-Donruss-Crunch-Time-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301918,
+      "name": "2021-22 Donruss - Crunch Time Press Proof Gold",
+      "short": "Crunch Time Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301918/2021-22-Donruss-Crunch-Time-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301919,
+      "name": "2021-22 Donruss - Crunch Time Press Proof Purple",
+      "short": "Crunch Time Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301919/2021-22-Donruss-Crunch-Time-Press-Proof-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301920,
+      "name": "2021-22 Donruss - Duos",
+      "short": "Duos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301920/2021-22-Donruss-Duos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301921,
+      "name": "2021-22 Donruss - Duos Press Proof",
+      "short": "Duos Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301921/2021-22-Donruss-Duos-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301922,
+      "name": "2021-22 Donruss - Duos Press Proof Black",
+      "short": "Duos Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301922/2021-22-Donruss-Duos-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301923,
+      "name": "2021-22 Donruss - Duos Press Proof Gold",
+      "short": "Duos Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301923/2021-22-Donruss-Duos-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301924,
+      "name": "2021-22 Donruss - Duos Press Proof Purple",
+      "short": "Duos Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301924/2021-22-Donruss-Duos-Press-Proof-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301925,
+      "name": "2021-22 Donruss - Franchise Features",
+      "short": "Franchise Features",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301925/2021-22-Donruss-Franchise-Features",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301926,
+      "name": "2021-22 Donruss - Franchise Features Holo Green Ice",
+      "short": "Franchise Features Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301926/2021-22-Donruss-Franchise-Features-Holo-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301927,
+      "name": "2021-22 Donruss - Franchise Features Holo Pink Laser",
+      "short": "Franchise Features Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301927/2021-22-Donruss-Franchise-Features-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301928,
+      "name": "2021-22 Donruss - Franchise Features Holo Purple Laser",
+      "short": "Franchise Features Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301928/2021-22-Donruss-Franchise-Features-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301929,
+      "name": "2021-22 Donruss - Franchise Features Holo Red Laser",
+      "short": "Franchise Features Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301929/2021-22-Donruss-Franchise-Features-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301930,
+      "name": "2021-22 Donruss - Franchise Features Holo Teal Laser",
+      "short": "Franchise Features Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301930/2021-22-Donruss-Franchise-Features-Holo-Teal-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301931,
+      "name": "2021-22 Donruss - Franchise Features Holo Yellow Laser",
+      "short": "Franchise Features Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301931/2021-22-Donruss-Franchise-Features-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301932,
+      "name": "2021-22 Donruss - Great X-pectations",
+      "short": "Great X-pectations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301932/2021-22-Donruss-Great-X-pectations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301933,
+      "name": "2021-22 Donruss - Great X-pectations Holo Green Ice",
+      "short": "Great X-pectations Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301933/2021-22-Donruss-Great-X-pectations-Holo-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301934,
+      "name": "2021-22 Donruss - Great X-pectations Holo Pink Laser",
+      "short": "Great X-pectations Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301934/2021-22-Donruss-Great-X-pectations-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301935,
+      "name": "2021-22 Donruss - Great X-pectations Holo Purple Laser",
+      "short": "Great X-pectations Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301935/2021-22-Donruss-Great-X-pectations-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301936,
+      "name": "2021-22 Donruss - Great X-pectations Holo Red Laser",
+      "short": "Great X-pectations Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301936/2021-22-Donruss-Great-X-pectations-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301937,
+      "name": "2021-22 Donruss - Great X-pectations Holo Teal Laser",
+      "short": "Great X-pectations Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301937/2021-22-Donruss-Great-X-pectations-Holo-Teal-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301938,
+      "name": "2021-22 Donruss - Great X-pectations Holo Yellow Laser",
+      "short": "Great X-pectations Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301938/2021-22-Donruss-Great-X-pectations-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301939,
+      "name": "2021-22 Donruss - Jersey Kings",
+      "short": "Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301939/2021-22-Donruss-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301940,
+      "name": "2021-22 Donruss - Jersey Kings Prime",
+      "short": "Jersey Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301940/2021-22-Donruss-Jersey-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301941,
+      "name": "2021-22 Donruss - Magicians",
+      "short": "Magicians",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301941/2021-22-Donruss-Magicians",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301942,
+      "name": "2021-22 Donruss - Magicians Holo Green Ice",
+      "short": "Magicians Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301942/2021-22-Donruss-Magicians-Holo-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301943,
+      "name": "2021-22 Donruss - Magicians Holo Pink Laser",
+      "short": "Magicians Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301943/2021-22-Donruss-Magicians-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301944,
+      "name": "2021-22 Donruss - Magicians Holo Purple Laser",
+      "short": "Magicians Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301944/2021-22-Donruss-Magicians-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301945,
+      "name": "2021-22 Donruss - Magicians Holo Red Laser",
+      "short": "Magicians Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301945/2021-22-Donruss-Magicians-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301946,
+      "name": "2021-22 Donruss - Magicians Holo Teal Laser",
+      "short": "Magicians Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301946/2021-22-Donruss-Magicians-Holo-Teal-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301947,
+      "name": "2021-22 Donruss - Magicians Holo Yellow Laser",
+      "short": "Magicians Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301947/2021-22-Donruss-Magicians-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301948,
+      "name": "2021-22 Donruss - Net Marvels",
+      "short": "Net Marvels",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301948/2021-22-Donruss-Net-Marvels",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301949,
+      "name": "2021-22 Donruss - Net Marvels Press Proof",
+      "short": "Net Marvels Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301949/2021-22-Donruss-Net-Marvels-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301950,
+      "name": "2021-22 Donruss - Net Marvels Press Proof Black",
+      "short": "Net Marvels Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301950/2021-22-Donruss-Net-Marvels-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301951,
+      "name": "2021-22 Donruss - Net Marvels Press Proof Gold",
+      "short": "Net Marvels Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301951/2021-22-Donruss-Net-Marvels-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301952,
+      "name": "2021-22 Donruss - Net Marvels Press Proof Purple",
+      "short": "Net Marvels Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301952/2021-22-Donruss-Net-Marvels-Press-Proof-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301953,
+      "name": "2021-22 Donruss - Next Day Autographs",
+      "short": "Next Day Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301953/2021-22-Donruss-Next-Day-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301954,
+      "name": "2021-22 Donruss - Power in the Paint",
+      "short": "Power in the Paint",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301954/2021-22-Donruss-Power-in-the-Paint",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301955,
+      "name": "2021-22 Donruss - Power in the Paint Holo Green Ice",
+      "short": "Power in the Paint Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301955/2021-22-Donruss-Power-in-the-Paint-Holo-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301956,
+      "name": "2021-22 Donruss - Power in the Paint Holo Pink Laser",
+      "short": "Power in the Paint Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301956/2021-22-Donruss-Power-in-the-Paint-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301957,
+      "name": "2021-22 Donruss - Power in the Paint Holo Purple Laser",
+      "short": "Power in the Paint Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301957/2021-22-Donruss-Power-in-the-Paint-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301958,
+      "name": "2021-22 Donruss - Power in the Paint Holo Red Laser",
+      "short": "Power in the Paint Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301958/2021-22-Donruss-Power-in-the-Paint-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301959,
+      "name": "2021-22 Donruss - Power in the Paint Holo Teal Laser",
+      "short": "Power in the Paint Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301959/2021-22-Donruss-Power-in-the-Paint-Holo-Teal-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301960,
+      "name": "2021-22 Donruss - Power in the Paint Holo Yellow Laser",
+      "short": "Power in the Paint Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301960/2021-22-Donruss-Power-in-the-Paint-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301648,
+      "name": "2021-22 Donruss - Production Line",
+      "short": "Production Line",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301648/2021-22-Donruss-Production-Line",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301653,
+      "name": "2021-22 Donruss - Production Line Press Proof",
+      "short": "Production Line Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301653/2021-22-Donruss-Production-Line-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301656,
+      "name": "2021-22 Donruss - Production Line Press Proof Black",
+      "short": "Production Line Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301656/2021-22-Donruss-Production-Line-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301655,
+      "name": "2021-22 Donruss - Production Line Press Proof Gold",
+      "short": "Production Line Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301655/2021-22-Donruss-Production-Line-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301654,
+      "name": "2021-22 Donruss - Production Line Press Proof Purple",
+      "short": "Production Line Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301654/2021-22-Donruss-Production-Line-Press-Proof-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301961,
+      "name": "2021-22 Donruss - Rated Rookies Signatures",
+      "short": "Rated Rookies Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301961/2021-22-Donruss-Rated-Rookies-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301962,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Choice",
+      "short": "Rated Rookies Signatures Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301962/2021-22-Donruss-Rated-Rookies-Signatures-Choice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301963,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Choice Black",
+      "short": "Rated Rookies Signatures Choice Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301963/2021-22-Donruss-Rated-Rookies-Signatures-Choice-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301964,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Choice Black Gold",
+      "short": "Rated Rookies Signatures Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301964/2021-22-Donruss-Rated-Rookies-Signatures-Choice-Black-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301965,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Choice Blue",
+      "short": "Rated Rookies Signatures Choice Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301965/2021-22-Donruss-Rated-Rookies-Signatures-Choice-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301966,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Choice Gold",
+      "short": "Rated Rookies Signatures Choice Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301966/2021-22-Donruss-Rated-Rookies-Signatures-Choice-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301967,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Choice Red",
+      "short": "Rated Rookies Signatures Choice Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301967/2021-22-Donruss-Rated-Rookies-Signatures-Choice-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301968,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Black Laser",
+      "short": "Rated Rookies Signatures Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301968/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301969,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Blue Laser",
+      "short": "Rated Rookies Signatures Holo Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301969/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301970,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Gold Laser",
+      "short": "Rated Rookies Signatures Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301970/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301972,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Green Ice",
+      "short": "Rated Rookies Signatures Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301972/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301971,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Green and Yellow Laser",
+      "short": "Rated Rookies Signatures Holo Green and Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301971/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Green-and-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301973,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Laser",
+      "short": "Rated Rookies Signatures Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301973/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301974,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Light Blue Laser",
+      "short": "Rated Rookies Signatures Holo Light Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301974/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Light-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301975,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Orange Laser",
+      "short": "Rated Rookies Signatures Holo Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301975/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Orange-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301976,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Pink Laser",
+      "short": "Rated Rookies Signatures Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301976/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301977,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Purple Laser",
+      "short": "Rated Rookies Signatures Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301977/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301980,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Red Laser",
+      "short": "Rated Rookies Signatures Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301980/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301978,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Red and Blue Laser",
+      "short": "Rated Rookies Signatures Holo Red and Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301978/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Red-and-Blue-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301979,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Red and Gold Laser",
+      "short": "Rated Rookies Signatures Holo Red and Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301979/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Red-and-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301981,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Teal Laser",
+      "short": "Rated Rookies Signatures Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301981/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Teal-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301982,
+      "name": "2021-22 Donruss - Rated Rookies Signatures Holo Yellow Laser",
+      "short": "Rated Rookies Signatures Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301982/2021-22-Donruss-Rated-Rookies-Signatures-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301657,
+      "name": "2021-22 Donruss - Retro Series",
+      "short": "Retro Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301657/2021-22-Donruss-Retro-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301658,
+      "name": "2021-22 Donruss - Retro Series Press Proof",
+      "short": "Retro Series Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301658/2021-22-Donruss-Retro-Series-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301661,
+      "name": "2021-22 Donruss - Retro Series Press Proof Black",
+      "short": "Retro Series Press Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301661/2021-22-Donruss-Retro-Series-Press-Proof-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301660,
+      "name": "2021-22 Donruss - Retro Series Press Proof Gold",
+      "short": "Retro Series Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301660/2021-22-Donruss-Retro-Series-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301659,
+      "name": "2021-22 Donruss - Retro Series Press Proof Purple",
+      "short": "Retro Series Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301659/2021-22-Donruss-Retro-Series-Press-Proof-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301983,
+      "name": "2021-22 Donruss - Rookie Jersey Kings",
+      "short": "Rookie Jersey Kings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301983/2021-22-Donruss-Rookie-Jersey-Kings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301984,
+      "name": "2021-22 Donruss - Rookie Jersey Kings Prime",
+      "short": "Rookie Jersey Kings Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301984/2021-22-Donruss-Rookie-Jersey-Kings-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301985,
+      "name": "2021-22 Donruss - Signature Series",
+      "short": "Signature Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301985/2021-22-Donruss-Signature-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301986,
+      "name": "2021-22 Donruss - The Rookies",
+      "short": "The Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301986/2021-22-Donruss-The-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301987,
+      "name": "2021-22 Donruss - The Rookies Holo Green Ice",
+      "short": "The Rookies Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301987/2021-22-Donruss-The-Rookies-Holo-Green-Ice",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301988,
+      "name": "2021-22 Donruss - The Rookies Holo Pink Laser",
+      "short": "The Rookies Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301988/2021-22-Donruss-The-Rookies-Holo-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301989,
+      "name": "2021-22 Donruss - The Rookies Holo Purple Laser",
+      "short": "The Rookies Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301989/2021-22-Donruss-The-Rookies-Holo-Purple-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301990,
+      "name": "2021-22 Donruss - The Rookies Holo Red Laser",
+      "short": "The Rookies Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301990/2021-22-Donruss-The-Rookies-Holo-Red-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301991,
+      "name": "2021-22 Donruss - The Rookies Holo Teal Laser",
+      "short": "The Rookies Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301991/2021-22-Donruss-The-Rookies-Holo-Teal-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301992,
+      "name": "2021-22 Donruss - The Rookies Holo Yellow Laser",
+      "short": "The Rookies Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301992/2021-22-Donruss-The-Rookies-Holo-Yellow-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 301884,
+      "name": "2021-22 Donruss - 75th Anniversary",
+      "short": "75th Anniversary",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301884/2021-22-Donruss-75th-Anniversary",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301885,
+      "name": "2021-22 Donruss - Choice Black",
+      "short": "Choice Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301885/2021-22-Donruss-Choice-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301886,
+      "name": "2021-22 Donruss - Choice Black Gold",
+      "short": "Choice Black Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301886/2021-22-Donruss-Choice-Black-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301887,
+      "name": "2021-22 Donruss - Choice Blue",
+      "short": "Choice Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301887/2021-22-Donruss-Choice-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301888,
+      "name": "2021-22 Donruss - Choice Gold",
+      "short": "Choice Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301888/2021-22-Donruss-Choice-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301889,
+      "name": "2021-22 Donruss - Choice Red",
+      "short": "Choice Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301889/2021-22-Donruss-Choice-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301890,
+      "name": "2021-22 Donruss - Holo Black Laser",
+      "short": "Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301890/2021-22-Donruss-Holo-Black-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301891,
+      "name": "2021-22 Donruss - Holo Blue Laser",
+      "short": "Holo Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301891/2021-22-Donruss-Holo-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301892,
+      "name": "2021-22 Donruss - Holo Gold Laser",
+      "short": "Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301892/2021-22-Donruss-Holo-Gold-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301894,
+      "name": "2021-22 Donruss - Holo Green Ice",
+      "short": "Holo Green Ice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301894/2021-22-Donruss-Holo-Green-Ice",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301895,
+      "name": "2021-22 Donruss - Holo Green Laser",
+      "short": "Holo Green Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301895/2021-22-Donruss-Holo-Green-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301893,
+      "name": "2021-22 Donruss - Holo Green and Yellow Laser",
+      "short": "Holo Green and Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301893/2021-22-Donruss-Holo-Green-and-Yellow-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301896,
+      "name": "2021-22 Donruss - Holo Laser",
+      "short": "Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301896/2021-22-Donruss-Holo-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301897,
+      "name": "2021-22 Donruss - Holo Light Blue Laser",
+      "short": "Holo Light Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301897/2021-22-Donruss-Holo-Light-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301898,
+      "name": "2021-22 Donruss - Holo Orange Laser",
+      "short": "Holo Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301898/2021-22-Donruss-Holo-Orange-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301899,
+      "name": "2021-22 Donruss - Holo Pink Laser",
+      "short": "Holo Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301899/2021-22-Donruss-Holo-Pink-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301900,
+      "name": "2021-22 Donruss - Holo Purple Laser",
+      "short": "Holo Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301900/2021-22-Donruss-Holo-Purple-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301903,
+      "name": "2021-22 Donruss - Holo Red Laser",
+      "short": "Holo Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301903/2021-22-Donruss-Holo-Red-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301901,
+      "name": "2021-22 Donruss - Holo Red and Blue Laser",
+      "short": "Holo Red and Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301901/2021-22-Donruss-Holo-Red-and-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301902,
+      "name": "2021-22 Donruss - Holo Red and Gold Laser",
+      "short": "Holo Red and Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301902/2021-22-Donruss-Holo-Red-and-Gold-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301904,
+      "name": "2021-22 Donruss - Holo Teal Laser",
+      "short": "Holo Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301904/2021-22-Donruss-Holo-Teal-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301905,
+      "name": "2021-22 Donruss - Holo Yellow Laser",
+      "short": "Holo Yellow Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301905/2021-22-Donruss-Holo-Yellow-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301598,
+      "name": "2021-22 Donruss - Press Proof Purple",
+      "short": "Press Proof Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301598/2021-22-Donruss-Press-Proof-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301596,
+      "name": "2021-22 Donruss - Press Proof Silver",
+      "short": "Press Proof Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301596/2021-22-Donruss-Press-Proof-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 302606,
+      "name": "2021-22 Donruss - Rated Rookies Choice",
+      "short": "Rated Rookies Choice",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/302606/2021-22-Donruss-Rated-Rookies-Choice",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301907,
+      "name": "2021-22 Donruss - Rated Rookies Choice Dragon",
+      "short": "Rated Rookies Choice Dragon",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301907/2021-22-Donruss-Rated-Rookies-Choice-Dragon",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 301906,
+      "name": "2021-22 Donruss - Yellow Flood",
+      "short": "Yellow Flood",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/301906/2021-22-Donruss-Yellow-Flood",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 15,
+  "imported_this_run": [
+    {
+      "source_set_id": 301889,
+      "name": "Choice Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 12,
+      "missing_fronts": 238
+    },
+    {
+      "source_set_id": 301888,
+      "name": "Choice Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 249
+    },
+    {
+      "source_set_id": 301885,
+      "name": "Choice Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 249
+    },
+    {
+      "source_set_id": 301903,
+      "name": "Holo Red Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 7,
+      "missing_fronts": 243
+    },
+    {
+      "source_set_id": 301892,
+      "name": "Holo Gold Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 245
+    },
+    {
+      "source_set_id": 301890,
+      "name": "Holo Black Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 250
+    },
+    {
+      "source_set_id": 301985,
+      "name": "Signature Series",
+      "family_requested": "auto",
+      "cards_with_front": 22,
+      "missing_fronts": 74
+    },
+    {
+      "source_set_id": 301939,
+      "name": "Jersey Kings",
+      "family_requested": "memorabilia",
+      "cards_with_front": 8,
+      "missing_fronts": 52
+    },
+    {
+      "source_set_id": 301940,
+      "name": "Jersey Kings Prime",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 49
+    },
+    {
+      "source_set_id": 301983,
+      "name": "Rookie Jersey Kings",
+      "family_requested": "memorabilia",
+      "cards_with_front": 4,
+      "missing_fronts": 36
+    },
+    {
+      "source_set_id": 301984,
+      "name": "Rookie Jersey Kings Prime",
+      "family_requested": "memorabilia",
+      "cards_with_front": 1,
+      "missing_fronts": 39
+    },
+    {
+      "source_set_id": 301896,
+      "name": "Holo Laser",
+      "family_requested": "parallel",
+      "cards_with_front": 15,
+      "missing_fronts": 235
+    },
+    {
+      "source_set_id": 301887,
+      "name": "Choice Blue",
+      "family_requested": "parallel",
+      "cards_with_front": 9,
+      "missing_fronts": 241
+    },
+    {
+      "source_set_id": 301906,
+      "name": "Yellow Flood",
+      "family_requested": "parallel",
+      "cards_with_front": 110,
+      "missing_fronts": 140
+    },
+    {
+      "source_set_id": 301920,
+      "name": "Duos",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 301645,
+      "name": "Craftsmen",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 301941,
+      "name": "Magicians",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 470,
+  "before_tiers": {
+    "base": 200,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 200,
+    "rookie": 50,
+    "numbered": 43,
+    "numbered_low": 7,
+    "auto": 22,
+    "memorabilia": 13,
+    "parallel": 110,
+    "insert": 30
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "numbered": 43,
+    "numbered_low": 7,
+    "auto": 22,
+    "memorabilia": 13,
+    "parallel": 110,
+    "insert": 30
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 200,
+      "available_cards": 200,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 7,
+      "available_cards": 7,
+      "local_images": 7,
+      "source_candidates": 27
+    },
+    "auto": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 24
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 13,
+      "available_cards": 13,
+      "local_images": 13,
+      "source_candidates": 4
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 110,
+      "available_cards": 110,
+      "local_images": 110,
+      "source_candidates": 27
+    },
+    "insert": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 72
+    },
+    "numbered": {
+      "status": "available",
+      "records": 43,
+      "available_cards": 43,
+      "local_images": 43,
+      "source_candidates": 31
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 5
+}

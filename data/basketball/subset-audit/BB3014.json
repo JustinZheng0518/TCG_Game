@@ -1,0 +1,302 @@
+{
+  "set_id": "BB3014",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3014/2002-03-Topps",
+  "headings": [
+    "Insert Sets (12)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 15,
+  "subsets": [
+    {
+      "source_set_id": 27641,
+      "name": "2002-03 Topps - All-Star Relic Remnants",
+      "short": "All-Star Relic Remnants",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27641/2002-03-Topps-All-Star-Relic-Remnants",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 221881,
+      "name": "2002-03 Topps - All-Star Relic Remnants Autographs",
+      "short": "All-Star Relic Remnants Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/221881/2002-03-Topps-All-Star-Relic-Remnants-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 354540,
+      "name": "2002-03 Topps - Around the World Scratch Off Game",
+      "short": "Around the World Scratch Off Game",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/354540/2002-03-Topps-Around-the-World-Scratch-Off-Game",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27643,
+      "name": "2002-03 Topps - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27643/2002-03-Topps-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27645,
+      "name": "2002-03 Topps - Coast to Coast",
+      "short": "Coast to Coast",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27645/2002-03-Topps-Coast-to-Coast",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27647,
+      "name": "2002-03 Topps - Rookie Autographs",
+      "short": "Rookie Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27647/2002-03-Topps-Rookie-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27648,
+      "name": "2002-03 Topps - Shaq Attack Relics",
+      "short": "Shaq Attack Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27648/2002-03-Topps-Shaq-Attack-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27649,
+      "name": "2002-03 Topps - Shaq Attack Relics Autographs",
+      "short": "Shaq Attack Relics Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27649/2002-03-Topps-Shaq-Attack-Relics-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27650,
+      "name": "2002-03 Topps - Slam Duncan Relics",
+      "short": "Slam Duncan Relics",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27650/2002-03-Topps-Slam-Duncan-Relics",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27651,
+      "name": "2002-03 Topps - Slam Duncan Relics Autographs",
+      "short": "Slam Duncan Relics Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27651/2002-03-Topps-Slam-Duncan-Relics-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27652,
+      "name": "2002-03 Topps - Top Tandems",
+      "short": "Top Tandems",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27652/2002-03-Topps-Top-Tandems",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27653,
+      "name": "2002-03 Topps - Verticality",
+      "short": "Verticality",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27653/2002-03-Topps-Verticality",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27642,
+      "name": "2002-03 Topps - Around the World Exchange",
+      "short": "Around the World Exchange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27642/2002-03-Topps-Around-the-World-Exchange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27644,
+      "name": "2002-03 Topps - Black",
+      "short": "Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27644/2002-03-Topps-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27646,
+      "name": "2002-03 Topps - Promos",
+      "short": "Promos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27646/2002-03-Topps-Promos",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 10,
+  "imported_this_run": [
+    {
+      "source_set_id": 27644,
+      "name": "Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 63,
+      "missing_fronts": 151
+    },
+    {
+      "source_set_id": 27643,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 8,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 27647,
+      "name": "Rookie Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 27648,
+      "name": "Shaq Attack Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 5,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27650,
+      "name": "Slam Duncan Relics",
+      "family_requested": "memorabilia",
+      "cards_with_front": 5,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27641,
+      "name": "All-Star Relic Remnants",
+      "family_requested": "memorabilia",
+      "cards_with_front": 11,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27649,
+      "name": "Shaq Attack Relics Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 5,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27651,
+      "name": "Slam Duncan Relics Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 5
+    },
+    {
+      "source_set_id": 221881,
+      "name": "All-Star Relic Remnants Autographs",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 4
+    },
+    {
+      "source_set_id": 27646,
+      "name": "Promos",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27652,
+      "name": "Top Tandems",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27653,
+      "name": "Verticality",
+      "family_requested": "insert",
+      "cards_with_front": 15,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 333,
+  "before_tiers": {
+    "base": 178,
+    "rookie": 36
+  },
+  "tiers": {
+    "base": 184,
+    "rookie": 36,
+    "numbered": 66,
+    "auto": 9,
+    "memorabilia": 21,
+    "auto_patch": 5,
+    "insert": 31
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 1,
+    "numbered": 66,
+    "auto": 9,
+    "memorabilia": 21,
+    "auto_patch": 5,
+    "insert": 31
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 184,
+      "available_cards": 184,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "available",
+      "records": 9,
+      "available_cards": 9,
+      "local_images": 9,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 3
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 3
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 31,
+      "available_cards": 31,
+      "local_images": 31,
+      "source_candidates": 6
+    },
+    "numbered": {
+      "status": "available",
+      "records": 66,
+      "available_cards": 66,
+      "local_images": 66,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 19
+}

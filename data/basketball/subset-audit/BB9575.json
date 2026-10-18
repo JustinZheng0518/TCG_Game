@@ -1,0 +1,258 @@
+{
+  "set_id": "BB9575",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/9575/2009-10-Upper-Deck",
+  "headings": [
+    "Insert Sets (14)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 15,
+  "subsets": [
+    {
+      "source_set_id": 33228,
+      "name": "2009-10 Upper Deck - 3D Stars",
+      "short": "3D Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33228/2009-10-Upper-Deck-3D-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33230,
+      "name": "2009-10 Upper Deck - Dual Game Materials",
+      "short": "Dual Game Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33230/2009-10-Upper-Deck-Dual-Game-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33231,
+      "name": "2009-10 Upper Deck - Dual Game Materials Gold",
+      "short": "Dual Game Materials Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33231/2009-10-Upper-Deck-Dual-Game-Materials-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33229,
+      "name": "2009-10 Upper Deck - Game Materials",
+      "short": "Game Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33229/2009-10-Upper-Deck-Game-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33232,
+      "name": "2009-10 Upper Deck - Game Materials Gold",
+      "short": "Game Materials Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33232/2009-10-Upper-Deck-Game-Materials-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 228567,
+      "name": "2009-10 Upper Deck - Jordan Brand Classic",
+      "short": "Jordan Brand Classic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/228567/2009-10-Upper-Deck-Jordan-Brand-Classic",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33233,
+      "name": "2009-10 Upper Deck - Masterpieces",
+      "short": "Masterpieces",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33233/2009-10-Upper-Deck-Masterpieces",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33236,
+      "name": "2009-10 Upper Deck - Now Appearing",
+      "short": "Now Appearing",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33236/2009-10-Upper-Deck-Now-Appearing",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33237,
+      "name": "2009-10 Upper Deck - Signature Collection",
+      "short": "Signature Collection",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33237/2009-10-Upper-Deck-Signature-Collection",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33238,
+      "name": "2009-10 Upper Deck - Sophomore Sensations",
+      "short": "Sophomore Sensations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33238/2009-10-Upper-Deck-Sophomore-Sensations",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33239,
+      "name": "2009-10 Upper Deck - Sophomore Sensations Autographs",
+      "short": "Sophomore Sensations Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33239/2009-10-Upper-Deck-Sophomore-Sensations-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33240,
+      "name": "2009-10 Upper Deck - UD Select Signatures",
+      "short": "UD Select Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33240/2009-10-Upper-Deck-UD-Select-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33242,
+      "name": "2009-10 Upper Deck - VS Materials",
+      "short": "VS Materials",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33242/2009-10-Upper-Deck-VS-Materials",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33243,
+      "name": "2009-10 Upper Deck - VS Materials Bronze",
+      "short": "VS Materials Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33243/2009-10-Upper-Deck-VS-Materials-Bronze",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 33241,
+      "name": "2009-10 Upper Deck - Star Rookies Gold",
+      "short": "Star Rookies Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/33241/2009-10-Upper-Deck-Star-Rookies-Gold",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 6,
+  "imported_this_run": [
+    {
+      "source_set_id": 33241,
+      "name": "Star Rookies Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 25,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 33237,
+      "name": "Signature Collection",
+      "family_requested": "auto",
+      "cards_with_front": 91,
+      "missing_fronts": 102
+    },
+    {
+      "source_set_id": 33242,
+      "name": "VS Materials",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 33229,
+      "name": "Game Materials",
+      "family_requested": "memorabilia",
+      "cards_with_front": 63,
+      "missing_fronts": 37
+    },
+    {
+      "source_set_id": 33228,
+      "name": "3D Stars",
+      "family_requested": "insert",
+      "cards_with_front": 13,
+      "missing_fronts": 6
+    },
+    {
+      "source_set_id": 33233,
+      "name": "Masterpieces",
+      "family_requested": "insert",
+      "cards_with_front": 34,
+      "missing_fronts": 1
+    }
+  ],
+  "import_errors": [],
+  "card_count": 521,
+  "before_tiers": {
+    "base": 255,
+    "rookie": 40
+  },
+  "tiers": {
+    "base": 255,
+    "rookie": 40,
+    "parallel": 25,
+    "auto": 91,
+    "memorabilia": 108,
+    "insert": 71
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "parallel": 25,
+    "auto": 91,
+    "memorabilia": 108,
+    "insert": 71
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 255,
+      "available_cards": 255,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "auto": {
+      "status": "available",
+      "records": 91,
+      "available_cards": 91,
+      "local_images": 91,
+      "source_candidates": 3
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 108,
+      "available_cards": 108,
+      "local_images": 108,
+      "source_candidates": 6
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 71,
+      "available_cards": 71,
+      "local_images": 71,
+      "source_candidates": 5
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 69
+}

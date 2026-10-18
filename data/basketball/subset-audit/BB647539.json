@@ -1,0 +1,1394 @@
+{
+  "set_id": "BB647539",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/647539/2026-Donruss-WNBA",
+  "headings": [
+    "Insert Sets (121)",
+    "Parallel Sets (33)"
+  ],
+  "subset_count": 154,
+  "subsets": [
+    {
+      "source_set_id": 688986,
+      "name": "2026 Donruss WNBA - Crunch Time",
+      "short": "Crunch Time",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688986/2026-Donruss-WNBA-Crunch-Time",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690178,
+      "name": "2026 Donruss WNBA - Crunch Time Diamond",
+      "short": "Crunch Time Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690178/2026-Donruss-WNBA-Crunch-Time-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690180,
+      "name": "2026 Donruss WNBA - Crunch Time Green Fireworks",
+      "short": "Crunch Time Green Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690180/2026-Donruss-WNBA-Crunch-Time-Green-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690188,
+      "name": "2026 Donruss WNBA - Crunch Time Holo Black Laser",
+      "short": "Crunch Time Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690188/2026-Donruss-WNBA-Crunch-Time-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690182,
+      "name": "2026 Donruss WNBA - Crunch Time Holo Laser",
+      "short": "Crunch Time Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690182/2026-Donruss-WNBA-Crunch-Time-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690183,
+      "name": "2026 Donruss WNBA - Crunch Time Orange Fireworks",
+      "short": "Crunch Time Orange Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690183/2026-Donruss-WNBA-Crunch-Time-Orange-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690181,
+      "name": "2026 Donruss WNBA - Crunch Time Orange Lava",
+      "short": "Crunch Time Orange Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690181/2026-Donruss-WNBA-Crunch-Time-Orange-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690186,
+      "name": "2026 Donruss WNBA - Crunch Time Pink Fireworks",
+      "short": "Crunch Time Pink Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690186/2026-Donruss-WNBA-Crunch-Time-Pink-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690185,
+      "name": "2026 Donruss WNBA - Crunch Time Pink Lava",
+      "short": "Crunch Time Pink Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690185/2026-Donruss-WNBA-Crunch-Time-Pink-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690179,
+      "name": "2026 Donruss WNBA - Crunch Time Press Proof",
+      "short": "Crunch Time Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690179/2026-Donruss-WNBA-Crunch-Time-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690189,
+      "name": "2026 Donruss WNBA - Crunch Time Press Proof Gold",
+      "short": "Crunch Time Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690189/2026-Donruss-WNBA-Crunch-Time-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690184,
+      "name": "2026 Donruss WNBA - Crunch Time Purple Lava",
+      "short": "Crunch Time Purple Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690184/2026-Donruss-WNBA-Crunch-Time-Purple-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690187,
+      "name": "2026 Donruss WNBA - Crunch Time Red Holo Laser",
+      "short": "Crunch Time Red Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690187/2026-Donruss-WNBA-Crunch-Time-Red-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690192,
+      "name": "2026 Donruss WNBA - Downtown",
+      "short": "Downtown",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690192/2026-Donruss-WNBA-Downtown",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690288,
+      "name": "2026 Donruss WNBA - Elite Series",
+      "short": "Elite Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690288/2026-Donruss-WNBA-Elite-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690289,
+      "name": "2026 Donruss WNBA - Elite Series Holo Gold",
+      "short": "Elite Series Holo Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690289/2026-Donruss-WNBA-Elite-Series-Holo-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688987,
+      "name": "2026 Donruss WNBA - Franchise Features",
+      "short": "Franchise Features",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688987/2026-Donruss-WNBA-Franchise-Features",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690290,
+      "name": "2026 Donruss WNBA - Franchise Features Diamond",
+      "short": "Franchise Features Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690290/2026-Donruss-WNBA-Franchise-Features-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690292,
+      "name": "2026 Donruss WNBA - Franchise Features Green Fireworks",
+      "short": "Franchise Features Green Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690292/2026-Donruss-WNBA-Franchise-Features-Green-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690299,
+      "name": "2026 Donruss WNBA - Franchise Features Holo Black Laser",
+      "short": "Franchise Features Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690299/2026-Donruss-WNBA-Franchise-Features-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690294,
+      "name": "2026 Donruss WNBA - Franchise Features Holo Laser",
+      "short": "Franchise Features Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690294/2026-Donruss-WNBA-Franchise-Features-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690293,
+      "name": "2026 Donruss WNBA - Franchise Features Orange Fireworks",
+      "short": "Franchise Features Orange Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690293/2026-Donruss-WNBA-Franchise-Features-Orange-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689286,
+      "name": "2026 Donruss WNBA - Franchise Features Orange Lava",
+      "short": "Franchise Features Orange Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689286/2026-Donruss-WNBA-Franchise-Features-Orange-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690297,
+      "name": "2026 Donruss WNBA - Franchise Features Pink Fireworks",
+      "short": "Franchise Features Pink Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690297/2026-Donruss-WNBA-Franchise-Features-Pink-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690296,
+      "name": "2026 Donruss WNBA - Franchise Features Pink Lava",
+      "short": "Franchise Features Pink Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690296/2026-Donruss-WNBA-Franchise-Features-Pink-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690291,
+      "name": "2026 Donruss WNBA - Franchise Features Press Proof",
+      "short": "Franchise Features Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690291/2026-Donruss-WNBA-Franchise-Features-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690300,
+      "name": "2026 Donruss WNBA - Franchise Features Press Proof Gold",
+      "short": "Franchise Features Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690300/2026-Donruss-WNBA-Franchise-Features-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690295,
+      "name": "2026 Donruss WNBA - Franchise Features Purple Lava",
+      "short": "Franchise Features Purple Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690295/2026-Donruss-WNBA-Franchise-Features-Purple-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690298,
+      "name": "2026 Donruss WNBA - Franchise Features Red Holo Laser",
+      "short": "Franchise Features Red Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690298/2026-Donruss-WNBA-Franchise-Features-Red-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689309,
+      "name": "2026 Donruss WNBA - Get To Know",
+      "short": "Get To Know",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689309/2026-Donruss-WNBA-Get-To-Know",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689043,
+      "name": "2026 Donruss WNBA - Jersey Series",
+      "short": "Jersey Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689043/2026-Donruss-WNBA-Jersey-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689047,
+      "name": "2026 Donruss WNBA - Jersey Series Gold",
+      "short": "Jersey Series Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689047/2026-Donruss-WNBA-Jersey-Series-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689045,
+      "name": "2026 Donruss WNBA - Jersey Series Green",
+      "short": "Jersey Series Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689045/2026-Donruss-WNBA-Jersey-Series-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689048,
+      "name": "2026 Donruss WNBA - Jersey Series Holo Platinum Blue",
+      "short": "Jersey Series Holo Platinum Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689048/2026-Donruss-WNBA-Jersey-Series-Holo-Platinum-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689046,
+      "name": "2026 Donruss WNBA - Jersey Series Prime",
+      "short": "Jersey Series Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689046/2026-Donruss-WNBA-Jersey-Series-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689044,
+      "name": "2026 Donruss WNBA - Jersey Series Red",
+      "short": "Jersey Series Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689044/2026-Donruss-WNBA-Jersey-Series-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690146,
+      "name": "2026 Donruss WNBA - League Leaders",
+      "short": "League Leaders",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690146/2026-Donruss-WNBA-League-Leaders",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690147,
+      "name": "2026 Donruss WNBA - League Leaders Gold",
+      "short": "League Leaders Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690147/2026-Donruss-WNBA-League-Leaders-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690301,
+      "name": "2026 Donruss WNBA - License to Dominate",
+      "short": "License to Dominate",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690301/2026-Donruss-WNBA-License-to-Dominate",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690714,
+      "name": "2026 Donruss WNBA - Mascots",
+      "short": "Mascots",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690714/2026-Donruss-WNBA-Mascots",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690716,
+      "name": "2026 Donruss WNBA - Mascots Holo Black",
+      "short": "Mascots Holo Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690716/2026-Donruss-WNBA-Mascots-Holo-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690715,
+      "name": "2026 Donruss WNBA - Mascots Holo Gold",
+      "short": "Mascots Holo Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690715/2026-Donruss-WNBA-Mascots-Holo-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688988,
+      "name": "2026 Donruss WNBA - My House",
+      "short": "My House",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688988/2026-Donruss-WNBA-My-House",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688989,
+      "name": "2026 Donruss WNBA - Net Marvels",
+      "short": "Net Marvels",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688989/2026-Donruss-WNBA-Net-Marvels",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689327,
+      "name": "2026 Donruss WNBA - Net Marvels Diamond",
+      "short": "Net Marvels Diamond",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689327/2026-Donruss-WNBA-Net-Marvels-Diamond",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690150,
+      "name": "2026 Donruss WNBA - Net Marvels Green Fireworks",
+      "short": "Net Marvels Green Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690150/2026-Donruss-WNBA-Net-Marvels-Green-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690159,
+      "name": "2026 Donruss WNBA - Net Marvels Holo Black Laser",
+      "short": "Net Marvels Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690159/2026-Donruss-WNBA-Net-Marvels-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690152,
+      "name": "2026 Donruss WNBA - Net Marvels Holo Laser",
+      "short": "Net Marvels Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690152/2026-Donruss-WNBA-Net-Marvels-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690153,
+      "name": "2026 Donruss WNBA - Net Marvels Orange Fireworks",
+      "short": "Net Marvels Orange Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690153/2026-Donruss-WNBA-Net-Marvels-Orange-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690151,
+      "name": "2026 Donruss WNBA - Net Marvels Orange Lava",
+      "short": "Net Marvels Orange Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690151/2026-Donruss-WNBA-Net-Marvels-Orange-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690155,
+      "name": "2026 Donruss WNBA - Net Marvels Pink Fireworks",
+      "short": "Net Marvels Pink Fireworks",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690155/2026-Donruss-WNBA-Net-Marvels-Pink-Fireworks",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690156,
+      "name": "2026 Donruss WNBA - Net Marvels Pink Lava",
+      "short": "Net Marvels Pink Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690156/2026-Donruss-WNBA-Net-Marvels-Pink-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688991,
+      "name": "2026 Donruss WNBA - Net Marvels Press Proof",
+      "short": "Net Marvels Press Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688991/2026-Donruss-WNBA-Net-Marvels-Press-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690158,
+      "name": "2026 Donruss WNBA - Net Marvels Press Proof Gold",
+      "short": "Net Marvels Press Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690158/2026-Donruss-WNBA-Net-Marvels-Press-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690154,
+      "name": "2026 Donruss WNBA - Net Marvels Purple Lava",
+      "short": "Net Marvels Purple Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690154/2026-Donruss-WNBA-Net-Marvels-Purple-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690157,
+      "name": "2026 Donruss WNBA - Net Marvels Red Holo Laser",
+      "short": "Net Marvels Red Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690157/2026-Donruss-WNBA-Net-Marvels-Red-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689310,
+      "name": "2026 Donruss WNBA - Next Day Autographs",
+      "short": "Next Day Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689310/2026-Donruss-WNBA-Next-Day-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690160,
+      "name": "2026 Donruss WNBA - Parade",
+      "short": "Parade",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690160/2026-Donruss-WNBA-Parade",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689311,
+      "name": "2026 Donruss WNBA - Pen Pals",
+      "short": "Pen Pals",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689311/2026-Donruss-WNBA-Pen-Pals",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690161,
+      "name": "2026 Donruss WNBA - Permit to Dominate",
+      "short": "Permit to Dominate",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690161/2026-Donruss-WNBA-Permit-to-Dominate",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689312,
+      "name": "2026 Donruss WNBA - Private Signings",
+      "short": "Private Signings",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689312/2026-Donruss-WNBA-Private-Signings",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689289,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures",
+      "short": "Rated Rookie Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689289/2026-Donruss-WNBA-Rated-Rookie-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689299,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Black Gold Laser",
+      "short": "Rated Rookie Signatures Black Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689299/2026-Donruss-WNBA-Rated-Rookie-Signatures-Black-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689290,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Blue Shimmer",
+      "short": "Rated Rookie Signatures Blue Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689290/2026-Donruss-WNBA-Rated-Rookie-Signatures-Blue-Shimmer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689296,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures FOTL Orange Laser",
+      "short": "Rated Rookie Signatures FOTL Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689296/2026-Donruss-WNBA-Rated-Rookie-Signatures-FOTL-Orange-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689301,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Holo Black Laser",
+      "short": "Rated Rookie Signatures Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689301/2026-Donruss-WNBA-Rated-Rookie-Signatures-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689294,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Holo Frame",
+      "short": "Rated Rookie Signatures Holo Frame",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689294/2026-Donruss-WNBA-Rated-Rookie-Signatures-Holo-Frame",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689297,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Holo Gold Laser",
+      "short": "Rated Rookie Signatures Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689297/2026-Donruss-WNBA-Rated-Rookie-Signatures-Holo-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689291,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Holo Laser",
+      "short": "Rated Rookie Signatures Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689291/2026-Donruss-WNBA-Rated-Rookie-Signatures-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689292,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Light Blue Lava",
+      "short": "Rated Rookie Signatures Light Blue Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689292/2026-Donruss-WNBA-Rated-Rookie-Signatures-Light-Blue-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689295,
+      "name": "2026 Donruss WNBA - Rated Rookie Signatures Pink Laser",
+      "short": "Rated Rookie Signatures Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689295/2026-Donruss-WNBA-Rated-Rookie-Signatures-Pink-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689923,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures",
+      "short": "Retro 1986 Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689923/2026-Donruss-WNBA-Retro-1986-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689932,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Black Gold Laser",
+      "short": "Retro 1986 Signatures Black Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689932/2026-Donruss-WNBA-Retro-1986-Signatures-Black-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689924,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Blue Shimmer",
+      "short": "Retro 1986 Signatures Blue Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689924/2026-Donruss-WNBA-Retro-1986-Signatures-Blue-Shimmer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689931,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Holo Black Laser",
+      "short": "Retro 1986 Signatures Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689931/2026-Donruss-WNBA-Retro-1986-Signatures-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689927,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Holo Frame",
+      "short": "Retro 1986 Signatures Holo Frame",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689927/2026-Donruss-WNBA-Retro-1986-Signatures-Holo-Frame",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689930,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Holo Gold Laser",
+      "short": "Retro 1986 Signatures Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689930/2026-Donruss-WNBA-Retro-1986-Signatures-Holo-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689926,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Holo Laser",
+      "short": "Retro 1986 Signatures Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689926/2026-Donruss-WNBA-Retro-1986-Signatures-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689925,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Lava",
+      "short": "Retro 1986 Signatures Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689925/2026-Donruss-WNBA-Retro-1986-Signatures-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689929,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Orange Lava",
+      "short": "Retro 1986 Signatures Orange Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689929/2026-Donruss-WNBA-Retro-1986-Signatures-Orange-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689928,
+      "name": "2026 Donruss WNBA - Retro 1986 Signatures Pink Shimmer",
+      "short": "Retro 1986 Signatures Pink Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689928/2026-Donruss-WNBA-Retro-1986-Signatures-Pink-Shimmer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690162,
+      "name": "2026 Donruss WNBA - Road to the Finals First Round",
+      "short": "Road to the Finals First Round",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690162/2026-Donruss-WNBA-Road-to-the-Finals-First-Round",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690163,
+      "name": "2026 Donruss WNBA - Road to the Finals Second Round",
+      "short": "Road to the Finals Second Round",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690163/2026-Donruss-WNBA-Road-to-the-Finals-Second-Round",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690164,
+      "name": "2026 Donruss WNBA - Road to the Finals WNBA Championship",
+      "short": "Road to the Finals WNBA Championship",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690164/2026-Donruss-WNBA-Road-to-the-Finals-WNBA-Championship",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689050,
+      "name": "2026 Donruss WNBA - Rookie Jerseys",
+      "short": "Rookie Jerseys",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689050/2026-Donruss-WNBA-Rookie-Jerseys",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689054,
+      "name": "2026 Donruss WNBA - Rookie Jerseys Gold",
+      "short": "Rookie Jerseys Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689054/2026-Donruss-WNBA-Rookie-Jerseys-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689052,
+      "name": "2026 Donruss WNBA - Rookie Jerseys Green",
+      "short": "Rookie Jerseys Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689052/2026-Donruss-WNBA-Rookie-Jerseys-Green",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689055,
+      "name": "2026 Donruss WNBA - Rookie Jerseys Holo Platinum Blue",
+      "short": "Rookie Jerseys Holo Platinum Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689055/2026-Donruss-WNBA-Rookie-Jerseys-Holo-Platinum-Blue",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689053,
+      "name": "2026 Donruss WNBA - Rookie Jerseys Prime",
+      "short": "Rookie Jerseys Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689053/2026-Donruss-WNBA-Rookie-Jerseys-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689051,
+      "name": "2026 Donruss WNBA - Rookie Jerseys Red",
+      "short": "Rookie Jerseys Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689051/2026-Donruss-WNBA-Rookie-Jerseys-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690165,
+      "name": "2026 Donruss WNBA - Season Highlights",
+      "short": "Season Highlights",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690165/2026-Donruss-WNBA-Season-Highlights",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690167,
+      "name": "2026 Donruss WNBA - Season Highlights Holo Black",
+      "short": "Season Highlights Holo Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690167/2026-Donruss-WNBA-Season-Highlights-Holo-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690166,
+      "name": "2026 Donruss WNBA - Season Highlights Holo Gold",
+      "short": "Season Highlights Holo Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690166/2026-Donruss-WNBA-Season-Highlights-Holo-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 691997,
+      "name": "2026 Donruss WNBA - Signature Series",
+      "short": "Signature Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/691997/2026-Donruss-WNBA-Signature-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 691998,
+      "name": "2026 Donruss WNBA - Signature Series Black Gold Laser",
+      "short": "Signature Series Black Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/691998/2026-Donruss-WNBA-Signature-Series-Black-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692243,
+      "name": "2026 Donruss WNBA - Signature Series Blue Shimmer",
+      "short": "Signature Series Blue Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692243/2026-Donruss-WNBA-Signature-Series-Blue-Shimmer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692351,
+      "name": "2026 Donruss WNBA - Signature Series FOTL Orange Laser",
+      "short": "Signature Series FOTL Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692351/2026-Donruss-WNBA-Signature-Series-FOTL-Orange-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692353,
+      "name": "2026 Donruss WNBA - Signature Series Holo Black Laser",
+      "short": "Signature Series Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692353/2026-Donruss-WNBA-Signature-Series-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692355,
+      "name": "2026 Donruss WNBA - Signature Series Holo Frame",
+      "short": "Signature Series Holo Frame",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692355/2026-Donruss-WNBA-Signature-Series-Holo-Frame",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692354,
+      "name": "2026 Donruss WNBA - Signature Series Holo Gold Laser",
+      "short": "Signature Series Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692354/2026-Donruss-WNBA-Signature-Series-Holo-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692352,
+      "name": "2026 Donruss WNBA - Signature Series Holo Laser",
+      "short": "Signature Series Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692352/2026-Donruss-WNBA-Signature-Series-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692356,
+      "name": "2026 Donruss WNBA - Signature Series Lava",
+      "short": "Signature Series Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692356/2026-Donruss-WNBA-Signature-Series-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692357,
+      "name": "2026 Donruss WNBA - Signature Series Orange Lava",
+      "short": "Signature Series Orange Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692357/2026-Donruss-WNBA-Signature-Series-Orange-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 692358,
+      "name": "2026 Donruss WNBA - Signature Series Pink Shimmer",
+      "short": "Signature Series Pink Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/692358/2026-Donruss-WNBA-Signature-Series-Pink-Shimmer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689326,
+      "name": "2026 Donruss WNBA - State of the Art",
+      "short": "State of the Art",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689326/2026-Donruss-WNBA-State-of-the-Art",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690169,
+      "name": "2026 Donruss WNBA - State of the Art Holo Black",
+      "short": "State of the Art Holo Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690169/2026-Donruss-WNBA-State-of-the-Art-Holo-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 690168,
+      "name": "2026 Donruss WNBA - State of the Art Holo Gold",
+      "short": "State of the Art Holo Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/690168/2026-Donruss-WNBA-State-of-the-Art-Holo-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 694115,
+      "name": "2026 Donruss WNBA - Swish",
+      "short": "Swish",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/694115/2026-Donruss-WNBA-Swish",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 694117,
+      "name": "2026 Donruss WNBA - Swish Holo Black",
+      "short": "Swish Holo Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/694117/2026-Donruss-WNBA-Swish-Holo-Black",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 694116,
+      "name": "2026 Donruss WNBA - Swish Holo Gold",
+      "short": "Swish Holo Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/694116/2026-Donruss-WNBA-Swish-Holo-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686875,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures",
+      "short": "Timeless Treasures Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686875/2026-Donruss-WNBA-Timeless-Treasures-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686880,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Black Gold Laser",
+      "short": "Timeless Treasures Signatures Black Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686880/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Black-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686884,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Blue Shimmer",
+      "short": "Timeless Treasures Signatures Blue Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686884/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Blue-Shimmer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686879,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Holo Black Laser",
+      "short": "Timeless Treasures Signatures Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686879/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Holo-Black-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686878,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Holo Frame",
+      "short": "Timeless Treasures Signatures Holo Frame",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686878/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Holo-Frame",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686881,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Holo Gold Laser",
+      "short": "Timeless Treasures Signatures Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686881/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Holo-Gold-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686877,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Holo Laser",
+      "short": "Timeless Treasures Signatures Holo Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686877/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Holo-Laser",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686885,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Lava",
+      "short": "Timeless Treasures Signatures Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686885/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686882,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Orange Lava",
+      "short": "Timeless Treasures Signatures Orange Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686882/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Orange-Lava",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 686883,
+      "name": "2026 Donruss WNBA - Timeless Treasures Signatures Pink Shimmer",
+      "short": "Timeless Treasures Signatures Pink Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/686883/2026-Donruss-WNBA-Timeless-Treasures-Signatures-Pink-Shimmer",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 688990,
+      "name": "2026 Donruss WNBA - Tunnel Vision",
+      "short": "Tunnel Vision",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688990/2026-Donruss-WNBA-Tunnel-Vision",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 689084,
+      "name": "2026 Donruss WNBA - 30th Anniversary",
+      "short": "30th Anniversary",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689084/2026-Donruss-WNBA-30th-Anniversary",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689071,
+      "name": "2026 Donruss WNBA - Black Gold Laser",
+      "short": "Black Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689071/2026-Donruss-WNBA-Black-Gold-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689078,
+      "name": "2026 Donruss WNBA - Black Lava",
+      "short": "Black Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689078/2026-Donruss-WNBA-Black-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689082,
+      "name": "2026 Donruss WNBA - Black Shimmer",
+      "short": "Black Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689082/2026-Donruss-WNBA-Black-Shimmer",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689067,
+      "name": "2026 Donruss WNBA - Blue Laser",
+      "short": "Blue Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689067/2026-Donruss-WNBA-Blue-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689079,
+      "name": "2026 Donruss WNBA - Blue Shimmer",
+      "short": "Blue Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689079/2026-Donruss-WNBA-Blue-Shimmer",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689056,
+      "name": "2026 Donruss WNBA - Cubic",
+      "short": "Cubic",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689056/2026-Donruss-WNBA-Cubic",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 688985,
+      "name": "2026 Donruss WNBA - Dragon",
+      "short": "Dragon",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688985/2026-Donruss-WNBA-Dragon",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689077,
+      "name": "2026 Donruss WNBA - Gold Lava",
+      "short": "Gold Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689077/2026-Donruss-WNBA-Gold-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689081,
+      "name": "2026 Donruss WNBA - Gold Shimmer",
+      "short": "Gold Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689081/2026-Donruss-WNBA-Gold-Shimmer",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 688079,
+      "name": "2026 Donruss WNBA - Green Laser",
+      "short": "Green Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688079/2026-Donruss-WNBA-Green-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689058,
+      "name": "2026 Donruss WNBA - Green Lava",
+      "short": "Green Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689058/2026-Donruss-WNBA-Green-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689059,
+      "name": "2026 Donruss WNBA - Green Shimmer",
+      "short": "Green Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689059/2026-Donruss-WNBA-Green-Shimmer",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 688080,
+      "name": "2026 Donruss WNBA - Holo",
+      "short": "Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/688080/2026-Donruss-WNBA-Holo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689069,
+      "name": "2026 Donruss WNBA - Holo Black Laser",
+      "short": "Holo Black Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689069/2026-Donruss-WNBA-Holo-Black-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689070,
+      "name": "2026 Donruss WNBA - Holo Gold Laser",
+      "short": "Holo Gold Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689070/2026-Donruss-WNBA-Holo-Gold-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689085,
+      "name": "2026 Donruss WNBA - Holo Team Logo FOTL",
+      "short": "Holo Team Logo FOTL",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689085/2026-Donruss-WNBA-Holo-Team-Logo-FOTL",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689060,
+      "name": "2026 Donruss WNBA - Holo WNBA Logo",
+      "short": "Holo WNBA Logo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689060/2026-Donruss-WNBA-Holo-WNBA-Logo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689057,
+      "name": "2026 Donruss WNBA - Lava",
+      "short": "Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689057/2026-Donruss-WNBA-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689075,
+      "name": "2026 Donruss WNBA - Light Blue Lava",
+      "short": "Light Blue Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689075/2026-Donruss-WNBA-Light-Blue-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689062,
+      "name": "2026 Donruss WNBA - Orange Laser",
+      "short": "Orange Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689062/2026-Donruss-WNBA-Orange-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689073,
+      "name": "2026 Donruss WNBA - Orange Lava",
+      "short": "Orange Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689073/2026-Donruss-WNBA-Orange-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689083,
+      "name": "2026 Donruss WNBA - Orange Mojo",
+      "short": "Orange Mojo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689083/2026-Donruss-WNBA-Orange-Mojo",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689068,
+      "name": "2026 Donruss WNBA - Pink Laser",
+      "short": "Pink Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689068/2026-Donruss-WNBA-Pink-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689076,
+      "name": "2026 Donruss WNBA - Pink Lava",
+      "short": "Pink Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689076/2026-Donruss-WNBA-Pink-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689080,
+      "name": "2026 Donruss WNBA - Pink Shimmer",
+      "short": "Pink Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689080/2026-Donruss-WNBA-Pink-Shimmer",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689065,
+      "name": "2026 Donruss WNBA - Purple Laser",
+      "short": "Purple Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689065/2026-Donruss-WNBA-Purple-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689074,
+      "name": "2026 Donruss WNBA - Purple Lava",
+      "short": "Purple Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689074/2026-Donruss-WNBA-Purple-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689061,
+      "name": "2026 Donruss WNBA - Purple Shimmer",
+      "short": "Purple Shimmer",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689061/2026-Donruss-WNBA-Purple-Shimmer",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689064,
+      "name": "2026 Donruss WNBA - Red Laser",
+      "short": "Red Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689064/2026-Donruss-WNBA-Red-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689072,
+      "name": "2026 Donruss WNBA - Red Lava",
+      "short": "Red Lava",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689072/2026-Donruss-WNBA-Red-Lava",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689063,
+      "name": "2026 Donruss WNBA - Teal Laser",
+      "short": "Teal Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689063/2026-Donruss-WNBA-Teal-Laser",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 689066,
+      "name": "2026 Donruss WNBA - White Laser",
+      "short": "White Laser",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/689066/2026-Donruss-WNBA-White-Laser",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 9,
+  "imported_this_run": [
+    {
+      "source_set_id": 689072,
+      "name": "Red Lava",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 99
+    },
+    {
+      "source_set_id": 689077,
+      "name": "Gold Lava",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 689064,
+      "name": "Red Laser",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 689078,
+      "name": "Black Lava",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 689081,
+      "name": "Gold Shimmer",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 689082,
+      "name": "Black Shimmer",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 691997,
+      "name": "Signature Series",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 46
+    },
+    {
+      "source_set_id": 689310,
+      "name": "Next Day Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 689923,
+      "name": "Retro 1986 Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 692356,
+      "name": "Signature Series Lava",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 48
+    },
+    {
+      "source_set_id": 689289,
+      "name": "Rated Rookie Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 689925,
+      "name": "Retro 1986 Signatures Lava",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 18
+    },
+    {
+      "source_set_id": 689043,
+      "name": "Jersey Series",
+      "family_requested": "memorabilia",
+      "cards_with_front": 3,
+      "missing_fronts": 82
+    },
+    {
+      "source_set_id": 689050,
+      "name": "Rookie Jerseys",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 15
+    },
+    {
+      "source_set_id": 689046,
+      "name": "Jersey Series Prime",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 85
+    },
+    {
+      "source_set_id": 689053,
+      "name": "Rookie Jerseys Prime",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 15
+    },
+    {
+      "source_set_id": 689044,
+      "name": "Jersey Series Red",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 85
+    },
+    {
+      "source_set_id": 689047,
+      "name": "Jersey Series Gold",
+      "family_requested": "memorabilia",
+      "cards_with_front": 0,
+      "missing_fronts": 85
+    },
+    {
+      "source_set_id": 688080,
+      "name": "Holo",
+      "family_requested": "parallel",
+      "cards_with_front": 32,
+      "missing_fronts": 68
+    },
+    {
+      "source_set_id": 694115,
+      "name": "Swish",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 15
+    },
+    {
+      "source_set_id": 690160,
+      "name": "Parade",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 690714,
+      "name": "Mascots",
+      "family_requested": "insert",
+      "cards_with_front": 3,
+      "missing_fronts": 12
+    },
+    {
+      "source_set_id": 688988,
+      "name": "My House",
+      "family_requested": "insert",
+      "cards_with_front": 9,
+      "missing_fronts": 11
+    },
+    {
+      "source_set_id": 689311,
+      "name": "Pen Pals",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 688986,
+      "name": "Crunch Time",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 689067,
+      "name": "Blue Laser",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 689058,
+      "name": "Green Lava",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 688079,
+      "name": "Green Laser",
+      "family_requested": "numbered",
+      "cards_with_front": 2,
+      "missing_fronts": 98
+    },
+    {
+      "source_set_id": 690192,
+      "name": "Downtown",
+      "family_requested": "case_hit",
+      "cards_with_front": 0,
+      "missing_fronts": 15
+    }
+  ],
+  "import_errors": [],
+  "card_count": 97,
+  "before_tiers": {
+    "base": 27,
+    "rookie": 8
+  },
+  "tiers": {
+    "base": 27,
+    "rookie": 8,
+    "numbered": 4,
+    "auto": 2,
+    "memorabilia": 3,
+    "parallel": 32,
+    "insert": 22
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 4,
+    "numbered": 4,
+    "auto": 2,
+    "memorabilia": 3,
+    "parallel": 32,
+    "insert": 22
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 27,
+      "available_cards": 27,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 8,
+      "available_cards": 8,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 28
+    },
+    "auto": {
+      "status": "available",
+      "records": 2,
+      "available_cards": 2,
+      "local_images": 2,
+      "source_candidates": 42
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 12
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 32,
+      "available_cards": 32,
+      "local_images": 32,
+      "source_candidates": 33
+    },
+    "insert": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 66
+    },
+    "numbered": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 27
+    },
+    "case_hit": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    }
+  },
+  "plain_text_cards_recovered": 1
+}

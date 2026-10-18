@@ -1,0 +1,177 @@
+{
+  "set_id": "BB2749",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2749/1998-Pinnacle-WNBA",
+  "headings": [
+    "Insert Sets (3)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 6,
+  "subsets": [
+    {
+      "source_set_id": 25857,
+      "name": "1998 Pinnacle WNBA - Coast to Coast",
+      "short": "Coast to Coast",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25857/1998-Pinnacle-WNBA-Coast-to-Coast",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25859,
+      "name": "1998 Pinnacle WNBA - Number Ones",
+      "short": "Number Ones",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25859/1998-Pinnacle-WNBA-Number-Ones",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25860,
+      "name": "1998 Pinnacle WNBA - Planet Pinnacle",
+      "short": "Planet Pinnacle",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25860/1998-Pinnacle-WNBA-Planet-Pinnacle",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25856,
+      "name": "1998 Pinnacle WNBA - Arena Collection",
+      "short": "Arena Collection",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25856/1998-Pinnacle-WNBA-Arena-Collection",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25858,
+      "name": "1998 Pinnacle WNBA - Court Collection",
+      "short": "Court Collection",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25858/1998-Pinnacle-WNBA-Court-Collection",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 588498,
+      "name": "1998 Pinnacle WNBA - Promos",
+      "short": "Promos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/588498/1998-Pinnacle-WNBA-Promos",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 4,
+  "imported_this_run": [
+    {
+      "source_set_id": 25856,
+      "name": "Arena Collection",
+      "family_requested": "parallel",
+      "cards_with_front": 62,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 588498,
+      "name": "Promos",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25859,
+      "name": "Number Ones",
+      "family_requested": "insert",
+      "cards_with_front": 9,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 25857,
+      "name": "Coast to Coast",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 165,
+  "before_tiers": {
+    "rookie": 18,
+    "base": 65
+  },
+  "tiers": {
+    "rookie": 18,
+    "base": 67,
+    "parallel": 64,
+    "insert": 20
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "rookie": 6,
+    "base": 1,
+    "parallel": 64,
+    "insert": 20
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 67,
+      "available_cards": 67,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 18,
+      "available_cards": 18,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 64,
+      "available_cards": 64,
+      "local_images": 64,
+      "source_candidates": 2
+    },
+    "insert": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 4
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 4
+}

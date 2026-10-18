@@ -1,0 +1,274 @@
+{
+  "set_id": "BB2976",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2976/2001-02-Topps",
+  "headings": [
+    "Insert Sets (14)"
+  ],
+  "subset_count": 16,
+  "subsets": [
+    {
+      "source_set_id": 27175,
+      "name": "2001-02 Topps - All-Star Remnants",
+      "short": "All-Star Remnants",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27175/2001-02-Topps-All-Star-Remnants",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27176,
+      "name": "2001-02 Topps - All-Star Remnants Autographs",
+      "short": "All-Star Remnants Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27176/2001-02-Topps-All-Star-Remnants-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27177,
+      "name": "2001-02 Topps - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27177/2001-02-Topps-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 295986,
+      "name": "2001-02 Topps - Checklists Blue (HTA)",
+      "short": "Checklists Blue (HTA)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/295986/2001-02-Topps-Checklists-Blue-HTA-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 295987,
+      "name": "2001-02 Topps - Checklists Green (Hobby)",
+      "short": "Checklists Green (Hobby)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/295987/2001-02-Topps-Checklists-Green-Hobby-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 295988,
+      "name": "2001-02 Topps - Checklists Yellow (Retail)",
+      "short": "Checklists Yellow (Retail)",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/295988/2001-02-Topps-Checklists-Yellow-Retail-",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27178,
+      "name": "2001-02 Topps - Kareem Abdul-Jabbar Commemorative Series",
+      "short": "Kareem Abdul-Jabbar Commemorative Series",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27178/2001-02-Topps-Kareem-Abdul-Jabbar-Commemorative-Series",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27179,
+      "name": "2001-02 Topps - Kareem Abdul-Jabbar Commemorative Series Autographs",
+      "short": "Kareem Abdul-Jabbar Commemorative Series Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27179/2001-02-Topps-Kareem-Abdul-Jabbar-Commemorative-Series-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 296063,
+      "name": "2001-02 Topps - Kareem Abdul-Jabbar Commemorative Series Autoproof",
+      "short": "Kareem Abdul-Jabbar Commemorative Series Autoproof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/296063/2001-02-Topps-Kareem-Abdul-Jabbar-Commemorative-Series-Autoproof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27180,
+      "name": "2001-02 Topps - Lottery Legends",
+      "short": "Lottery Legends",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27180/2001-02-Topps-Lottery-Legends",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27182,
+      "name": "2001-02 Topps - MVP Promotion Redemptions",
+      "short": "MVP Promotion Redemptions",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27182/2001-02-Topps-MVP-Promotion-Redemptions",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27181,
+      "name": "2001-02 Topps - Mad Game",
+      "short": "Mad Game",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27181/2001-02-Topps-Mad-Game",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 296294,
+      "name": "2001-02 Topps - Showtime Coverage",
+      "short": "Showtime Coverage",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/296294/2001-02-Topps-Showtime-Coverage",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27184,
+      "name": "2001-02 Topps - Team Topps",
+      "short": "Team Topps",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27184/2001-02-Topps-Team-Topps",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 226771,
+      "name": "2001-02 Topps - MVP Exchange",
+      "short": "MVP Exchange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/226771/2001-02-Topps-MVP-Exchange",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27183,
+      "name": "2001-02 Topps - Pre-Production",
+      "short": "Pre-Production",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27183/2001-02-Topps-Pre-Production",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 6,
+  "imported_this_run": [
+    {
+      "source_set_id": 27177,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 3,
+      "missing_fronts": 9
+    },
+    {
+      "source_set_id": 27176,
+      "name": "All-Star Remnants Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 10
+    },
+    {
+      "source_set_id": 27179,
+      "name": "Kareem Abdul-Jabbar Commemorative Series Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 13
+    },
+    {
+      "source_set_id": 27181,
+      "name": "Mad Game",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27184,
+      "name": "Team Topps",
+      "family_requested": "insert",
+      "cards_with_front": 9,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 295986,
+      "name": "Checklists Blue (HTA)",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 295987,
+      "name": "Checklists Green (Hobby)",
+      "family_requested": "numbered",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27182,
+      "name": "MVP Promotion Redemptions",
+      "family_requested": "numbered",
+      "cards_with_front": 27,
+      "missing_fronts": 223
+    }
+  ],
+  "import_errors": [],
+  "card_count": 300,
+  "before_tiers": {
+    "base": 213,
+    "rookie": 38
+  },
+  "tiers": {
+    "base": 219,
+    "rookie": 38,
+    "auto": 3,
+    "insert": 50
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 1,
+    "auto": 3,
+    "insert": 50
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 219,
+      "available_cards": 219,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 38,
+      "available_cards": 38,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 3,
+      "available_cards": 3,
+      "local_images": 3,
+      "source_candidates": 3
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 50,
+      "source_candidates": 13
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 3
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 10
+}

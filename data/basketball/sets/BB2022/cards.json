@@ -24,7 +24,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2022-631333.webp"
+    "local_preview": "data/basketball/previews/BB2022-631333.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2022:631334",
@@ -50,7 +52,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631335",
@@ -77,7 +80,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2022-631335.webp"
+    "local_preview": "data/basketball/previews/BB2022-631335.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2022:631336",
@@ -103,7 +108,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631337",
@@ -129,7 +135,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631338",
@@ -155,7 +162,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631339",
@@ -181,7 +189,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631340",
@@ -207,7 +216,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631341",
@@ -233,7 +243,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631342",
@@ -259,7 +270,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631343",
@@ -285,7 +297,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631344",
@@ -311,7 +324,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631345",
@@ -337,7 +351,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631346",
@@ -364,7 +379,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2022-631346.webp"
+    "local_preview": "data/basketball/previews/BB2022-631346.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2022:631347",
@@ -390,7 +407,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631348",
@@ -416,7 +434,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631349",
@@ -442,7 +461,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631350",
@@ -468,7 +488,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631351",
@@ -494,7 +515,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631352",
@@ -520,7 +542,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631353",
@@ -546,7 +569,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631354",
@@ -572,7 +596,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631355",
@@ -598,7 +623,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631356",
@@ -624,7 +650,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631357",
@@ -650,7 +677,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631358",
@@ -676,7 +704,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631359",
@@ -702,7 +731,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631360",
@@ -728,7 +758,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631361",
@@ -754,7 +785,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631362",
@@ -780,7 +812,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631363",
@@ -806,7 +839,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631364",
@@ -832,7 +866,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631365",
@@ -858,7 +893,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631366",
@@ -884,7 +920,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631367",
@@ -910,7 +947,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631368",
@@ -936,7 +974,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631369",
@@ -962,7 +1001,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631370",
@@ -988,7 +1028,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631371",
@@ -1015,7 +1056,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2022-631371.webp"
+    "local_preview": "data/basketball/previews/BB2022-631371.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2022:631372",
@@ -1041,7 +1084,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631373",
@@ -1067,7 +1111,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631374",
@@ -1093,7 +1138,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631375",
@@ -1120,7 +1166,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2022-631375.webp"
+    "local_preview": "data/basketball/previews/BB2022-631375.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2022:631376",
@@ -1146,7 +1194,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631377",
@@ -1172,7 +1221,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631378",
@@ -1198,7 +1248,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631379",
@@ -1224,7 +1275,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631380",
@@ -1250,7 +1302,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631381",
@@ -1276,7 +1329,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631382",
@@ -1302,7 +1356,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631383",
@@ -1328,7 +1383,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631384",
@@ -1354,7 +1410,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631385",
@@ -1380,7 +1437,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631386",
@@ -1406,7 +1464,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631387",
@@ -1432,7 +1491,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631388",
@@ -1458,7 +1518,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631389",
@@ -1484,7 +1545,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631390",
@@ -1510,7 +1572,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631391",
@@ -1536,7 +1599,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631392",
@@ -1562,7 +1626,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631393",
@@ -1588,7 +1653,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631394",
@@ -1614,7 +1680,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631395",
@@ -1640,7 +1707,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631396",
@@ -1666,7 +1734,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631397",
@@ -1692,7 +1761,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631398",
@@ -1718,7 +1788,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631399",
@@ -1744,7 +1815,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631400",
@@ -1770,7 +1842,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631401",
@@ -1796,7 +1869,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631402",
@@ -1822,7 +1896,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631403",
@@ -1848,7 +1923,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631404",
@@ -1874,7 +1950,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631405",
@@ -1900,7 +1977,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631406",
@@ -1926,7 +2004,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631407",
@@ -1952,7 +2031,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631408",
@@ -1978,7 +2058,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631409",
@@ -2004,7 +2085,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631410",
@@ -2030,7 +2112,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631411",
@@ -2056,7 +2139,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631412",
@@ -2082,7 +2166,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631431",
@@ -2108,7 +2193,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631432",
@@ -2134,7 +2220,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631433",
@@ -2160,7 +2247,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631434",
@@ -2186,7 +2274,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631435",
@@ -2212,7 +2301,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631436",
@@ -2238,7 +2328,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631437",
@@ -2264,7 +2355,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631438",
@@ -2290,7 +2382,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631439",
@@ -2316,7 +2409,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631440",
@@ -2342,7 +2436,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631441",
@@ -2368,7 +2463,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631442",
@@ -2394,7 +2490,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631443",
@@ -2420,7 +2517,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631444",
@@ -2446,7 +2544,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631445",
@@ -2472,7 +2571,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631446",
@@ -2498,7 +2598,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631447",
@@ -2524,7 +2625,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631448",
@@ -2550,7 +2652,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631449",
@@ -2576,7 +2679,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631450",
@@ -2602,7 +2706,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631451",
@@ -2628,7 +2733,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631452",
@@ -2654,7 +2760,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631453",
@@ -2680,7 +2787,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631454",
@@ -2706,7 +2814,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631455",
@@ -2732,7 +2841,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631456",
@@ -2758,7 +2868,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631457",
@@ -2784,7 +2895,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631458",
@@ -2810,7 +2922,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631459",
@@ -2836,7 +2949,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631460",
@@ -2862,7 +2976,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631461",
@@ -2888,7 +3003,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631462",
@@ -2914,7 +3030,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631463",
@@ -2940,7 +3057,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631464",
@@ -2966,7 +3084,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631465",
@@ -2992,7 +3111,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631466",
@@ -3018,7 +3138,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631467",
@@ -3044,7 +3165,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631468",
@@ -3070,7 +3192,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631469",
@@ -3096,7 +3219,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631470",
@@ -3122,7 +3246,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631471",
@@ -3148,7 +3273,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631472",
@@ -3174,7 +3300,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631474",
@@ -3200,7 +3327,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631475",
@@ -3226,7 +3354,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631482",
@@ -3252,7 +3381,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631483",
@@ -3278,7 +3408,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631484",
@@ -3304,7 +3435,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631485",
@@ -3330,7 +3462,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631486",
@@ -3356,7 +3489,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631487",
@@ -3382,7 +3516,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631488",
@@ -3408,7 +3543,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631489",
@@ -3434,7 +3570,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631490",
@@ -3460,7 +3597,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631491",
@@ -3486,7 +3624,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631492",
@@ -3512,7 +3651,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631497",
@@ -3538,7 +3678,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631498",
@@ -3564,7 +3705,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631499",
@@ -3590,7 +3732,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631500",
@@ -3616,7 +3759,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631501",
@@ -3642,7 +3786,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631502",
@@ -3668,7 +3813,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631503",
@@ -3694,7 +3840,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631504",
@@ -3720,7 +3867,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631505",
@@ -3746,7 +3894,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631506",
@@ -3772,7 +3921,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631507",
@@ -3798,7 +3948,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631508",
@@ -3824,7 +3975,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631509",
@@ -3850,7 +4002,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631510",
@@ -3876,7 +4029,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631511",
@@ -3902,7 +4056,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631512",
@@ -3928,7 +4083,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631513",
@@ -3954,7 +4110,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631514",
@@ -3980,7 +4137,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631515",
@@ -4006,7 +4164,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631516",
@@ -4032,7 +4191,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631517",
@@ -4058,7 +4218,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631518",
@@ -4084,7 +4245,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631519",
@@ -4110,7 +4272,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631520",
@@ -4136,7 +4299,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631521",
@@ -4162,7 +4326,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631522",
@@ -4188,7 +4353,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631523",
@@ -4214,7 +4380,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631524",
@@ -4240,7 +4407,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631525",
@@ -4266,7 +4434,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631526",
@@ -4292,7 +4461,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631527",
@@ -4318,7 +4488,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631528",
@@ -4344,7 +4515,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631529",
@@ -4370,7 +4542,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631530",
@@ -4396,7 +4569,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631531",
@@ -4422,7 +4596,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631532",
@@ -4448,7 +4623,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631533",
@@ -4474,7 +4650,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631534",
@@ -4500,7 +4677,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631536",
@@ -4526,7 +4704,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631537",
@@ -4552,7 +4731,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631538",
@@ -4578,7 +4758,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631545",
@@ -4604,7 +4785,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631546",
@@ -4630,7 +4812,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631547",
@@ -4656,7 +4839,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631548",
@@ -4682,7 +4866,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631549",
@@ -4708,7 +4893,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631550",
@@ -4734,7 +4920,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631551",
@@ -4760,7 +4947,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631552",
@@ -4786,7 +4974,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631563",
@@ -4812,7 +5001,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631564",
@@ -4838,7 +5028,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631565",
@@ -4864,7 +5055,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631566",
@@ -4890,7 +5082,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631567",
@@ -4916,7 +5109,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631568",
@@ -4942,7 +5136,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631569",
@@ -4968,7 +5163,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631570",
@@ -4994,7 +5190,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631571",
@@ -5020,7 +5217,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631572",
@@ -5046,7 +5244,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631573",
@@ -5072,7 +5271,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631574",
@@ -5098,7 +5298,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631575",
@@ -5124,7 +5325,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631576",
@@ -5150,7 +5352,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631577",
@@ -5176,7 +5379,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631582",
@@ -5203,7 +5407,9 @@
     "illustrators": [],
     "variant_code": 0,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry",
-    "local_preview": "data/basketball/previews/BB2022-631582.webp"
+    "local_preview": "data/basketball/previews/BB2022-631582.webp",
+    "is_chase": false,
+    "image_status": "local_verified"
   },
   {
     "id": "BB2022:631583",
@@ -5229,7 +5435,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631584",
@@ -5255,7 +5462,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631585",
@@ -5281,7 +5489,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631586",
@@ -5307,7 +5516,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631587",
@@ -5333,7 +5543,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631588",
@@ -5359,7 +5570,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631589",
@@ -5385,7 +5597,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631590",
@@ -5411,7 +5624,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631591",
@@ -5437,7 +5651,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631592",
@@ -5463,7 +5678,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631593",
@@ -5489,7 +5705,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631594",
@@ -5515,7 +5732,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631595",
@@ -5541,7 +5759,8 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
-    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
   },
   {
     "id": "BB2022:631596",
@@ -5567,6 +5786,1386 @@
     "type": "篮球球星卡",
     "illustrators": [],
     "variant_code": 0,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "is_chase": false
+  },
+  {
+    "id": "BB2022:631413",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "81",
+    "name": "Atlanta Hawks Team Leaders (Pete Maravich / Lou Hudson / Walt Bellamy) TL",
+    "original_name": "Atlanta Hawks Team Leaders (Pete Maravich / Lou Hudson / Walt Bellamy) TL",
+    "team": "Atlanta Hawks",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631413/1974-75-Topps-81-Atlanta-Hawks-Team-Leaders-(Pete-Maravich-/-Lou-Hudson-/-Walt-Bellamy)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-81Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-81Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-81Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-81Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
     "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631414",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "82",
+    "name": "Boston Celtics Team Leaders (John Havlicek / Jo Jo White / Dave Cowens) TL",
+    "original_name": "Boston Celtics Team Leaders (John Havlicek / Jo Jo White / Dave Cowens) TL",
+    "team": "Boston Celtics",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631414/1974-75-Topps-82-Boston-Celtics-Team-Leaders-(John-Havlicek-/-Jo-Jo-White-/-Dave-Cowens)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-82Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-82Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-82Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-82Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631415",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "83",
+    "name": "Buffalo Braves Team Leaders (Bob McAdoo / Ernie DiGregorio) TL",
+    "original_name": "Buffalo Braves Team Leaders (Bob McAdoo / Ernie DiGregorio) TL",
+    "team": "Buffalo Braves",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631415/1974-75-Topps-83-Buffalo-Braves-Team-Leaders-(Bob-McAdoo-/-Ernie-DiGregorio)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-83Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-83Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-83Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-83Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631416",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "84",
+    "name": "Chicago Bulls Team Leaders (Bob Love / Chet Walker / Clifford Ray / Norm Van Lier) TL",
+    "original_name": "Chicago Bulls Team Leaders (Bob Love / Chet Walker / Clifford Ray / Norm Van Lier) TL",
+    "team": "Chicago Bulls",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631416/1974-75-Topps-84-Chicago-Bulls-Team-Leaders-(Bob-Love-/-Chet-Walker-/-Clifford-Ray-/-Norm-Van-Lier)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631416Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631416Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631416Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631416Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631417",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "85",
+    "name": "Cleveland Cavaliers Team Leaders (Austin Carr / Dwight Davis / Len Wilkens) TL",
+    "original_name": "Cleveland Cavaliers Team Leaders (Austin Carr / Dwight Davis / Len Wilkens) TL",
+    "team": "Cleveland Cavaliers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631417/1974-75-Topps-85-Cleveland-Cavaliers-Team-Leaders-(Austin-Carr-/-Dwight-Davis-/-Len-Wilkens)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631417Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631417Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631417Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631417Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631418",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "86",
+    "name": "Detroit Pistons Team Leaders (Bob Lanier / Stu Lantz / Dave Bing) TL",
+    "original_name": "Detroit Pistons Team Leaders (Bob Lanier / Stu Lantz / Dave Bing) TL",
+    "team": "Detroit Pistons",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631418/1974-75-Topps-86-Detroit-Pistons-Team-Leaders-(Bob-Lanier-/-Stu-Lantz-/-Dave-Bing)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631418Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631418Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631418Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631418Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631419",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "87",
+    "name": "Golden State Warriors Team Leaders (Rick Barry / Nate Thurmond) TL",
+    "original_name": "Golden State Warriors Team Leaders (Rick Barry / Nate Thurmond) TL",
+    "team": "Golden State Warriors",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631419/1974-75-Topps-87-Golden-State-Warriors-Team-Leaders-(Rick-Barry-/-Nate-Thurmond)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631419Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631419Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631419Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631419Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631420",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "88",
+    "name": "Houston Rockets Team Leaders (Rudy Tomjanovich / Calvin Murphy / Don Smith) TL",
+    "original_name": "Houston Rockets Team Leaders (Rudy Tomjanovich / Calvin Murphy / Don Smith) TL",
+    "team": "Houston Rockets",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631420/1974-75-Topps-88-Houston-Rockets-Team-Leaders-(Rudy-Tomjanovich-/-Calvin-Murphy-/-Don-Smith)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631420Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631420Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631420Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631420Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631421",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "89",
+    "name": "Kings Team Leaders (Jimmy Walker / Sam Lacey) TL",
+    "original_name": "Kings Team Leaders (Jimmy Walker / Sam Lacey) TL",
+    "team": "Kansas City-Omaha Kings",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631421/1974-75-Topps-89-Kings-Team-Leaders-(Jimmy-Walker-/-Sam-Lacey)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631421Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631421Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631421Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631421Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631422",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "90",
+    "name": "Los Angeles Lakers Team Leaders (Gail Goodrich / Happy Hairston) TL",
+    "original_name": "Los Angeles Lakers Team Leaders (Gail Goodrich / Happy Hairston) TL",
+    "team": "Los Angeles Lakers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631422/1974-75-Topps-90-Los-Angeles-Lakers-Team-Leaders-(Gail-Goodrich-/-Happy-Hairston)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631422Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631422Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631422Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631422Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631423",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "91",
+    "name": "Milwaukee Bucks Team Leaders (Kareem Abdul-Jabbar / Oscar Robertson) TL",
+    "original_name": "Milwaukee Bucks Team Leaders (Kareem Abdul-Jabbar / Oscar Robertson) TL",
+    "team": "Milwaukee Bucks",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631423/1974-75-Topps-91-Milwaukee-Bucks-Team-Leaders-(Kareem-Abdul-Jabbar-/-Oscar-Robertson)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631423Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631423Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631423Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631423Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631424",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "92",
+    "name": "New Orleans Jazz",
+    "original_name": "New Orleans Jazz",
+    "team": "New Orleans Jazz",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631424/1974-75-Topps-92-New-Orleans-Jazz",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-92Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-92Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-92Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-92Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631425",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "93",
+    "name": "New York Knicks Team Leaders (Walt Frazier / Bill Bradley / Dave DeBusschere) TL",
+    "original_name": "New York Knicks Team Leaders (Walt Frazier / Bill Bradley / Dave DeBusschere) TL",
+    "team": "New York Knicks",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631425/1974-75-Topps-93-New-York-Knicks-Team-Leaders-(Walt-Frazier-/-Bill-Bradley-/-Dave-DeBusschere)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631425Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631425Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631425Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631425Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631426",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "94",
+    "name": "Philadelphia 76ers Team Leaders (Fred Carter / Tom Van Arsdale / Leroy Ellis) TL",
+    "original_name": "Philadelphia 76ers Team Leaders (Fred Carter / Tom Van Arsdale / Leroy Ellis) TL",
+    "team": "Philadelphia 76ers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631426/1974-75-Topps-94-Philadelphia-76ers-Team-Leaders-(Fred-Carter-/-Tom-Van-Arsdale-/-Leroy-Ellis)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631426Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631426Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631426Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631426Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631427",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "95",
+    "name": "Phoenix Suns Team Leaders (Charlie Scott / Dick Van Arsdale / Neal Walk) TL",
+    "original_name": "Phoenix Suns Team Leaders (Charlie Scott / Dick Van Arsdale / Neal Walk) TL",
+    "team": "Phoenix Suns",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631427/1974-75-Topps-95-Phoenix-Suns-Team-Leaders-(Charlie-Scott-/-Dick-Van-Arsdale-/-Neal-Walk)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631427Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631427Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631427Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631427Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631428",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "96",
+    "name": "Portland Trail Blazers Team Leaders (Geoff Petrie / Rick Roberson / Sidney Wicks) TL",
+    "original_name": "Portland Trail Blazers Team Leaders (Geoff Petrie / Rick Roberson / Sidney Wicks) TL",
+    "team": "Portland Trail Blazers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631428/1974-75-Topps-96-Portland-Trail-Blazers-Team-Leaders-(Geoff-Petrie-/-Rick-Roberson-/-Sidney-Wicks)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631428Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631428Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631428Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631428Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631429",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "97",
+    "name": "Seattle Supersonics Team Leaders (Spencer Haywood / Dick Snyder / Fred Brown) TL",
+    "original_name": "Seattle Supersonics Team Leaders (Spencer Haywood / Dick Snyder / Fred Brown) TL",
+    "team": "Seattle SuperSonics",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631429/1974-75-Topps-97-Seattle-Supersonics-Team-Leaders-(Spencer-Haywood-/-Dick-Snyder-/-Fred-Brown)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631429Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631429Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631429Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631429Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631430",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "98",
+    "name": "Capitol Bullets Team Leaders (Phil Chenier / Elvin Hayes / Kevin Porter) TL",
+    "original_name": "Capitol Bullets Team Leaders (Phil Chenier / Elvin Hayes / Kevin Porter) TL",
+    "team": "Washington Bullets",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631430/1974-75-Topps-98-Capitol-Bullets-Team-Leaders-(Phil-Chenier-/-Elvin-Hayes-/-Kevin-Porter)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631430Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631430Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631430Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631430Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631473",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "141",
+    "name": "NBA Checklist: 1-176",
+    "original_name": "NBA Checklist: 1-176",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "CL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631473/1974-75-Topps-141-NBA-Checklist:-1-176",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631473Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631473Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631473Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631473Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631476",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "144",
+    "name": "NBA '73-74 Scoring Leaders (Bob McAdoo / Kareem Abdul-Jabbar / Pete Maravich)",
+    "original_name": "NBA '73-74 Scoring Leaders (Bob McAdoo / Kareem Abdul-Jabbar / Pete Maravich)",
+    "team": "Buffalo Braves / Milwaukee Bucks / Atlanta Hawks",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631476/1974-75-Topps-144-NBA-'73-74-Scoring-Leaders-(Bob-McAdoo-/-Kareem-Abdul-Jabbar-/-Pete-Maravich)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-144Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-144Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-144Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-144Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631477",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "145",
+    "name": "NBA '73-74 Scoring Average Leaders (Bob McAdoo / Pete Maravich / Kareem Abdul-Jabbar)",
+    "original_name": "NBA '73-74 Scoring Average Leaders (Bob McAdoo / Pete Maravich / Kareem Abdul-Jabbar)",
+    "team": "Buffalo Braves / Atlanta Hawks / Milwaukee Bucks",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631477/1974-75-Topps-145-NBA-'73-74-Scoring-Average-Leaders-(Bob-McAdoo-/-Pete-Maravich-/-Kareem-Abdul-Jabbar)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-145Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-145Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-145Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-145Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631478",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "146",
+    "name": "NBA '73-74 Field Goal Pct. Leaders (Bob McAdoo / Kareem Abdul-Jabbar / Rudy Tomjanovich)",
+    "original_name": "NBA '73-74 Field Goal Pct. Leaders (Bob McAdoo / Kareem Abdul-Jabbar / Rudy Tomjanovich)",
+    "team": "Buffalo Braves / Milwaukee Bucks / Houston Rockets",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631478/1974-75-Topps-146-NBA-'73-74-Field-Goal-Pct.-Leaders-(Bob-McAdoo-/-Kareem-Abdul-Jabbar-/-Rudy-Tomjanovich)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-146Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-146Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-146Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-146Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631479",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "147",
+    "name": "NBA '73-'74 Free Throw Pct. Leaders (Ernie Digregorio / Rick Barry / Jeff Mullins)",
+    "original_name": "NBA '73-'74 Free Throw Pct. Leaders (Ernie Digregorio / Rick Barry / Jeff Mullins)",
+    "team": "Buffalo Braves / Golden State Warriors",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631479/1974-75-Topps-147-NBA-'73-'74-Free-Throw-Pct.-Leaders-(Ernie-Digregorio-/-Rick-Barry-/-Jeff-Mullins)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-147Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-147Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-147Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-147Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631480",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "148",
+    "name": "NBA '73-74 Rebound Leaders (Elvin Hayes / Dave Cowens / Bob McAdoo)",
+    "original_name": "NBA '73-74 Rebound Leaders (Elvin Hayes / Dave Cowens / Bob McAdoo)",
+    "team": "Capital Bullets / Boston Celtics / Buffalo Braves",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631480/1974-75-Topps-148-NBA-'73-74-Rebound-Leaders-(Elvin-Hayes-/-Dave-Cowens-/-Bob-McAdoo)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-148Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-148Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-148Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-148Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631481",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "149",
+    "name": "NBA '73-74 Assist Leaders (Ernie DiGregorio / Calvin Murphy / Len Wilkens)",
+    "original_name": "NBA '73-74 Assist Leaders (Ernie DiGregorio / Calvin Murphy / Len Wilkens)",
+    "team": "Buffalo Braves / Houston Rockets / Cleveland Cavaliers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631481/1974-75-Topps-149-NBA-'73-74-Assist-Leaders-(Ernie-DiGregorio-/-Calvin-Murphy-/-Len-Wilkens)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-149Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-149Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-149Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-149Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631493",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "161",
+    "name": "NBA Eastern Semis PSH",
+    "original_name": "NBA Eastern Semis PSH",
+    "team": "Boston Celtics / Buffalo Braves / New York Knicks / Capital Bullets",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631493/1974-75-Topps-161-NBA-Eastern-Semis",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-161Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-161Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-161Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-161Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631494",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "162",
+    "name": "NBA Western Semis PSH",
+    "original_name": "NBA Western Semis PSH",
+    "team": "Milwaukee Bucks / Los Angeles Lakers / Chicago Bulls / Detroit Pistons",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631494/1974-75-Topps-162-NBA-Western-Semis",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-162Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-162Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-162Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-162Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631495",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "163",
+    "name": "NBA Division Finals PSH",
+    "original_name": "NBA Division Finals PSH",
+    "team": "Boston Celtics / New York Knicks / Milwaukee Bucks / Chicago Bulls",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631495/1974-75-Topps-163-NBA-Division-Finals",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-163Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-163Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-163Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-163Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631496",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "164",
+    "name": "NBA Championship PSH",
+    "original_name": "NBA Championship PSH",
+    "team": "Boston Celtics / Milwaukee Bucks",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631496/1974-75-Topps-164-NBA-Championship",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-164Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-164Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-164Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-164Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631535",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "203",
+    "name": "ABA Checklist: 177-264",
+    "original_name": "ABA Checklist: 177-264",
+    "team": "",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "CL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631535/1974-75-Topps-203-ABA-Checklist:-177-264",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631535Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631535Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631535Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631535Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631539",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "207",
+    "name": "ABA '73-74 Scoring Average Leaders (Julius Erving / George McGinnis / Dan Issel)",
+    "original_name": "ABA '73-74 Scoring Average Leaders (Julius Erving / George McGinnis / Dan Issel)",
+    "team": "New York Nets / Indiana Pacers / Kentucky Colonels",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631539/1974-75-Topps-207-ABA-'73-74-Scoring-Average-Leaders-(Julius-Erving-/-George-McGinnis-/-Dan-Issel)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-207Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-207Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-207Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-207Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631540",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "208",
+    "name": "ABA '73-74 Two-Point Field Goal Leaders (Swen Nater / James Jones / Tom Owens)",
+    "original_name": "ABA '73-74 Two-Point Field Goal Leaders (Swen Nater / James Jones / Tom Owens)",
+    "team": "Virginia Squires / San Antonio Spurs / Utah Stars / Carolina Cougars",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631540/1974-75-Topps-208-ABA-'73-74-Two-Point-Field-Goal-Leaders-(Swen-Nater-/-James-Jones-/-Tom-Owens)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-208Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-208Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-208Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-208Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631541",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "209",
+    "name": "ABA '73-74 Three-Point Field Goal Leaders (Louie Dampier / Billy Keller / Roger Brown)",
+    "original_name": "ABA '73-74 Three-Point Field Goal Leaders (Louie Dampier / Billy Keller / Roger Brown)",
+    "team": "Kentucky Colonels / Indiana Pacers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631541/1974-75-Topps-209-ABA-'73-74-Three-Point-Field-Goal-Leaders-(Louie-Dampier-/-Billy-Keller-/-Roger-Brown)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-209Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-209Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-209Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-209Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631542",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "210",
+    "name": "ABA '73-74 Free Throw Pct. Leaders (James Jones / Mack Calvin / Ron Boone)",
+    "original_name": "ABA '73-74 Free Throw Pct. Leaders (James Jones / Mack Calvin / Ron Boone)",
+    "team": "Utah Stars / Carolina Cougars",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631542/1974-75-Topps-210-ABA-'73-74-Free-Throw-Pct.-Leaders-(James-Jones-/-Mack-Calvin-/-Ron-Boone)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-210Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-210Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-210Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-210Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631543",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "211",
+    "name": "ABA '73-74 Rebound Leaders (Artis Gilmore / George McGinnis / Caldwell Jones)",
+    "original_name": "ABA '73-74 Rebound Leaders (Artis Gilmore / George McGinnis / Caldwell Jones)",
+    "team": "Kentucky Colonels / Indiana Pacers / San Diego Conquistadors",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631543/1974-75-Topps-211-ABA-'73-74-Rebound-Leaders-(Artis-Gilmore-/-George-McGinnis-/-Caldwell-Jones)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-211Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-211Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-211Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-211Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631544",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "212",
+    "name": "ABA '73-74 ABA Assist Leaders (Al Smith / Chuck Williams / Louie Dampier)",
+    "original_name": "ABA '73-74 ABA Assist Leaders (Al Smith / Chuck Williams / Louie Dampier)",
+    "team": "Denver Rockets / Kentucky Colonels",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "LL",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631544/1974-75-Topps-212-ABA-'73-74-ABA-Assist-Leaders-(Al-Smith-/-Chuck-Williams-/-Louie-Dampier)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-212Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-212Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-212Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-212Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631553",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "221",
+    "name": "Carolina Cougars Team Leaders (Billy Cunningham / Mack Calvin / Tom Owens / Joe Caldwell) TL",
+    "original_name": "Carolina Cougars Team Leaders (Billy Cunningham / Mack Calvin / Tom Owens / Joe Caldwell) TL",
+    "team": "Carolina Cougars / Spirits of St. Louis",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631553/1974-75-Topps-221-Carolina-Cougars-Team-Leaders-(Billy-Cunningham-/-Mack-Calvin-/-Tom-Owens-/-Joe-Caldwell)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631553Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631553Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631553Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631553Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631554",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "222",
+    "name": "Denver Nuggets Team Leaders (Ralph Simpson / Byron Beck / Dave Robisch / Al Smith) TL",
+    "original_name": "Denver Nuggets Team Leaders (Ralph Simpson / Byron Beck / Dave Robisch / Al Smith) TL",
+    "team": "Denver Nuggets",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631554/1974-75-Topps-222-Denver-Nuggets-Team-Leaders-(Ralph-Simpson-/-Byron-Beck-/-Dave-Robisch-/-Al-Smith)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631554Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631554Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631554Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631554Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631555",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "223",
+    "name": "Indiana Pacers Team Leaders (George McGinnis / Billy Keller / Freddie Lewis) TL",
+    "original_name": "Indiana Pacers Team Leaders (George McGinnis / Billy Keller / Freddie Lewis) TL",
+    "team": "Indiana Pacers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631555/1974-75-Topps-223-Indiana-Pacers-Team-Leaders-(George-McGinnis-/-Billy-Keller-/-Freddie-Lewis)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631555Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631555Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631555Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631555Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631556",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "224",
+    "name": "Kentucky Colonels Team Leaders (Dan Issel / Louie Dampier / Artis Gilmore) TL",
+    "original_name": "Kentucky Colonels Team Leaders (Dan Issel / Louie Dampier / Artis Gilmore) TL",
+    "team": "Kentucky Colonels",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631556/1974-75-Topps-224-Kentucky-Colonels-Team-Leaders-(Dan-Issel-/-Louie-Dampier-/-Artis-Gilmore)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631556Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631556Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631556Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631556Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631557",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "225",
+    "name": "Memphis Sounds Team Leaders (George Thompson / Larry Finch / Randy Denton) TL",
+    "original_name": "Memphis Sounds Team Leaders (George Thompson / Larry Finch / Randy Denton) TL",
+    "team": "Memphis Sounds",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631557/1974-75-Topps-225-Memphis-Sounds-Team-Leaders-(George-Thompson-/-Larry-Finch-/-Randy-Denton)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631557Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631557Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631557Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631557Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631558",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "226",
+    "name": "New York Nets Team Leaders (Julius Erving / John Roche / Larry Kenon) TL",
+    "original_name": "New York Nets Team Leaders (Julius Erving / John Roche / Larry Kenon) TL",
+    "team": "New York Nets",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631558/1974-75-Topps-226-New-York-Nets-Team-Leaders-(Julius-Erving-/-John-Roche-/-Larry-Kenon)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631558Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631558Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631558Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631558Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631559",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "227",
+    "name": "San Antonio Spurs Team Leaders (George Gervin / Swen Nater / James Silas) TL",
+    "original_name": "San Antonio Spurs Team Leaders (George Gervin / Swen Nater / James Silas) TL",
+    "team": "San Antonio Spurs",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631559/1974-75-Topps-227-San-Antonio-Spurs-Team-Leaders-(George-Gervin-/-Swen-Nater-/-James-Silas)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631559Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631559Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631559Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631559Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631560",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "228",
+    "name": "San Diego Conquistadors Team Leaders (Dwight Lamar / Stew Johnson / Caldwell Jones / Chuck Williams) TL",
+    "original_name": "San Diego Conquistadors Team Leaders (Dwight Lamar / Stew Johnson / Caldwell Jones / Chuck Williams) TL",
+    "team": "San Diego Conquistadors",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631560/1974-75-Topps-228-San-Diego-Conquistadors-Team-Leaders-(Dwight-Lamar-/-Stew-Johnson-/-Caldwell-Jones-/-Chuck-Williams)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631560Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631560Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631560Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631560Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631561",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "229",
+    "name": "Utah Stars Team Leaders (Willie Wise / James Jones / Gerald Govan) TL",
+    "original_name": "Utah Stars Team Leaders (Willie Wise / James Jones / Gerald Govan) TL",
+    "team": "Utah Stars",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631561/1974-75-Topps-229-Utah-Stars-Team-Leaders-(Willie-Wise-/-James-Jones-/-Gerald-Govan)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631561Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631561Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631561Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631561Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631562",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "230",
+    "name": "Virginia Squires Team Leaders (George Carter / George Irvine / Jim Eakins / Roland Taylor) TL",
+    "original_name": "Virginia Squires Team Leaders (George Carter / George Irvine / Jim Eakins / Roland Taylor) TL",
+    "team": "Virginia Squires",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631562/1974-75-Topps-230-Virginia-Squires-Team-Leaders-(George-Carter-/-George-Irvine-/-Jim-Eakins-/-Roland-Taylor)",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631562Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631562Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631562Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-631562Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631578",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "246",
+    "name": "ABA Eastern Semis PSH",
+    "original_name": "ABA Eastern Semis PSH",
+    "team": "New York Nets / Virginia Squires / Kentucky Colonels / Carolina Cougars",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631578/1974-75-Topps-246-ABA-Eastern-Semis",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-246Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-246Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-246Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-246Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631579",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "247",
+    "name": "ABA Western Semis PSH",
+    "original_name": "ABA Western Semis PSH",
+    "team": "Utah Stars / San Diego Conquistadors / Indiana Pacers / San Antonio Spurs",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631579/1974-75-Topps-247-ABA-Western-Semis",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-247Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-247Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-247Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-247Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631580",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "248",
+    "name": "ABA Division Finals PSH",
+    "original_name": "ABA Division Finals PSH",
+    "team": "New York Nets / Kentucky Colonels / Utah Stars / Indiana Pacers",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631580/1974-75-Topps-248-ABA-Division-Finals",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-248Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-248Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-248Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-248Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:631581",
+    "set_id": "BB2022",
+    "source_set_id": 2022,
+    "number": "249",
+    "name": "ABA Championship PSH",
+    "original_name": "ABA Championship PSH",
+    "team": "New York Nets / Utah Stars",
+    "rarity": "基础卡",
+    "sport": "basketball",
+    "basketball_kind": "base",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/2022/cid/631581/1974-75-Topps-249-ABA-Championship",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-249Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-249Bk.jpg",
+    "thumbnail": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-249Fr.jpg",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/2022/2022-249Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry"
+  },
+  {
+    "id": "BB2022:8518910",
+    "set_id": "BB2022",
+    "source_set_id": 505877,
+    "number": "NNO",
+    "name": "Rules for Scratch-Off Game",
+    "original_name": "Rules for Scratch-Off Game",
+    "team": "",
+    "rarity": "特卡",
+    "sport": "basketball",
+    "basketball_kind": "insert",
+    "is_rookie": false,
+    "serial_max": null,
+    "source_set_name": "1974-75 Topps - Rules for Scratch-Off Game",
+    "source_notes": "",
+    "year": 1974,
+    "source_page": "https://www.tcdb.com/ViewCard.cfm/sid/505877/cid/8518910/1974-75-Topps-Rules-for-Scratch-Off-Game-NNO-Rules-for-Scratch-Off-Game",
+    "source_url": "https://www.tcdb.com/Images/Cards/Basketball/505877/505877-8518910Fr.jpg",
+    "back_url": "https://www.tcdb.com/Images/Cards/Basketball/505877/505877-8518910Bk.jpg",
+    "thumbnail": "data/basketball/previews/BB2022-8518910.webp",
+    "image": "https://www.tcdb.com/Images/Cards/Basketball/505877/505877-8518910Fr.jpg",
+    "type": "篮球球星卡",
+    "illustrators": [],
+    "variant_code": 0,
+    "is_chase": false,
+    "image_basis": "full-size URL derived from an existing front-thumbnail entry",
+    "local_preview": "data/basketball/previews/BB2022-8518910.webp",
+    "image_status": "local_verified"
   }
 ]

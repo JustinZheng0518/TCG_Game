@@ -9,7 +9,7 @@ def save(path,value):
 index=load('data/basketball/index.json');products={}
 for s in index['sets']:
  price=8500 if re.search('Prizm|Chrome|Select|Mosaic',s['name']) else 65000 if 'National Treasures' in s['name'] else 4500
- products[s['id']]={'id':s['id'],'name':s['name'],'sport':'basketball','channel':'special','channel_label':'篮球体验包','retail_cents':price,'price_kind':'simulation','cards_per_unit':5,'source_url':s['source'],'notes':'历史实卡资料组成的数字体验包；5张封入、概率与价格为游戏设计，不是实体 Hobby/Retail 配置。'}
+ products[s['id']]={'id':s['id'],'name':s['name'],'sport':'basketball','channel':'special','channel_label':'篮球体验包','retail_cents':price,'price_kind':'simulation','cards_per_unit':5,'source_url':s['source'],'tier_coverage':s.get('tier_coverage',{}),'source_coverage':{'subsets_listed':s.get('source_subset_count',0),'subsets_imported':s.get('imported_subset_count',0),'rare_local_images':s.get('rare_local_images',0),'status':s.get('coverage_status','partial')},'notes':'历史实卡资料组成的数字体验包；5张封入、概率与价格为游戏设计，不是实体 Hobby/Retail 配置。'}
 save('data/basketball/products.json',{'schema_version':1,'currency':'CNY','products':products})
 pool=[]
 for series in index['sets']:

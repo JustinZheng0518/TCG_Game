@@ -1,0 +1,328 @@
+{
+  "set_id": "BB70297",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/70297/2012-13-Hoops",
+  "headings": [
+    "Insert Sets (20)",
+    "Parallel Sets (3)"
+  ],
+  "subset_count": 23,
+  "subsets": [
+    {
+      "source_set_id": 76633,
+      "name": "2012-13 Hoops - 89-90 Buyback Autographs",
+      "short": "89-90 Buyback Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76633/2012-13-Hoops-89-90-Buyback-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76634,
+      "name": "2012-13 Hoops - Action Photos",
+      "short": "Action Photos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76634/2012-13-Hoops-Action-Photos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 78899,
+      "name": "2012-13 Hoops - Action Photos Black Friday",
+      "short": "Action Photos Black Friday",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/78899/2012-13-Hoops-Action-Photos-Black-Friday",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76637,
+      "name": "2012-13 Hoops - Autographs",
+      "short": "Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76637/2012-13-Hoops-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76638,
+      "name": "2012-13 Hoops - Board Members",
+      "short": "Board Members",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76638/2012-13-Hoops-Board-Members",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76948,
+      "name": "2012-13 Hoops - Board Members Black Friday",
+      "short": "Board Members Black Friday",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76948/2012-13-Hoops-Board-Members-Black-Friday",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76639,
+      "name": "2012-13 Hoops - Courtside",
+      "short": "Courtside",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76639/2012-13-Hoops-Courtside",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 80044,
+      "name": "2012-13 Hoops - Courtside Black Friday",
+      "short": "Courtside Black Friday",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/80044/2012-13-Hoops-Courtside-Black-Friday",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76640,
+      "name": "2012-13 Hoops - Draft Night",
+      "short": "Draft Night",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76640/2012-13-Hoops-Draft-Night",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76641,
+      "name": "2012-13 Hoops - Draft Night Autographs",
+      "short": "Draft Night Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76641/2012-13-Hoops-Draft-Night-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76949,
+      "name": "2012-13 Hoops - Draft Night National Convention VIP",
+      "short": "Draft Night National Convention VIP",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76949/2012-13-Hoops-Draft-Night-National-Convention-VIP",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76642,
+      "name": "2012-13 Hoops - Franchise Greats",
+      "short": "Franchise Greats",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76642/2012-13-Hoops-Franchise-Greats",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76950,
+      "name": "2012-13 Hoops - Franchise Greats Black Friday",
+      "short": "Franchise Greats Black Friday",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76950/2012-13-Hoops-Franchise-Greats-Black-Friday",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76644,
+      "name": "2012-13 Hoops - Kobe's All-Rookie Team",
+      "short": "Kobe's All-Rookie Team",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76644/2012-13-Hoops-Kobe-s-All-Rookie-Team",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 93940,
+      "name": "2012-13 Hoops - Panini Ad Cards",
+      "short": "Panini Ad Cards",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/93940/2012-13-Hoops-Panini-Ad-Cards",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76645,
+      "name": "2012-13 Hoops - Rising Stars",
+      "short": "Rising Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76645/2012-13-Hoops-Rising-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76646,
+      "name": "2012-13 Hoops - Rookie Impact",
+      "short": "Rookie Impact",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76646/2012-13-Hoops-Rookie-Impact",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76647,
+      "name": "2012-13 Hoops - Rookie Impact Autographs",
+      "short": "Rookie Impact Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76647/2012-13-Hoops-Rookie-Impact-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76951,
+      "name": "2012-13 Hoops - Rookie Impact National Convention VIP",
+      "short": "Rookie Impact National Convention VIP",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76951/2012-13-Hoops-Rookie-Impact-National-Convention-VIP",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76648,
+      "name": "2012-13 Hoops - Spark Plugs",
+      "short": "Spark Plugs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76648/2012-13-Hoops-Spark-Plugs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 76635,
+      "name": "2012-13 Hoops - Artist's Proofs",
+      "short": "Artist's Proofs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76635/2012-13-Hoops-Artist-s-Proofs",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 76636,
+      "name": "2012-13 Hoops - Artist's Proofs Black",
+      "short": "Artist's Proofs Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76636/2012-13-Hoops-Artist-s-Proofs-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 76643,
+      "name": "2012-13 Hoops - Glossy",
+      "short": "Glossy",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/76643/2012-13-Hoops-Glossy",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 5,
+  "imported_this_run": [
+    {
+      "source_set_id": 76636,
+      "name": "Artist's Proofs Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 298
+    },
+    {
+      "source_set_id": 80044,
+      "name": "Courtside Black Friday",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 78899,
+      "name": "Action Photos Black Friday",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 76948,
+      "name": "Board Members Black Friday",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 76950,
+      "name": "Franchise Greats Black Friday",
+      "family_requested": "numbered_low",
+      "cards_with_front": 3,
+      "missing_fronts": 17
+    },
+    {
+      "source_set_id": 76637,
+      "name": "Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 28,
+      "missing_fronts": 132
+    },
+    {
+      "source_set_id": 76643,
+      "name": "Glossy",
+      "family_requested": "parallel",
+      "cards_with_front": 298,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 76639,
+      "name": "Courtside",
+      "family_requested": "insert",
+      "cards_with_front": 20,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 648,
+  "before_tiers": {
+    "base": 229,
+    "rookie": 69
+  },
+  "tiers": {
+    "base": 231,
+    "rookie": 69,
+    "numbered_low": 4,
+    "auto": 28,
+    "parallel": 300,
+    "insert": 20
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 4,
+    "numbered_low": 4,
+    "auto": 28,
+    "parallel": 300,
+    "insert": 20
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 231,
+      "available_cards": 231,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 69,
+      "available_cards": 69,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 4,
+      "available_cards": 4,
+      "local_images": 4,
+      "source_candidates": 5
+    },
+    "auto": {
+      "status": "available",
+      "records": 28,
+      "available_cards": 28,
+      "local_images": 28,
+      "source_candidates": 4
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 300,
+      "available_cards": 300,
+      "local_images": 300,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 16
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 4
+}

@@ -1,0 +1,1443 @@
+{
+  "set_id": "BB589540",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/589540/2025-26-Finest",
+  "headings": [
+    "Insert Sets (152)",
+    "Parallel Sets (21)"
+  ],
+  "subset_count": 173,
+  "subsets": [
+    {
+      "source_set_id": 600351,
+      "name": "2025-26 Finest - Arrivals",
+      "short": "Arrivals",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600351/2025-26-Finest-Arrivals",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600367,
+      "name": "2025-26 Finest - Arrivals Black Geometric Refractor",
+      "short": "Arrivals Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600367/2025-26-Finest-Arrivals-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600363,
+      "name": "2025-26 Finest - Arrivals Blue Geometric Refractor",
+      "short": "Arrivals Blue Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600363/2025-26-Finest-Arrivals-Blue-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600356,
+      "name": "2025-26 Finest - Arrivals Blue Refractor",
+      "short": "Arrivals Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600356/2025-26-Finest-Arrivals-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600362,
+      "name": "2025-26 Finest - Arrivals Geometric Refractor",
+      "short": "Arrivals Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600362/2025-26-Finest-Arrivals-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600364,
+      "name": "2025-26 Finest - Arrivals Gold Geometric Refractor",
+      "short": "Arrivals Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600364/2025-26-Finest-Arrivals-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600358,
+      "name": "2025-26 Finest - Arrivals Gold Refractor",
+      "short": "Arrivals Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600358/2025-26-Finest-Arrivals-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600359,
+      "name": "2025-26 Finest - Arrivals Orange Refractor",
+      "short": "Arrivals Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600359/2025-26-Finest-Arrivals-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600355,
+      "name": "2025-26 Finest - Arrivals Purple",
+      "short": "Arrivals Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600355/2025-26-Finest-Arrivals-Purple",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600366,
+      "name": "2025-26 Finest - Arrivals Red Geometric Refractor",
+      "short": "Arrivals Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600366/2025-26-Finest-Arrivals-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600360,
+      "name": "2025-26 Finest - Arrivals Red Refractor",
+      "short": "Arrivals Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600360/2025-26-Finest-Arrivals-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600365,
+      "name": "2025-26 Finest - Arrivals Red/Black Geometric Refractor",
+      "short": "Arrivals Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600365/2025-26-Finest-Arrivals-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600352,
+      "name": "2025-26 Finest - Arrivals Refractor",
+      "short": "Arrivals Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600352/2025-26-Finest-Arrivals-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600357,
+      "name": "2025-26 Finest - Arrivals Refractors Die Cut",
+      "short": "Arrivals Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600357/2025-26-Finest-Arrivals-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600354,
+      "name": "2025-26 Finest - Arrivals Sky Blue Refractor",
+      "short": "Arrivals Sky Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600354/2025-26-Finest-Arrivals-Sky-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600361,
+      "name": "2025-26 Finest - Arrivals SuperFractor",
+      "short": "Arrivals SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600361/2025-26-Finest-Arrivals-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600353,
+      "name": "2025-26 Finest - Arrivals X-Fractor",
+      "short": "Arrivals X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600353/2025-26-Finest-Arrivals-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600368,
+      "name": "2025-26 Finest - Aura",
+      "short": "Aura",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600368/2025-26-Finest-Aura",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600369,
+      "name": "2025-26 Finest - Aura SuperFractor",
+      "short": "Aura SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600369/2025-26-Finest-Aura-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599955,
+      "name": "2025-26 Finest - Baseline Autographs",
+      "short": "Baseline Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599955/2025-26-Finest-Baseline-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599966,
+      "name": "2025-26 Finest - Baseline Autographs Black Geometric Refractor",
+      "short": "Baseline Autographs Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599966/2025-26-Finest-Baseline-Autographs-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599957,
+      "name": "2025-26 Finest - Baseline Autographs Blue X-Fractor",
+      "short": "Baseline Autographs Blue X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599957/2025-26-Finest-Baseline-Autographs-Blue-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599964,
+      "name": "2025-26 Finest - Baseline Autographs Gold Geometric Refractor",
+      "short": "Baseline Autographs Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599964/2025-26-Finest-Baseline-Autographs-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599958,
+      "name": "2025-26 Finest - Baseline Autographs Gold Refractor",
+      "short": "Baseline Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599958/2025-26-Finest-Baseline-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599963,
+      "name": "2025-26 Finest - Baseline Autographs Green Geometric Refractor",
+      "short": "Baseline Autographs Green Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599963/2025-26-Finest-Baseline-Autographs-Green-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599967,
+      "name": "2025-26 Finest - Baseline Autographs Orange Geometric Refractor",
+      "short": "Baseline Autographs Orange Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599967/2025-26-Finest-Baseline-Autographs-Orange-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599959,
+      "name": "2025-26 Finest - Baseline Autographs Orange Refractor",
+      "short": "Baseline Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599959/2025-26-Finest-Baseline-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599969,
+      "name": "2025-26 Finest - Baseline Autographs Red Geometric Refractor",
+      "short": "Baseline Autographs Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599969/2025-26-Finest-Baseline-Autographs-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599961,
+      "name": "2025-26 Finest - Baseline Autographs Red Refractor",
+      "short": "Baseline Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599961/2025-26-Finest-Baseline-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599968,
+      "name": "2025-26 Finest - Baseline Autographs Red/Black Geometric Refractor",
+      "short": "Baseline Autographs Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599968/2025-26-Finest-Baseline-Autographs-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599960,
+      "name": "2025-26 Finest - Baseline Autographs Red/Black Vapor Refractor",
+      "short": "Baseline Autographs Red/Black Vapor Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599960/2025-26-Finest-Baseline-Autographs-Red-Black-Vapor-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599956,
+      "name": "2025-26 Finest - Baseline Autographs Refractor",
+      "short": "Baseline Autographs Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599956/2025-26-Finest-Baseline-Autographs-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599962,
+      "name": "2025-26 Finest - Baseline Autographs SuperFractor",
+      "short": "Baseline Autographs SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599962/2025-26-Finest-Baseline-Autographs-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599965,
+      "name": "2025-26 Finest - Baseline Autographs Yellow Geometric Refractor",
+      "short": "Baseline Autographs Yellow Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599965/2025-26-Finest-Baseline-Autographs-Yellow-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599970,
+      "name": "2025-26 Finest - Colossal Shots Autographs",
+      "short": "Colossal Shots Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599970/2025-26-Finest-Colossal-Shots-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599974,
+      "name": "2025-26 Finest - Colossal Shots Autographs Black Geometric Refractor",
+      "short": "Colossal Shots Autographs Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599974/2025-26-Finest-Colossal-Shots-Autographs-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599972,
+      "name": "2025-26 Finest - Colossal Shots Autographs Gold Geometric Refractor",
+      "short": "Colossal Shots Autographs Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599972/2025-26-Finest-Colossal-Shots-Autographs-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599971,
+      "name": "2025-26 Finest - Colossal Shots Autographs Green Geometric Refractor",
+      "short": "Colossal Shots Autographs Green Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599971/2025-26-Finest-Colossal-Shots-Autographs-Green-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599975,
+      "name": "2025-26 Finest - Colossal Shots Autographs Orange Geometric Refractor",
+      "short": "Colossal Shots Autographs Orange Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599975/2025-26-Finest-Colossal-Shots-Autographs-Orange-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599977,
+      "name": "2025-26 Finest - Colossal Shots Autographs Red Geometric Refractor",
+      "short": "Colossal Shots Autographs Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599977/2025-26-Finest-Colossal-Shots-Autographs-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599976,
+      "name": "2025-26 Finest - Colossal Shots Autographs Red/Black Geometric Refractor",
+      "short": "Colossal Shots Autographs Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599976/2025-26-Finest-Colossal-Shots-Autographs-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599978,
+      "name": "2025-26 Finest - Colossal Shots Autographs SuperFractor",
+      "short": "Colossal Shots Autographs SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599978/2025-26-Finest-Colossal-Shots-Autographs-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599973,
+      "name": "2025-26 Finest - Colossal Shots Autographs Yellow Geometric Refractor",
+      "short": "Colossal Shots Autographs Yellow Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599973/2025-26-Finest-Colossal-Shots-Autographs-Yellow-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599979,
+      "name": "2025-26 Finest - Electrifying Signatures",
+      "short": "Electrifying Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599979/2025-26-Finest-Electrifying-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599983,
+      "name": "2025-26 Finest - Electrifying Signatures Black Geometric Refractor",
+      "short": "Electrifying Signatures Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599983/2025-26-Finest-Electrifying-Signatures-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599981,
+      "name": "2025-26 Finest - Electrifying Signatures Gold Geometric Refractor",
+      "short": "Electrifying Signatures Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599981/2025-26-Finest-Electrifying-Signatures-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599980,
+      "name": "2025-26 Finest - Electrifying Signatures Green Geometric Refractor",
+      "short": "Electrifying Signatures Green Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599980/2025-26-Finest-Electrifying-Signatures-Green-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599984,
+      "name": "2025-26 Finest - Electrifying Signatures Orange Geometric Refractor",
+      "short": "Electrifying Signatures Orange Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599984/2025-26-Finest-Electrifying-Signatures-Orange-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599986,
+      "name": "2025-26 Finest - Electrifying Signatures Red Geometric Refractor",
+      "short": "Electrifying Signatures Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599986/2025-26-Finest-Electrifying-Signatures-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599985,
+      "name": "2025-26 Finest - Electrifying Signatures Red/Black Geometric Refractor",
+      "short": "Electrifying Signatures Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599985/2025-26-Finest-Electrifying-Signatures-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599987,
+      "name": "2025-26 Finest - Electrifying Signatures SuperFractor",
+      "short": "Electrifying Signatures SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599987/2025-26-Finest-Electrifying-Signatures-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599982,
+      "name": "2025-26 Finest - Electrifying Signatures Yellow Geometric Refractor",
+      "short": "Electrifying Signatures Yellow Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599982/2025-26-Finest-Electrifying-Signatures-Yellow-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599925,
+      "name": "2025-26 Finest - Finest Autographs",
+      "short": "Finest Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599925/2025-26-Finest-Finest-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599936,
+      "name": "2025-26 Finest - Finest Autographs Black Geometric Refractor",
+      "short": "Finest Autographs Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599936/2025-26-Finest-Finest-Autographs-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599927,
+      "name": "2025-26 Finest - Finest Autographs Blue X-Fractor",
+      "short": "Finest Autographs Blue X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599927/2025-26-Finest-Finest-Autographs-Blue-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599934,
+      "name": "2025-26 Finest - Finest Autographs Gold Geometric Refractor",
+      "short": "Finest Autographs Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599934/2025-26-Finest-Finest-Autographs-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599928,
+      "name": "2025-26 Finest - Finest Autographs Gold Refractor",
+      "short": "Finest Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599928/2025-26-Finest-Finest-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599933,
+      "name": "2025-26 Finest - Finest Autographs Green Geometric Refractor",
+      "short": "Finest Autographs Green Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599933/2025-26-Finest-Finest-Autographs-Green-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599937,
+      "name": "2025-26 Finest - Finest Autographs Orange Geometric Refractor",
+      "short": "Finest Autographs Orange Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599937/2025-26-Finest-Finest-Autographs-Orange-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599929,
+      "name": "2025-26 Finest - Finest Autographs Orange Refractor",
+      "short": "Finest Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599929/2025-26-Finest-Finest-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599939,
+      "name": "2025-26 Finest - Finest Autographs Red Geometric Refractor",
+      "short": "Finest Autographs Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599939/2025-26-Finest-Finest-Autographs-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599931,
+      "name": "2025-26 Finest - Finest Autographs Red Refractor",
+      "short": "Finest Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599931/2025-26-Finest-Finest-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599938,
+      "name": "2025-26 Finest - Finest Autographs Red/Black Geometric Refractor",
+      "short": "Finest Autographs Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599938/2025-26-Finest-Finest-Autographs-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599930,
+      "name": "2025-26 Finest - Finest Autographs Red/Black Vapor Refractor",
+      "short": "Finest Autographs Red/Black Vapor Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599930/2025-26-Finest-Finest-Autographs-Red-Black-Vapor-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599926,
+      "name": "2025-26 Finest - Finest Autographs Refractor",
+      "short": "Finest Autographs Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599926/2025-26-Finest-Finest-Autographs-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599932,
+      "name": "2025-26 Finest - Finest Autographs SuperFractor",
+      "short": "Finest Autographs SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599932/2025-26-Finest-Finest-Autographs-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599935,
+      "name": "2025-26 Finest - Finest Autographs Yellow Geometric Refractor",
+      "short": "Finest Autographs Yellow Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599935/2025-26-Finest-Finest-Autographs-Yellow-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600370,
+      "name": "2025-26 Finest - Finishers",
+      "short": "Finishers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600370/2025-26-Finest-Finishers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600386,
+      "name": "2025-26 Finest - Finishers Black Geometric Refractor",
+      "short": "Finishers Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600386/2025-26-Finest-Finishers-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600382,
+      "name": "2025-26 Finest - Finishers Blue Geometric Refractor",
+      "short": "Finishers Blue Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600382/2025-26-Finest-Finishers-Blue-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600375,
+      "name": "2025-26 Finest - Finishers Blue Refractor",
+      "short": "Finishers Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600375/2025-26-Finest-Finishers-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600381,
+      "name": "2025-26 Finest - Finishers Geometric Refractor",
+      "short": "Finishers Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600381/2025-26-Finest-Finishers-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600383,
+      "name": "2025-26 Finest - Finishers Gold Geometric Refractor",
+      "short": "Finishers Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600383/2025-26-Finest-Finishers-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600377,
+      "name": "2025-26 Finest - Finishers Gold Refractor",
+      "short": "Finishers Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600377/2025-26-Finest-Finishers-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600378,
+      "name": "2025-26 Finest - Finishers Orange Refractor",
+      "short": "Finishers Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600378/2025-26-Finest-Finishers-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600374,
+      "name": "2025-26 Finest - Finishers Purple Refractor",
+      "short": "Finishers Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600374/2025-26-Finest-Finishers-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600385,
+      "name": "2025-26 Finest - Finishers Red Geometric Refractor",
+      "short": "Finishers Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600385/2025-26-Finest-Finishers-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600379,
+      "name": "2025-26 Finest - Finishers Red Refractor",
+      "short": "Finishers Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600379/2025-26-Finest-Finishers-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600384,
+      "name": "2025-26 Finest - Finishers Red/Black Geometric Refractor",
+      "short": "Finishers Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600384/2025-26-Finest-Finishers-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600371,
+      "name": "2025-26 Finest - Finishers Refractor",
+      "short": "Finishers Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600371/2025-26-Finest-Finishers-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600376,
+      "name": "2025-26 Finest - Finishers Refractors Die Cut",
+      "short": "Finishers Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600376/2025-26-Finest-Finishers-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600373,
+      "name": "2025-26 Finest - Finishers Sky Blue Refractor",
+      "short": "Finishers Sky Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600373/2025-26-Finest-Finishers-Sky-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600380,
+      "name": "2025-26 Finest - Finishers SuperFractor",
+      "short": "Finishers SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600380/2025-26-Finest-Finishers-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600372,
+      "name": "2025-26 Finest - Finishers X-Fractor",
+      "short": "Finishers X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600372/2025-26-Finest-Finishers-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600388,
+      "name": "2025-26 Finest - First",
+      "short": "First",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600388/2025-26-Finest-First",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600405,
+      "name": "2025-26 Finest - First Black Geometric Refractor",
+      "short": "First Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600405/2025-26-Finest-First-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600400,
+      "name": "2025-26 Finest - First Blue Geometric Refractor",
+      "short": "First Blue Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600400/2025-26-Finest-First-Blue-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600393,
+      "name": "2025-26 Finest - First Blue Refractor",
+      "short": "First Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600393/2025-26-Finest-First-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600399,
+      "name": "2025-26 Finest - First Geometric Refractor",
+      "short": "First Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600399/2025-26-Finest-First-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600401,
+      "name": "2025-26 Finest - First Gold Geometric Refractor",
+      "short": "First Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600401/2025-26-Finest-First-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600395,
+      "name": "2025-26 Finest - First Gold Refractor",
+      "short": "First Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600395/2025-26-Finest-First-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600396,
+      "name": "2025-26 Finest - First Orange Refractor",
+      "short": "First Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600396/2025-26-Finest-First-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600392,
+      "name": "2025-26 Finest - First Purple Refractor",
+      "short": "First Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600392/2025-26-Finest-First-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600404,
+      "name": "2025-26 Finest - First Red Geometric Refractor",
+      "short": "First Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600404/2025-26-Finest-First-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600397,
+      "name": "2025-26 Finest - First Red Refractor",
+      "short": "First Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600397/2025-26-Finest-First-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600402,
+      "name": "2025-26 Finest - First Red/Black Geometric Refractor",
+      "short": "First Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600402/2025-26-Finest-First-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600389,
+      "name": "2025-26 Finest - First Refractor",
+      "short": "First Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600389/2025-26-Finest-First-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600394,
+      "name": "2025-26 Finest - First Refractors Die Cut",
+      "short": "First Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600394/2025-26-Finest-First-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600391,
+      "name": "2025-26 Finest - First Sky Blue Refractor",
+      "short": "First Sky Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600391/2025-26-Finest-First-Sky-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600398,
+      "name": "2025-26 Finest - First SuperFractor",
+      "short": "First SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600398/2025-26-Finest-First-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600390,
+      "name": "2025-26 Finest - First X-Fractor",
+      "short": "First X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600390/2025-26-Finest-First-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600408,
+      "name": "2025-26 Finest - Headliners",
+      "short": "Headliners",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600408/2025-26-Finest-Headliners",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600409,
+      "name": "2025-26 Finest - Headliners SuperFractor",
+      "short": "Headliners SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600409/2025-26-Finest-Headliners-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600335,
+      "name": "2025-26 Finest - Masters Autographs",
+      "short": "Masters Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600335/2025-26-Finest-Masters-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600346,
+      "name": "2025-26 Finest - Masters Autographs Black Geometric Refractor",
+      "short": "Masters Autographs Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600346/2025-26-Finest-Masters-Autographs-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600337,
+      "name": "2025-26 Finest - Masters Autographs Blue X-Fractor",
+      "short": "Masters Autographs Blue X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600337/2025-26-Finest-Masters-Autographs-Blue-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600345,
+      "name": "2025-26 Finest - Masters Autographs Gold Geometric Refractor",
+      "short": "Masters Autographs Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600345/2025-26-Finest-Masters-Autographs-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600338,
+      "name": "2025-26 Finest - Masters Autographs Gold Refractor",
+      "short": "Masters Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600338/2025-26-Finest-Masters-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600343,
+      "name": "2025-26 Finest - Masters Autographs Green Geometric Refractor",
+      "short": "Masters Autographs Green Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600343/2025-26-Finest-Masters-Autographs-Green-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600347,
+      "name": "2025-26 Finest - Masters Autographs Orange Geometric Refractor",
+      "short": "Masters Autographs Orange Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600347/2025-26-Finest-Masters-Autographs-Orange-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600339,
+      "name": "2025-26 Finest - Masters Autographs Orange Refractor",
+      "short": "Masters Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600339/2025-26-Finest-Masters-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600349,
+      "name": "2025-26 Finest - Masters Autographs Red Geometric Refractor",
+      "short": "Masters Autographs Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600349/2025-26-Finest-Masters-Autographs-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600341,
+      "name": "2025-26 Finest - Masters Autographs Red Refractor",
+      "short": "Masters Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600341/2025-26-Finest-Masters-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600348,
+      "name": "2025-26 Finest - Masters Autographs Red/Black Geometric Refractor",
+      "short": "Masters Autographs Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600348/2025-26-Finest-Masters-Autographs-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600340,
+      "name": "2025-26 Finest - Masters Autographs Red/Blue Vapor Refractor",
+      "short": "Masters Autographs Red/Blue Vapor Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600340/2025-26-Finest-Masters-Autographs-Red-Blue-Vapor-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600336,
+      "name": "2025-26 Finest - Masters Autographs Refractor",
+      "short": "Masters Autographs Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600336/2025-26-Finest-Masters-Autographs-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600342,
+      "name": "2025-26 Finest - Masters Autographs SuperFractor",
+      "short": "Masters Autographs SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600342/2025-26-Finest-Masters-Autographs-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600344,
+      "name": "2025-26 Finest - Masters Autographs Yellow Geometric Refractor",
+      "short": "Masters Autographs Yellow Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600344/2025-26-Finest-Masters-Autographs-Yellow-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600410,
+      "name": "2025-26 Finest - Muse",
+      "short": "Muse",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600410/2025-26-Finest-Muse",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600426,
+      "name": "2025-26 Finest - Muse Black Geometric Refractor",
+      "short": "Muse Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600426/2025-26-Finest-Muse-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600422,
+      "name": "2025-26 Finest - Muse Blue Geometric Refractor",
+      "short": "Muse Blue Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600422/2025-26-Finest-Muse-Blue-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600415,
+      "name": "2025-26 Finest - Muse Blue Refractor",
+      "short": "Muse Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600415/2025-26-Finest-Muse-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600421,
+      "name": "2025-26 Finest - Muse Geometric Refractor",
+      "short": "Muse Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600421/2025-26-Finest-Muse-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600423,
+      "name": "2025-26 Finest - Muse Gold Geometric Refractor",
+      "short": "Muse Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600423/2025-26-Finest-Muse-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600417,
+      "name": "2025-26 Finest - Muse Gold Refractor",
+      "short": "Muse Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600417/2025-26-Finest-Muse-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600418,
+      "name": "2025-26 Finest - Muse Orange Refractor",
+      "short": "Muse Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600418/2025-26-Finest-Muse-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600414,
+      "name": "2025-26 Finest - Muse Purple Refractor",
+      "short": "Muse Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600414/2025-26-Finest-Muse-Purple-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600425,
+      "name": "2025-26 Finest - Muse Red Geometric Refractor",
+      "short": "Muse Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600425/2025-26-Finest-Muse-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600419,
+      "name": "2025-26 Finest - Muse Red Refractor",
+      "short": "Muse Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600419/2025-26-Finest-Muse-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600424,
+      "name": "2025-26 Finest - Muse Red/Black Geometric Refractor",
+      "short": "Muse Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600424/2025-26-Finest-Muse-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600411,
+      "name": "2025-26 Finest - Muse Refractor",
+      "short": "Muse Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600411/2025-26-Finest-Muse-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600416,
+      "name": "2025-26 Finest - Muse Refractors Die Cut",
+      "short": "Muse Refractors Die Cut",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600416/2025-26-Finest-Muse-Refractors-Die-Cut",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600413,
+      "name": "2025-26 Finest - Muse Sky Blue Refractor",
+      "short": "Muse Sky Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600413/2025-26-Finest-Muse-Sky-Blue-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600420,
+      "name": "2025-26 Finest - Muse SuperFractor",
+      "short": "Muse SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600420/2025-26-Finest-Muse-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600412,
+      "name": "2025-26 Finest - Muse X-Fractor",
+      "short": "Muse X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600412/2025-26-Finest-Muse-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600428,
+      "name": "2025-26 Finest - Pulse",
+      "short": "Pulse",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600428/2025-26-Finest-Pulse",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599940,
+      "name": "2025-26 Finest - Rookie Finest Autographs",
+      "short": "Rookie Finest Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599940/2025-26-Finest-Rookie-Finest-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599951,
+      "name": "2025-26 Finest - Rookie Finest Autographs Black Geometric Refractor",
+      "short": "Rookie Finest Autographs Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599951/2025-26-Finest-Rookie-Finest-Autographs-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599942,
+      "name": "2025-26 Finest - Rookie Finest Autographs Blue X-Fractor",
+      "short": "Rookie Finest Autographs Blue X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599942/2025-26-Finest-Rookie-Finest-Autographs-Blue-X-Fractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599949,
+      "name": "2025-26 Finest - Rookie Finest Autographs Gold Geometric Refractor",
+      "short": "Rookie Finest Autographs Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599949/2025-26-Finest-Rookie-Finest-Autographs-Gold-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599943,
+      "name": "2025-26 Finest - Rookie Finest Autographs Gold Refractor",
+      "short": "Rookie Finest Autographs Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599943/2025-26-Finest-Rookie-Finest-Autographs-Gold-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599948,
+      "name": "2025-26 Finest - Rookie Finest Autographs Green Geometric Refractor",
+      "short": "Rookie Finest Autographs Green Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599948/2025-26-Finest-Rookie-Finest-Autographs-Green-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599952,
+      "name": "2025-26 Finest - Rookie Finest Autographs Orange Geometric Refractor",
+      "short": "Rookie Finest Autographs Orange Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599952/2025-26-Finest-Rookie-Finest-Autographs-Orange-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599944,
+      "name": "2025-26 Finest - Rookie Finest Autographs Orange Refractor",
+      "short": "Rookie Finest Autographs Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599944/2025-26-Finest-Rookie-Finest-Autographs-Orange-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599954,
+      "name": "2025-26 Finest - Rookie Finest Autographs Red Geometric Refractor",
+      "short": "Rookie Finest Autographs Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599954/2025-26-Finest-Rookie-Finest-Autographs-Red-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599946,
+      "name": "2025-26 Finest - Rookie Finest Autographs Red Refractor",
+      "short": "Rookie Finest Autographs Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599946/2025-26-Finest-Rookie-Finest-Autographs-Red-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599953,
+      "name": "2025-26 Finest - Rookie Finest Autographs Red/Black Geometric Refractor",
+      "short": "Rookie Finest Autographs Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599953/2025-26-Finest-Rookie-Finest-Autographs-Red-Black-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599945,
+      "name": "2025-26 Finest - Rookie Finest Autographs Red/Black Vapor Refractor",
+      "short": "Rookie Finest Autographs Red/Black Vapor Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599945/2025-26-Finest-Rookie-Finest-Autographs-Red-Black-Vapor-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599941,
+      "name": "2025-26 Finest - Rookie Finest Autographs Refractor",
+      "short": "Rookie Finest Autographs Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599941/2025-26-Finest-Rookie-Finest-Autographs-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599947,
+      "name": "2025-26 Finest - Rookie Finest Autographs SuperFractor",
+      "short": "Rookie Finest Autographs SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599947/2025-26-Finest-Rookie-Finest-Autographs-SuperFractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599950,
+      "name": "2025-26 Finest - Rookie Finest Autographs Yellow Geometric Refractor",
+      "short": "Rookie Finest Autographs Yellow Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599950/2025-26-Finest-Rookie-Finest-Autographs-Yellow-Geometric-Refractor",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 600429,
+      "name": "2025-26 Finest - The Man",
+      "short": "The Man",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/600429/2025-26-Finest-The-Man",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 599909,
+      "name": "2025-26 Finest - Black Geometric Refractor",
+      "short": "Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599909/2025-26-Finest-Black-Geometric-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599918,
+      "name": "2025-26 Finest - Black Refractor",
+      "short": "Black Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599918/2025-26-Finest-Black-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599921,
+      "name": "2025-26 Finest - Blue Geometric Refractor",
+      "short": "Blue Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599921/2025-26-Finest-Blue-Geometric-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599912,
+      "name": "2025-26 Finest - Blue Refractor",
+      "short": "Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599912/2025-26-Finest-Blue-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599914,
+      "name": "2025-26 Finest - Blue X-Fractor",
+      "short": "Blue X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599914/2025-26-Finest-Blue-X-Fractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599907,
+      "name": "2025-26 Finest - Geometric Refractor",
+      "short": "Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599907/2025-26-Finest-Geometric-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599922,
+      "name": "2025-26 Finest - Gold Geometric Refractor",
+      "short": "Gold Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599922/2025-26-Finest-Gold-Geometric-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599916,
+      "name": "2025-26 Finest - Gold Refractor",
+      "short": "Gold Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599916/2025-26-Finest-Gold-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599915,
+      "name": "2025-26 Finest - Green Refractor",
+      "short": "Green Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599915/2025-26-Finest-Green-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599905,
+      "name": "2025-26 Finest - Oil Spill Refractor",
+      "short": "Oil Spill Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599905/2025-26-Finest-Oil-Spill-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599917,
+      "name": "2025-26 Finest - Orange Refractor",
+      "short": "Orange Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599917/2025-26-Finest-Orange-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599920,
+      "name": "2025-26 Finest - Purple Geometric Refractor",
+      "short": "Purple Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599920/2025-26-Finest-Purple-Geometric-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599911,
+      "name": "2025-26 Finest - Purple Refractor",
+      "short": "Purple Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599911/2025-26-Finest-Purple-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599913,
+      "name": "2025-26 Finest - Purple X-Fractor",
+      "short": "Purple X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599913/2025-26-Finest-Purple-X-Fractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599924,
+      "name": "2025-26 Finest - Red Geometric Refractor",
+      "short": "Red Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599924/2025-26-Finest-Red-Geometric-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599919,
+      "name": "2025-26 Finest - Red Refractor",
+      "short": "Red Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599919/2025-26-Finest-Red-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599923,
+      "name": "2025-26 Finest - Red/Black Geometric Refractor",
+      "short": "Red/Black Geometric Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599923/2025-26-Finest-Red-Black-Geometric-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599904,
+      "name": "2025-26 Finest - Refractor",
+      "short": "Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599904/2025-26-Finest-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599910,
+      "name": "2025-26 Finest - Sky Blue Refractor",
+      "short": "Sky Blue Refractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599910/2025-26-Finest-Sky-Blue-Refractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599908,
+      "name": "2025-26 Finest - SuperFractor",
+      "short": "SuperFractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599908/2025-26-Finest-SuperFractor",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 599906,
+      "name": "2025-26 Finest - X-Fractor",
+      "short": "X-Fractor",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/599906/2025-26-Finest-X-Fractor",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 15,
+  "imported_this_run": [
+    {
+      "source_set_id": 599919,
+      "name": "Red Refractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 296
+    },
+    {
+      "source_set_id": 599908,
+      "name": "SuperFractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 298
+    },
+    {
+      "source_set_id": 599916,
+      "name": "Gold Refractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 7,
+      "missing_fronts": 293
+    },
+    {
+      "source_set_id": 599918,
+      "name": "Black Refractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 295
+    },
+    {
+      "source_set_id": 600369,
+      "name": "Aura SuperFractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 600420,
+      "name": "Muse SuperFractor",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 30
+    },
+    {
+      "source_set_id": 599925,
+      "name": "Finest Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 49
+    },
+    {
+      "source_set_id": 600335,
+      "name": "Masters Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 46
+    },
+    {
+      "source_set_id": 599955,
+      "name": "Baseline Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 48
+    },
+    {
+      "source_set_id": 599979,
+      "name": "Electrifying Signatures",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 47
+    },
+    {
+      "source_set_id": 599940,
+      "name": "Rookie Finest Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 5,
+      "missing_fronts": 35
+    },
+    {
+      "source_set_id": 599970,
+      "name": "Colossal Shots Autographs",
+      "family_requested": "auto",
+      "cards_with_front": 2,
+      "missing_fronts": 47
+    },
+    {
+      "source_set_id": 599904,
+      "name": "Refractor",
+      "family_requested": "parallel",
+      "cards_with_front": 13,
+      "missing_fronts": 287
+    },
+    {
+      "source_set_id": 599906,
+      "name": "X-Fractor",
+      "family_requested": "parallel",
+      "cards_with_front": 7,
+      "missing_fronts": 293
+    },
+    {
+      "source_set_id": 600368,
+      "name": "Aura",
+      "family_requested": "insert",
+      "cards_with_front": 6,
+      "missing_fronts": 14
+    },
+    {
+      "source_set_id": 600410,
+      "name": "Muse",
+      "family_requested": "insert",
+      "cards_with_front": 30,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 599912,
+      "name": "Blue Refractor",
+      "family_requested": "numbered",
+      "cards_with_front": 13,
+      "missing_fronts": 287
+    }
+  ],
+  "import_errors": [],
+  "card_count": 313,
+  "before_tiers": {
+    "rookie": 47,
+    "base": 162
+  },
+  "tiers": {
+    "rookie": 47,
+    "base": 162,
+    "numbered_low": 9,
+    "numbered": 22,
+    "auto": 17,
+    "parallel": 20,
+    "insert": 36
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "rookie": 1,
+    "base": 6,
+    "numbered_low": 9,
+    "numbered": 22,
+    "auto": 17,
+    "parallel": 20,
+    "insert": 36
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 162,
+      "available_cards": 162,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 47,
+      "available_cards": 47,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 9,
+      "available_cards": 9,
+      "local_images": 9,
+      "source_candidates": 38
+    },
+    "auto": {
+      "status": "available",
+      "records": 17,
+      "available_cards": 17,
+      "local_images": 17,
+      "source_candidates": 78
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 20,
+      "source_candidates": 21
+    },
+    "insert": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 36,
+      "source_candidates": 74
+    },
+    "numbered": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 42
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

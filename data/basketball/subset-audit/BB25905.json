@@ -1,0 +1,172 @@
+{
+  "set_id": "BB25905",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/25905/1998-Upper-Deck-MJx",
+  "headings": [
+    "Insert Sets (2)",
+    "Parallel Sets (3)"
+  ],
+  "subset_count": 5,
+  "subsets": [
+    {
+      "source_set_id": 25906,
+      "name": "1998 Upper Deck MJx - Live",
+      "short": "Live",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25906/1998-Upper-Deck-MJx-Live",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 346263,
+      "name": "1998 Upper Deck MJx - Michael Jordan Autographed Game Jersey",
+      "short": "Michael Jordan Autographed Game Jersey",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/346263/1998-Upper-Deck-MJx-Michael-Jordan-Autographed-Game-Jersey",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 25907,
+      "name": "1998 Upper Deck MJx - Timepieces Bronze",
+      "short": "Timepieces Bronze",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25907/1998-Upper-Deck-MJx-Timepieces-Bronze",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25908,
+      "name": "1998 Upper Deck MJx - Timepieces Gold",
+      "short": "Timepieces Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25908/1998-Upper-Deck-MJx-Timepieces-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 25909,
+      "name": "1998 Upper Deck MJx - Timepieces Red",
+      "short": "Timepieces Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/25909/1998-Upper-Deck-MJx-Timepieces-Red",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 4,
+  "imported_this_run": [
+    {
+      "source_set_id": 25909,
+      "name": "Timepieces Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 44,
+      "missing_fronts": 46
+    },
+    {
+      "source_set_id": 25908,
+      "name": "Timepieces Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 86
+    },
+    {
+      "source_set_id": 346263,
+      "name": "Michael Jordan Autographed Game Jersey",
+      "family_requested": "auto_patch",
+      "cards_with_front": 0,
+      "missing_fronts": 1
+    },
+    {
+      "source_set_id": 25907,
+      "name": "Timepieces Bronze",
+      "family_requested": "parallel",
+      "cards_with_front": 25,
+      "missing_fronts": 65
+    },
+    {
+      "source_set_id": 25906,
+      "name": "Live",
+      "family_requested": "insert",
+      "cards_with_front": 13,
+      "missing_fronts": 17
+    }
+  ],
+  "import_errors": [],
+  "card_count": 221,
+  "before_tiers": {
+    "base": 135
+  },
+  "tiers": {
+    "base": 135,
+    "numbered": 86
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "numbered": 86
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 135,
+      "available_cards": 135,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 3
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "available",
+      "records": 86,
+      "available_cards": 86,
+      "local_images": 86,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

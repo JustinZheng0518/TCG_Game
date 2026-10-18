@@ -1,0 +1,95 @@
+{
+  "set_id": "BB2065",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2065/1986-Star-Court-Kings",
+  "headings": [],
+  "subset_count": 0,
+  "subsets": [],
+  "status": "directory_checked",
+  "imported_subset_count": 0,
+  "imported_this_run": [],
+  "import_errors": [],
+  "card_count": 33,
+  "before_tiers": {
+    "base": 33
+  },
+  "tiers": {
+    "base": 33
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 6
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 33,
+      "available_cards": 33,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

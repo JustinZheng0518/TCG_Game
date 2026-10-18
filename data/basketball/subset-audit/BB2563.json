@@ -1,0 +1,136 @@
+{
+  "set_id": "BB2563",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2563/1996-97-Topps-Chrome",
+  "headings": [
+    "Insert Sets (3)",
+    "Parallel Sets (1)"
+  ],
+  "subset_count": 4,
+  "subsets": [
+    {
+      "source_set_id": 2564,
+      "name": "1996-97 Topps Chrome - ProFiles by David Robinson",
+      "short": "ProFiles by David Robinson",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2564/1996-97-Topps-Chrome-ProFiles-by-David-Robinson",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2566,
+      "name": "1996-97 Topps Chrome - Season's Best",
+      "short": "Season's Best",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2566/1996-97-Topps-Chrome-Season-s-Best",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2567,
+      "name": "1996-97 Topps Chrome - Youthquake",
+      "short": "Youthquake",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2567/1996-97-Topps-Chrome-Youthquake",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2565,
+      "name": "1996-97 Topps Chrome - Refractors",
+      "short": "Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2565/1996-97-Topps-Chrome-Refractors",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 4,
+  "imported_this_run": [],
+  "import_errors": [],
+  "card_count": 341,
+  "before_tiers": {
+    "base": 195,
+    "rookie": 23,
+    "parallel": 63,
+    "insert": 60
+  },
+  "tiers": {
+    "base": 197,
+    "rookie": 23,
+    "parallel": 64,
+    "insert": 60
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 1,
+    "rookie": 1,
+    "parallel": 64,
+    "insert": 60
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 197,
+      "available_cards": 197,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 23,
+      "available_cards": 23,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 64,
+      "available_cards": 64,
+      "local_images": 64,
+      "source_candidates": 1
+    },
+    "insert": {
+      "status": "available",
+      "records": 60,
+      "available_cards": 60,
+      "local_images": 60,
+      "source_candidates": 3
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 3
+}

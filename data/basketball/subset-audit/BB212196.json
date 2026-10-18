@@ -1,0 +1,689 @@
+{
+  "set_id": "BB212196",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/212196/2019-20-Hoops",
+  "headings": [
+    "Insert Sets (54)",
+    "Parallel Sets (18)"
+  ],
+  "subset_count": 72,
+  "subsets": [
+    {
+      "source_set_id": 218210,
+      "name": "2019-20 Hoops - Action Shots",
+      "short": "Action Shots",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218210/2019-20-Hoops-Action-Shots",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218302,
+      "name": "2019-20 Hoops - Arriving Now",
+      "short": "Arriving Now",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218302/2019-20-Hoops-Arriving-Now",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218303,
+      "name": "2019-20 Hoops - Arriving Now Holo",
+      "short": "Arriving Now Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218303/2019-20-Hoops-Arriving-Now-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218305,
+      "name": "2019-20 Hoops - Back Stage Pass",
+      "short": "Back Stage Pass",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218305/2019-20-Hoops-Back-Stage-Pass",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218306,
+      "name": "2019-20 Hoops - Back Stage Pass Holo",
+      "short": "Back Stage Pass Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218306/2019-20-Hoops-Back-Stage-Pass-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218307,
+      "name": "2019-20 Hoops - Back Stage Pass Holo Artist Proof",
+      "short": "Back Stage Pass Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218307/2019-20-Hoops-Back-Stage-Pass-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218308,
+      "name": "2019-20 Hoops - Back Stage Pass Holo Artist Proof Gold",
+      "short": "Back Stage Pass Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218308/2019-20-Hoops-Back-Stage-Pass-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218311,
+      "name": "2019-20 Hoops - Class of 2019",
+      "short": "Class of 2019",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218311/2019-20-Hoops-Class-of-2019",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218312,
+      "name": "2019-20 Hoops - Class of 2019 Holo",
+      "short": "Class of 2019 Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218312/2019-20-Hoops-Class-of-2019-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218314,
+      "name": "2019-20 Hoops - Courtside",
+      "short": "Courtside",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218314/2019-20-Hoops-Courtside",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218315,
+      "name": "2019-20 Hoops - Courtside Holo",
+      "short": "Courtside Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218315/2019-20-Hoops-Courtside-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218316,
+      "name": "2019-20 Hoops - Courtside Holo Artist Proof",
+      "short": "Courtside Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218316/2019-20-Hoops-Courtside-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218317,
+      "name": "2019-20 Hoops - Courtside Holo Artist Proof Gold",
+      "short": "Courtside Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218317/2019-20-Hoops-Courtside-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218319,
+      "name": "2019-20 Hoops - Frequent Flyers",
+      "short": "Frequent Flyers",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218319/2019-20-Hoops-Frequent-Flyers",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218320,
+      "name": "2019-20 Hoops - Frequent Flyers Holo",
+      "short": "Frequent Flyers Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218320/2019-20-Hoops-Frequent-Flyers-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218322,
+      "name": "2019-20 Hoops - Get Out the Way",
+      "short": "Get Out the Way",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218322/2019-20-Hoops-Get-Out-the-Way",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218323,
+      "name": "2019-20 Hoops - Get Out the Way Holo",
+      "short": "Get Out the Way Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218323/2019-20-Hoops-Get-Out-the-Way-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218325,
+      "name": "2019-20 Hoops - Great  SIGnificance Gold",
+      "short": "Great  SIGnificance Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218325/2019-20-Hoops-Great-SIGnificance-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218326,
+      "name": "2019-20 Hoops - Great SIGnificance",
+      "short": "Great SIGnificance",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218326/2019-20-Hoops-Great-SIGnificance",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218209,
+      "name": "2019-20 Hoops - High Voltage",
+      "short": "High Voltage",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218209/2019-20-Hoops-High-Voltage",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218208,
+      "name": "2019-20 Hoops - Highlights",
+      "short": "Highlights",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218208/2019-20-Hoops-Highlights",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218327,
+      "name": "2019-20 Hoops - Hoops Art Signatures",
+      "short": "Hoops Art Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218327/2019-20-Hoops-Hoops-Art-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 217899,
+      "name": "2019-20 Hoops - Hoops Ink",
+      "short": "Hoops Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/217899/2019-20-Hoops-Hoops-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 217900,
+      "name": "2019-20 Hoops - Hoops Ink Red",
+      "short": "Hoops Ink Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/217900/2019-20-Hoops-Hoops-Ink-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218328,
+      "name": "2019-20 Hoops - Hot Signatures",
+      "short": "Hot Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218328/2019-20-Hoops-Hot-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218329,
+      "name": "2019-20 Hoops - Hot Signatures Rookies",
+      "short": "Hot Signatures Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218329/2019-20-Hoops-Hot-Signatures-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218178,
+      "name": "2019-20 Hoops - Legends of the Ball",
+      "short": "Legends of the Ball",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218178/2019-20-Hoops-Legends-of-the-Ball",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218330,
+      "name": "2019-20 Hoops - Lights Camera Action",
+      "short": "Lights Camera Action",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218330/2019-20-Hoops-Lights-Camera-Action",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218331,
+      "name": "2019-20 Hoops - Lights Camera Action Holo",
+      "short": "Lights Camera Action Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218331/2019-20-Hoops-Lights-Camera-Action-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218333,
+      "name": "2019-20 Hoops - NBA City",
+      "short": "NBA City",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218333/2019-20-Hoops-NBA-City",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218334,
+      "name": "2019-20 Hoops - NBA City Holo",
+      "short": "NBA City Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218334/2019-20-Hoops-NBA-City-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218335,
+      "name": "2019-20 Hoops - NBA City Holo Artist Proof",
+      "short": "NBA City Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218335/2019-20-Hoops-NBA-City-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218336,
+      "name": "2019-20 Hoops - NBA City Holo Artist Proof Gold",
+      "short": "NBA City Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218336/2019-20-Hoops-NBA-City-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218337,
+      "name": "2019-20 Hoops - Premium Box Set Autographs",
+      "short": "Premium Box Set Autographs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218337/2019-20-Hoops-Premium-Box-Set-Autographs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218338,
+      "name": "2019-20 Hoops - Red Hot Signatures",
+      "short": "Red Hot Signatures",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218338/2019-20-Hoops-Red-Hot-Signatures",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218339,
+      "name": "2019-20 Hoops - Red Hot Signatures Rookies",
+      "short": "Red Hot Signatures Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218339/2019-20-Hoops-Red-Hot-Signatures-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218340,
+      "name": "2019-20 Hoops - Rise N Shine Memorabilia",
+      "short": "Rise N Shine Memorabilia",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218340/2019-20-Hoops-Rise-N-Shine-Memorabilia",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218341,
+      "name": "2019-20 Hoops - Rise N Shine Memorabilia Prime",
+      "short": "Rise N Shine Memorabilia Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218341/2019-20-Hoops-Rise-N-Shine-Memorabilia-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218344,
+      "name": "2019-20 Hoops - Road to the Finals",
+      "short": "Road to the Finals",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218344/2019-20-Hoops-Road-to-the-Finals",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218347,
+      "name": "2019-20 Hoops - Rookie Ink",
+      "short": "Rookie Ink",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218347/2019-20-Hoops-Rookie-Ink",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218348,
+      "name": "2019-20 Hoops - Rookie Ink Red",
+      "short": "Rookie Ink Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218348/2019-20-Hoops-Rookie-Ink-Red",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218349,
+      "name": "2019-20 Hoops - Rookie Remembrance",
+      "short": "Rookie Remembrance",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218349/2019-20-Hoops-Rookie-Remembrance",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218350,
+      "name": "2019-20 Hoops - Rookie Remembrance Prime",
+      "short": "Rookie Remembrance Prime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218350/2019-20-Hoops-Rookie-Remembrance-Prime",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218352,
+      "name": "2019-20 Hoops - Rookie Special",
+      "short": "Rookie Special",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218352/2019-20-Hoops-Rookie-Special",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218206,
+      "name": "2019-20 Hoops - Spark Plugs",
+      "short": "Spark Plugs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218206/2019-20-Hoops-Spark-Plugs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218207,
+      "name": "2019-20 Hoops - Tip-Off",
+      "short": "Tip-Off",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218207/2019-20-Hoops-Tip-Off",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218355,
+      "name": "2019-20 Hoops - We Got Next",
+      "short": "We Got Next",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218355/2019-20-Hoops-We-Got-Next",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218356,
+      "name": "2019-20 Hoops - We Got Next Holo",
+      "short": "We Got Next Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218356/2019-20-Hoops-We-Got-Next-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218357,
+      "name": "2019-20 Hoops - We Got Next Holo Artist Proof",
+      "short": "We Got Next Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218357/2019-20-Hoops-We-Got-Next-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218358,
+      "name": "2019-20 Hoops - We Got Next Holo Artist Proof Gold",
+      "short": "We Got Next Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218358/2019-20-Hoops-We-Got-Next-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218359,
+      "name": "2019-20 Hoops - Zero Gravity",
+      "short": "Zero Gravity",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218359/2019-20-Hoops-Zero-Gravity",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218360,
+      "name": "2019-20 Hoops - Zero Gravity Holo",
+      "short": "Zero Gravity Holo",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218360/2019-20-Hoops-Zero-Gravity-Holo",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218361,
+      "name": "2019-20 Hoops - Zero Gravity Holo Artist Proof",
+      "short": "Zero Gravity Holo Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218361/2019-20-Hoops-Zero-Gravity-Holo-Artist-Proof",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218362,
+      "name": "2019-20 Hoops - Zero Gravity Holo Artist Proof Gold",
+      "short": "Zero Gravity Holo Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218362/2019-20-Hoops-Zero-Gravity-Holo-Artist-Proof-Gold",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 218282,
+      "name": "2019-20 Hoops - Artist Proof",
+      "short": "Artist Proof",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218282/2019-20-Hoops-Artist-Proof",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218283,
+      "name": "2019-20 Hoops - Artist Proof Black",
+      "short": "Artist Proof Black",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218283/2019-20-Hoops-Artist-Proof-Black",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218284,
+      "name": "2019-20 Hoops - Artist Proof Gold",
+      "short": "Artist Proof Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218284/2019-20-Hoops-Artist-Proof-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218285,
+      "name": "2019-20 Hoops - Blue",
+      "short": "Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218285/2019-20-Hoops-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218286,
+      "name": "2019-20 Hoops - Blue Explosion",
+      "short": "Blue Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218286/2019-20-Hoops-Blue-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218287,
+      "name": "2019-20 Hoops - Green",
+      "short": "Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218287/2019-20-Hoops-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218288,
+      "name": "2019-20 Hoops - Neon Green",
+      "short": "Neon Green",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218288/2019-20-Hoops-Neon-Green",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218289,
+      "name": "2019-20 Hoops - Orange",
+      "short": "Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218289/2019-20-Hoops-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218290,
+      "name": "2019-20 Hoops - Orange Explosion",
+      "short": "Orange Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218290/2019-20-Hoops-Orange-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218301,
+      "name": "2019-20 Hoops - Premium Box Set",
+      "short": "Premium Box Set",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218301/2019-20-Hoops-Premium-Box-Set",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218291,
+      "name": "2019-20 Hoops - Purple",
+      "short": "Purple",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218291/2019-20-Hoops-Purple",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218293,
+      "name": "2019-20 Hoops - Red",
+      "short": "Red",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218293/2019-20-Hoops-Red",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218294,
+      "name": "2019-20 Hoops - Red Backs",
+      "short": "Red Backs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218294/2019-20-Hoops-Red-Backs",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218295,
+      "name": "2019-20 Hoops - Red Explosion",
+      "short": "Red Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218295/2019-20-Hoops-Red-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218296,
+      "name": "2019-20 Hoops - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218296/2019-20-Hoops-Silver",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218297,
+      "name": "2019-20 Hoops - Teal",
+      "short": "Teal",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218297/2019-20-Hoops-Teal",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218298,
+      "name": "2019-20 Hoops - Teal Explosion",
+      "short": "Teal Explosion",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218298/2019-20-Hoops-Teal-Explosion",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 218300,
+      "name": "2019-20 Hoops - Yellow",
+      "short": "Yellow",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/218300/2019-20-Hoops-Yellow",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 9,
+  "imported_this_run": [
+    {
+      "source_set_id": 218293,
+      "name": "Red",
+      "family_requested": "numbered_low",
+      "cards_with_front": 17,
+      "missing_fronts": 283
+    },
+    {
+      "source_set_id": 218294,
+      "name": "Red Backs",
+      "family_requested": "numbered_low",
+      "cards_with_front": 30,
+      "missing_fronts": 270
+    },
+    {
+      "source_set_id": 218295,
+      "name": "Red Explosion",
+      "family_requested": "numbered_low",
+      "cards_with_front": 5,
+      "missing_fronts": 295
+    },
+    {
+      "source_set_id": 218284,
+      "name": "Artist Proof Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 4,
+      "missing_fronts": 296
+    },
+    {
+      "source_set_id": 218283,
+      "name": "Artist Proof Black",
+      "family_requested": "numbered_low",
+      "cards_with_front": 1,
+      "missing_fronts": 299
+    },
+    {
+      "source_set_id": 218336,
+      "name": "NBA City Holo Artist Proof Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 0,
+      "missing_fronts": 30
+    },
+    {
+      "source_set_id": 217899,
+      "name": "Hoops Ink",
+      "family_requested": "auto",
+      "cards_with_front": 16,
+      "missing_fronts": 34
+    },
+    {
+      "source_set_id": 218340,
+      "name": "Rise N Shine Memorabilia",
+      "family_requested": "memorabilia",
+      "cards_with_front": 18,
+      "missing_fronts": 21
+    },
+    {
+      "source_set_id": 218207,
+      "name": "Tip-Off",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 218333,
+      "name": "NBA City",
+      "family_requested": "insert",
+      "cards_with_front": 30,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 421,
+  "before_tiers": {
+    "base": 241,
+    "rookie": 59
+  },
+  "tiers": {
+    "base": 241,
+    "rookie": 59,
+    "numbered": 22,
+    "parallel": 30,
+    "numbered_low": 5,
+    "auto": 16,
+    "memorabilia": 18,
+    "insert": 40
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 3,
+    "numbered": 22,
+    "parallel": 30,
+    "numbered_low": 5,
+    "auto": 16,
+    "memorabilia": 18,
+    "insert": 40
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 241,
+      "available_cards": 241,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 59,
+      "available_cards": 59,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 5,
+      "source_candidates": 10
+    },
+    "auto": {
+      "status": "available",
+      "records": 16,
+      "available_cards": 16,
+      "local_images": 16,
+      "source_candidates": 12
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 18,
+      "available_cards": 18,
+      "local_images": 18,
+      "source_candidates": 2
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 30,
+      "available_cards": 30,
+      "local_images": 30,
+      "source_candidates": 18
+    },
+    "insert": {
+      "status": "available",
+      "records": 40,
+      "available_cards": 40,
+      "local_images": 40,
+      "source_candidates": 40
+    },
+    "numbered": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 20
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 10
+}

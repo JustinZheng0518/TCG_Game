@@ -1,0 +1,233 @@
+{
+  "set_id": "BB3035",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3035/2003-04-Bowman",
+  "headings": [
+    "Insert Sets (5)",
+    "Parallel Sets (5)"
+  ],
+  "subset_count": 10,
+  "subsets": [
+    {
+      "source_set_id": 27890,
+      "name": "2003-04 Bowman - Fabric of the Future",
+      "short": "Fabric of the Future",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27890/2003-04-Bowman-Fabric-of-the-Future",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27892,
+      "name": "2003-04 Bowman - Remembering Rookies",
+      "short": "Remembering Rookies",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27892/2003-04-Bowman-Remembering-Rookies",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27893,
+      "name": "2003-04 Bowman - Rookie Recalls",
+      "short": "Rookie Recalls",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27893/2003-04-Bowman-Rookie-Recalls",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27894,
+      "name": "2003-04 Bowman - Signs of the Future",
+      "short": "Signs of the Future",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27894/2003-04-Bowman-Signs-of-the-Future",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27895,
+      "name": "2003-04 Bowman - Sophomore Strands",
+      "short": "Sophomore Strands",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27895/2003-04-Bowman-Sophomore-Strands",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 27886,
+      "name": "2003-04 Bowman - Chrome",
+      "short": "Chrome",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27886/2003-04-Bowman-Chrome",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27887,
+      "name": "2003-04 Bowman - Chrome Refractors",
+      "short": "Chrome Refractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27887/2003-04-Bowman-Chrome-Refractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27888,
+      "name": "2003-04 Bowman - Chrome Refractors Gold",
+      "short": "Chrome Refractors Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27888/2003-04-Bowman-Chrome-Refractors-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27889,
+      "name": "2003-04 Bowman - Chrome X-fractors",
+      "short": "Chrome X-fractors",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27889/2003-04-Bowman-Chrome-X-fractors",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27891,
+      "name": "2003-04 Bowman - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27891/2003-04-Bowman-Gold",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 7,
+  "imported_this_run": [
+    {
+      "source_set_id": 27891,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 156,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27888,
+      "name": "Chrome Refractors Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 22,
+      "missing_fronts": 134
+    },
+    {
+      "source_set_id": 27893,
+      "name": "Rookie Recalls",
+      "family_requested": "insert",
+      "cards_with_front": 11,
+      "missing_fronts": 4
+    },
+    {
+      "source_set_id": 27895,
+      "name": "Sophomore Strands",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 5
+    },
+    {
+      "source_set_id": 27892,
+      "name": "Remembering Rookies",
+      "family_requested": "insert",
+      "cards_with_front": 2,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 27894,
+      "name": "Signs of the Future",
+      "family_requested": "insert",
+      "cards_with_front": 35,
+      "missing_fronts": 3
+    },
+    {
+      "source_set_id": 27890,
+      "name": "Fabric of the Future",
+      "family_requested": "insert",
+      "cards_with_front": 13,
+      "missing_fronts": 12
+    }
+  ],
+  "import_errors": [],
+  "card_count": 405,
+  "before_tiers": {
+    "base": 110,
+    "rookie": 36,
+    "auto": 10
+  },
+  "tiers": {
+    "base": 110,
+    "rookie": 36,
+    "auto": 47,
+    "parallel": 156,
+    "numbered": 21,
+    "numbered_low": 1,
+    "memorabilia": 34
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 4,
+    "rookie": 2,
+    "auto": 47,
+    "parallel": 156,
+    "numbered": 21,
+    "numbered_low": 1,
+    "memorabilia": 34
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 110,
+      "available_cards": 110,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 36,
+      "available_cards": 36,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "available",
+      "records": 47,
+      "available_cards": 47,
+      "local_images": 47,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "available",
+      "records": 34,
+      "available_cards": 34,
+      "local_images": 34,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 156,
+      "available_cards": 156,
+      "local_images": 156,
+      "source_candidates": 5
+    },
+    "insert": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 5
+    },
+    "numbered": {
+      "status": "available",
+      "records": 21,
+      "available_cards": 21,
+      "local_images": 21,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

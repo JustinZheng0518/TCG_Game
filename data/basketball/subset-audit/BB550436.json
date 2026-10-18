@@ -1,0 +1,170 @@
+{
+  "set_id": "BB550436",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/550436/2024-25-Hoops-Haunted-Hoops",
+  "headings": [
+    "Insert Sets (1)",
+    "Parallel Sets (6)"
+  ],
+  "subset_count": 7,
+  "subsets": [
+    {
+      "source_set_id": 550443,
+      "name": "2024-25 Hoops Haunted Hoops - Extended",
+      "short": "Extended",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550443/2024-25-Hoops-Haunted-Hoops-Extended",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 550439,
+      "name": "2024-25 Hoops Haunted Hoops - Holo Bats",
+      "short": "Holo Bats",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550439/2024-25-Hoops-Haunted-Hoops-Holo-Bats",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 550440,
+      "name": "2024-25 Hoops Haunted Hoops - Holo Sky",
+      "short": "Holo Sky",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550440/2024-25-Hoops-Haunted-Hoops-Holo-Sky",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 550441,
+      "name": "2024-25 Hoops Haunted Hoops - Holo Trick-Or-Treat",
+      "short": "Holo Trick-Or-Treat",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550441/2024-25-Hoops-Haunted-Hoops-Holo-Trick-Or-Treat",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 550442,
+      "name": "2024-25 Hoops Haunted Hoops - Holo Webs",
+      "short": "Holo Webs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550442/2024-25-Hoops-Haunted-Hoops-Holo-Webs",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 550438,
+      "name": "2024-25 Hoops Haunted Hoops - Orange",
+      "short": "Orange",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550438/2024-25-Hoops-Haunted-Hoops-Orange",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 550437,
+      "name": "2024-25 Hoops Haunted Hoops - Slime",
+      "short": "Slime",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/550437/2024-25-Hoops-Haunted-Hoops-Slime",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 550437,
+      "name": "Slime",
+      "family_requested": "parallel",
+      "cards_with_front": 280,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 550443,
+      "name": "Extended",
+      "family_requested": "insert",
+      "cards_with_front": 25,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 605,
+  "before_tiers": {
+    "base": 250,
+    "rookie": 50
+  },
+  "tiers": {
+    "base": 250,
+    "rookie": 50,
+    "parallel": 280,
+    "insert": 25
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 6,
+    "rookie": 1,
+    "parallel": 280,
+    "insert": 25
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 250,
+      "available_cards": 250,
+      "local_images": 6,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 50,
+      "available_cards": 50,
+      "local_images": 1,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "available",
+      "records": 280,
+      "available_cards": 280,
+      "local_images": 280,
+      "source_candidates": 6
+    },
+    "insert": {
+      "status": "available",
+      "records": 25,
+      "available_cards": 25,
+      "local_images": 25,
+      "source_candidates": 1
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

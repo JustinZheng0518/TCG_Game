@@ -1,0 +1,160 @@
+{
+  "set_id": "BB3036",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/3036/2003-04-Bowman-Signature",
+  "headings": [
+    "Parallel Sets (4)"
+  ],
+  "subset_count": 4,
+  "subsets": [
+    {
+      "source_set_id": 27897,
+      "name": "2003-04 Bowman Signature - Foil",
+      "short": "Foil",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27897/2003-04-Bowman-Signature-Foil",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27898,
+      "name": "2003-04 Bowman Signature - Gold",
+      "short": "Gold",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27898/2003-04-Bowman-Signature-Gold",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27896,
+      "name": "2003-04 Bowman Signature - Red/Blue",
+      "short": "Red/Blue",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27896/2003-04-Bowman-Signature-Red-Blue",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 27899,
+      "name": "2003-04 Bowman Signature - Silver",
+      "short": "Silver",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/27899/2003-04-Bowman-Signature-Silver",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 4,
+  "imported_this_run": [
+    {
+      "source_set_id": 27898,
+      "name": "Gold",
+      "family_requested": "numbered_low",
+      "cards_with_front": 18,
+      "missing_fronts": 100
+    },
+    {
+      "source_set_id": 27896,
+      "name": "Red/Blue",
+      "family_requested": "numbered_low",
+      "cards_with_front": 2,
+      "missing_fronts": 116
+    },
+    {
+      "source_set_id": 27899,
+      "name": "Silver",
+      "family_requested": "parallel",
+      "cards_with_front": 31,
+      "missing_fronts": 87
+    },
+    {
+      "source_set_id": 27897,
+      "name": "Foil",
+      "family_requested": "parallel",
+      "cards_with_front": 24,
+      "missing_fronts": 94
+    }
+  ],
+  "import_errors": [],
+  "card_count": 185,
+  "before_tiers": {
+    "auto": 87,
+    "auto_patch": 23
+  },
+  "tiers": {
+    "auto": 149,
+    "auto_patch": 34,
+    "numbered_low": 2
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "auto": 149,
+    "auto_patch": 34,
+    "numbered_low": 2
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "available",
+      "records": 2,
+      "available_cards": 2,
+      "local_images": 2,
+      "source_candidates": 2
+    },
+    "auto": {
+      "status": "available",
+      "records": 149,
+      "available_cards": 149,
+      "local_images": 149,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "available",
+      "records": 34,
+      "available_cards": 34,
+      "local_images": 34,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 4
+    },
+    "insert": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "numbered": {
+      "status": "pending_assets",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 2
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}

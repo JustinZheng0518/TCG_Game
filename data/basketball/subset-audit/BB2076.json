@@ -1,0 +1,132 @@
+{
+  "set_id": "BB2076",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/2076/1990-91-Fleer",
+  "headings": [
+    "Insert Sets (2)"
+  ],
+  "subset_count": 2,
+  "subsets": [
+    {
+      "source_set_id": 2077,
+      "name": "1990-91 Fleer - All-Stars",
+      "short": "All-Stars",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2077/1990-91-Fleer-All-Stars",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 2078,
+      "name": "1990-91 Fleer - Rookie Sensations",
+      "short": "Rookie Sensations",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/2078/1990-91-Fleer-Rookie-Sensations",
+      "kind": "insert"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 2077,
+      "name": "All-Stars",
+      "family_requested": "insert",
+      "cards_with_front": 12,
+      "missing_fronts": 0
+    },
+    {
+      "source_set_id": 2078,
+      "name": "Rookie Sensations",
+      "family_requested": "insert",
+      "cards_with_front": 10,
+      "missing_fronts": 0
+    }
+  ],
+  "import_errors": [],
+  "card_count": 218,
+  "before_tiers": {
+    "base": 170,
+    "rookie": 26
+  },
+  "tiers": {
+    "base": 172,
+    "rookie": 26,
+    "insert": 22
+  },
+  "coverage_status": "source_checklists_read",
+  "local_images_by_tier": {
+    "base": 5,
+    "rookie": 2,
+    "insert": 22
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 172,
+      "available_cards": 172,
+      "local_images": 5,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 26,
+      "available_cards": 26,
+      "local_images": 2,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 22,
+      "available_cards": 22,
+      "local_images": 22,
+      "source_candidates": 2
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 2
+}

@@ -1,0 +1,219 @@
+{
+  "set_id": "BB428557",
+  "source_url": "https://www.tcdb.com/Inserts.cfm/sid/428557/2012-13-Hoops-International",
+  "headings": [
+    "Insert Sets (6)",
+    "Parallel Sets (2)"
+  ],
+  "subset_count": 8,
+  "subsets": [
+    {
+      "source_set_id": 428558,
+      "name": "2012-13 Hoops International - Action Photos",
+      "short": "Action Photos",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428558/2012-13-Hoops-International-Action-Photos",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 428563,
+      "name": "2012-13 Hoops International - Board Members",
+      "short": "Board Members",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428563/2012-13-Hoops-International-Board-Members",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 428560,
+      "name": "2012-13 Hoops International - Courtside",
+      "short": "Courtside",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428560/2012-13-Hoops-International-Courtside",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 428559,
+      "name": "2012-13 Hoops International - Draft Night",
+      "short": "Draft Night",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428559/2012-13-Hoops-International-Draft-Night",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 428561,
+      "name": "2012-13 Hoops International - Rookie Impact",
+      "short": "Rookie Impact",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428561/2012-13-Hoops-International-Rookie-Impact",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 428562,
+      "name": "2012-13 Hoops International - Spark Plugs",
+      "short": "Spark Plugs",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428562/2012-13-Hoops-International-Spark-Plugs",
+      "kind": "insert"
+    },
+    {
+      "source_set_id": 428757,
+      "name": "2012-13 Hoops International - Printed Golden Foil Signature",
+      "short": "Printed Golden Foil Signature",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428757/2012-13-Hoops-International-Printed-Golden-Foil-Signature",
+      "kind": "parallel"
+    },
+    {
+      "source_set_id": 428758,
+      "name": "2012-13 Hoops International - Printed Golden Foil Signature Rare",
+      "short": "Printed Golden Foil Signature Rare",
+      "source_url": "https://www.tcdb.com/Checklist.cfm/sid/428758/2012-13-Hoops-International-Printed-Golden-Foil-Signature-Rare",
+      "kind": "parallel"
+    }
+  ],
+  "status": "directory_checked",
+  "imported_subset_count": 2,
+  "imported_this_run": [
+    {
+      "source_set_id": 428757,
+      "name": "Printed Golden Foil Signature",
+      "family_requested": "auto",
+      "cards_with_front": 1,
+      "missing_fronts": 79
+    },
+    {
+      "source_set_id": 428758,
+      "name": "Printed Golden Foil Signature Rare",
+      "family_requested": "auto",
+      "cards_with_front": 0,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 428560,
+      "name": "Courtside",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 428559,
+      "name": "Draft Night",
+      "family_requested": "insert",
+      "cards_with_front": 1,
+      "missing_fronts": 19
+    },
+    {
+      "source_set_id": 428562,
+      "name": "Spark Plugs",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 428558,
+      "name": "Action Photos",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 428563,
+      "name": "Board Members",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 20
+    },
+    {
+      "source_set_id": 428561,
+      "name": "Rookie Impact",
+      "family_requested": "insert",
+      "cards_with_front": 0,
+      "missing_fronts": 28
+    }
+  ],
+  "import_errors": [],
+  "card_count": 27,
+  "before_tiers": {
+    "base": 20,
+    "rookie": 5
+  },
+  "tiers": {
+    "base": 20,
+    "rookie": 5,
+    "auto": 1,
+    "insert": 1
+  },
+  "coverage_status": "partial",
+  "local_images_by_tier": {
+    "base": 3,
+    "rookie": 4,
+    "auto": 1,
+    "insert": 1
+  },
+  "tier_coverage": {
+    "base": {
+      "status": "available",
+      "records": 20,
+      "available_cards": 20,
+      "local_images": 3,
+      "source_candidates": 0
+    },
+    "rookie": {
+      "status": "available",
+      "records": 5,
+      "available_cards": 5,
+      "local_images": 4,
+      "source_candidates": 0
+    },
+    "numbered_low": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 2
+    },
+    "memorabilia": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "auto_patch": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "parallel": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "insert": {
+      "status": "available",
+      "records": 1,
+      "available_cards": 1,
+      "local_images": 1,
+      "source_candidates": 6
+    },
+    "numbered": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    },
+    "case_hit": {
+      "status": "not_listed",
+      "records": 0,
+      "available_cards": 0,
+      "local_images": 0,
+      "source_candidates": 0
+    }
+  },
+  "plain_text_cards_recovered": 0
+}
