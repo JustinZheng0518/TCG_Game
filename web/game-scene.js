@@ -24,12 +24,12 @@ function enterProcurement() {
   jumpToSet(target.id);
 }
 function updateRoomHeading() {
-  const rooms = {shop: ["LITTLE CARD SHOP", "欢迎回到你的小小卡店"], draw: ["A LITTLE LUCK INSIDE", "拆一包，发现新的心动"], collection: ["MY PRECIOUS COLLECTION", "每一张，都有自己的故事"], album: ["CARD MARKET & ALBUM", "找找下一张心愿卡"], events: ["THE COMMUNITY SQUARE", "今天，去遇见一点特别"]};
+  const rooms = {shop: ["", "今天也要开心开店！"], draw: ["", "拆一包小惊喜"], collection: ["", "我的卡册"], album: ["", "挑张心愿卡"], events: ["", "去玩一会儿"]};
   const room = rooms[state.mode] || rooms.shop;
   $("room-eyebrow").textContent = room[0];
   $("room-title").textContent = room[1];
-  $("choose-set").hidden = !["draw", "collection", "album"].includes(state.mode);
-  $("choose-set").firstChild.textContent = `${state.selected?.id || "选择"} · 换个系列 `;
+  $("choose-set").hidden = !["draw", "album"].includes(state.mode);
+  $("choose-set").firstChild.textContent = "选系列 ";
 }
 function renderGameScene() {
   if (!state.save.shop || !state.feed) return;
@@ -39,8 +39,8 @@ function renderGameScene() {
   $("scene-level").textContent = `Lv.${s.level} · 第 ${s.day} 天`;
   $("scene-news-title").textContent = Shop.news(state.save, state.feed)[0].title;
   const ready = Shop.QUESTS.filter(q => s.progress[q.field] >= q.target && !s.claimed.includes(q.id)).length;
-  $("scene-quest-count").textContent = ready ? `${ready} 个目标已完成，去领奖 →` : `活动券 ${s.tickets} 张 · 今日目标等你完成`;
-  $("scene-growth").textContent = `Lv.${s.level} 小店 · 口碑 ${s.reputation} · 查看账本`;
+  $("scene-quest-count").textContent = ready ? `${ready} 份奖励可领` : "做任务，领好礼";
+  $("scene-growth").textContent = `口碑 ${s.reputation} · 去升级`;
   $("daily-guide-title").textContent = !stock ? "店长，货架还等着你的第一批新货。" : s.worked ? "准备好啦，让好卡遇见今天的客人。" : "新一天，先把小店打理得漂漂亮亮。";
   $("daily-guide").textContent = !stock ? "去补货仓库挑个系列；也可以直接买一包拆开。" : `货架上有 ${stock} 件商品，卡册已收藏 ${stats.unique} 款。开门营业，看看今天的收获吧。`;
   updateRoomHeading();
@@ -109,7 +109,7 @@ function initGameScene() {
   const observer = new MutationObserver(records => {
     const source = records[records.length - 1].target;
     const content = source.textContent.trim();
-    if (!content || content.startsWith("正在读取") || content.startsWith("选择本套")) return;
+    if (!content || ["正在读取", "选择本套", "整理卡册", "卡册空空", "没有找到", "请重试读取收藏"].some(prefix => content.startsWith(prefix))) return;
     $("toast-message").textContent = content;
     if ($("desk-dialog").open) $("desk-notice").textContent = content;
     $("game-toast").hidden = false;
@@ -118,6 +118,7 @@ function initGameScene() {
   });
   for (const id of ["message", "shop-message"]) observer.observe($(id), {childList: true, characterData: true, subtree: true});
   businessScene = new ShopBusiness(document.querySelector(".store-scene"));
+  $("world-view").addEventListener("click", () => { businessScene.world.setView(businessScene.world.view === "first" ? "overview" : "first"); businessScene.world.canvas.focus({preventScroll:true}); });
   $("world-reset").addEventListener("click", () => businessScene.world.resetCamera());
   $("checkout-next").addEventListener("click", () => businessScene.checkoutNext());
   $("retry-checkout").addEventListener("click", () => { businessScene.paymentBlocked = false; businessScene.updateUI(); });

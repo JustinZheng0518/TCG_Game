@@ -3,7 +3,7 @@ let businessScene = null;
 class ShopBusiness {
   constructor(host) {
     this.visitors = new Map(); this.spawnIn = .5; this.lastTime = performance.now(); this.closing = false; this.paymentBlocked = false;
-    this.world = new ShopWorld(host, action => { if (action === "supply") enterProcurement(); else if (action === "collection") setMode("collection"); else if (action === "events") setMode("events"); else openDesk("stock"); });
+    this.world = new ShopWorld(host, action => { if (action === "supply") enterProcurement(); else if (action === "collection") setMode("collection"); else if (action === "events") setMode("events"); else if(action === "checkout" && !$("checkout-next").disabled) this.checkoutNext(); else openDesk("stock"); });
     this.sync(); this.frame = this.frame.bind(this); requestAnimationFrame(this.frame);
   }
   sync() {
@@ -21,15 +21,15 @@ class ShopBusiness {
     const s = state.save.shop, b = s.business;
     const ready = [...this.visitors.values()].filter(v => v.phase === "checkout").length;
     $("checkout-next").disabled = !ready || this.paymentBlocked;
-    $("checkout-next").textContent = ready ? `收银 · ${ready} 位等付款` : "收银 · 暂无顾客";
+    $("checkout-next").textContent = ready ? `收银 (${ready})` : "等待客人";
     $("end-day").disabled = this.closing;
-    $("end-day").textContent = this.closing ? "完成结账后打烊…" : b.open ? "打烊结算" : "开门营业 →";
+    $("end-day").textContent = this.closing ? "送客中…" : b.open ? "打烊" : "开门营业";
     $("scene-business-label").textContent = this.closing ? "准备打烊" : b.open ? "正在营业" : "还未开门";
-    $("live-turnover").textContent = `今日回款 ${money(b.packRevenue + b.cardRevenue)} · 已接待 ${b.receipts.length} / ${Shop.customerLimit(state.save)} 位`;
+    $("live-turnover").textContent = `今日收入 ${money(b.packRevenue + b.cardRevenue)}`;
     $("retry-checkout").hidden = !this.paymentBlocked;
     const stocked = Object.values(s.stock).some(n => n > 0) || Object.values(s.listings).some(e => e.count > 0);
     document.querySelector(".scene-caption h2").textContent = b.open ? "欢迎光临，小小卡店。" : stocked ? "货架摆好了，等第一位客人进门。" : "补上新货，开一家自己的卡店。";
-    $("customer-status").textContent = this.paymentBlocked ? "收银保存失败，现金与库存未变。处理后点击重试收银。" : this.closing ? "正在送走最后几位客人，完成付款后出今日账单。" : !b.open ? "补好货，点开门营业。顾客会到货架和寄售柜挑选。" : ready ? `有 ${ready} 位客人在收银台等你。点击收银完成付款。` : !stocked ? "货架空啦，去补货或上架几张单卡吧。" : b.nextId >= Shop.customerLimit(state.save) && !b.pending.length ? "今天的客人都逛完了，可以打烊结算，明天再开店。" : "店门开着，客人正在进店、挑货。离开店面会暂停营业。";
+    $("customer-status").textContent = this.paymentBlocked ? "没能保存，请重试收银。" : this.closing ? "最后几位客人结账中…" : !b.open ? "准备好就开门吧 ♡" : ready ? `${ready} 位客人等你收银` : !stocked ? "货架空啦，补点新货吧" : b.nextId >= Shop.customerLimit(state.save) && !b.pending.length ? "今天辛苦啦，可以打烊了" : "客人在挑选中 ♡";
   }
   toggle() {
     try {
@@ -46,7 +46,7 @@ class ShopBusiness {
       v.phase = "exit"; v.route = [[3.8, 3.7]];
       v.label = result.receipt.count ? `${v.name} · 已付款 +${money(result.receipt.revenue)}` : `${v.name} · 卖光了，下次再来`;
       if (result.receipt.count) {
-        $("sale-receipt").textContent = `${v.name} 买走 ${result.receipt.name}，到账 ${money(result.receipt.revenue)}`;
+        $("sale-receipt").textContent = `${v.name} 买单 +${money(result.receipt.revenue)} ♡`;
         $("sale-receipt").classList.remove("sale-pop"); void $("sale-receipt").offsetWidth; $("sale-receipt").classList.add("sale-pop");
       }
       this.updateUI();

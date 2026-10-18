@@ -34,11 +34,11 @@ function renderShop() {
   const stockCount = Object.values(s.stock).reduce((sum, n) => sum + n, 0);
   const listedCount = Object.values(s.listings).reduce((sum, entry) => sum + entry.count, 0);
   $("store-summary").replaceChildren();
-  for (const [label, value] of [["可用现金 · 游戏币", money(s.cash)], ["营业日 / 店铺等级", `第 ${s.day} 天 · Lv.${s.level}`], ["未拆封库存 / 寄售", `${stockCount} 件 / ${listedCount} 张`], ["活动券 / 口碑", `${s.tickets} 张 / ${s.reputation}`]]) {
+  for (const [label, value] of [["钱包", money(s.cash)], ["我的小店", `第 ${s.day} 天 · Lv.${s.level}`], ["货架 / 寄售", `${stockCount} 包 / ${listedCount} 张`], ["活动券", `${s.tickets} 张`]]) {
     const item = text("div", ""); item.append(text("span", label), text("strong", value)); $("store-summary").append(item);
   }
   $("work-day").disabled = s.worked;
-  $("work-day").textContent = s.worked ? "今日店务已完成" : "打理店铺 · 赚 ¥50";
+  $("work-day").textContent = s.worked ? "今天打扫好了 ✓" : "打扫 +¥50";
   $("upgrade-shop").textContent = s.level < 10 ? `扩建柜台 · ${money(s.level * 50000)}` : "柜台已满级";
   $("upgrade-shop").disabled = s.level >= 10;
   $("news-feed").replaceChildren();
@@ -98,6 +98,7 @@ function renderAcquisition() {
   $("buy-stock-ten").disabled = false;
   $("acquire-special").disabled = false;
   const s = state.save.shop;
+  const unit = product.channel === "deck" ? "盒" : "包";
   const retail = Shop.RETAIL.includes(product.channel);
   const show = state.mode === "draw";
   const q = Shop.productQuote(state.save, product, state.feed);
@@ -125,17 +126,17 @@ function renderAcquisition() {
   $("draw-ten").disabled = !retail || product.channel === "deck";
   const stock = s.stock[product.id] || 0;
   const missingTen = Math.max(0, 10 - stock);
-  $("draw-one").textContent = stock ? `拆开 1 件 · ${product.cards_per_unit} 张` : `买 1 件并拆开 · ${money(q.wholesale)}`;
-  $("draw-ten").textContent = missingTen ? `连开 10 件 · 补货 ${money(q.wholesale * missingTen)}` : "连开库存 10 件";
+  $("draw-one").textContent = stock ? `拆 1 ${unit}` : `开 1 ${unit} · ${money(q.wholesale)}`;
+  $("draw-ten").textContent = missingTen ? `开 10 ${unit} · ${money(q.wholesale * missingTen)}` : `拆 10 ${unit}`;
   $("bulk-stock").hidden = !show || !retail;
   $("quick-channel").textContent = product.channel_label;
   $("quick-title").textContent = retail ? "这一包，会遇见谁？" : "特别的卡，特别的相遇。";
-  $("quick-price").textContent = retail ? `${product.cards_per_unit} 张 / 件 · 供货价 ${money(q.wholesale)}${q.source?.kind === "historical_us_msrp" ? " · 参考美版历史 US$4.49" : ""}` : "通过本系列专属渠道领取";
-  $("quick-stock").textContent = retail ? `店内库存 ${stock} 件 · 开包优先使用库存，缺少时自动补货` : `我的活动券 ${s.tickets} 张`;
+  $("quick-price").textContent = retail ? `${product.cards_per_unit} 张 / ${unit} · 进货 ${money(q.wholesale)}${q.source?.kind === "historical_us_msrp" ? " · 美版参考 $4.49" : ""}` : "通过本系列专属渠道领取";
+  $("quick-stock").textContent = retail ? `库存 ${stock} ${unit} · 拆完再补货` : `我的活动券 ${s.tickets} 张`;
   renderProductArt();
-  $("buy-stock-one").textContent = `进货 1 件 · ${money(q.wholesale)}`;
-  $("buy-stock-ten").textContent = `进货 10 件 · ${money(q.wholesale * 10)}`;
-  $("stock-available").textContent = `本套未拆封库存 ${s.stock[product.id] || 0} 件 · 今日供货额度余 ${Math.max(0, 30 + s.level * 10 - s.progress.bought)} 件`;
+  $("buy-stock-one").textContent = `补 1 ${unit} · ${money(q.wholesale)}`;
+  $("buy-stock-ten").textContent = `补 10 ${unit} · ${money(q.wholesale * 10)}`;
+  $("stock-available").textContent = `库存 ${stock} ${unit} · 今日还能补 ${Math.max(0, 30 + s.level * 10 - s.progress.bought)} ${unit}`;
   const choose = ["gift", "exchange"].includes(product.channel);
   $("reward-card").hidden = !choose;
   document.querySelector('label[for="reward-card"]').hidden = !choose;
@@ -152,8 +153,8 @@ function cardTradeControls(card) {
   const actions = text("div", "", "card-trade-actions");
   if (state.mode === "album") actions.append(lineButton(`买入 ${money(q.ask)}`, () => shopAction(() => Shop.trade(state.save, card, "buy", state.feed), "单卡已买入并加入收藏。", "message")));
   if (state.save.counts[card.id]) {
-    actions.append(lineButton(`卖 1 张 ${money(q.bid)}`, () => shopAction(() => Shop.trade(state.save, card, "sell", state.feed), "卡牌已卖出，回款已入账。", "message")));
-    actions.append(lineButton("寄售 1 张", () => shopAction(() => Shop.trade(state.save, card, "list", state.feed), "已放入寄售柜，开门后等待顾客到柜台付款。", "message")));
+    actions.append(lineButton(`卖出 ${money(q.bid)}`, () => shopAction(() => Shop.trade(state.save, card, "sell", state.feed), "卡牌已卖出，回款已入账。", "message")));
+    actions.append(lineButton("上架", () => shopAction(() => Shop.trade(state.save, card, "list", state.feed), "上架啦，等客人来买。", "message")));
   }
   controls.append(actions);
   return controls;
@@ -235,7 +236,7 @@ function initShopUI() {
     event.preventDefault();
     shopAction(() => Shop.redeem(state.save, $("redeem-code").value), "兑换成功，奖励已入账。");
   });
-  $("sell-duplicates").addEventListener("click", () => shopAction(() => Shop.sellDuplicates(state.save, state.cards, state.feed), "本套重复卡已卖出，每款保留 1 张。", "message"));
+  $("sell-duplicates").addEventListener("click", () => shopAction(() => Shop.sellDuplicates(state.save, state.mode === "collection" ? state.collectionCards.filter(card => !state.collectionSet || card.set_id === state.collectionSet) : state.cards, state.feed), "重复卡已卖出，每款留一张。", "message"));
   $("refresh-market").addEventListener("click", () => refreshMarket());
   $("load-market-url").addEventListener("click", () => refreshMarket(true));
   renderShop();

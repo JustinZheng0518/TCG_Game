@@ -7,6 +7,12 @@ const Game = globalThis.TCGGame;
 const SAVE_KEY = "TCG_Game:collection:v1";
 state.mode = "shop";
 state.lastDraw = [];
+state.collectionCards = [];
+state.collectionSet = "";
+state.collectionLoading = false;
+state.collectionError = "";
+const cardSetCache = new Map();
+let collectionRequest = 0;
 state.save = Shop.validate({version: 1, counts: {}});
 state.saveError = "";
 state.rawSave = null;
@@ -31,6 +37,7 @@ function persistSave(next) {
   renderSets();
   renderShop();
   renderAcquisition();
+  if (state.mode === "collection") loadCollection();
 }
 
 function updateStats() {
@@ -43,6 +50,8 @@ function updateStats() {
 function setMode(mode) {
   if (!["shop", "draw", "collection", "album", "events"].includes(mode)) return;
   const changed = state.mode !== mode;
+  if (changed && mode === "collection") state.collectionSet = "";
+  if (changed && businessScene) businessScene.world.keys.clear();
   state.mode = mode;
   document.body.dataset.mode = mode;
   for (const button of document.querySelectorAll("button[data-mode]")) button.setAttribute("aria-pressed", String(button.dataset.mode === mode || mode === "album" && button.matches(".mode-tabs [data-mode=collection]")));
@@ -54,8 +63,56 @@ function setMode(mode) {
   renderAcquisition();
   $("card-search").value = "";
   $("rarity-filter").value = "";
+  if (mode === "collection") loadCollection();
+  else refreshRarities(state.cards);
   filterCards();
   if (changed) window.scrollTo(0, 0);
+}
+
+async function readCardSet(set) {
+  if (!cardSetCache.has(set.id)) {
+    const pending = readJSON(set.cards_path).catch(error => { cardSetCache.delete(set.id); throw error; });
+    cardSetCache.set(set.id, pending);
+  }
+  return cardSetCache.get(set.id);
+}
+function refreshRarities(cards) {
+  const previous = $("rarity-filter").value;
+  const values = [...new Set(cards.map(c => c.rarity))];
+  $("rarity-filter").replaceChildren(new Option("全部稀有度", ""), ...values.map(value => new Option(value, value)));
+  if (values.includes(previous)) $("rarity-filter").value = previous;
+}
+async function loadCollection() {
+  if (!state.index) return;
+  const request = ++collectionRequest;
+  const ownedSets = new Set(Object.keys(state.save.counts).map(id => id.split(":")[0]));
+  const sets = state.index.sets.filter(set => ownedSets.has(set.id));
+  state.collectionLoading = true;
+  $("sell-duplicates").disabled = true;
+  $("collection-notice").textContent = "整理卡册中…";
+  $("retry-collection").hidden = true;
+  const results = [], failures = [];
+  let cursor = 0;
+  await Promise.all(Array.from({length: Math.min(4, sets.length)}, async () => {
+    while (cursor < sets.length) {
+      const set = sets[cursor++];
+      try { results.push(...await readCardSet(set)); } catch { failures.push(set.id); }
+    }
+  }));
+  if (request !== collectionRequest) return;
+  state.collectionLoading = false;
+  state.collectionCards = results.filter(card => state.save.counts[card.id]).sort((a, b) => Game.tier(b) - Game.tier(a) || a.name.localeCompare(b.name, "zh-CN") || a.id.localeCompare(b.id));
+  const readIds = new Set(results.map(card => card.id));
+  const unknown = Object.keys(state.save.counts).filter(id => !readIds.has(id)).length;
+  state.collectionError = failures.length || unknown ? `有 ${unknown} 款卡暂未读出，收藏已保留。` : "";
+  $("collection-notice").textContent = state.collectionError;
+  $("retry-collection").hidden = !state.collectionError;
+  $("sell-duplicates").disabled = !!state.collectionError;
+  const filter = $("collection-set");
+  filter.replaceChildren(new Option("全部系列", ""), ...sets.map(set => new Option(set.name, set.id)));
+  if (sets.some(set => set.id === state.collectionSet)) filter.value = state.collectionSet;
+  else state.collectionSet = "";
+  if (state.mode === "collection") { refreshRarities(state.collectionCards); filterCards(); }
 }
 
 function openPacks(count) {
@@ -193,7 +250,7 @@ function appendCards() {
     button.append(image);
     button.addEventListener("click", () => showCard(card));
     const label = text("div", "", "card-label");
-    label.append(text("span", card.number), text("span", card.rarity, "rarity"));
+    label.append(text("span", state.mode === "collection" ? card.set_id : card.number), text("span", card.rarity, "rarity"));
     const name = text("h2", "", "card-name");
     name.append(text("span", card.name));
     if (state.save.counts[card.id]) name.append(text("span", `×${state.save.counts[card.id]}`, "owned-count"));
@@ -209,13 +266,13 @@ function filterCards() {
   if (["shop", "events"].includes(state.mode)) { $("cards").replaceChildren(); return; }
   const query = $("card-search").value.trim().toLocaleLowerCase();
   const rarity = $("rarity-filter").value;
-  const base = state.mode === "draw" ? state.lastDraw : state.mode === "collection" ? state.cards.filter((card) => state.save.counts[card.id]) : state.cards;
+  const base = state.mode === "draw" ? state.lastDraw : state.mode === "collection" ? state.collectionCards.filter((card) => state.save.counts[card.id] && (!state.collectionSet || card.set_id === state.collectionSet)) : state.cards;
   state.filtered = base.filter((card) => (!rarity || card.rarity === rarity)
-    && `${card.name} ${card.number}`.toLocaleLowerCase().includes(query));
+    && `${card.name} ${card.number} ${card.set_id}`.toLocaleLowerCase().includes(query));
   state.shown = 0;
   $("cards").replaceChildren();
   $("result-count").textContent = `${state.filtered.length.toLocaleString("zh-CN")} 张卡面`;
-  $("message").textContent = state.saveError || (state.filtered.length ? "" : !base.length && state.mode === "draw" ? "选择本套对应的获取渠道，开始经营与收集。" : !base.length && state.mode === "collection" ? "这套收藏还是空的，去开包发现第一张卡吧。" : "没有找到符合条件的卡牌，试试其他卡名或稀有度。");
+  $("message").textContent = state.saveError || (state.filtered.length ? "" : !base.length && state.mode === "draw" ? "选择本套对应的获取渠道，开始经营与收集。" : !base.length && state.mode === "collection" ? state.collectionLoading ? "整理卡册中…" : state.collectionError ? "请重试读取收藏。" : "卡册空空的，去拆一包吧！" : "没有找到符合条件的卡牌，试试其他卡名或稀有度。");
   appendCards();
 }
 
@@ -247,7 +304,7 @@ async function selectSet() {
   $("rarity-filter").replaceChildren(new Option("全部稀有度", ""));
   renderSets();
   try {
-    const cards = await readJSON(set.cards_path);
+    const cards = await readCardSet(set);
     if (request !== state.request) return;
     if (state.localImages === null && cards.length) {
       const available = await Promise.all([cards[0].thumbnail, cards[0].image].map(async (path) => {
@@ -264,9 +321,7 @@ async function selectSet() {
     $("reward-card").replaceChildren(...cards.map(card => new Option(`${card.number} · ${card.name} · ${card.rarity}`, card.id)));
     renderAcquisition();
     updateStats();
-    const counts = new Map();
-    for (const card of cards) counts.set(card.rarity, (counts.get(card.rarity) || 0) + 1);
-    for (const [rarity, count] of counts) $("rarity-filter").append(new Option(`${rarity} (${count})`, rarity));
+    if (state.mode !== "collection") refreshRarities(cards);
     filterCards();
   } catch (error) {
     if (request === state.request) { state.cards = []; $("message").textContent = error.message; $("result-count").textContent = ""; }
@@ -285,7 +340,7 @@ async function start() {
     initShopUI();
     initGameScene();
     state.index.sets.sort((a, b) => (b.release_date || "").localeCompare(a.release_date || "") || b.source_collection_id - a.source_collection_id);
-    $("library-stats").textContent = `${state.index.set_count} 套 · ${state.index.card_faces.toLocaleString("zh-CN")} 张卡面`;
+    $("library-stats").textContent = `${state.index.set_count} 个系列 · 简体中文卡面`;
     for (const series of new Set(state.index.sets.map((set) => set.series))) $("series-filter").append(new Option(series, series));
     $("library-status").textContent = "简体中文卡牌 · 本地档案";
     readJSON("data/pokemon/zh-CN/coverage.json").then((coverage) => {
@@ -300,6 +355,8 @@ async function start() {
     $("import-file").addEventListener("change", importSave);
     $("series-filter").addEventListener("change", renderSets);
     $("card-search").addEventListener("input", filterCards);
+    $("collection-set").addEventListener("change", event => { state.collectionSet = event.target.value; filterCards(); });
+    $("retry-collection").addEventListener("click", loadCollection);
     $("rarity-filter").addEventListener("change", filterCards);
     $("load-more").addEventListener("click", appendCards);
     $("close-dialog").addEventListener("click", () => $("card-dialog").close());
