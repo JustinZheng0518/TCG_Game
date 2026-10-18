@@ -22,6 +22,7 @@
     return RARITY_GROUPS.findIndex((entry) => entry.rarities.includes(rarity(card)));
   }
   function tier(card) {
+    if (card.sport === "basketball") return ["auto", "auto_patch", "memorabilia"].includes(card.basketball_kind) || card.serial_max <= 10 && card.serial_max > 0 ? 3 : ["parallel", "insert", "numbered"].includes(card.basketball_kind) ? 2 : card.is_rookie ? 1 : 0;
     const rank = group(card);
     if (rank >= 2) return 3;
     if (rank >= 0) return 2;
@@ -77,7 +78,7 @@
   function validateSave(value) {
     if (!value || value.version !== 1 || !value.counts || typeof value.counts !== "object" || Array.isArray(value.counts)) throw new Error("不是有效的收藏存档。");
     const entries = Object.entries(value.counts);
-    if (entries.length > 50000) throw new Error("存档条目过多。");
+    if (entries.length > 100000) throw new Error("存档条目过多。");
     for (const [id, count] of entries) {
       if (!/^[A-Za-z0-9_.-]+:\d+$/.test(id) || !Number.isSafeInteger(count) || count < 1 || count > MAX_COUNT) throw new Error("存档包含无效卡牌或数量。");
     }

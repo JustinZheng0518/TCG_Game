@@ -114,7 +114,7 @@ function renderAcquisition() {
     exchange: "特典兑换目录：这里汇集多种特典来源，不代表全部由兑换码发放。用本游戏兑换码或经营任务获得活动券，再用 3 张券选择一张卡面。",
     bundle: "组合附属包：不作为普通补充包售卖。用 1 张活动券领取一张随机体验卡；实体商品可能有 1 / 2 / 10 张等不同规格，本游戏统一为单张体验。"
   };
-  $("channel-description").textContent = descriptions[product.channel] + (product.variant_distribution ? " 本套按官方第五弹工艺配比：平卡 / ex 89%、精灵球纹 10%、大师球纹 1%。" : "");
+  $("channel-description").textContent = (product.sport === "basketball" ? "篮球数字体验包：每包 5 张，4 个基础位 + 1 个收藏位。收藏位在本套真实收录的新秀、特卡、平行、限编、签字和球衣卡中模拟；缺失卡种回到基础卡池。全命中系列按现有卡面等概率体验。封入、概率和价格为游戏设计，不对应实体 Hobby/Retail。" : descriptions[product.channel]) + (product.variant_distribution ? " 本套按官方第五弹工艺配比：平卡 / ex 89%、精灵球纹 10%、大师球纹 1%。" : "");
   const anchor = q.source?.kind === "historical_us_msrp" ? `美版常规包历史参考 US$${(q.source.usd_cents / 100).toFixed(2)} · 游戏固定换算 $1 = ¥${q.source.cny_per_usd} · 不是实时美元报价` : `参考锚点 ${money(q.base)}（${q.source ? "官方建议零售价" : "模拟定价"}）${q.source?.reference_date ? ` · 售价资料日期 ${q.source.reference_date}` : ""}`;
   $("product-price").textContent = retail || product.channel === "gift" ? `${anchor} · 今日模拟行情 ${money(q.market)}${retail ? ` · 供货价 ${money(q.wholesale)} / 件` : ""}` : "非零售获取渠道 · 不消耗未拆封卡包库存";
   $("channel-source").href = q.source?.source_url || product.source_url;
@@ -129,6 +129,7 @@ function renderAcquisition() {
   $("draw-one").textContent = stock ? `拆 1 ${unit}` : `开 1 ${unit} · ${money(q.wholesale)}`;
   $("draw-ten").textContent = missingTen ? `开 10 ${unit} · ${money(q.wholesale * missingTen)}` : `拆 10 ${unit}`;
   $("bulk-stock").hidden = !show || !retail;
+  $("bulk-stock").querySelector("summary").textContent = product.sport === "basketball" ? "只买包，先收着" : "补货到货架";
   $("quick-channel").textContent = product.channel_label;
   $("quick-title").textContent = retail ? "这一包，会遇见谁？" : "特别的卡，特别的相遇。";
   $("quick-price").textContent = retail ? `${product.cards_per_unit} 张 / ${unit} · 进货 ${money(q.wholesale)}${q.source?.kind === "historical_us_msrp" ? " · 美版参考 $4.49" : ""}` : "通过本系列专属渠道领取";
@@ -154,7 +155,8 @@ function cardTradeControls(card) {
   if (state.mode === "album") actions.append(lineButton(`买入 ${money(q.ask)}`, () => shopAction(() => Shop.trade(state.save, card, "buy", state.feed), "单卡已买入并加入收藏。", "message")));
   if (state.save.counts[card.id]) {
     actions.append(lineButton(`卖出 ${money(q.bid)}`, () => shopAction(() => Shop.trade(state.save, card, "sell", state.feed), "卡牌已卖出，回款已入账。", "message")));
-    actions.append(lineButton("上架", () => shopAction(() => Shop.trade(state.save, card, "list", state.feed), "上架啦，等客人来买。", "message")));
+    actions.append(lineButton("送评", () => startGrading(card)));
+    if (card.sport !== "basketball") actions.append(lineButton("上架", () => shopAction(() => Shop.trade(state.save, card, "list", state.feed), "上架啦，等客人来买。", "message")));
   }
   controls.append(actions);
   return controls;
@@ -236,7 +238,7 @@ function initShopUI() {
     event.preventDefault();
     shopAction(() => Shop.redeem(state.save, $("redeem-code").value), "兑换成功，奖励已入账。");
   });
-  $("sell-duplicates").addEventListener("click", () => shopAction(() => Shop.sellDuplicates(state.save, state.mode === "collection" ? state.collectionCards.filter(card => !state.collectionSet || card.set_id === state.collectionSet) : state.cards, state.feed), "重复卡已卖出，每款留一张。", "message"));
+  $("sell-duplicates").addEventListener("click", () => shopAction(() => Shop.sellDuplicates(state.save, state.mode === "collection" ? state.collectionCards.filter(card => (!state.collectionSet || card.set_id === state.collectionSet) && (state.collectionSport === "all" || (card.sport || "pokemon") === state.collectionSport)) : state.cards, state.feed), "重复卡已卖出，每款留一张。", "message"));
   $("refresh-market").addEventListener("click", () => refreshMarket());
   $("load-market-url").addEventListener("click", () => refreshMarket(true));
   renderShop();

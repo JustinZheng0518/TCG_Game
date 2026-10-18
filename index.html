@@ -5,23 +5,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
   <title>小小卡店 · 宝可梦卡牌经营</title>
-  <link rel="stylesheet" href="web/catalog.css?v=walk3">
-  <link rel="stylesheet" href="web/shop.css?v=walk3">
-  <link rel="stylesheet" href="web/game-scene.css?v=walk3">
-  <link rel="stylesheet" href="web/live-shop.css?v=walk3">
-  <link rel="stylesheet" href="web/cozy-shop.css?v=walk3">
-  <link rel="stylesheet" href="web/shop-experience.css?v=walk3">
-  <script src="web/game-core.js?v=walk3" defer></script>
-  <script src="web/shop-core.js?v=walk3" defer></script>
-  <script src="web/pack-opening.js?v=walk3" defer></script>
-  <script src="web/market-client.js?v=walk3" defer></script>
-  <script src="web/shop-ui.js?v=walk3" defer></script>
-  <script src="web/vendor/three-r160.min.js?v=walk3" defer></script>
-  <script src="web/shop-motion.js?v=walk3" defer></script>
-  <script src="web/shop-world.js?v=walk3" defer></script>
-  <script src="web/shop-business.js?v=walk3" defer></script>
-  <script src="web/game-scene.js?v=walk3" defer></script>
-  <script src="web/catalog.js?v=walk3" defer></script>
+  <link rel="stylesheet" href="web/catalog.css?v=expo4">
+  <link rel="stylesheet" href="web/shop.css?v=expo4">
+  <link rel="stylesheet" href="web/game-scene.css?v=expo4">
+  <link rel="stylesheet" href="web/live-shop.css?v=expo4">
+  <link rel="stylesheet" href="web/cozy-shop.css?v=expo4">
+  <link rel="stylesheet" href="web/shop-experience.css?v=expo4">
+  <link rel="stylesheet" href="web/collectibles.css?v=expo4">
+  <script src="web/game-core.js?v=expo4" defer></script>
+  <script src="web/collectibles-state.js?v=expo4" defer></script>
+  <script src="web/basketball-core.js?v=expo4" defer></script>
+  <script src="web/shop-core.js?v=expo4" defer></script>
+  <script src="web/collectibles-core.js?v=expo4" defer></script>
+  <script src="web/pack-opening.js?v=expo4" defer></script>
+  <script src="web/market-client.js?v=expo4" defer></script>
+  <script src="web/shop-ui.js?v=expo4" defer></script>
+  <script src="web/collectibles-ui.js?v=expo4" defer></script>
+  <script src="web/vendor/three-r160.min.js?v=expo4" defer></script>
+  <script src="web/shop-motion.js?v=expo4" defer></script>
+  <script src="web/shop-world.js?v=expo4" defer></script>
+  <script src="web/shop-business.js?v=expo4" defer></script>
+  <script src="web/game-scene.js?v=expo4" defer></script>
+  <script src="web/catalog.js?v=expo4" defer></script>
 </head>
 <body data-mode="shop">
   <svg class="icon-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
@@ -46,6 +51,7 @@
   </header>
   <div class="workspace">
     <main>
+      <div class="universe-tabs" role="group" aria-label="收藏主题"><button type="button" data-universe="pokemon" aria-pressed="true">宝可梦</button><button type="button" data-universe="basketball" aria-pressed="false">🏀 篮球球星卡</button></div>
       <section id="store-summary" class="store-summary" aria-label="卡店资产"></section>
       <div class="room-heading"><div><p id="room-eyebrow">LITTLE CARD SHOP</p><h1 id="room-title">今天也要开心开店！</h1></div><button id="choose-set" type="button" class="secondary-button" hidden>切换卡牌系列 <span>⌄</span></button></div>
       <section id="shop-dashboard" aria-label="店长工作台">
@@ -64,7 +70,10 @@
         <div class="day-controls"><div class="day-guide"><span class="guide-avatar">店</span><div><strong id="daily-guide-title">店长，今天先做点什么？</strong><p id="daily-guide">进几包新货，摆满货架，再迎接今天的客人吧。</p></div></div><div class="business-actions"><button id="work-day" type="button">打理店铺 · 赚 ¥50</button><button id="end-day" type="button">开门营业 →</button><button id="checkout-next" type="button" disabled>收银 · 暂无顾客</button></div></div>
         <div class="customer-controls"><p id="customer-status" role="status">补好货，开门迎客。</p><label><input id="auto-checkout" type="checkbox"> 自动收银</label><button id="retry-checkout" type="button" hidden>重试收银</button></div><div class="scene-shortcuts"><button type="button" data-desk="news"><span>今日风向</span><strong id="scene-news-title">正在读取市场快报</strong><svg><use href="#i-arrow"/></svg></button><button type="button" data-desk="tasks"><span>店长任务</span><strong id="scene-quest-count">完成目标，领取活动券</strong><svg><use href="#i-ticket"/></svg></button><button type="button" data-desk="ledger"><span>店铺成长</span><strong id="scene-growth">查看账本与升级柜台</strong><svg><use href="#i-star"/></svg></button></div>
       </section>
-      <section id="activity-room" hidden aria-label="活动广场"><div class="activity-intro"><span class="big-ticket"><svg><use href="#i-ticket"/></svg></span><div><p class="code">GOOD THINGS HAPPEN HERE</p><h2>好礼在这里！</h2></div></div><div id="activity-options" class="activity-options"></div><button type="button" data-desk="tasks" class="secondary-button">任务与兑换码</button></section>
+      <section id="basketball-home" hidden aria-label="篮球收藏柜台"><div class="basketball-hero"><div class="basketball-hero-copy"><span class="basketball-seal">🏀</span><h2>收藏每一个传奇</h2><p id="basketball-coverage">正在整理篮球卡库…</p><div class="basketball-home-actions"><button type="button" data-mode="draw">买包开包</button><button type="button" data-mode="collection">我的收藏</button><button type="button" data-mode="grading">送去评级</button><button type="button" data-mode="cardshow">逛卡展</button></div></div><div id="basketball-hero-art" class="basketball-hero-art" aria-label="真实篮球卡面"></div></div></section>
+      <section id="grading-room" hidden aria-labelledby="grading-title"><div class="collectible-heading"><span>✦</span><div><h2 id="grading-title">给好卡穿件新衣</h2><p>宝可梦、篮球都能送评 · 每张评级卡独立保存</p></div></div><div class="grading-layout"><form id="grading-form" class="grading-form"><label for="grading-card">选择自己的散卡</label><select id="grading-card"></select><div id="grading-card-preview"></div><div class="grading-options"><label>机构<select id="grading-agency"><option>PSA</option><option>BGS</option><option>CGC</option><option>SGC</option></select></label><label>服务<select id="grading-service"><option value="standard">标准 · 3 个营业日</option><option value="express">加急 · 1 个营业日</option></select></label></div><p id="grading-quote"></p><button id="grading-submit" type="submit">送评</button><details><summary>评级规则</summary><p>品相从居中、四角、边缘、表面模拟；高分并不保证。费用和等待时间是游戏设计，不代表机构实时报价；四项为游戏预检资料，非所有机构实际提供的子分数。盒签与证书均标注 GAME，不是真实机构认证。</p></details></form><div class="grading-queue-panel"><div class="queue-heading"><h3>在路上的好卡</h3><button id="grading-collect" type="button">取回评级卡</button></div><div id="grading-jobs"></div><button id="grading-next-day" type="button">结算，进入下一营业日</button><p class="collectible-note">已送评的卡暂时不能卖；取回后可出售或带去卡展。</p></div></div><h3>我的评级卡</h3><div id="grading-slabs" class="slab-grid"></div></section>
+      <section id="cardshow-room" hidden aria-labelledby="cardshow-title"><div class="collectible-heading"><span>🎟</span><div><h2 id="cardshow-title">今天的卡展，逛逛吧</h2><p>买卡、卖卡，也能交换 · 今日展品售完即止</p></div></div><div class="show-entry"><strong id="show-day"></strong><button id="show-enter" type="button">入场 · ¥20</button><label>想看<select id="show-sport"><option value="all">全部展品</option><option value="pokemon">宝可梦</option><option value="basketball">篮球球星卡</option></select></label></div><div class="show-own-panel"><label for="show-own">带来交易的卡</label><select id="show-own"></select><div class="show-sell-row"><label>展位<select id="show-booth"><option value="0">新秀与新面孔</option><option value="1">经典收藏</option><option value="2">评级收藏家</option></select></label><p id="show-sell-quote"></p><button id="show-sell" type="button">卖给摊主</button></div></div><p id="show-note" role="status"></p><div id="show-offers"></div><details class="show-rules"><summary>卡展规则与价格</summary><p>单人模拟卡展，摊主为游戏角色；报价随营业日刷新，购买或换走的展品当天不补货。换卡按双方报价结算差价，报价不等于真实成交价；每营业日最多向摊主售出 12 张。篮球原版卡面保留原文，中文为界面及部分球员译名。</p></details></section>
+      <section id="activity-room" hidden aria-label="活动广场"><div class="community-hub"><button type="button" data-mode="grading"><span>✦</span><strong>评级中心</strong><small>给宝可梦和篮球卡送评</small></button><button type="button" data-mode="cardshow"><span>🎟</span><strong>城市卡展</strong><small>买卖、交换，认识好卡</small></button></div><div class="activity-intro" data-pokemon-only><span class="big-ticket"><svg><use href="#i-ticket"/></svg></span><div><p class="code">GOOD THINGS HAPPEN HERE</p><h2>好礼在这里！</h2></div></div><div id="activity-options" class="activity-options" data-pokemon-only></div><button type="button" data-desk="tasks" class="secondary-button" data-pokemon-only>任务与兑换码</button></section>
       <dialog id="desk-dialog" aria-labelledby="desk-title"><div class="window-heading"><div><p class="code">SHOP MANAGER</p><h2 id="desk-title">收银柜台</h2></div><button type="button" data-close-dialog aria-label="关闭经营窗口">×</button></div><nav id="desk-tabs" class="desk-tabs" aria-label="经营窗口"><button type="button" data-desk="stock">货架</button><button type="button" data-desk="listings">寄售</button><button type="button" data-desk="tasks">任务</button><button type="button" data-desk="news">新闻</button><button type="button" data-desk="ledger">账本</button><button type="button" data-desk="settings">设置</button></nav><p id="desk-notice" role="status"></p>
         <div class="shop-columns"><section class="desk-panel" data-desk-pane="news" hidden><div class="desk-heading"><h2>市场快报</h2><span>真实资讯 × 模拟行情</span></div><div id="news-feed"></div></section>
         <section class="desk-panel" data-desk-pane="tasks" hidden><div class="desk-heading"><h2>今日经营目标</h2><span>完成后领取活动券</span></div><div id="daily-quests"></div><form id="redeem-form" class="redeem-form"><label for="redeem-code">游戏兑换码</label><div><input id="redeem-code" placeholder="先试试 START-STORE" autocomplete="off" maxlength="80"><button type="submit">兑换</button></div><small>仅限本游戏，现实中的官方兑换码不能在这里核销。</small></form></section></div>
@@ -91,14 +100,14 @@
         <details class="product-details"><summary>规则与价格来源</summary>        <div class="acquisition-heading"><span id="channel-badge" class="channel-badge"></span><h2 id="channel-title" class="sr-only">选择获得渠道</h2><p id="channel-description"></p><p id="product-price"></p><a id="channel-source" target="_blank" rel="noopener">资料来源 ↗</a></div>
 
         <details id="draw-rules"><summary>开包概率与规则</summary>
-          <p>每包 5 张：3 张基础卡 + 1 张 RR 保底 + 1 张机会卡。高稀有卡额外出现，不替换 RR。允许重复，虚拟货币经营模拟。</p>
+          <p data-pokemon-only>每包 5 张：3 张基础卡 + 1 张 RR 保底 + 1 张机会卡。高稀有卡额外出现，不替换 RR。允许重复，虚拟货币经营模拟。</p>
           <p id="set-odds"></p>
-          <p>当前套装最高稀有档每包 0.1%，平均约 1,000 包出现一次；各包独立，不是千包必出。档内卡面等概率，指定一张的平均等待包数为档内卡面数 × 1,000。缺少的档位概率回到基础卡，不提高其余稀有档概率。</p>
-          <p>这是游戏设定，并非实体商品官方出货率。<a href="docs/开包概率说明.md" target="_blank" rel="noopener">查看调研依据和完整规则 ↗</a></p>
+          <p data-pokemon-only>当前套装最高稀有档每包 0.1%，平均约 1,000 包出现一次；各包独立，不是千包必出。档内卡面等概率，指定一张的平均等待包数为档内卡面数 × 1,000。缺少的档位概率回到基础卡，不提高其余稀有档概率。</p>
+          <p>这是游戏设定，并非实体商品官方出货率。<a href="docs/开包概率说明.md" target="_blank" rel="noopener">宝可梦规则 ↗</a> · <a href="docs/篮球球星卡与评级卡展.md" target="_blank" rel="noopener">篮球、评级与卡展规则 ↗</a></p>
         </details></details></div>
-        <div class="collection-tools"><button id="sell-duplicates" type="button" class="duplicates-button">卖重复卡</button><button type="button" data-mode="album" class="secondary-button">买单卡</button><button type="button" data-mode="collection" class="secondary-button">我的卡册</button></div>
+        <div class="collection-tools"><button type="button" data-mode="grading" class="secondary-button">评级中心</button><button type="button" data-mode="cardshow" class="secondary-button">去卡展</button><button id="sell-duplicates" type="button" class="duplicates-button">卖重复卡</button><button type="button" data-mode="album" class="secondary-button">买单卡</button><button type="button" data-mode="collection" class="secondary-button">我的卡册</button></div>
       </section>
-      <div class="collection-filter"><label for="collection-set">系列</label><select id="collection-set"><option value="">全部系列</option></select><span>每款留一张，再卖重复卡 ♡</span></div>
+      <div class="collection-filter"><label for="collection-set">系列</label><select id="collection-set"><option value="">全部系列</option></select><label class="sr-only" for="collection-sport">收藏类型</label><select id="collection-sport"><option value="all">全部收藏</option><option value="pokemon">宝可梦</option><option value="basketball">篮球球星卡</option></select><span>每款留一张，再卖重复卡 ♡</span></div>
       <div class="collection-loading"><span id="collection-notice" role="status"></span><button id="retry-collection" type="button" hidden>重试</button></div>
       <div class="toolbar">
         <label class="sr-only" for="card-search">搜索卡牌</label>
@@ -108,6 +117,7 @@
         <span id="result-count" class="result-count" aria-live="polite"></span>
       </div>
       <p id="message" class="message" role="status"></p>
+      <section id="collection-slab-area" hidden><h3>评级卡柜</h3><div id="collection-slabs" class="slab-grid"></div></section>
       <div id="cards" class="card-grid"></div>
       <button id="load-more" class="load-more" hidden>加载更多卡牌</button>
       </div>

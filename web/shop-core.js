@@ -1,8 +1,9 @@
 (function (root, factory) {
-  const api = factory(typeof module === "object" && module.exports ? require("./game-core.js") : root.TCGGame);
+  const node = typeof module === "object" && module.exports;
+  const api = factory(node ? require("./game-core.js") : root.TCGGame, node ? require("./collectibles-state.js") : root.TCGCollectiblesState, node ? require("./basketball-core.js") : root.TCGBasketball);
   if (typeof module === "object" && module.exports) module.exports = api;
   else root.TCGShop = api;
-})(typeof globalThis !== "undefined" ? globalThis : this, function (Game) {
+})(typeof globalThis !== "undefined" ? globalThis : this, function (Game, CollectiblesState, Basketball) {
   "use strict";
   const LIMIT = 1_000_000_000;
   const ID = /^[A-Za-z0-9_.-]+$/;
@@ -55,7 +56,7 @@
     return result;
   }
   function newShop() {
-    return {business: newBusiness(), quotes: {}, cash: 300000, day: 1, reputation: 0, tickets: 0, level: 1, stock: {}, listings: {},
+    return {collectibles: CollectiblesState.empty(), business: newBusiness(), quotes: {}, cash: 300000, day: 1, reputation: 0, tickets: 0, level: 1, stock: {}, listings: {},
       progress: {opened: 0, soldPacks: 0, soldCards: 0, bought: 0}, claimed: [], redeemed: [], visits: [], worked: false, ledger: []};
   }
   function validate(value) {
@@ -69,12 +70,13 @@
       stock: dictionary(s.stock, ID, 300), listings: {}, progress: {}, claimed: strings(s.claimed, 3), redeemed: strings(s.redeemed, 100000), visits: strings(s.visits, 10),
       worked: Boolean(s.worked), ledger: []};
     shop.business = validateBusiness(s.business, shop.day);
+    shop.collectibles = CollectiblesState.validate(s.collectibles);
     if (!s.progress || typeof s.progress !== "object") throw new Error("经营进度无效。");
     for (const key of ["opened", "soldPacks", "soldCards", "bought"]) shop.progress[key] = integer(s.progress[key]);
     if (!s.listings || typeof s.listings !== "object" || Array.isArray(s.listings) || Object.keys(s.listings).length > 50000) throw new Error("寄售记录无效。");
     for (const [id, entry] of Object.entries(s.listings)) {
       if (!CARD_ID.test(id) || entry?.card?.id !== id || entry.card.set_id !== id.split(":")[0] || typeof entry.card.name !== "string" || entry.card.name.length > 200 || typeof entry.card.rarity !== "string" || entry.card.rarity.length > 30) throw new Error("寄售卡牌无效。");
-      shop.listings[id] = {count: integer(entry.count, 1), card: {id, set_id: entry.card.set_id, name: entry.card.name, rarity: entry.card.rarity, variant_code: integer(entry.card.variant_code || 0, 0, 100)}};
+      shop.listings[id] = {count: integer(entry.count, 1), card: CollectiblesState.card(entry.card)};
     }
     if (!Array.isArray(s.ledger) || s.ledger.length > 50) throw new Error("账本无效。");
     shop.ledger = s.ledger.map(entry => {
@@ -149,10 +151,10 @@
     const bases = {C: 40, U: 70, R: 150, RR: 600, RRR: 1200, AR: 2400, CHR: 2400, S: 2000, SR: 6500, CSR: 7500, SSR: 9500, HR: 12000, SAR: 30000, UR: 60000, FUR: 160000};
     const popularity = /皮卡丘|喷火龙|月亮伊布|梦幻|超梦|莉莉艾|玛俐/.test(card.name) ? 1.65 : 1;
     const variant = 1 + Math.min(6, card.variant_code || 0) * .2;
-    const base = external?.cents || Math.round((bases[Game.rarity(card)] || 100) * popularity * variant);
+    const base = card.sport === "basketball" ? Basketball.baseValue(card) : external?.cents || Math.round((bases[Game.rarity(card)] || 100) * popularity * variant);
     const market = Math.max(1, Math.round(base * multiplier(save, feed, "card", card.id)));
     return {market, bid: Math.max(1, Math.floor(market * .7)), ask: Math.ceil(market * 1.2), consignment: Math.max(1, Math.floor(market * .92)),
-      source: external || null, estimated: !external};
+      source: card.sport === "basketball" ? null : external || null, estimated: card.sport === "basketball" || !external};
   }
   function buyStock(value, product, count, feed) {
     const next = validate(value);
@@ -188,7 +190,8 @@
     if (!RETAIL.includes(product.channel) || !cards.length) throw new Error("请使用该商品的专属获取渠道。");
     if ((next.shop.stock[product.id] || 0) < count) throw new Error("未拆封库存不足，请先从供货商进货。");
     let drawn = [];
-    if (product.channel === "booster") drawn = Game.drawPacks(cards, count, random);
+    if (product.sport === "basketball") drawn = Basketball.draw(cards, count, random);
+    else if (product.channel === "booster") drawn = Game.drawPacks(cards, count, random);
     else if (product.channel === "special") {
       for (let i = 0; i < count * product.cards_per_unit; i++) drawn.push(pick(cards, random));
     } else {
@@ -216,7 +219,7 @@
       if (!next.counts[card.id]) delete next.counts[card.id];
       if (action === "sell") { log(next, quote.bid, `即时卖出 ${card.name}`); next.shop.progress.soldCards++; }
       else {
-        const entry = next.shop.listings[card.id] || {count: 0, card: {id: card.id, set_id: card.set_id, name: card.name, rarity: card.rarity, variant_code: card.variant_code || 0}};
+        const entry = next.shop.listings[card.id] || {count: 0, card: CollectiblesState.card(card)};
         entry.count++;
         next.shop.listings[card.id] = entry;
         log(next, 0, `上架 ${card.name}，等待顾客购买`);

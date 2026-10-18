@@ -1,0 +1,15 @@
+{
+  "observed_at": "2026-10-18T04:09:01.021360+00:00",
+  "archive_set_count": 3834,
+  "archive_year_count": 76,
+  "playable_set_count": 150,
+  "card_faces_with_front_reference": 30962,
+  "variant_checklists": 102,
+  "missing_front_entries_excluded": 9934,
+  "local_preview_count": 1105,
+  "errors": [],
+  "note": "Checklist-wide front references, not a claim of complete worldwide basketball coverage. Full-size image paths are derived from present front thumbnails; local downloads are separately verified.",
+  "preview_errors": [],
+  "deduplicated_parent_checklist_rows": 1953,
+  "missing_front_count_note": "Raw missing-entry observations include repeated parent checklist reads, not a unique worldwide missing-card total."
+}

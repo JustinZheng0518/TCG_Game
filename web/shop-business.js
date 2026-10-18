@@ -67,7 +67,7 @@ class ShopBusiness {
   }
   frame(time) {
     const dt = Math.min(.05, Math.max(0, (time - this.lastTime) / 1000)); this.lastTime = time;
-    const active = state.mode === "shop" && !document.hidden;
+    const active = state.mode === "shop" && state.universe !== "basketball" && !document.hidden;
     if (active) {
       const b = state.save.shop.business;
       if (b.open && !this.closing && !this.paymentBlocked) {

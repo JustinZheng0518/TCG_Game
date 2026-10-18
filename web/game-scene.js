@@ -16,7 +16,7 @@ function openDesk(pane = "stock") {
 function enterProcurement() {
   if (!state.index) return;
   const current = state.products[state.selected?.id];
-  const target = current && Shop.RETAIL.includes(current.channel) ? state.selected : state.index.sets.find(set => state.products[set.id].channel === "booster");
+  const target = current && (current.sport || "pokemon") === state.universe && Shop.RETAIL.includes(current.channel) ? state.selected : state.index.sets.find(set => (set.sport || "pokemon") === state.universe && Shop.RETAIL.includes(state.products[set.id].channel));
   if (!target) return;
   $("channel-filter").value = state.products[target.id].channel;
   $("set-search").value = "";
@@ -25,10 +25,11 @@ function enterProcurement() {
   jumpToSet(target.id);
 }
 function updateRoomHeading() {
-  const rooms = {shop: ["", "今天也要开心开店！"], draw: ["", "拆一包小惊喜"], collection: ["", "我的卡册"], album: ["", "挑张心愿卡"], events: ["", "去玩一会儿"]};
+  const rooms = {shop: ["", "今天也要开心开店！"], draw: ["", "拆一包小惊喜"], collection: ["", "我的卡册"], album: ["", "挑张心愿卡"], events: ["", "去玩一会儿"], grading: ["", "评级中心"], cardshow: ["", "城市卡展"]};
   const room = rooms[state.mode] || rooms.shop;
   $("room-eyebrow").textContent = room[0];
   $("room-title").textContent = room[1];
+  if(state.universe === "basketball" && ["shop","events"].includes(state.mode))$("room-title").textContent=state.mode === "shop" ? "篮球收藏柜台" : "评级与卡展";
   $("choose-set").hidden = !["draw", "album"].includes(state.mode);
   $("choose-set").firstChild.textContent = "选系列 ";
 }
@@ -53,15 +54,15 @@ function renderProductArt() {
   productArtKey = key;
   const candidates = [...state.cards].sort((a, b) => Game.tier(b) - Game.tier(a));
   const chosen = [candidates[0], candidates[Math.floor(candidates.length / 3)], candidates[Math.floor(candidates.length * 2 / 3)]].filter(Boolean);
-  if (businessScene) businessScene.world.setPosters(chosen.map(card => ({url: state.localImages ? card.thumbnail : card.source_url})));
+  if (businessScene && state.selected?.sport !== "basketball") businessScene.world.setPosters(chosen.map(card => ({url: state.localImages ? card.thumbnail : card.source_url})));
   $("product-art").replaceChildren();
   for (const [index, card] of chosen.entries()) {
     const image = document.createElement("img");
-    image.src = state.localImages ? card.thumbnail : card.source_url;
+    applyCardImage(image,card);
     image.alt = `${card.name} 简中卡面预览`;
     image.width = 300; image.height = 419;
     image.className = `showcase-card showcase-card-${index}`;
-    image.addEventListener("error", () => { if (image.src !== card.source_url) image.src = card.source_url; else image.hidden = true; });
+
     $("product-art").append(image);
   }
 }

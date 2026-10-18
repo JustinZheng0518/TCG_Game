@@ -61,7 +61,7 @@ class PackOpening {
     const mark = document.createElement("span");
     mark.className = "pack-emblem"; mark.textContent = "✦";
     const title = document.createElement("strong"); title.textContent = setName;
-    const caption = document.createElement("span"); caption.textContent = `${packSize} 张简体中文卡牌`;
+    const caption = document.createElement("span"); caption.textContent = `${packSize} 张${cards[0]?.sport === "basketball" ? "篮球球星卡" : "简体中文卡牌"}`;
     pack.append(top, rip, mark, title, caption);
     const meter = document.createElement("div"); meter.className = "tear-meter";
     const fill = document.createElement("span"); meter.append(fill);
@@ -115,9 +115,11 @@ class PackOpening {
       front.className = "reveal-front";
       front.setAttribute("aria-hidden", "true");
       const image = document.createElement("img");
-      image.src = this.imageURL(card);
+      image.referrerPolicy = "no-referrer";
+      if (typeof applyCardImage === "function") applyCardImage(image, card);
+      else image.src = this.imageURL(card);
       image.alt = "";
-      image.addEventListener("error", () => { image.hidden = true; }, {once: true});
+
       const label = document.createElement("span");
       label.className = "reveal-caption";
       label.textContent = `${card.name} · ${card.rarity}${card.isNew ? " · 新卡" : ""}`;
