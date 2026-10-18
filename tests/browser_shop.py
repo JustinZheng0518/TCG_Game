@@ -54,6 +54,9 @@ with sync_playwright() as pw:
   old=p.evaluate('businessScene.world.lookYaw');p.mouse.move(x,y);p.mouse.down();p.mouse.move(x+50,y+10,steps=10);p.mouse.up()
   assert abs(p.evaluate('businessScene.world.lookYaw')-old)>.1
   p.locator('#world-reset').click();p.screenshot(path=str(ARTIFACTS/f'shop-{mobile}.png'),full_page=True)
+  p.evaluate('()=>{const w=businessScene.world;w.lookYaw=Math.atan2(2.3-w.player.x,w.player.z-1.39);w.pitch=Math.atan2(.82-1.65,Math.hypot(2.3-w.player.x,1.39-w.player.z));w.updateCamera()}')
+  p.locator('.shop-world-canvas').focus();p.keyboard.press('e');p.locator('#desk-dialog[open]').wait_for()
+  assert p.locator('[data-desk-pane=stock]').is_visible();p.locator('#desk-dialog [data-close-dialog]').click()
   nav(p,'collection');collected(p)
   assert p.locator('#cards .card-tile').count()==3
   assert set(p.evaluate('state.filtered.map(c=>c.set_id)'))=={'CS1aC','CS1bC'}

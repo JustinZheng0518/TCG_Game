@@ -43,9 +43,9 @@ class ShopWorld {
     this.displayCards = [];
     for (let i = 0; i < 5; i++) this.displayCards.push(this.card(-4.35 + i * .26, .99, .07, .22, "collection"));
     this.box(2.65, .56, .85, 2.5, 1.12, 1, 0xe2a69d, "checkout"); this.box(2.65, 1.18, .85, 2.65, .17, 1.13, 0xeed2b1, "checkout");
-    for (let i = 0; i < 7; i++) this.box(1.65 + i * .32, .6, 1.36, .035, .98, .025, 0x51755e);
+    for (let i = 0; i < 7; i++) this.box(1.65 + i * .32, .6, 1.36, .035, .98, .025, 0x51755e, "checkout");
     this.box(3.25, 1.35, .8, .55, .22, .4, 0x314a43, "checkout"); const screen = this.box(3.25, 1.61, .75, .5, .36, .07, 0x36534a, "checkout"); screen.rotation.x = -.22;
-    this.box(3.25, 1.63, .8, .41, .22, .02, 0x9bc9a3);
+    this.box(3.25, 1.63, .8, .41, .22, .02, 0x9bc9a3, "checkout");
     this.cashier = this.person(0x3f7357); this.cashier.position.set(2.6, 0, -.14); this.scene.add(this.cashier);
     // Delivery crates, table, plants, rug and doorway.
     this.box(-3.7, .35, 2.6, .95, .7, .8, 0xbd9267, "supply"); this.box(-3.7, .73, 2.6, 1.02, .08, .88, 0xd7af79, "supply");
@@ -126,7 +126,7 @@ class ShopWorld {
     const poster = this.sign("好卡好运气 ✦", 0xf6d9de, 0xa56c7c, 1.55, .68, -4.96, 2.55, 0); poster.rotation.y = Math.PI / 2;
     this.sign("单卡小铺 ♡", 0xecd9ab, 0x678978, 1.35, .37, -3.85, 1.6, -.48, "collection");
     this.sign("今日好货", 0xf3d9a6, 0x6b8070, 1.55, .4, 2.5, 2.22, -3.43, "stock");
-    this.sign("收银处", 0xe4b0b2, 0xfffcf0, 1.2, .38, 2.3, .82, 1.37, "checkout");
+    this.sign("收银处", 0xe4b0b2, 0xfffcf0, 1.2, .38, 2.3, .82, 1.39, "checkout");
     // A round bunny mascot sitting beside the register.
     const bunny = new T.Group();
     const ball = (x,y,z,sx,sy,sz,color) => { const m = new T.Mesh(new T.SphereGeometry(1,12,10),this.material(color)); m.position.set(x,y,z); m.scale.set(sx,sy,sz); bunny.add(m); };
