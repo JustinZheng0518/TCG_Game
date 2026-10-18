@@ -43,9 +43,34 @@ async function openOdds(set=state.selected,focusId=''){
     renderOddsModel();
   }catch(error){if(request===oddsRequest){$('odds-summary').textContent=`${error.message}，请重新打开重试。`;$('odds-card-count').textContent='资料尚未加载';$('odds-more').hidden=true;}}
 }
+// Only weighted rare tiers get artwork; ordinary pools and missing-tier fallbacks stay compact.
+function rarePoolGallery(pool){
+  const section=text('div','','odds-rare-preview');section.dataset.pool=pool.label;
+  section.append(text('p',`${pool.label} · ${DrawOdds.percent(pool.chance)} · 可抽 ${pool.cards.length} 款`,'odds-rare-heading'));
+  const grid=text('div','','odds-rare-grid'),more=text('button','','odds-rare-more');more.type='button';let shown=0;
+  function append(count){
+    for(const card of pool.cards.slice(shown,shown+count)){
+      const button=text('button','','odds-rare-card');button.type='button';button.dataset.card=card.id;button.setAttribute('aria-label',`查看 ${card.name} ${card.number} ${card.rarity}`);
+      const image=document.createElement('img');image.loading='lazy';image.decoding='async';image.width=180;image.height=250;applyCardImage(image,card);
+      const art=text('span','','odds-rare-art');art.append(image);button.append(art,text('strong',card.name),text('span',`${card.number} · ${card.rarity}`));
+      button.addEventListener('click',()=>{if($('card-dialog').open)$('card-dialog').close();showCard(card);});grid.append(button);
+    }
+    shown=Math.min(pool.cards.length,shown+count);more.hidden=shown===pool.cards.length;more.textContent=`再看 ${Math.min(8,pool.cards.length-shown)} 款 · 已展示 ${shown} / ${pool.cards.length}`;
+  }
+  more.addEventListener('click',()=>append(8));append(4);section.append(grid,more);return section;
+}
 function renderOddsModel(){
   const {model}=oddsContext;$('odds-slots').replaceChildren();
-  for(const s of model.slots){const item=text('section','','odds-slot');item.append(text('h3',`${s.draws} 张 · ${s.label}`));for(const p of s.pools){const line=text('p','','odds-pool-line');line.append(text('span',`${p.label}${p.note?` · ${p.note}`:''}`),text('strong',DrawOdds.percent(p.chance)),text('small',`池内 ${p.cards.length} 款 · 每款每个该卡位 ${DrawOdds.percent(p.chance/p.cards.length)}`));item.append(line);}$('odds-slots').append(item);}
+  for(const s of model.slots){
+    const item=text('section','','odds-slot');item.append(text('h3',`${s.draws} 张 · ${s.label}`));
+    for(const p of s.pools){
+      const group=text('div','','odds-pool'),line=text('p','','odds-pool-line');
+      line.append(text('span',`${p.label}${p.note?` · ${p.note}`:''}`),text('strong',DrawOdds.percent(p.chance)),text('small',`池内 ${p.cards.length} 款 · 每款每个该卡位 ${DrawOdds.percent(p.chance/p.cards.length)}`));group.append(line);
+      if(s.pools.length>1&&p.chance>0&&p.chance<=.12&&!p.note&&p.cards.length&&p.label!=='基础卡回落')group.append(rarePoolGallery(p));
+      item.append(group);
+    }
+    $('odds-slots').append(item);
+  }
   $('odds-groups').replaceChildren(probabilityTable(model.groups.map(g=>[`${g.label}（${g.count} 款）`,DrawOdds.percent(g.chance),DrawOdds.percent(g.ten),Number(g.expected.toFixed(6))+' 张']),['卡种',`每${model.unit}至少 1 张`,`十${model.unit}至少 1 张`,'平均每份张数']));
   filterOddsCards();
 }

@@ -226,7 +226,7 @@ function renderSets() {
 }
 
 function showCard(card) {
-  $("dialog-odds").onclick=()=>openOdds(state.index.sets.find(s=>s.id===card.set_id),card.id);
+  $("dialog-odds").onclick=()=>{$("card-dialog").close();openOdds(state.index.sets.find(s=>s.id===card.set_id),card.id);};
   $("dialog-title").textContent = card.name;
   $("dialog-number").textContent = `${card.set_id} · ${card.number}`;
   const quote = Shop.cardQuote(state.save, card, state.feed);
