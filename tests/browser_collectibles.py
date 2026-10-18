@@ -28,13 +28,13 @@ with sync_playwright() as pw:
   p.evaluate('()=>{window.originalSet=Storage.prototype.setItem;Storage.prototype.setItem=()=>{throw Error("quota")}}')
   p.locator('#grading-submit').click();assert p.evaluate('JSON.stringify(state.save)')==before
   p.evaluate('()=>{Storage.prototype.setItem=window.originalSet}');p.locator('#grading-submit').click();p.wait_for_function('state.save.shop.collectibles.jobs.length===1');p.wait_for_function('!state.collectionLoading')
-  p.locator('#grading-card').select_option(pokemon['id']);p.locator('#grading-agency').select_option('BGS');p.locator('#grading-submit').click();p.wait_for_function('state.save.shop.collectibles.jobs.length===2')
+  p.locator('#grading-card').select_option(p.evaluate('(id)=>state.save.shop.collectibles.rawCopies.find(c=>c.id===id).instance_id',pokemon['id']));p.locator('#grading-agency').select_option('BGS');p.locator('#grading-submit').click();p.wait_for_function('state.save.shop.collectibles.jobs.length===2')
   results=p.evaluate('JSON.stringify(state.save.shop.collectibles.jobs)');p.reload(wait_until='domcontentloaded');p.wait_for_function('state.cards.length');assert p.evaluate('JSON.stringify(state.save.shop.collectibles.jobs)')==results
   p.evaluate('setMode("grading")');p.locator('#grading-next-day').click();p.wait_for_function('state.save.shop.day===2');p.locator('#grading-collect').click();p.wait_for_function('state.save.shop.collectibles.slabs.length===2')
   assert {s['card']['sport'] for s in p.evaluate('state.save.shop.collectibles.slabs')}=={'pokemon','basketball'}
   p.locator('.slab-show').first.click();p.wait_for_function('state.showPool && !state.showLoading');assert p.locator('.show-offer').count()==12
   p.locator('#show-enter').click();p.locator('.show-buy').first.click();p.wait_for_function('state.save.shop.collectibles.show.used.length===1');assert p.locator('.show-buy').first.is_disabled()
-  p.wait_for_function('!state.collectionLoading');p.locator('#show-own').select_option('raw:'+pokemon['id']);p.locator('.show-swap').nth(1).click();p.wait_for_function('state.save.shop.collectibles.show.used.length===2')
+  p.wait_for_function('!state.collectionLoading');p.locator('#show-own').select_option('raw:'+p.evaluate('(id)=>state.save.shop.collectibles.rawCopies.find(c=>c.id===id).instance_id',pokemon['id']));p.locator('.show-swap').nth(1).click();p.wait_for_function('state.save.shop.collectibles.show.used.length===2')
   p.wait_for_function('!state.collectionLoading');p.locator('#show-own').select_option('slab:G1');p.locator('#show-sell').click();p.wait_for_function('state.save.shop.collectibles.slabs.length===1')
   assert not p.evaluate('document.documentElement.scrollWidth>innerWidth')
   for image in p.locator('.show-offer img').all():

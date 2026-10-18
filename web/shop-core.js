@@ -79,7 +79,10 @@
     for (const [id, entry] of Object.entries(s.listings)) {
       if (!CARD_ID.test(id) || entry?.card?.id !== id || entry.card.set_id !== id.split(":")[0] || typeof entry.card.name !== "string" || entry.card.name.length > 200 || typeof entry.card.rarity !== "string" || entry.card.rarity.length > 30) throw new Error("寄售卡牌无效。");
       shop.listings[id] = {count: integer(entry.count, 1), card: CollectiblesState.card(entry.card)};
+      if(entry.copies!==undefined){if(!Array.isArray(entry.copies)||entry.copies.length>entry.count)throw Error("寄售副本无效。");shop.listings[id].copies=entry.copies.map(c=>{const clean=CollectiblesState.card(c);if(clean.id!==id||!clean.instance_id||!clean.condition)throw Error("寄售副本无效。");return clean;});}
     }
+    const instanceIds=new Set([...shop.collectibles.rawCopies,...shop.collectibles.jobs.map(r=>r.card),...shop.collectibles.slabs.map(r=>r.card)].map(c=>c.instance_id));
+    for(const entry of Object.values(shop.listings))for(const c of entry.copies||[]){if(instanceIds.has(c.instance_id)||Number(c.instance_id.slice(1))>shop.collectibles.nextRawId)throw Error('寄售副本重复或无效。');instanceIds.add(c.instance_id);}
     if (!Array.isArray(s.ledger) || s.ledger.length > 50) throw new Error("账本无效。");
     shop.ledger = s.ledger.map(entry => {
       if (!entry || typeof entry.note !== "string" || entry.note.length > 300) throw new Error("账本内容无效。");
@@ -233,18 +236,18 @@
     else if (action === "sell" || action === "list") {
       if (!(next.counts[card.id] > 0)) throw new Error("没有可出售的这张卡牌。");
       if(action==='list'&&CollectiblesState.numbered(card))throw Error('限编卡请使用即时卖出或卡展交易。');
-      CollectiblesState.takeRaw(next,card);
+      const taken=CollectiblesState.takeRaw(next,card);
       if (action === "sell") { log(next, quote.bid, `即时卖出 ${card.name}`); next.shop.progress.soldCards++; }
       else {
         const entry = next.shop.listings[card.id] || {count: 0, card: CollectiblesState.card(card)};
-        entry.count++;
+        entry.copies=entry.copies||[];entry.copies.push(CollectiblesState.card(taken));entry.count++;
         next.shop.listings[card.id] = entry;
         log(next, 0, `上架 ${card.name}，等待顾客购买`);
       }
     } else if (action === "cancel") {
       const entry = next.shop.listings[card.id];
       if (!entry) throw new Error("该卡没有上架。");
-      addCards(next, [entry.card]);
+      CollectiblesState.addRaw(next, [entry.copies?.pop()||entry.card],Math.random,true);
       if (--entry.count === 0) delete next.shop.listings[card.id];
     } else throw new Error("未知的交易操作。");
     return validate(next);
@@ -258,6 +261,8 @@
       if (!count) continue;
       amount += count;
       revenue += cardQuote(next, card, feed).bid * count;
+      const copies=next.shop.collectibles.rawCopies.filter(c=>c.id===card.id),keep=copies.sort((a,b)=>Object.values(b.condition).reduce((n,v)=>n+v,0)-Object.values(a.condition).reduce((n,v)=>n+v,0))[0];
+      next.shop.collectibles.rawCopies=next.shop.collectibles.rawCopies.filter(c=>c.id!==card.id||c.instance_id===keep?.instance_id);
       next.counts[card.id] = 1;
     }
     if (!amount) throw new Error("本套没有重复卡，已保留每款最后一张。");
@@ -303,7 +308,7 @@
       next.shop.tickets -= cost;
       drawn = ["bundle", "mission"].includes(channel) ? [pick(cards, random)] : [selected];
     } else throw new Error("尚不支持的获取渠道。");
-    addCards(next, drawn);
+    drawn=addCards(next, drawn);
     log(next, 0, `${product.channel_label}：获得 ${drawn.length} 张卡牌`);
     return {save: validate(next), drawn};
   }
@@ -384,6 +389,7 @@
         if (!s.stock[order.itemId]) delete s.stock[order.itemId];
         business.soldPacks += count; business.packRevenue += revenue; s.progress.soldPacks += count;
       } else {
+        s.listings[order.itemId].copies?.splice(0,count);
         s.listings[order.itemId].count -= count;
         if (!s.listings[order.itemId].count) delete s.listings[order.itemId];
         business.soldCards += count; business.cardRevenue += revenue; s.progress.soldCards += count;

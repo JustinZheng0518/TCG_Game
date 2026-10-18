@@ -60,15 +60,15 @@ with sync_playwright() as pw:
   p.locator('.shop-world-canvas').focus();p.keyboard.press('e');p.locator('#desk-dialog[open]').wait_for()
   assert p.locator('[data-desk-pane=stock]').is_visible();p.locator('#desk-dialog [data-close-dialog]').click()
   nav(p,'collection');collected(p)
-  assert p.locator('#cards .card-tile').count()==3
+  assert p.locator('#cards .card-tile').count()==6
   assert set(p.evaluate('state.filtered.map(c=>c.set_id)'))=={'CS1aC','CS1bC'}
   assert p.locator('#set-title').is_hidden() and p.locator('#choose-set').is_hidden()
   assert p.locator('#collection-set').input_value()==''
   assert p.locator('#collection-set option').count()==3
   assert p.locator('.card-name').first.evaluate('e=>parseFloat(getComputedStyle(e).fontSize)')>=18
   p.screenshot(path=str(ARTIFACTS/f'collection-{mobile}.png'),full_page=True)
-  p.locator('#collection-set').select_option('CS1bC');assert p.locator('#cards .card-tile').count()==1
-  p.locator('#collection-set').select_option('');p.locator('#card-search').fill('CS1aC');assert p.locator('#cards .card-tile').count()==2
+  p.locator('#collection-set').select_option('CS1bC');assert p.locator('#cards .card-tile').count()==2
+  p.locator('#collection-set').select_option('');p.locator('#card-search').fill('CS1aC');assert p.locator('#cards .card-tile').count()==4
   p.locator('#card-search').fill('')
   p.locator('#sell-duplicates').click();collected(p)
   assert sorted(p.evaluate('Object.values(state.save.counts)'))==[1,1,1]
@@ -106,10 +106,10 @@ with sync_playwright() as pw:
  ctx=browser.new_context(viewport={'width':390,'height':844});ctx.add_init_script('localStorage.setItem('+json.dumps(KEY)+','+json.dumps(json.dumps({'version':1,'counts':counts}))+')')
  p=ctx.new_page();p.route('**/sets/CS1bC/cards.json',lambda r:r.fulfill(status=503,body='unavailable'))
  p.goto(ROOT,wait_until='domcontentloaded');ready(p);nav(p,'collection');collected(p)
- assert p.locator('#cards .card-tile').count()==2 and p.locator('#retry-collection').is_visible()
+ assert p.locator('#cards .card-tile').count()==4 and p.locator('#retry-collection').is_visible()
  assert p.evaluate('Object.keys(state.save.counts).length')==3 and p.locator('#sell-duplicates').is_disabled()
  p.unroute('**/sets/CS1bC/cards.json');p.locator('#retry-collection').click();collected(p)
- assert p.locator('#cards .card-tile').count()==3 and p.locator('#retry-collection').is_hidden()
+ assert p.locator('#cards .card-tile').count()==6 and p.locator('#retry-collection').is_hidden()
  print('PASS collection metadata outage/retry preserves every owned card',flush=True);ctx.close()
  ctx=browser.new_context(viewport={'width':390,'height':844});ctx.add_init_script('const get=HTMLCanvasElement.prototype.getContext;HTMLCanvasElement.prototype.getContext=function(k,...a){return /webgl/.test(k)?null:get.call(this,k,...a)}')
  p=ctx.new_page();p.goto(ROOT,wait_until='domcontentloaded');ready(p)

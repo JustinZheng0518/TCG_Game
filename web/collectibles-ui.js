@@ -5,6 +5,7 @@ function cardImageURL(card,full=false){
   return full&&state.localOriginals?(card.image||card.source_url):state.localImages?(card.thumbnail||card.source_url):card.source_url;
 }
 function applyCardImage(image,card,full=false){
+  TCGCardCondition.decorate(image,card);
   image._missingLabel?.remove();image._missingLabel=null;delete image.dataset.imageMissing;
   image._artToken=null;delete image.dataset.gameArt;image.hidden=false;if(card.sport==='basketball'){TCGBasketballArt.paint(image,card);return;}image.referrerPolicy='no-referrer';image.alt=`${card.name} · ${card.sport==='basketball'?'篮球原版卡面':'简中卡面'}`;
   const urls=[cardImageURL(card,full),card.local_preview,card.source_url];
@@ -35,8 +36,8 @@ function advanceCollectiblesDay(){
   catch(error){$('shop-message').textContent=error.message;}
 }
 function rawKey(card){return card.instance_id||card.id;}
-function ownedRawCards(){return state.collectionCards.flatMap(c=>{const copies=state.save.shop.collectibles.rawCopies.filter(r=>r.id===c.id);return copies.length?copies.map(r=>({...c,...r})):state.save.counts[c.id]?[c]:[];});}
-function rawLabel(c){return c.instance_id?`${c.name} · ${TCGBasketballArt.serial(c)}`:`${c.name} · ${c.rarity} ×${state.save.counts[c.id]}`;}
+function ownedRawCards(){const groups=new Map();for(const c of state.save.shop.collectibles.rawCopies){if(!groups.has(c.id))groups.set(c.id,[]);groups.get(c.id).push(c);}return state.collectionCards.flatMap(c=>{const copies=groups.get(c.id)||[];return copies.length?copies.map(r=>({...c,...r})):state.save.counts[c.id]?[c]:[];});}
+function rawLabel(c){return `${c.name}${c.serial_max?' · '+TCGBasketballArt.serial(c):''}${c.condition?' · '+TCGCardCondition.summary(c):''}`;}
 function startGrading(card){state.gradeTarget=rawKey(card);setMode('grading');}
 function showRefFor(card){state.showRef=`raw:${rawKey(card)}`;setMode('cardshow');}
 function selectedShowRef(){
@@ -47,13 +48,13 @@ function selectedShowRef(){
 function slabElement(slab){
   const item=text('article','','slab-item');item.dataset.uid=slab.uid;
   const shell=text('div','',`slab-shell slab-${slab.agency.toLowerCase()}`),label=text('div','','slab-label');
-  label.append(text('strong',`${slab.agency} ${slab.grade}`),text('span',slab.label),text('small','GAME · 游戏评级'));
+  label.append(text('strong',`${slab.agency} ${slab.grade}`),text('span',slab.label),text('small',slab.card.serial_number?TCGBasketballArt.serial(slab.card):slab.card.number||''));
   const button=lineButton('',()=>showCard(slab.card),'slab-art-button'),image=document.createElement('img');image.loading='lazy';image.width=260;image.height=364;applyCardImage(image,slab.card);button.append(image);
-  shell.append(label,button,text('span',slab.certificate,'slab-certificate'));item.append(shell,text('h4',slab.card.name));
+  shell.append(label,button,text('span',slab.certificate.replace('GAME-',''),'slab-certificate'));item.append(shell,text('h4',slab.card.name));
   const amount=Math.max(1,Math.floor(Collectibles.slabValue(state.save,slab,state.feed)*.7));
   item.append(lineButton(`卖出 ${money(amount)}`,()=>collectiblesAction(()=>Collectibles.sellSlab(state.save,slab.uid,state.feed),'评级卡已售出。'),'slab-sell'),lineButton('带去卡展',()=>{state.showRef=`slab:${slab.uid}`;setMode('cardshow');},'slab-show'));
   const details=document.createElement('details');details.append(text('summary','品相与送评资料'));
-  details.append(text('p',`居中 ${slab.condition.centering} · 四角 ${slab.condition.corners} · 边缘 ${slab.condition.edges} · 表面 ${slab.condition.surface}`),text('p',`游戏预检 · 送评花费 ${money(slab.fee)} · 本游戏证书，非真实认证`));item.append(details);return item;
+  details.append(text('p',`居中 ${slab.condition.centering} · 四角 ${slab.condition.corners} · 边缘 ${slab.condition.edges} · 表面 ${slab.condition.surface}`),text('p',`送评花费 ${money(slab.fee)}`));item.append(details);return item;
 }
 function renderCollectionSlabs(){
   const area=$('collection-slab-area');if(!area)return;
@@ -63,11 +64,12 @@ function renderCollectionSlabs(){
 function gradeTarget(){return ownedRawCards().find(c=>rawKey(c)===$('grading-card').value&&state.save.counts[c.id]);}
 function renderGradingForm(){
   const card=gradeTarget();$('grading-card-preview').replaceChildren();$('grading-submit').disabled=!card||state.collectionLoading;
-  renderGradingOdds(card,$('grading-agency').value);
+  renderGradingOdds(card,$('grading-agency').value);$('grading-condition').textContent=TCGCardCondition.detail(card);
   if(!card){$('grading-quote').textContent=state.collectionLoading?'整理散卡中…':'先开一包，或去卡展买张心仪的卡。';return;}
+  if(!card.condition){$('grading-submit').disabled=true;$('grading-quote').textContent=state.saveError||'请重试读取收藏，保存这张卡的品相。';return;}
   state.gradeTarget=rawKey(card);const image=document.createElement('img');applyCardImage(image,card);image.width=160;image.height=224;$('grading-card-preview').append(image);
   const q=Collectibles.gradeQuote(state.save,card,$('grading-agency').value,$('grading-service').value,state.feed);
-  $('grading-quote').textContent=`游戏费用 ${money(q.fee)} · 第 ${q.ready} 天可取回`;
+  const predicted=Collectibles.gradeCondition($('grading-agency').value,card.condition),bid=Math.floor(Collectibles.slabValue(state.save,{card,agency:$('grading-agency').value,...predicted},state.feed)*.7);$('grading-quote').textContent=`参考评级 ${predicted.grade} · 送评 ${money(q.fee)} · 评级后回收 ${money(bid)} · 第 ${q.ready} 天取回`;
 }
 function renderGrading(){
   if(state.mode!=='grading')return;
@@ -111,7 +113,7 @@ function renderShow(){
     const section=text('section','','show-booth');section.append(text('h3',['新秀与新面孔','经典收藏','评级收藏家'][booth]));const grid=text('div','','show-offer-grid');
     for(const offer of offers.filter(o=>o.booth===booth)){
       const item=text('article','',`show-offer${offer.available?'':' is-sold'}`);item.dataset.offer=offer.key;const image=document.createElement('img');image.loading='lazy';image.width=220;image.height=308;applyCardImage(image,offer.card);
-      const art=lineButton('',()=>showCard(offer.card),'show-offer-art');art.append(image);item.append(art,text('small',offer.grade?`游戏评级 PSA ${offer.grade}`:offer.card.sport==='basketball'?'篮球散卡':'宝可梦散卡'),text('h4',offer.card.name),text('p',offer.available?money(offer.ask):'已成交'));
+      const art=lineButton('',()=>showCard(offer.card),'show-offer-art');art.append(image);item.append(art,text('small',offer.grade?`PSA ${offer.grade}`:offer.card.sport==='basketball'?'篮球散卡':'宝可梦散卡'),text('h4',offer.card.name),text('small',TCGCardCondition.summary(offer.card)),text('p',offer.available?money(offer.ask):'已成交'));
       const buy=lineButton('买下',()=>collectiblesAction(()=>Collectibles.deal(state.save,state.showPool,offer.key,'buy',null,state.feed,$('show-sport').value),'展品已买入。'),'show-buy');buy.disabled=!entered||!offer.available;item.append(buy);
       let swapText='选张卡来交换',valid=false;
       try{if(ref){const delta=offer.ask-Collectibles.showBid(state.save,ref,booth,state.feed);swapText=delta>=0?`交换 · 补 ${money(delta)}`:`交换 · 返 ${money(-delta)}`;valid=true;}}catch{}

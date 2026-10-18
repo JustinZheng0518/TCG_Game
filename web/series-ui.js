@@ -87,10 +87,10 @@ function appendOddsCards(){
   c.shown+=batch.length;$('odds-card-count').textContent=`${c.filtered.length} 条卡面 · 已展示 ${c.shown} 条`;$('odds-more').hidden=c.shown>=c.filtered.length;
 }
 function renderGradingOdds(card,agency){
-  const target=$('grading-odds');target.replaceChildren();if(!card){target.append(text('p','先选择一张散卡，即可查看对应机构的评级概率。'));return;}
-  const result=Collectibles.gradeDistribution(card,agency);target.append(text('p',`${card.name} · ${agency} · 当前游戏品相模型${result.age?`（年份磨损：四项各减 ${result.age}）`:''}`));
-  target.append(probabilityTable(result.rows.map(r=>[`${r.grade} · ${r.label}`,DrawOdds.percent(r.chance)]),['评级结果','概率']));
-  target.append(text('p',`居中、四角、边缘、表面各自独立抽取：${result.conditions.map(r=>`${r.value} 分 ${DrawOdds.percent(r.chance)}`).join('；')}。总分按所选机构的游戏公式合成。`));target.append(text('p',`10 分合计：${DrawOdds.percent(result.rows.filter(r=>r.grade===10).reduce((sum,r)=>sum+r.chance,0))}。未列出的分数 / 标签概率为 0%。`));target.append(text('p','以上是送评前概率，不泄露已保存结果；标准和加急仅改变等待及费用，不改变分数概率。卡展预制评级卡不经过此随机流程。'));
+  const target=$('grading-odds');target.replaceChildren();if(!card){target.append(text('p','先选择一张散卡。'));return;}
+  const result=Collectibles.gradeDistribution(card,agency);target.append(probabilityTable(result.rows.map(r=>[`${r.grade} · ${r.label}`,DrawOdds.percent(r.chance)]),['参考评级','按当前品相']));
+  target.append(text('p','品相在获得时确定，送评不重抽。机构标准不同，加急只改变等待时间。'));
+  const details=document.createElement('details');details.append(text('summary','开包品相概率'));const model=Collectibles.gradeDistribution({...card,condition:undefined},agency);details.append(text('p',`四项独立生成：${model.conditions.map(r=>`${r.value} 分 ${DrawOdds.percent(r.chance)}`).join('；')}${model.age?`。年份磨损：四项各减 ${model.age}`:''}。`));target.append(details);
 }
 function initSeriesUI(){
   $('open-odds').addEventListener('click',()=>openOdds());

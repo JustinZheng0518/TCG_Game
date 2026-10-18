@@ -150,7 +150,7 @@ function renderAcquisition() {
 function cardTradeControls(card) {
   const q = Shop.cardQuote(state.save, card, state.feed);
   const controls = text("div", "", "card-trade");
-  controls.append(text("small", `${q.estimated ? "模拟估值" : "店内行情·外部参考"} ${money(q.market)}`));
+  controls.append(text("small", `参考价 ${money(q.market)}`));
   const actions = text("div", "", "card-trade-actions");
   if (state.mode === "album") actions.append(lineButton(`买入 ${money(q.ask)}`, () => shopAction(() => Shop.trade(state.save, card, "buy", state.feed), "单卡已买入并加入收藏。", "message")));
   if (state.save.counts[card.id]) {
@@ -238,7 +238,7 @@ function initShopUI() {
     event.preventDefault();
     shopAction(() => Shop.redeem(state.save, $("redeem-code").value), "兑换成功，奖励已入账。");
   });
-  $("sell-duplicates").addEventListener("click", () => shopAction(() => Shop.sellDuplicates(state.save, state.mode === "collection" ? state.collectionCards.filter(card => (!state.collectionSet || card.set_id === state.collectionSet) && (state.collectionSport === "all" || (card.sport || "pokemon") === state.collectionSport)) : state.cards, state.feed), "重复卡已卖出，每款留一张。", "message"));
+  $("sell-duplicates").addEventListener("click", () => shopAction(() => Shop.sellDuplicates(state.save, state.mode === "collection" ? state.collectionCards.filter(card => (!state.collectionSet || card.set_id === state.collectionSet) && (state.collectionSport === "all" || (card.sport || "pokemon") === state.collectionSport)) : state.cards, state.feed), "重复卡已卖出，每款保留品相最好的一张。", "message"));
   $("refresh-market").addEventListener("click", () => refreshMarket());
   $("load-market-url").addEventListener("click", () => refreshMarket(true));
   renderShop();

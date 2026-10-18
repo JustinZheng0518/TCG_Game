@@ -1,6 +1,8 @@
 (function(root,factory){const api=factory();if(typeof module==='object'&&module.exports)module.exports=api;else root.TCGCollectiblesState=api;})(globalThis,function(){
  'use strict';
  const AGENCIES={PSA:{name:'PSA',factor:1},BGS:{name:'BGS',factor:1.1},CGC:{name:'CGC',factor:.85},SGC:{name:'SGC',factor:.9}};
+ const CONDITION_KEYS=['centering','corners','edges','surface'];
+ const CONDITION_OUTCOMES=[{value:7,chance:.02,ceiling:.02},{value:8,chance:.04,ceiling:.06},{value:8.5,chance:.10,ceiling:.16},{value:9,chance:.24,ceiling:.4},{value:9.5,chance:.38,ceiling:.78},{value:10,chance:.22,ceiling:1}];
  const SERVICES={standard:{name:'标准',days:3,fee:15000},express:{name:'加急',days:1,fee:30000}};
  const integer=(n,min=0,max=1000000000)=>{if(!Number.isSafeInteger(n)||n<min||n>max)throw Error('评级或卡展存档数值无效。');return n;};
  const str=(value,max=200)=>{if(typeof value!=='string'||value.length>max)throw Error('卡牌资料无效。');return value;};
@@ -12,7 +14,8 @@
   if(value.year!==undefined)c.year=integer(value.year,1800,2100);
   if(value.serial_max!=null)c.serial_max=integer(value.serial_max,1,10000000);
   if(value.instance_id!==undefined){if(!/^R[1-9]\d*$/.test(value.instance_id))throw Error('副本编号无效。');c.instance_id=value.instance_id;}
-  if(value.serial_number!==undefined){if(c.sport!=='basketball'||!c.serial_max)throw Error('虚拟限编无效。');c.serial_number=integer(value.serial_number,1,c.serial_max);}
+  if(value.serial_number!==undefined){if(c.sport!=='basketball'||!c.serial_max)throw Error('限编无效。');c.serial_number=integer(value.serial_number,1,c.serial_max);}
+  if(value.condition)c.condition=condition(value.condition);
   c.is_rookie=!!value.is_rookie;if(value.is_chase)c.is_chase=true;return c;
  }
  const empty=()=>({version:1,nextId:0,nextRawId:0,rawCopies:[],jobs:[],slabs:[],show:{day:1,entered:false,used:[],sold:0}});
@@ -30,17 +33,23 @@
   const copies=value.rawCopies||[];if(!Array.isArray(copies)||copies.length>50000)throw Error('副本仓位无效。');
   const rawSeen=new Set();
   function checkCopy(c){if(!/^R[1-9]\d*$/.test(c.instance_id)||Number(c.instance_id.slice(1))>next.nextRawId||rawSeen.has(c.instance_id))throw Error('副本重复或无效。');rawSeen.add(c.instance_id);}
-  next.rawCopies=copies.map(r=>{const c=card(r);if(c.sport!=='basketball'||!c.serial_max||!c.serial_number)throw Error('限编副本无效。');checkCopy(c);return c;});
-  next.jobs=value.jobs.map(record);next.slabs=value.slabs.map(record);for(const r of [...next.jobs,...next.slabs]){if(numbered(r.card)&&!r.card.instance_id)r.card=mint(next,r.card);if(r.card.instance_id)checkCopy(r.card);}
+  next.rawCopies=copies.map(r=>{const c=card(r);if(!c.instance_id)throw Error('副本无效。');if(numbered(c)&&!c.serial_number)throw Error('限编副本无效。');c.condition=c.condition||legacyCondition(c);checkCopy(c);return rawCard(c);});
+  next.jobs=value.jobs.map(record);next.slabs=value.slabs.map(record);for(const r of [...next.jobs,...next.slabs]){r.card.condition=r.card.condition||{...r.condition};if(!r.card.instance_id)r.card=mint(next,r.card);if(CONDITION_KEYS.some(k=>r.condition[k]!==r.card.condition[k]))throw Error('评级与卡牌品相不一致。');if(r.card.instance_id)checkCopy(r.card);}
   const show=value.show;if(!show||typeof show.entered!=='boolean'||!Array.isArray(show.used)||show.used.length>100||show.used.some(id=>!/^\d+-[0-2]-[0-3]$/.test(id)))throw Error('卡展交易记录无效。');
   next.show={day:integer(show.day,1,1000000),entered:show.entered,used:[...new Set(show.used)],sold:integer(show.sold,0,12)};
   return next;
  }
  const numbered=c=>c.sport==='basketball'&&Number.isInteger(c.serial_max)&&c.serial_max>0;
- function mint(extra,value){const c=card(value);if(!numbered(c))return c;delete c.instance_id;c.instance_id=`R${++extra.nextRawId}`;let hash=2166136261;for(const ch of c.id+c.instance_id)hash=Math.imul(hash^ch.charCodeAt(0),16777619)>>>0;c.serial_number=c.serial_number||hash%c.serial_max+1;return c;}
- function addRaw(save,cards){return cards.map(value=>{let c=value;if(numbered(c)){const extra=save.shop.collectibles;if(extra.rawCopies.length>=50000)throw Error('限编卡仓位已满。');c=mint(extra,c);extra.rawCopies.push(c);}save.counts[c.id]=(save.counts[c.id]||0)+1;return c;});}
- function resolveRaw(save,value){if(!(save.counts[value.id]>0))throw Error('没有可用的这张散卡。');const rows=save.shop.collectibles.rawCopies;if(value.instance_id){const c=rows.find(c=>c.instance_id===value.instance_id&&c.id===value.id);if(!c)throw Error('这张副本已离开收藏。');return {...value,...c};}return rows.find(c=>c.id===value.id)||value;}
- function takeRaw(save,value){let c=resolveRaw(save,value);const extra=save.shop.collectibles;if(numbered(c)&&!c.instance_id)c=mint(extra,c);extra.rawCopies=extra.rawCopies.filter(r=>r.instance_id!==c.instance_id);if(--save.counts[c.id]===0)delete save.counts[c.id];return c;}
- function hydrate(save,cards){let changed=false;const extra=save.shop.collectibles;const tracked=new Map();for(const c of extra.rawCopies)tracked.set(c.id,(tracked.get(c.id)||0)+1);for(const c of cards){if(!numbered(c))continue;let missing=(save.counts[c.id]||0)-(tracked.get(c.id)||0);while(missing-->0&&extra.rawCopies.length<50000){extra.rawCopies.push(mint(extra,c));changed=true;}}return changed;}
- return {AGENCIES,SERVICES,empty,validate,card,numbered,mint,addRaw,takeRaw,resolveRaw,hydrate};
+ function rawCard(value){const c=card(value);for(const key of ['source_url','source_page','thumbnail','image','local_preview'])delete c[key];return c;}
+ function condition(value){const result={};for(const key of CONDITION_KEYS){const n=value?.[key];if(typeof n!=='number'||n<1||n>10||!Number.isInteger(n*2))throw Error('品相资料无效。');result[key]=n;}return result;}
+ function rollCondition(c,random=Math.random){const age=c.year<1980?1:c.year<2000?.5:0,result={};for(const key of CONDITION_KEYS){const n=random();if(!Number.isFinite(n)||n<0||n>=1)throw Error('随机数无效。');result[key]=Math.max(1,CONDITION_OUTCOMES.find(o=>n<o.ceiling).value-age);}return result;}
+ function hash(value){let n=2166136261;for(const ch of value)n=Math.imul(n^ch.charCodeAt(0),16777619)>>>0;n^=n>>>16;n=Math.imul(n,0x7feb352d);n^=n>>>15;n=Math.imul(n,0x846ca68b);return (n^(n>>>16))>>>0;}
+ function seededCondition(c,seed){let index=0;return rollCondition(c,()=>hash(`${seed}:condition:${index++}`)/4294967296);}
+ function legacyCondition(c){return seededCondition(c,c.instance_id||c.id);}
+ function mint(extra,value,random=Math.random){const c=card(value);delete c.instance_id;c.instance_id=`R${++extra.nextRawId}`;if(numbered(c))c.serial_number=c.serial_number||hash(c.id+c.instance_id)%c.serial_max+1;c.condition=c.condition||rollCondition(c,random);return c;}
+ function addRaw(save,cards,random=Math.random,restore=false){return cards.map(value=>{const extra=save.shop.collectibles;if(extra.rawCopies.length>=50000)throw Error('卡册已满，请先整理收藏。');const c=restore&&value.instance_id?card(value):mint(extra,value,random);c.condition=c.condition||legacyCondition(c);extra.rawCopies.push(rawCard(c));save.counts[c.id]=(save.counts[c.id]||0)+1;return c;});}
+ function resolveRaw(save,value){if(!(save.counts[value.id]>0))throw Error('没有可用的这张散卡。');const rows=save.shop.collectibles.rawCopies;if(value.instance_id){const c=rows.find(c=>c.instance_id===value.instance_id&&c.id===value.id);if(!c)throw Error('这张副本已离开收藏。');return {...value,...c};}const found=rows.find(c=>c.id===value.id);return found?{...value,...found}:value;}
+ function takeRaw(save,value,random=Math.random){let c=resolveRaw(save,value);const extra=save.shop.collectibles;if(!c.instance_id)c=mint(extra,c,random);extra.rawCopies=extra.rawCopies.filter(r=>r.instance_id!==c.instance_id);if(--save.counts[c.id]===0)delete save.counts[c.id];return c;}
+ function hydrate(save,cards){let changed=false;const extra=save.shop.collectibles,tracked=new Map();for(const c of extra.rawCopies)tracked.set(c.id,(tracked.get(c.id)||0)+1);for(const c of cards){let missing=(save.counts[c.id]||0)-(tracked.get(c.id)||0);while(missing-->0&&extra.rawCopies.length<50000){extra.rawCopies.push(rawCard(mint(extra,c,()=>.5)));const last=extra.rawCopies.at(-1);last.condition=legacyCondition(last);changed=true;}}return changed;}
+ return {AGENCIES,SERVICES,empty,validate,card,numbered,mint,addRaw,takeRaw,resolveRaw,hydrate,condition,rollCondition,seededCondition,CONDITION_KEYS,CONDITION_OUTCOMES};
 });

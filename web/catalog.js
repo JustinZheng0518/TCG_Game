@@ -112,7 +112,7 @@ async function loadCollection() {
   if (request !== collectionRequest) return;
   state.collectionLoading = false;
   const migrated=Shop.validate(state.save);
-  if(TCGCollectiblesState.hydrate(migrated,results)){try{localStorage.setItem("TCG_Game:collection:v1",JSON.stringify(migrated));state.save=migrated;}catch{state.saveError='虚拟编号暂未保存，请释放浏览器存储空间后重试。';}}
+  if(TCGCollectiblesState.hydrate(migrated,results)){try{localStorage.setItem("TCG_Game:collection:v1",JSON.stringify(migrated));state.save=migrated;}catch{state.saveError='卡牌品相暂未保存，请释放浏览器存储空间后重试。';}}
   state.collectionCards = results.filter(card => state.save.counts[card.id]).sort((a, b) => Game.tier(b) - Game.tier(a) || a.name.localeCompare(b.name, "zh-CN") || a.id.localeCompare(b.id));
   const readIds = new Set(results.map(card => card.id));
   const unknown = Object.keys(state.save.counts).filter(id => !readIds.has(id)).length;
@@ -232,10 +232,11 @@ function showCard(card) {
   $("dialog-title").textContent = card.name;
   $("dialog-number").textContent = `${card.set_id} · ${card.number}`;
   const quote = Shop.cardQuote(state.save, card, state.feed);
-  $("dialog-meta").textContent = `${card.rarity} · ${card.type || "卡牌"}\n${card.sport === "basketball" ? "篮球游戏原创卡面" : "简体中文版"}${(card.illustrators || []).length ? `\n插画：${card.illustrators.join("、")}` : ""}\n${quote.estimated ? "模拟估值" : "店内行情（外部参考）"} ${money(quote.market)} · 回收 ${money(quote.bid)}\n${quote.source ? `来源参考价：${money(quote.source.cents)}\n来源：${quote.source.source_url}\n抓取时间：${quote.source.observed_at}` : "按稀有度、加工与人气推算，并非真实成交价"}`;
-  if(card.sport === "basketball") $("dialog-meta").textContent += `\n${card.original_name || card.name}${card.team ? ` · ${card.team}` : ""}\n${card.source_set_name || ""}${card.serial_max ? `\n游戏虚拟编号 ${TCGBasketballArt.serial(card)}${card.instance_id?` · 副本 ${card.instance_id}`:" · 卡面预览"}；编号可能重复，不代表实体印量` : ""}`;
+  $("dialog-meta").textContent = `${card.rarity}${card.team?` · ${card.team}`:''}\n${card.source_set_name||card.set_id}${card.serial_max?` · ${TCGBasketballArt.serial(card)}`:''}\n参考价 ${money(quote.market)} · 回收 ${money(quote.bid)}`;
+  $("dialog-condition").textContent=TCGCardCondition.detail(card)+(card.condition?`\nPSA 参考 ${Collectibles.gradeCondition('PSA',card.condition).grade}`:'');
+  const owned=state.save.shop.collectibles.rawCopies.some(c=>c.instance_id===card.instance_id&&c.id===card.id);$("dialog-grade").hidden=!owned;$("dialog-grade").onclick=()=>{$("card-dialog").close();if($("opening-dialog").open)$("opening-dialog").close();startGrading(card);};
   applyCardImage($("dialog-image"),card,true);
-  $("dialog-image").alt = `${card.name} · ${card.sport === "basketball" ? "篮球游戏原创卡面" : "简体中文卡面"}`;
+  $("dialog-image").alt = `${card.name} · ${card.sport === "basketball" ? "篮球卡" : "简体中文卡面"}`;
   $("live-price-panel").hidden = card.sport === "basketball";
   if(card.sport !== "basketball") prepareLivePrice(card);
   if (!$("card-dialog").open) $("card-dialog").showModal();
@@ -262,7 +263,7 @@ function appendCards() {
     const name = text("h2", "", "card-name");
     name.append(text("span", card.name));
     if (state.save.counts[card.id] && !card.instance_id) name.append(text("span", `×${state.save.counts[card.id]}`, "owned-count"));
-    tile.append(button, label, name, cardTradeControls(card));
+    tile.append(button, label, name);if(card.condition){const conditionButton=lineButton(TCGCardCondition.summary(card),()=>showCard(card),"condition-badge");conditionButton.title=TCGCardCondition.detail(card);tile.append(conditionButton);}tile.append(cardTradeControls(card));
     if (state.mode === "draw" && card.isNew) tile.append(text("span", "新卡", "new-badge"));
     $("cards").append(tile);
   }

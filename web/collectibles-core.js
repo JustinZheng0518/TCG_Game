@@ -1,19 +1,13 @@
 (function(root,factory){const node=typeof module==='object'&&module.exports;const api=factory(node?require('./shop-core.js'):root.TCGShop,node?require('./collectibles-state.js'):root.TCGCollectiblesState);if(node)module.exports=api;else root.TCGCollectibles=api;})(globalThis,function(Shop,State){
  'use strict';
  const {AGENCIES,SERVICES}=State;
- const CONDITION_OUTCOMES=[{value:7,chance:.02,ceiling:.02},{value:8,chance:.04,ceiling:.06},{value:8.5,chance:.10,ceiling:.16},{value:9,chance:.24,ceiling:.4},{value:9.5,chance:.38,ceiling:.78},{value:10,chance:.22,ceiling:1}];
+ const CONDITION_OUTCOMES=State.CONDITION_OUTCOMES;
  const conditionAge=card=>card.year<1980?1:card.year<2000?.5:0;
  function record(save,amount,note){const n=save.shop.cash+amount;if(!Number.isSafeInteger(n)||n<0||n>1000000000)throw Error(n<0?'现金不足。':'交易金额超出范围。');save.shop.cash=n;save.shop.ledger.unshift({day:save.shop.day,amount,note});save.shop.ledger.length=Math.min(50,save.shop.ledger.length);}
  const takeRaw=State.takeRaw;
  function addRaw(save,card){return State.addRaw(save,[card])[0];}
  const done=save=>Shop.validate(save);
  function gradeQuote(value,card,agency='PSA',service='standard',feed){if(!Object.hasOwn(AGENCIES,agency)||!Object.hasOwn(SERVICES,service))throw Error('请选择评级机构和服务。');const base=Shop.cardQuote(value,card,feed).market;return {fee:Math.ceil(SERVICES[service].fee*AGENCIES[agency].factor+base*(service==='express'?.02:.01)),ready:value.shop.day+SERVICES[service].days,days:SERVICES[service].days};}
- function outcome(card,agency,random){
-  const unit=()=>{const n=random();if(!Number.isFinite(n)||n<0||n>=1)throw Error('随机数无效。');return n;};
-  const condition={};const age=conditionAge(card);
-  for(const key of ['centering','corners','edges','surface']){const n=unit();condition[key]=Math.max(1,CONDITION_OUTCOMES.find(o=>n<o.ceiling).value-age);}
-  return gradeCondition(agency,condition);
- }
  function gradeCondition(agency,condition){
   const scores=Object.values(condition),min=Math.min(...scores),average=scores.reduce((a,b)=>a+b,0)/4;
   let grade,label;
@@ -29,6 +23,7 @@
  }
  function gradeDistribution(card,agency){
   if(!Object.hasOwn(AGENCIES,agency))throw Error('请选择评级机构。');
+  if(card.condition){const result=gradeCondition(agency,State.condition(card.condition));return {fixed:true,age:0,conditions:[],rows:[{grade:result.grade,label:result.label,chance:1}]};}
   const keys=['centering','corners','edges','surface'],rows=new Map(),age=conditionAge(card);
   function visit(depth,condition,chance){
    if(depth===4){const result=gradeCondition(agency,condition),key=`${result.grade}:${result.label}`,row=rows.get(key)||{grade:result.grade,label:result.label,chance:0};row.chance+=chance;rows.set(key,row);return;}
@@ -39,10 +34,10 @@
  function submit(value,card,agency,service,feed,random=Math.random){
   const next=Shop.validate(value),extra=next.shop.collectibles;
   if(extra.jobs.length>=500)throw Error('待评队列已满，请先取回评级卡。');
-  const clean=State.card(takeRaw(next,card)),quote=gradeQuote(next,clean,agency,service,feed);
+  const clean=State.card(takeRaw(next,card,random)),quote=gradeQuote(next,clean,agency,service,feed);
   record(next,-quote.fee,`送评 ${clean.name} · ${agency} ${SERVICES[service].name}`);
   const uid=`G${++extra.nextId}`;
-  extra.jobs.push({uid,card:clean,agency,service,submitted:next.shop.day,ready:quote.ready,fee:quote.fee,...outcome(clean,agency,random),certificate:`GAME-${agency}-${uid}`});
+  extra.jobs.push({uid,card:clean,agency,service,submitted:next.shop.day,ready:quote.ready,fee:quote.fee,...gradeCondition(agency,clean.condition),certificate:`GAME-${agency}-${uid}`});
   return done(next);
  }
  function collect(value){
@@ -58,7 +53,7 @@
  }
  function sellSlab(value,uid,feed){const next=Shop.validate(value),extra=next.shop.collectibles,slab=extra.slabs.find(s=>s.uid===uid);if(!slab)throw Error('这张评级卡已不在卡柜。');const price=Math.max(1,Math.floor(slabValue(next,slab,feed)*.7));extra.slabs=extra.slabs.filter(s=>s.uid!==uid);record(next,price,`出售 ${slab.agency} ${slab.grade} ${slab.card.name}`);next.shop.progress.soldCards++;return done(next);}
  function showState(save){const extra=save.shop.collectibles;if(extra.show.day!==save.shop.day)extra.show={day:save.shop.day,entered:false,used:[],sold:0};return extra.show;}
- function attend(value){const next=Shop.validate(value),s=showState(next);if(s.entered)throw Error('今天已经入场。');record(next,-2000,'卡展入场券（游戏模拟）');s.entered=true;return done(next);}
+ function attend(value){const next=Shop.validate(value),s=showState(next);if(s.entered)throw Error('今天已经入场。');record(next,-2000,'卡展入场券');s.entered=true;return done(next);}
  function offers(value,pool,sport='all'){
   const save=Shop.validate(value),show=showState(save),cards=pool.filter(c=>sport==='all'||(c.sport||'pokemon')===sport);
   if(!cards.length)return [];
@@ -66,9 +61,9 @@
   for(let booth=0;booth<3;booth++)for(let slot=0;slot<4;slot++){
    let index=Shop.hash(`${save.shop.day}:${booth}:${slot}:${sport}`)%cards.length;
    for(let n=0;usedCards.has(cards[index].id)&&n<cards.length;n++)index=(index+1)%cards.length;
-   const card=State.card(cards[index]);if(State.numbered(card))card.serial_number=Shop.hash(`${save.shop.day}:${booth}:${slot}:${card.id}`)%card.serial_max+1;usedCards.add(card.id);
-   const grade=slot===3?(Shop.hash(card.id+save.shop.day)%8===0?10:9):null;
-   const fake=grade?{card,agency:'PSA',grade,label:grade===10?'GEM MINT':'MINT'}:null;
+   const card=State.card(cards[index]);card.condition=State.seededCondition(card,`${save.shop.day}:${booth}:${slot}:${card.id}`);if(State.numbered(card))card.serial_number=Shop.hash(`${save.shop.day}:${booth}:${slot}:${card.id}`)%card.serial_max+1;usedCards.add(card.id);
+   const graded=gradeCondition('PSA',card.condition),grade=slot===3?graded.grade:null;
+   const fake=grade?{card,agency:'PSA',grade,label:graded.label}:null;
    const market=grade?slabValue(save,fake,null):Shop.cardQuote(save,card,null).market;
    const key=`${save.shop.day}-${booth}-${slot}`;
    result.push({key,booth,card,grade,agency:grade?'PSA':null,ask:Math.max(1,Math.round(market*1.08)),available:!show.used.includes(key)});
@@ -90,7 +85,7 @@
   if(!offer.grade){addRaw(save,offer.card);return;}
   const extra=save.shop.collectibles;if(extra.slabs.length>=5000)throw Error('评级卡仓位已满。');
   const uid=`G${++extra.nextId}`,grade=offer.grade;
-  extra.slabs.push({uid,card:State.mint(extra,offer.card),agency:'PSA',service:'standard',submitted:save.shop.day,ready:save.shop.day,fee:0,grade,label:grade===10?'GEM MINT':'MINT',condition:{centering:grade,corners:grade,edges:grade,surface:grade},certificate:`GAME-PSA-${uid}`});
+  extra.slabs.push({uid,card:State.mint(extra,offer.card),agency:'PSA',service:'standard',submitted:save.shop.day,ready:save.shop.day,fee:0,...gradeCondition('PSA',offer.card.condition),certificate:`GAME-PSA-${uid}`});
  }
  function deal(value,pool,key,action,ref,feed,sport='all'){
   const next=Shop.validate(value),show=showState(next);

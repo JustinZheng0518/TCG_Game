@@ -122,14 +122,15 @@ class PackOpening {
 
       const label = document.createElement("span");
       label.className = "reveal-caption";
-      label.textContent = `${card.name} · ${card.rarity}${card.isNew ? " · 新卡" : ""}`;
+      label.textContent = `${card.name} · ${card.rarity}${card.isNew ? " · 新卡" : ""}${card.condition ? " · "+TCGCardCondition.summary(card) : ""}`;
       front.append(image, label);
       inner.append(back, front);
       button.append(inner);
+      button.addEventListener("click",()=>{if(button.classList.contains("is-revealed")&&typeof showCard==="function")showCard(card);});
       button.addEventListener("click", () => {
         button.classList.add("is-revealed");
         button.setAttribute("aria-label", label.textContent);
-        button.setAttribute("aria-disabled", "true");
+        button.setAttribute("aria-label",label.textContent+"，查看品相");
         front.removeAttribute("aria-hidden");
         revealed++;
         status.textContent = `第 ${this.pack + 1} / ${this.total} 包 · 已翻开 ${revealed} / ${pack.length} 张`;
