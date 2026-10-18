@@ -6,7 +6,7 @@ function cardImageURL(card,full=false){
 }
 function applyCardImage(image,card,full=false){
   image._missingLabel?.remove();image._missingLabel=null;delete image.dataset.imageMissing;
-  image.hidden=false;image.referrerPolicy='no-referrer';image.alt=`${card.name} · ${card.sport==='basketball'?'篮球原版卡面':'简中卡面'}`;
+  image._artToken=null;delete image.dataset.gameArt;image.hidden=false;if(card.sport==='basketball'){TCGBasketballArt.paint(image,card);return;}image.referrerPolicy='no-referrer';image.alt=`${card.name} · ${card.sport==='basketball'?'篮球原版卡面':'简中卡面'}`;
   const urls=[cardImageURL(card,full),card.local_preview,card.source_url];
   if(card.sport==='basketball'&&card.source_url){const thumb=card.source_url.replace('/Images/Cards/','/Images/Thumbs/').replace(/\/(\d+)-([^/]+)Fr\.jpg$/,'/$1_$2Thumb.jpg');urls.push(thumb);}
   const unique=[...new Set(urls.filter(Boolean))];let index=0;
@@ -34,12 +34,15 @@ function advanceCollectiblesDay(){
   try{ensureShopReady();const result=Shop.endDay(state.save,state.products,state.feed);persistSave(result.save);$('shop-message').textContent=`第 ${state.save.shop.day} 天，去看看评级进度吧。`;}
   catch(error){$('shop-message').textContent=error.message;}
 }
-function startGrading(card){state.gradeTarget=card.id;setMode('grading');}
-function showRefFor(card){state.showRef=`raw:${card.id}`;setMode('cardshow');}
+function rawKey(card){return card.instance_id||card.id;}
+function ownedRawCards(){return state.collectionCards.flatMap(c=>{const copies=state.save.shop.collectibles.rawCopies.filter(r=>r.id===c.id);return copies.length?copies.map(r=>({...c,...r})):state.save.counts[c.id]?[c]:[];});}
+function rawLabel(c){return c.instance_id?`${c.name} · ${TCGBasketballArt.serial(c)}`:`${c.name} · ${c.rarity} ×${state.save.counts[c.id]}`;}
+function startGrading(card){state.gradeTarget=rawKey(card);setMode('grading');}
+function showRefFor(card){state.showRef=`raw:${rawKey(card)}`;setMode('cardshow');}
 function selectedShowRef(){
   const value=$('show-own').value;
   if(value.startsWith('slab:'))return {type:'slab',uid:value.slice(5)};
-  const card=state.collectionCards.find(c=>c.id===value.slice(4));return card?{type:'raw',card}:null;
+  const card=ownedRawCards().find(c=>rawKey(c)===value.slice(4));return card?{type:'raw',card}:null;
 }
 function slabElement(slab){
   const item=text('article','','slab-item');item.dataset.uid=slab.uid;
@@ -57,22 +60,22 @@ function renderCollectionSlabs(){
   const rows=state.save.shop.collectibles.slabs.filter(s=>(!state.collectionSet||s.card.set_id===state.collectionSet)&&(state.collectionSport==='all'||s.card.sport===state.collectionSport));
   area.hidden=state.mode!=='collection'||!rows.length;$('collection-slabs').replaceChildren();if(!area.hidden)for(const slab of rows)$('collection-slabs').append(slabElement(slab));
 }
-function gradeTarget(){return state.collectionCards.find(c=>c.id===$('grading-card').value&&state.save.counts[c.id]);}
+function gradeTarget(){return ownedRawCards().find(c=>rawKey(c)===$('grading-card').value&&state.save.counts[c.id]);}
 function renderGradingForm(){
   const card=gradeTarget();$('grading-card-preview').replaceChildren();$('grading-submit').disabled=!card||state.collectionLoading;
   renderGradingOdds(card,$('grading-agency').value);
   if(!card){$('grading-quote').textContent=state.collectionLoading?'整理散卡中…':'先开一包，或去卡展买张心仪的卡。';return;}
-  state.gradeTarget=card.id;const image=document.createElement('img');applyCardImage(image,card);image.width=160;image.height=224;$('grading-card-preview').append(image);
+  state.gradeTarget=rawKey(card);const image=document.createElement('img');applyCardImage(image,card);image.width=160;image.height=224;$('grading-card-preview').append(image);
   const q=Collectibles.gradeQuote(state.save,card,$('grading-agency').value,$('grading-service').value,state.feed);
   $('grading-quote').textContent=`游戏费用 ${money(q.fee)} · 第 ${q.ready} 天可取回`;
 }
 function renderGrading(){
   if(state.mode!=='grading')return;
   const select=$('grading-card'),wanted=state.gradeTarget||select.value;
-  const owned=state.collectionCards.filter(c=>state.save.counts[c.id]);select.replaceChildren(...owned.map(c=>new Option(`${c.name} · ${c.rarity} ×${state.save.counts[c.id]}`,c.id)));
-  if(owned.some(c=>c.id===wanted))select.value=wanted;
+  const owned=ownedRawCards();select.replaceChildren(...owned.map(c=>new Option(rawLabel(c),rawKey(c))));
+  if(owned.some(c=>rawKey(c)===wanted))select.value=wanted;
   renderGradingForm();const extra=state.save.shop.collectibles;$('grading-jobs').replaceChildren();
-  for(const job of extra.jobs){const row=text('article','','grading-job'),left=Math.max(0,job.ready-state.save.shop.day);row.append(text('strong',job.card.name),text('span',`${job.agency} · ${left?`还有 ${left} 个营业日`:'已经到啦，去取回！'}`));$('grading-jobs').append(row);}
+  for(const job of extra.jobs){const row=text('article','','grading-job'),left=Math.max(0,job.ready-state.save.shop.day);row.append(text('strong',job.card.name+(job.card.serial_number?' · '+TCGBasketballArt.serial(job.card):'')),text('span',`${job.agency} · ${left?`还有 ${left} 个营业日`:'已经到啦，去取回！'}`));$('grading-jobs').append(row);}
   if(!extra.jobs.length)$('grading-jobs').append(text('p','暂时没有在途卡牌。'));
   const ready=extra.jobs.filter(j=>j.ready<=state.save.shop.day).length;$('grading-collect').disabled=!ready;$('grading-collect').textContent=ready?`取回 ${ready} 张`:'等待评级中';
   $('grading-slabs').replaceChildren();for(const slab of extra.slabs)$('grading-slabs').append(slabElement(slab));
@@ -97,7 +100,7 @@ function renderShow(){
   const show=state.save.shop.collectibles.show,entered=show.day===state.save.shop.day&&show.entered;
   $('show-day').textContent=`第 ${state.save.shop.day} 天 · 城市卡展`;$('show-enter').disabled=entered;$('show-enter').textContent=entered?'今日已入场 ✓':'入场 · ¥20';
   const select=$('show-own'),wanted=state.showRef||select.value;select.replaceChildren(new Option('选择带来的卡…',''));
-  for(const card of state.collectionCards.filter(c=>state.save.counts[c.id]))select.append(new Option(`散卡 · ${card.name} ×${state.save.counts[card.id]}`,`raw:${card.id}`));
+  for(const card of ownedRawCards())select.append(new Option(`散卡 · ${rawLabel(card)}`,`raw:${rawKey(card)}`));
   for(const slab of state.save.shop.collectibles.slabs)select.append(new Option(`${slab.agency} ${slab.grade} · ${slab.card.name}`,`slab:${slab.uid}`));
   if([...select.options].some(o=>o.value===wanted))select.value=wanted;else state.showRef='';renderShowSale();
   $('show-note').replaceChildren();

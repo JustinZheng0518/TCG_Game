@@ -24,11 +24,11 @@ with sync_playwright() as pw:
     if more.is_visible():more.click()
     for image in gallery.locator('img').all():image.evaluate('(i)=>i.loading="eager"')
    p.wait_for_function('Array.from(document.querySelectorAll(".odds-rare-card img")).every(i=>i.complete&&i.naturalWidth>0&&!i.hidden)')
-   assert p.locator('.odds-rare-card img').evaluate_all('(xs)=>xs.every(i=>new URL(i.currentSrc).origin===location.origin)')
+   assert p.locator('.odds-rare-card img').evaluate_all('(xs)=>xs.every(i=>(i.currentSrc.startsWith("data:image/svg+xml")||new URL(i.currentSrc).origin===location.origin))')
    assert not p.evaluate('document.getElementById("odds-dialog").scrollWidth>document.getElementById("odds-dialog").clientWidth')
    if sid=='BB425592':
     first=p.locator('.odds-rare-preview').first;p.evaluate('()=>{const d=document.getElementById("odds-dialog"),g=d.querySelector(".odds-rare-preview");d.scrollTop+=g.getBoundingClientRect().top-d.getBoundingClientRect().top-130}');p.screenshot(path=str(OUT/f'select-{mobile}.png'))
-    p.locator('.odds-rare-card').first.click();p.wait_for_function('document.getElementById("dialog-image").naturalWidth>0');assert p.locator('#dialog-image').evaluate('(i)=>new URL(i.currentSrc).origin===location.origin');p.locator('#close-dialog').click()
+    p.locator('.odds-rare-card').first.click();p.wait_for_function('document.getElementById("dialog-image").naturalWidth>0');assert p.locator('#dialog-image').evaluate('(i)=>(i.currentSrc.startsWith("data:image/svg+xml")||new URL(i.currentSrc).origin===location.origin)');p.locator('#close-dialog').click()
    p.locator('#odds-dialog [data-close-dialog]').click()
   assert p.evaluate('JSON.stringify(state.save)')==before;assert not errors,errors;assert not remote_images,remote_images
   ctx.close();print('PASS','mobile' if mobile else 'desktop','local rare faces with TCDB blocked, all displayed images and expanded pages, exact tier membership, card details and coverage notes',flush=True)

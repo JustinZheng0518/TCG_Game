@@ -71,6 +71,8 @@
       worked: Boolean(s.worked), ledger: []};
     shop.business = validateBusiness(s.business, shop.day);
     shop.collectibles = CollectiblesState.validate(s.collectibles);
+    const tracked={};for(const c of shop.collectibles.rawCopies)tracked[c.id]=(tracked[c.id]||0)+1;
+    for(const [id,n] of Object.entries(tracked))if(n>(counts[id]||0))throw Error('副本数量与收藏不一致。');
     if (!s.progress || typeof s.progress !== "object") throw new Error("经营进度无效。");
     for (const key of ["opened", "soldPacks", "soldCards", "bought"]) shop.progress[key] = integer(s.progress[key]);
     if (!s.listings || typeof s.listings !== "object" || Array.isArray(s.listings) || Object.keys(s.listings).length > 50000) throw new Error("寄售记录无效。");
@@ -182,7 +184,7 @@
     return cards[Math.floor(value * cards.length)];
   }
   function addCards(save, cards) {
-    save.counts = Game.collect({version: 1, counts: save.counts}, cards).counts;
+    return CollectiblesState.addRaw(save,cards);
   }
   function deckPools(cards) {
     const base = cards.filter(c => Game.tier(c) < 2 && !["RR", "RRR"].includes(Game.rarity(c)));
@@ -218,7 +220,7 @@
         for (let i = 0; i < 2; i++) drawn.push(pick(ace, random));
       }
     }
-    addCards(next, drawn);
+    drawn=addCards(next, drawn);
     next.shop.stock[product.id] -= count;
     if (!next.shop.stock[product.id]) delete next.shop.stock[product.id];
     next.shop.progress.opened += count;
@@ -230,8 +232,8 @@
     if (action === "buy") { spend(next, quote.ask, `柜台买入 ${card.name}`); addCards(next, [card]); }
     else if (action === "sell" || action === "list") {
       if (!(next.counts[card.id] > 0)) throw new Error("没有可出售的这张卡牌。");
-      next.counts[card.id]--;
-      if (!next.counts[card.id]) delete next.counts[card.id];
+      if(action==='list'&&CollectiblesState.numbered(card))throw Error('限编卡请使用即时卖出或卡展交易。');
+      CollectiblesState.takeRaw(next,card);
       if (action === "sell") { log(next, quote.bid, `即时卖出 ${card.name}`); next.shop.progress.soldCards++; }
       else {
         const entry = next.shop.listings[card.id] || {count: 0, card: CollectiblesState.card(card)};
@@ -251,6 +253,7 @@
     const next = validate(value);
     let amount = 0, revenue = 0;
     for (const card of cards) {
+      if(CollectiblesState.numbered(card))continue;
       const count = Math.max(0, (next.counts[card.id] || 0) - 1);
       if (!count) continue;
       amount += count;

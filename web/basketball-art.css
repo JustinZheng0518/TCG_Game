@@ -1,0 +1,6 @@
+#opening-dialog .opening-heading h2{color:#fff4de}#opening-dialog .opening-heading p,#opening-dialog .opening-save-note{color:#d2e4d5}
+.reveal-card:has([data-game-art=basketball]){aspect-ratio:600/1010}
+.reveal-front:has([data-game-art=basketball]){background:#122e3a;justify-content:flex-start}
+.reveal-front img[data-game-art=basketball]{height:83.17%;flex:none;object-fit:contain}
+.reveal-front:has([data-game-art=basketball]) .reveal-caption{position:static;display:flex;align-items:center;justify-content:center;flex:1;width:100%;font-size:16px!important;line-height:1.35;padding:5px;background:#f8edda;color:#254333}
+@media(max-width:680px){.reveal-card:has([data-game-art=basketball]){max-height:none}.reveal-front:has([data-game-art=basketball]) .reveal-caption{font-size:14px!important}}

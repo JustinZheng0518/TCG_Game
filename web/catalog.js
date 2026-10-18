@@ -111,6 +111,8 @@ async function loadCollection() {
   }));
   if (request !== collectionRequest) return;
   state.collectionLoading = false;
+  const migrated=Shop.validate(state.save);
+  if(TCGCollectiblesState.hydrate(migrated,results)){try{localStorage.setItem("TCG_Game:collection:v1",JSON.stringify(migrated));state.save=migrated;}catch{state.saveError='虚拟编号暂未保存，请释放浏览器存储空间后重试。';}}
   state.collectionCards = results.filter(card => state.save.counts[card.id]).sort((a, b) => Game.tier(b) - Game.tier(a) || a.name.localeCompare(b.name, "zh-CN") || a.id.localeCompare(b.id));
   const readIds = new Set(results.map(card => card.id));
   const unknown = Object.keys(state.save.counts).filter(id => !readIds.has(id)).length;
@@ -230,10 +232,10 @@ function showCard(card) {
   $("dialog-title").textContent = card.name;
   $("dialog-number").textContent = `${card.set_id} · ${card.number}`;
   const quote = Shop.cardQuote(state.save, card, state.feed);
-  $("dialog-meta").textContent = `${card.rarity} · ${card.type || "卡牌"}\n${card.sport === "basketball" ? "篮球原版卡面" : "简体中文版"}${(card.illustrators || []).length ? `\n插画：${card.illustrators.join("、")}` : ""}\n${quote.estimated ? "模拟估值" : "店内行情（外部参考）"} ${money(quote.market)} · 回收 ${money(quote.bid)}\n${quote.source ? `来源参考价：${money(quote.source.cents)}\n来源：${quote.source.source_url}\n抓取时间：${quote.source.observed_at}` : "按稀有度、加工与人气推算，并非真实成交价"}`;
-  if(card.sport === "basketball") $("dialog-meta").textContent += `\n${card.original_name || card.name}${card.team ? ` · ${card.team}` : ""}\n${card.source_set_name || ""}${card.serial_max ? `\n原版该变体限编 /${card.serial_max}；游戏抽取不模拟实体存世总量` : ""}`;
+  $("dialog-meta").textContent = `${card.rarity} · ${card.type || "卡牌"}\n${card.sport === "basketball" ? "篮球游戏原创卡面" : "简体中文版"}${(card.illustrators || []).length ? `\n插画：${card.illustrators.join("、")}` : ""}\n${quote.estimated ? "模拟估值" : "店内行情（外部参考）"} ${money(quote.market)} · 回收 ${money(quote.bid)}\n${quote.source ? `来源参考价：${money(quote.source.cents)}\n来源：${quote.source.source_url}\n抓取时间：${quote.source.observed_at}` : "按稀有度、加工与人气推算，并非真实成交价"}`;
+  if(card.sport === "basketball") $("dialog-meta").textContent += `\n${card.original_name || card.name}${card.team ? ` · ${card.team}` : ""}\n${card.source_set_name || ""}${card.serial_max ? `\n游戏虚拟编号 ${TCGBasketballArt.serial(card)}${card.instance_id?` · 副本 ${card.instance_id}`:" · 卡面预览"}；编号可能重复，不代表实体印量` : ""}`;
   applyCardImage($("dialog-image"),card,true);
-  $("dialog-image").alt = `${card.name} · ${card.sport === "basketball" ? "篮球原版卡面" : "简体中文卡面"}`;
+  $("dialog-image").alt = `${card.name} · ${card.sport === "basketball" ? "篮球游戏原创卡面" : "简体中文卡面"}`;
   $("live-price-panel").hidden = card.sport === "basketball";
   if(card.sport !== "basketball") prepareLivePrice(card);
   if (!$("card-dialog").open) $("card-dialog").showModal();
@@ -256,10 +258,10 @@ function appendCards() {
     button.append(image);
     button.addEventListener("click", () => showCard(card));
     const label = text("div", "", "card-label");
-    label.append(text("span", state.mode === "collection" ? card.set_id : card.number), text("span", card.rarity, "rarity"));
+    label.append(text("span", card.serial_number ? TCGBasketballArt.serial(card) : state.mode === "collection" ? card.set_id : card.number), text("span", card.rarity, "rarity"));
     const name = text("h2", "", "card-name");
     name.append(text("span", card.name));
-    if (state.save.counts[card.id]) name.append(text("span", `×${state.save.counts[card.id]}`, "owned-count"));
+    if (state.save.counts[card.id] && !card.instance_id) name.append(text("span", `×${state.save.counts[card.id]}`, "owned-count"));
     tile.append(button, label, name, cardTradeControls(card));
     if (state.mode === "draw" && card.isNew) tile.append(text("span", "新卡", "new-badge"));
     $("cards").append(tile);
@@ -272,7 +274,7 @@ function filterCards() {
   if (["shop", "events", "grading", "cardshow"].includes(state.mode)) { $("cards").replaceChildren(); return; }
   const query = $("card-search").value.trim().toLocaleLowerCase();
   const rarity = $("rarity-filter").value;
-  const base = state.mode === "draw" ? state.lastDraw : state.mode === "collection" ? state.collectionCards.filter((card) => state.save.counts[card.id] && (!state.collectionSet || card.set_id === state.collectionSet) && (state.collectionSport === "all" || (card.sport || "pokemon") === state.collectionSport)) : state.cards;
+  const base = state.mode === "draw" ? state.lastDraw : state.mode === "collection" ? ownedRawCards().filter((card) => state.save.counts[card.id] && (!state.collectionSet || card.set_id === state.collectionSet) && (state.collectionSport === "all" || (card.sport || "pokemon") === state.collectionSport)) : state.cards;
   state.filtered = base.filter((card) => (!rarity || card.rarity === rarity)
     && `${card.name} ${card.number} ${card.set_id}`.toLocaleLowerCase().includes(query));
   state.shown = 0;
