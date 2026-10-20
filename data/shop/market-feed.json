@@ -2,39 +2,44 @@
   "schema_version": 1,
   "currency": "CNY",
   "language": "zh-CN",
-  "updated_at": "2026-10-18T08:08:39+00:00",
+  "updated_at": "2026-10-20T08:40:20+00:00",
   "products": {
     "CS1aC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-18T08:08:39+00:00",
+      "observed_at": "2026-10-20T08:40:20+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1bC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-18T08:08:39+00:00",
+      "observed_at": "2026-10-20T08:40:20+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1DC": {
       "cents": 3000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-18T08:08:39+00:00",
+      "observed_at": "2026-10-20T08:40:20+00:00",
       "reference_date": "2023-04-30"
     },
     "CSVH6C": {
       "cents": 2000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/23939.html",
-      "observed_at": "2026-10-18T08:08:39+00:00",
+      "observed_at": "2026-10-20T08:40:20+00:00",
       "reference_date": "2026-09-21"
     }
   },
   "cards": {},
   "news": [
+    {
+      "title": "宝可梦卡牌城市赛2026年第四赛季第七批报名信息",
+      "date": "2026-10-19",
+      "source_url": "https://www.pokemon.cn/tcg/24329.html"
+    },
     {
       "title": "乘风破浪，寻梦逐宝！ 宝石包徽章套装第二弹即将发售",
       "date": "2026-10-16",
@@ -109,13 +114,8 @@
       "title": "宝可梦卡牌城市赛2026年第四赛季第五批报名信息",
       "date": "2026-09-28",
       "source_url": "https://www.pokemon.cn/tcg/event/24020.html"
-    },
-    {
-      "title": "椰林相聚，快乐同行， 阿罗拉欢庆赛即将开启！",
-      "date": "2026-09-24",
-      "source_url": "https://www.pokemon.cn/tcg/24007.html"
     }
   ],
-  "news_observed_at": "2026-10-18T08:08:39+00:00",
+  "news_observed_at": "2026-10-20T08:40:20+00:00",
   "refresh_errors": []
 }
