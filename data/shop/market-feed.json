@@ -2,39 +2,49 @@
   "schema_version": 1,
   "currency": "CNY",
   "language": "zh-CN",
-  "updated_at": "2026-10-20T08:40:20+00:00",
+  "updated_at": "2026-10-21T08:41:10+00:00",
   "products": {
     "CS1aC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-20T08:40:20+00:00",
+      "observed_at": "2026-10-21T08:41:10+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1bC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-20T08:40:20+00:00",
+      "observed_at": "2026-10-21T08:41:10+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1DC": {
       "cents": 3000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-20T08:40:20+00:00",
+      "observed_at": "2026-10-21T08:41:10+00:00",
       "reference_date": "2023-04-30"
     },
     "CSVH6C": {
       "cents": 2000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/23939.html",
-      "observed_at": "2026-10-20T08:40:20+00:00",
+      "observed_at": "2026-10-21T08:41:10+00:00",
       "reference_date": "2026-09-21"
     }
   },
   "cards": {},
   "news": [
+    {
+      "title": "“盖诺赛克特”纪念徽章蓄势登场！",
+      "date": "2026-10-20",
+      "source_url": "https://www.pokemon.cn/tcg/campaign/24347.html"
+    },
+    {
+      "title": "“盖诺赛克特”纪念磁吸贴领取活动登场，记录属于你的活动时光！",
+      "date": "2026-10-20",
+      "source_url": "https://www.pokemon.cn/tcg/campaign/24350.html"
+    },
     {
       "title": "宝可梦卡牌城市赛2026年第四赛季第七批报名信息",
       "date": "2026-10-19",
@@ -104,18 +114,8 @@
       "title": "宝可梦明耀之星“玩乐站冲榜赛”欢乐开启！",
       "date": "2026-09-29",
       "source_url": "https://www.pokemon.cn/tcg/campaign/24088.html"
-    },
-    {
-      "title": "“2026宝可梦卡牌高级赛秋季场”赛事详情及报名开启",
-      "date": "2026-09-29",
-      "source_url": "https://www.pokemon.cn/tcg/event/24035.html"
-    },
-    {
-      "title": "宝可梦卡牌城市赛2026年第四赛季第五批报名信息",
-      "date": "2026-09-28",
-      "source_url": "https://www.pokemon.cn/tcg/event/24020.html"
     }
   ],
-  "news_observed_at": "2026-10-20T08:40:20+00:00",
+  "news_observed_at": "2026-10-21T08:41:10+00:00",
   "refresh_errors": []
 }
