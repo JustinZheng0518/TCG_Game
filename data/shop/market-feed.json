@@ -2,34 +2,34 @@
   "schema_version": 1,
   "currency": "CNY",
   "language": "zh-CN",
-  "updated_at": "2026-10-30T10:10:48+00:00",
+  "updated_at": "2026-10-31T09:46:00+00:00",
   "products": {
     "CS1aC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-30T10:10:48+00:00",
+      "observed_at": "2026-10-31T09:46:00+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1bC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-30T10:10:48+00:00",
+      "observed_at": "2026-10-31T09:46:00+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1DC": {
       "cents": 3000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-10-30T10:10:48+00:00",
+      "observed_at": "2026-10-31T09:46:00+00:00",
       "reference_date": "2023-04-30"
     },
     "CSVH6C": {
       "cents": 2000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/23939.html",
-      "observed_at": "2026-10-30T10:10:48+00:00",
+      "observed_at": "2026-10-31T09:46:00+00:00",
       "reference_date": "2026-09-21"
     }
   },
@@ -111,6 +111,6 @@
       "source_url": "https://www.pokemon.cn/tcg/product/24290.html"
     }
   ],
-  "news_observed_at": "2026-10-30T10:10:48+00:00",
+  "news_observed_at": "2026-10-31T09:46:00+00:00",
   "refresh_errors": []
 }
