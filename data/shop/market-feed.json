@@ -2,39 +2,44 @@
   "schema_version": 1,
   "currency": "CNY",
   "language": "zh-CN",
-  "updated_at": "2026-11-08T10:31:11+00:00",
+  "updated_at": "2026-11-09T11:45:12+00:00",
   "products": {
     "CS1aC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-08T10:31:11+00:00",
+      "observed_at": "2026-11-09T11:45:12+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1bC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-08T10:31:11+00:00",
+      "observed_at": "2026-11-09T11:45:12+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1DC": {
       "cents": 3000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-08T10:31:11+00:00",
+      "observed_at": "2026-11-09T11:45:12+00:00",
       "reference_date": "2023-04-30"
     },
     "CSVH6C": {
       "cents": 2000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/23939.html",
-      "observed_at": "2026-11-08T10:31:11+00:00",
+      "observed_at": "2026-11-09T11:45:12+00:00",
       "reference_date": "2026-09-21"
     }
   },
   "cards": {},
   "news": [
+    {
+      "title": "全新宝可梦官方卡牌道馆与您相约！",
+      "date": "2026-11-08",
+      "source_url": "https://www.pokemon.cn/tcg/campaign/24665.html"
+    },
     {
       "title": "“宝可梦官方卡牌道馆-深圳 福田（斑斑马）”即将与大家见面",
       "date": "2026-11-06",
@@ -99,13 +104,8 @@
       "title": "“盖诺赛克特”纪念徽章蓄势登场！",
       "date": "2026-10-20",
       "source_url": "https://www.pokemon.cn/tcg/campaign/24347.html"
-    },
-    {
-      "title": "“盖诺赛克特”纪念磁吸贴领取活动登场，记录属于你的活动时光！",
-      "date": "2026-10-20",
-      "source_url": "https://www.pokemon.cn/tcg/campaign/24350.html"
     }
   ],
-  "news_observed_at": "2026-11-08T10:31:11+00:00",
+  "news_observed_at": "2026-11-09T11:45:12+00:00",
   "refresh_errors": []
 }
