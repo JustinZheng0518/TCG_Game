@@ -2,39 +2,49 @@
   "schema_version": 1,
   "currency": "CNY",
   "language": "zh-CN",
-  "updated_at": "2026-11-10T11:22:06+00:00",
+  "updated_at": "2026-11-11T11:08:51+00:00",
   "products": {
     "CS1aC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-10T11:22:06+00:00",
+      "observed_at": "2026-11-11T11:08:51+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1bC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-10T11:22:06+00:00",
+      "observed_at": "2026-11-11T11:08:51+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1DC": {
       "cents": 3000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-10T11:22:06+00:00",
+      "observed_at": "2026-11-11T11:08:51+00:00",
       "reference_date": "2023-04-30"
     },
     "CSVH6C": {
       "cents": 2000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/23939.html",
-      "observed_at": "2026-11-10T11:22:06+00:00",
+      "observed_at": "2026-11-11T11:08:51+00:00",
       "reference_date": "2026-09-21"
     }
   },
   "cards": {},
   "news": [
+    {
+      "title": "“宝可梦官方卡牌道馆-佛山”即将与大家见面",
+      "date": "2026-11-11",
+      "source_url": "https://www.pokemon.cn/tcg/campaign/24701.html"
+    },
+    {
+      "title": "“斗”志满满！和路卡利欧一起并肩作战吧",
+      "date": "2026-11-11",
+      "source_url": "https://www.pokemon.cn/tcg/event/24711.html"
+    },
     {
       "title": "全新宝可梦官方卡牌道馆与您相约！",
       "date": "2026-11-08",
@@ -94,18 +104,8 @@
       "title": "“2026宝可梦卡牌高级赛秋季场”预赛参赛注意事项",
       "date": "2026-10-21",
       "source_url": "https://www.pokemon.cn/tcg/event/24383.html"
-    },
-    {
-      "title": "有什么潜藏在黑夜之中！ 鬼斯神秘夜来临！",
-      "date": "2026-10-21",
-      "source_url": "https://www.pokemon.cn/tcg/event/24391.html"
-    },
-    {
-      "title": "“盖诺赛克特”纪念徽章蓄势登场！",
-      "date": "2026-10-20",
-      "source_url": "https://www.pokemon.cn/tcg/campaign/24347.html"
     }
   ],
-  "news_observed_at": "2026-11-10T11:22:06+00:00",
+  "news_observed_at": "2026-11-11T11:08:51+00:00",
   "refresh_errors": []
 }
