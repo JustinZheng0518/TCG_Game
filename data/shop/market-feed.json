@@ -2,39 +2,44 @@
   "schema_version": 1,
   "currency": "CNY",
   "language": "zh-CN",
-  "updated_at": "2026-11-17T12:01:27+00:00",
+  "updated_at": "2026-11-19T11:50:25+00:00",
   "products": {
     "CS1aC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-17T12:01:27+00:00",
+      "observed_at": "2026-11-19T11:50:25+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1bC": {
       "cents": 1000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-17T12:01:27+00:00",
+      "observed_at": "2026-11-19T11:50:25+00:00",
       "reference_date": "2023-04-30"
     },
     "CS1DC": {
       "cents": 3000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/16268.html",
-      "observed_at": "2026-11-17T12:01:27+00:00",
+      "observed_at": "2026-11-19T11:50:25+00:00",
       "reference_date": "2023-04-30"
     },
     "CSVH6C": {
       "cents": 2000,
       "kind": "official_msrp",
       "source_url": "https://www.pokemon.cn/tcg/product/23939.html",
-      "observed_at": "2026-11-17T12:01:27+00:00",
+      "observed_at": "2026-11-19T11:50:25+00:00",
       "reference_date": "2026-09-21"
     }
   },
   "cards": {},
   "news": [
+    {
+      "title": "“2026宝可梦卡牌福州超级赛”赛事详情及报名开启",
+      "date": "2026-11-18",
+      "source_url": "https://www.pokemon.cn/tcg/event/24745.html"
+    },
     {
       "title": "“美洛耶塔”纪念磁吸贴领取活动登场，记录属于你的活动时光！",
       "date": "2026-11-17",
@@ -106,6 +111,6 @@
       "source_url": "https://www.pokemon.cn/tcg/24379.html"
     }
   ],
-  "news_observed_at": "2026-11-17T12:01:27+00:00",
+  "news_observed_at": "2026-11-19T11:50:25+00:00",
   "refresh_errors": []
 }
